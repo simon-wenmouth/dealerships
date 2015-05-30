@@ -92,7 +92,7 @@ This repository contains the data these manufacturer's dealerships.
 +---------------+------------------+
 | Smart         | 87               |
 +---------------+------------------+
-| Subaru        | ?                |
+| Subaru        | 624              |
 +---------------+------------------+
 | Toyota        | 1205             |
 +---------------+------------------+
