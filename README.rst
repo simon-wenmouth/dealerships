@@ -84,7 +84,7 @@ This repository contains the data these manufacturer's dealerships.
 +---------------+------------------+
 | Nissan        | 1056             |
 +---------------+------------------+
-| Porsche       | ?                |
+| Porsche       | 189              |
 +---------------+------------------+
 | Ram           | 2609             |
 +---------------+------------------+
