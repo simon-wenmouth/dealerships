@@ -1,0 +1,3 @@
+lxml==3.4.4
+requests==2.7.0
+zip-code-radius==0.0.1
