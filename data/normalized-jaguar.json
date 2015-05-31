@@ -1,0 +1,2807 @@
+[
+  {
+    "name": "Jaguar Willow Grove",
+    "url": "www.thegreatbritainsjaguar.com",
+    "telephone": "8884231024",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Willow Grove",
+      "streetAddress": "900 York Rd",
+      "postalCode": "19090-2128",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.16078",
+      "longitude": "-75.11229"
+    },
+    "id": "j5683"
+  },
+  {
+    "name": "Jaguar of Troy",
+    "url": "www.jaguaroftroy.net",
+    "telephone": "8774675961",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Troy",
+      "streetAddress": "1815 Maplelawn Dr",
+      "postalCode": "48084-4617",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": "42.55297",
+      "longitude": "-83.17401"
+    },
+    "id": "j5686"
+  },
+  {
+    "name": "Jaguar of Great Neck/Roslyn",
+    "url": "www.jaguarofgreatneck.net",
+    "telephone": "8886013122",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Great Neck",
+      "streetAddress": "732 Northern Blvd",
+      "postalCode": "11021-5205",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.78281",
+      "longitude": "-73.71466"
+    },
+    "id": "j0609"
+  },
+  {
+    "name": "Jaguar Santa Barbara",
+    "url": "www.jaguarsantabarbara.net",
+    "telephone": "8883595532",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Barbara",
+      "streetAddress": "401 S Hope Ave",
+      "postalCode": "93105-4018",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.43412",
+      "longitude": "-119.74753"
+    },
+    "id": "j5577"
+  },
+  {
+    "name": "Stevinson Imports, Inc.",
+    "url": "www.stevinsonimportsjaguar.com",
+    "telephone": "8883490290",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Littleton",
+      "streetAddress": "5500 S Broadway",
+      "postalCode": "80121-8003",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": "39.6169",
+      "longitude": "-104.98796"
+    },
+    "id": "j0078"
+  },
+  {
+    "name": "Jaguar Omaha",
+    "url": "www.jaguaromaha.com",
+    "telephone": "8774695896",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Omaha",
+      "streetAddress": "716 N 102nd Street",
+      "postalCode": "68114-2150",
+      "addressRegion": "NE"
+    },
+    "geo": {
+      "latitude": "41.26368",
+      "longitude": "-96.05115"
+    },
+    "id": "j5508"
+  },
+  {
+    "name": "Jaguar Newport Beach",
+    "url": "www.jaguarnewportbeach.com",
+    "telephone": "8885523046",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newport Beach",
+      "streetAddress": "1540 Jamboree Rd",
+      "postalCode": "92660-5912",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.66661",
+      "longitude": "-117.8694"
+    },
+    "id": "j5628"
+  },
+  {
+    "name": "Jaguar Bethesda",
+    "url": "www.jaguarbethesda.net",
+    "telephone": "8774651617",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "North Bethesda",
+      "streetAddress": "11617 Old Georgetown Rd",
+      "postalCode": "20852-2797",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": "39.04858",
+      "longitude": "-77.11858"
+    },
+    "id": "j2103"
+  },
+  {
+    "name": "Manhattan Jaguar/NYC",
+    "url": "www.manhattanjaguar.com",
+    "telephone": "8772928578",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New York",
+      "streetAddress": "787 11th Ave",
+      "postalCode": "10019-3538",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.76806",
+      "longitude": "-73.98796"
+    },
+    "id": "j5725"
+  },
+  {
+    "name": "Crest Jaguar of Woodbridge",
+    "url": "www.crestjaguarofwoodbridge.com",
+    "telephone": "8884346975",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Woodbridge",
+      "streetAddress": "185 Amity Road",
+      "postalCode": "06525-2201",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": "41.3402",
+      "longitude": "-72.98172"
+    },
+    "id": "j5727"
+  },
+  {
+    "name": "Paretti Jaguar of Baton Rouge",
+    "url": "www.parettibatonrouge.com",
+    "telephone": "8883294759",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Baton Rouge",
+      "streetAddress": "13934 Airline Hwy",
+      "postalCode": "70817-4406",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": "30.36801",
+      "longitude": "-91.0278"
+    },
+    "id": "j5726"
+  },
+  {
+    "name": "Napleton Auto Werks",
+    "url": "www.napletonjaguarlovespark.com",
+    "telephone": "8882524178",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Loves Park",
+      "streetAddress": "6600 E Riverside Blvd",
+      "postalCode": "61111-4426",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "42.31866",
+      "longitude": "-88.986"
+    },
+    "id": "j5722"
+  },
+  {
+    "name": "Jaguar Chantilly",
+    "url": "www.jaguarchantilly.com",
+    "telephone": "8669793692",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chantilly",
+      "streetAddress": "4120 Auto Park Circle",
+      "postalCode": "20151-1225",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": "38.90366",
+      "longitude": "-77.4593"
+    },
+    "id": "j5601"
+  },
+  {
+    "name": "Gaudin Jaguar",
+    "url": "www.gaudinjaguar.com",
+    "telephone": "8884320694",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Las Vegas",
+      "streetAddress": "7200 W Sahara Ave",
+      "postalCode": "89117-2815",
+      "addressRegion": "NV"
+    },
+    "geo": {
+      "latitude": "36.14398",
+      "longitude": "-115.25078"
+    },
+    "id": "j5729"
+  },
+  {
+    "name": "Jaguar West Chester",
+    "url": "www.jaguarwestchester.net",
+    "telephone": "8778031741",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Chester",
+      "streetAddress": "1568 West Chester Pike",
+      "postalCode": "19382-7754",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "39.96591",
+      "longitude": "-75.52478"
+    },
+    "id": "j5605"
+  },
+  {
+    "name": "Jaguar Carlsbad",
+    "url": "www.carlsbadjaguar.net",
+    "telephone": "8669793244",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Carlsbad",
+      "streetAddress": "5550 Paseo Del Norte",
+      "postalCode": "92008-4428",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.13036",
+      "longitude": "-117.32401"
+    },
+    "id": "j5379"
+  },
+  {
+    "name": "Jaguar Boise",
+    "url": "www.jaguarboise.com",
+    "telephone": "8669783570",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Boise",
+      "streetAddress": "7805 Gratz Dr",
+      "postalCode": "83709-0772",
+      "addressRegion": "ID"
+    },
+    "geo": {
+      "latitude": "43.60155",
+      "longitude": "-116.27894"
+    },
+    "id": "j5609"
+  },
+  {
+    "name": "Ken Garff Jaguar",
+    "url": "www.kengarffjaguar.net",
+    "telephone": "8884429042",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Salt Lake City",
+      "streetAddress": "543 S State St",
+      "postalCode": "84111-3521",
+      "addressRegion": "UT"
+    },
+    "geo": {
+      "latitude": "40.75742",
+      "longitude": "-111.8883"
+    },
+    "id": "j5671"
+  },
+  {
+    "name": "Kempthorn Motors, Inc.",
+    "url": "www.kempthornmotorsjaguar.com",
+    "telephone": "8883294755",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Canton",
+      "streetAddress": "1449 Cleveland Ave NW",
+      "postalCode": "44703-3138",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "40.81391",
+      "longitude": "-81.37855"
+    },
+    "id": "j5635"
+  },
+  {
+    "name": "Jaguar North Point",
+    "url": "www.jaguarnorthpoint.com",
+    "telephone": "8666274024",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Alpharetta",
+      "streetAddress": "1505 Mansell Rd",
+      "postalCode": "30009-4710",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": "34.04201",
+      "longitude": "-84.32384"
+    },
+    "id": "j5304"
+  },
+  {
+    "name": "Brown's Jaguar",
+    "url": "www.brownsjaguar.net",
+    "telephone": "8887950432",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Richmond",
+      "streetAddress": "10505 Midlothian Tpke",
+      "postalCode": "23235-4409",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": "37.50872",
+      "longitude": "-82.67549"
+    },
+    "id": "j5504"
+  },
+  {
+    "name": "Jaguar Indianapolis",
+    "url": "www.tomwoodjaguar.com",
+    "telephone": "8888973521",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "4620 E 96th Street",
+      "postalCode": "46240-3742",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": "39.93022",
+      "longitude": "-86.0932"
+    },
+    "id": "j5631"
+  },
+  {
+    "name": "Jaguar Bluff City",
+    "url": "www.jaguarlandroverbluffcity.com",
+    "telephone": "8669386374",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Memphis",
+      "streetAddress": "6335 Wheel Cove",
+      "postalCode": "38119-8244",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": "35.07108",
+      "longitude": "-89.85196"
+    },
+    "id": "j5630"
+  },
+  {
+    "name": "Melloy Jaguar",
+    "url": "www.melloyjaguar.net",
+    "telephone": "8884987354",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Albuquerque",
+      "streetAddress": "7707 Lomas Blvd NE",
+      "postalCode": "87110-7413",
+      "addressRegion": "NM"
+    },
+    "geo": {
+      "latitude": "35.08704",
+      "longitude": "-106.56139"
+    },
+    "id": "j3201"
+  },
+  {
+    "name": "Jaguar Minneapolis",
+    "url": "www.jaguarlandroverminneapolis.com",
+    "telephone": "8882850313",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Golden Valley",
+      "streetAddress": "8905 Wayzata Blvd",
+      "postalCode": "55426-1305",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": "44.97387",
+      "longitude": "-93.39511"
+    },
+    "id": "j0617"
+  },
+  {
+    "name": "Barrett Jaguar",
+    "url": "www.barrettjaguar.net",
+    "telephone": "8887458630",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Antonio",
+      "streetAddress": "15423 IH 10 West",
+      "postalCode": "78249-2242",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "29.56354",
+      "longitude": "-98.6142"
+    },
+    "id": "j5639"
+  },
+  {
+    "name": "Jaguar Sudbury",
+    "url": "www.jaguarsudbury.com",
+    "telephone": "8884570891",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sudbury",
+      "streetAddress": "83 Boston Post Rd",
+      "postalCode": "01776-2438",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": "42.36305",
+      "longitude": "-71.39105"
+    },
+    "id": "j5301"
+  },
+  {
+    "name": "Jaguar Monterey",
+    "url": "www.jaguarlandrovermonterey.com",
+    "telephone": "8882958037",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Seaside",
+      "streetAddress": "1711 Del Monte Blvd",
+      "postalCode": "93955-3603",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "36.6121",
+      "longitude": "-121.84757"
+    },
+    "id": "j5730"
+  },
+  {
+    "name": "Jaguar Sacramento",
+    "url": "www.jaguar.niello.com",
+    "telephone": "8883552331",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sacramento",
+      "streetAddress": "2052 Fulton Ave",
+      "postalCode": "95825-1908",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "38.60291",
+      "longitude": "-121.40149"
+    },
+    "id": "j5461"
+  },
+  {
+    "name": "Jaguar of Shreveport",
+    "url": "www.jaguarofshreveport.net",
+    "telephone": "8774665549",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Shreveport",
+      "streetAddress": "1221 E Bert Kouns Industrial Blvd",
+      "postalCode": "71105-5630",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": "32.42037",
+      "longitude": "-93.7213"
+    },
+    "id": "j5773"
+  },
+  {
+    "name": "Jaguar Exeter",
+    "url": "www.jaguarexeter.net",
+    "telephone": "8669381175",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Exeter",
+      "streetAddress": "158 Epping Road",
+      "postalCode": "03833-4551",
+      "addressRegion": "NH"
+    },
+    "geo": {
+      "latitude": "42.99522",
+      "longitude": "-70.97267"
+    },
+    "id": "j5580"
+  },
+  {
+    "name": "Harper Jaguar",
+    "url": "www.harperjaguar.net",
+    "telephone": "8883476889",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Knoxville",
+      "streetAddress": "9735 Kingston Pike",
+      "postalCode": "37922-3346",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": "35.90582",
+      "longitude": "-84.11049"
+    },
+    "id": "j5585"
+  },
+  {
+    "name": "Jaguar West Columbia",
+    "url": "www.jaguarwestcolumbia.com",
+    "telephone": "8882045386",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Clarksville",
+      "streetAddress": "12500 New Car Dr",
+      "postalCode": "21029-2201",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": "39.201",
+      "longitude": "-76.94087"
+    },
+    "id": "j5586"
+  },
+  {
+    "name": "Jaguar Colorado Springs",
+    "url": "www.jaguarcs.com",
+    "telephone": "8669800968",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Colorado Springs",
+      "streetAddress": "565 Automotive Dr",
+      "postalCode": "80905-7007",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": "38.8158",
+      "longitude": "-104.84109"
+    },
+    "id": "j5572"
+  },
+  {
+    "name": "Jaguar Allentown",
+    "url": "www.jaguarallentown.net",
+    "telephone": "8666172632",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Allentown",
+      "streetAddress": "5254 W Tilghman St",
+      "postalCode": "18104",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.59257",
+      "longitude": "-75.54579"
+    },
+    "id": "j3937"
+  },
+  {
+    "name": "Monte Shelton Motor Company",
+    "url": "www.monteshelton.com",
+    "telephone": "8888972318",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Portland",
+      "streetAddress": "1638 W Burnside Street",
+      "postalCode": "97209-2106",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": "45.5229",
+      "longitude": "-122.688"
+    },
+    "id": "j5416"
+  },
+  {
+    "name": "Hennessy Jaguar Gwinnett",
+    "url": "www.hennessyjaguar.com",
+    "telephone": "8883550780",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Duluth",
+      "streetAddress": "3423 Old Norcross Rd",
+      "postalCode": "30096-4609",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": "33.95193",
+      "longitude": "-84.14685"
+    },
+    "id": "j5777"
+  },
+  {
+    "name": "Jaguar Asheville",
+    "url": "www.jaguarasheville.net",
+    "telephone": "8774650581",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mills River",
+      "streetAddress": "496 Cardinal Rd",
+      "postalCode": "28759-4197",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": "35.40608",
+      "longitude": "-82.56324"
+    },
+    "id": "j5621"
+  },
+  {
+    "name": "Scott Jaguar",
+    "url": "www.scottjaguar.net",
+    "telephone": "8883644055",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlotte",
+      "streetAddress": "400 Tyvola Rd",
+      "postalCode": "28217-3647",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": "35.16279",
+      "longitude": "-80.88828"
+    },
+    "id": "j5625"
+  },
+  {
+    "name": "Jaguar Seattle",
+    "url": "www.jaguarseattle.com",
+    "telephone": "8884835405",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lynnwood",
+      "streetAddress": "19910 Poplar Way",
+      "postalCode": "98036-6940",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": "47.8179",
+      "longitude": "-122.27814"
+    },
+    "id": "j5783"
+  },
+  {
+    "name": "Hornburg Jaguar Santa Monica",
+    "url": "www.jaguarsantamonica.com",
+    "telephone": "8774299548",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Monica",
+      "streetAddress": "3020 Santa Monica Blvd",
+      "postalCode": "90404-2506",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.03155",
+      "longitude": "-118.46021"
+    },
+    "id": "j5782"
+  },
+  {
+    "name": "Hornburg Jaguar Los Angeles",
+    "url": "www.hornburgjaguar.com",
+    "telephone": "8774289386",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Los Angeles",
+      "streetAddress": "9176 W Sunset Blvd",
+      "postalCode": "90069-3109",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.09953",
+      "longitude": "-118.33056"
+    },
+    "id": "j5781"
+  },
+  {
+    "name": "Alvarez Jaguar",
+    "url": "www.alvarezjaguar.net",
+    "telephone": "8663256709",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Riverside",
+      "streetAddress": "8051 Auto Drive",
+      "postalCode": "92504-4101",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.92862",
+      "longitude": "-117.41303"
+    },
+    "id": "j5787"
+  },
+  {
+    "name": "Jaguar North Scottsdale",
+    "url": "www.jaguarlandrovernorthscottsdale.com",
+    "telephone": "8883101981",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Phoenix",
+      "streetAddress": "18100 N Scottsdale Rd",
+      "postalCode": "85054-6142",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": "33.6519",
+      "longitude": "-111.92708"
+    },
+    "id": "j5786"
+  },
+  {
+    "name": "Jaguar Livermore",
+    "url": "www.jaguarlivermore.net",
+    "telephone": "8774038871",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Livermore",
+      "streetAddress": "3500 Las Positas Rd",
+      "postalCode": "94551-9616",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.70117",
+      "longitude": "-121.75793"
+    },
+    "id": "j5784"
+  },
+  {
+    "name": "Galpin Jaguar",
+    "url": "www.galpinjaguar.net",
+    "telephone": "8886563649",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Van Nuys",
+      "streetAddress": "15500 Roscoe Blvd",
+      "postalCode": "91406-1347",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.22139",
+      "longitude": "-118.46979"
+    },
+    "id": "j5703"
+  },
+  {
+    "name": "West-Herr Jaguar",
+    "url": "www.westherrjaguar.net",
+    "telephone": "8885515031",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Getzville",
+      "streetAddress": "10 Campbell Blvd",
+      "postalCode": "14068-1201",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "43.01723",
+      "longitude": "-78.76808"
+    },
+    "id": "j5701"
+  },
+  {
+    "name": "Jaguar Merritt Island",
+    "url": "www.jaguarmerrittisland.net",
+    "telephone": "8882840380",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Merritt Island",
+      "streetAddress": "1850 E Merritt Island Cswy",
+      "postalCode": "32952-2665",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "28.3375",
+      "longitude": "-80.67602"
+    },
+    "id": "j5707"
+  },
+  {
+    "name": "Jaguar Grand Rapids",
+    "url": "www.jaguarofgrandrapids.net",
+    "telephone": "8772236174",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Grand Rapids",
+      "streetAddress": "1010 28th Street SE",
+      "postalCode": "49508-1310",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": "42.87468",
+      "longitude": "-85.6271"
+    },
+    "id": "j5792"
+  },
+  {
+    "name": "Ray Catena Jaguar of Edison",
+    "url": "www.raycatenajaguarofedison.com",
+    "telephone": "8883786790",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Edison",
+      "streetAddress": "920 US Highway 1",
+      "postalCode": "08817-4848",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": "40.51442",
+      "longitude": "-74.39577"
+    },
+    "id": "j5709"
+  },
+  {
+    "name": "THE COLLECTION",
+    "url": "www.thecollectionjaguar.net",
+    "telephone": "8883489324",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Coral Gables",
+      "streetAddress": "200 Bird Road",
+      "postalCode": "33146-1403",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "25.7349",
+      "longitude": "-80.25846"
+    },
+    "id": "j5708"
+  },
+  {
+    "name": "A. C. Imports, Inc.",
+    "url": "www.acimportsjaguar.net",
+    "telephone": "8886892875",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Palatine",
+      "streetAddress": "1410 W Northwest Hwy",
+      "postalCode": "60067-1837",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "42.12645",
+      "longitude": "-88.078"
+    },
+    "id": "j5455"
+  },
+  {
+    "name": "Jaguar Virginia Beach",
+    "url": "www.checkeredflagjaguar.net",
+    "telephone": "8884107449",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Virginia Beach",
+      "streetAddress": "2865 Virginia Beach Blvd",
+      "postalCode": "23452-4200",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": "36.83414",
+      "longitude": "-76.09285"
+    },
+    "id": "j5454"
+  },
+  {
+    "name": "Jaguar Norwood",
+    "url": "www.jaguarnorwood.net",
+    "telephone": "8883140915",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Norwood",
+      "streetAddress": "449 Neponset St",
+      "postalCode": "02062-4919",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": "42.19366",
+      "longitude": "-71.18415"
+    },
+    "id": "j5598"
+  },
+  {
+    "name": "Alpine Jaguar",
+    "url": "www.alpinejaguar.net",
+    "telephone": "8887103692",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Lauderdale",
+      "streetAddress": "6606 N Andrews Ave",
+      "postalCode": "33309-2134",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "26.2085",
+      "longitude": "-80.14447"
+    },
+    "id": "j0696"
+  },
+  {
+    "name": "British Motor Car Distributors, Ltd.",
+    "url": "www.britishmotorcar.com",
+    "telephone": "8883246903",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Francisco",
+      "streetAddress": "901 Van Ness Ave",
+      "postalCode": "94109-6911",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.78385",
+      "longitude": "-122.42123"
+    },
+    "id": "j0517"
+  },
+  {
+    "name": "San Jose British Motors",
+    "url": "www.sanjosebritishmotorsjaguar.com",
+    "telephone": "8883768095",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Jose",
+      "streetAddress": "4040 Stevens Creek Blvd",
+      "postalCode": "95129-1334",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.32316",
+      "longitude": "-121.97256"
+    },
+    "id": "j0518"
+  },
+  {
+    "name": "Jaguar Rochester",
+    "url": "www.piehlerjaguarlandrover.com",
+    "telephone": "8776930400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rochester",
+      "streetAddress": "770 Panorama Trl S",
+      "postalCode": "14625-2317",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "43.12963",
+      "longitude": "-77.47405"
+    },
+    "id": "j5299"
+  },
+  {
+    "name": "Jaguar Louisville",
+    "url": "www.jaguarlouisville.net",
+    "telephone": "8668570401",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Louisville",
+      "streetAddress": "4700 Bowling Blvd",
+      "postalCode": "40207-5141",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": "38.24993",
+      "longitude": "-85.62815"
+    },
+    "id": "j5794"
+  },
+  {
+    "name": "Byers Imports",
+    "url": "www.byersimportsjaguar.net",
+    "telephone": "8888039908",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbus",
+      "streetAddress": "401 N Hamilton Rd",
+      "postalCode": "43213-1313",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "39.99216",
+      "longitude": "-82.86905"
+    },
+    "id": "j0349"
+  },
+  {
+    "name": "Jaguar Des Moines",
+    "url": "www.jaguardesmoines.com",
+    "telephone": "8669063321",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Des Moines",
+      "streetAddress": "9800 Hickman Rd",
+      "postalCode": "50325-5313",
+      "addressRegion": "IA"
+    },
+    "geo": {
+      "latitude": "41.61621",
+      "longitude": "-93.75353"
+    },
+    "id": "j5796"
+  },
+  {
+    "name": "Haron Jaguar",
+    "url": "www.haronjaguar.net",
+    "telephone": "8883867113",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fresno",
+      "streetAddress": "2222 Ventura Ave",
+      "postalCode": "93721-2916",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "36.73183",
+      "longitude": "-119.78311"
+    },
+    "id": "j0022"
+  },
+  {
+    "name": "Jaguar of Oklahoma City",
+    "url": "www.jaguarofoklahomacity.com",
+    "telephone": "8775459439",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Oklahoma City",
+      "streetAddress": "1125 N Broadway Ave",
+      "postalCode": "73103-4922",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": "35.47966",
+      "longitude": "-97.51413"
+    },
+    "id": "j5790"
+  },
+  {
+    "name": "Howard Orloff Jaguar/Volvo",
+    "url": "www.howardorloffjaguar.com",
+    "telephone": "8774358254",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chicago",
+      "streetAddress": "1924 N Paulina St",
+      "postalCode": "60622-1127",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "41.91726",
+      "longitude": "-87.6704"
+    },
+    "id": "j1459"
+  },
+  {
+    "name": "Jaguar Charleston",
+    "url": "www.jaguarcharleston.net",
+    "telephone": "8669793961",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charleston",
+      "streetAddress": "7 Dudley Farms Lane",
+      "postalCode": "25309-8248",
+      "addressRegion": "WV"
+    },
+    "geo": {
+      "latitude": "38.32782",
+      "longitude": "-81.71217"
+    },
+    "id": "j5793"
+  },
+  {
+    "name": "Jaguar Fox Valley",
+    "url": "www.jaguarfoxvalley.com",
+    "telephone": "8772178731",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Appleton",
+      "streetAddress": "3030 N Victory Ln",
+      "postalCode": "54913-7958",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": "44.29232",
+      "longitude": "-88.47194"
+    },
+    "id": "j5798"
+  },
+  {
+    "name": "Jaguar Schererville",
+    "url": "www.napletonjaguarschererville.com",
+    "telephone": "8778132696",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Schererville",
+      "streetAddress": "1349 Indianapolis Blvd",
+      "postalCode": "46375-1313",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": "41.49744",
+      "longitude": "-87.47089"
+    },
+    "id": "j5799"
+  },
+  {
+    "name": "Jaguar Hartford",
+    "url": "www.jaguarhartford.net",
+    "telephone": "8773708408",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hartford",
+      "streetAddress": "133 Leibert Rd",
+      "postalCode": "06120-1619",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": "41.7867",
+      "longitude": "-72.65551"
+    },
+    "id": "j5445"
+  },
+  {
+    "name": "Jaguar Winston Salem",
+    "url": "www.jaguarwinstonsalem.net",
+    "telephone": "8882900361",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Winston Salem",
+      "streetAddress": "425 Silas Creek Pkwy",
+      "postalCode": "27127-7146",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": "36.06614",
+      "longitude": "-80.2449"
+    },
+    "id": "j5446"
+  },
+  {
+    "name": "Jaguar Houston Central",
+    "url": "www.jaguarhoustoncentral.net",
+    "telephone": "8772350363",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "7025 Old Katy Rd",
+      "postalCode": "77024-2128",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "29.78182",
+      "longitude": "-95.4438"
+    },
+    "id": "j5447"
+  },
+  {
+    "name": "Jaguar Houston North",
+    "url": "www.jaguarhoustonnorth.net",
+    "telephone": "8772350584",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "18205 I-45 North",
+      "postalCode": "77090-4915",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "30.02179",
+      "longitude": "-95.43903"
+    },
+    "id": "j5528"
+  },
+  {
+    "name": "Jaguar Lakeside",
+    "url": "www.jaguarlakeside.net",
+    "telephone": "8773091272",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Macomb",
+      "streetAddress": "18979 Hall Rd",
+      "postalCode": "48044-4255",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": "42.62877",
+      "longitude": "-82.93197"
+    },
+    "id": "j5525"
+  },
+  {
+    "name": "Jaguar of Novi",
+    "url": "www.jaguarofnovi.net",
+    "telephone": "8883214838",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Novi",
+      "streetAddress": "24295 Haggerty Rd",
+      "postalCode": "48375-2142",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": "42.46987",
+      "longitude": "-83.43489"
+    },
+    "id": "j5449"
+  },
+  {
+    "name": "DeNooyer Jaguar",
+    "url": "www.denooyerjaguar.com",
+    "telephone": "8885900774",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kalamazoo",
+      "streetAddress": "5850 Stadium Dr",
+      "postalCode": "49009-1936",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": "42.27554",
+      "longitude": "-85.61496"
+    },
+    "id": "j5650"
+  },
+  {
+    "name": "Cole European",
+    "url": "www.coleeuropean.com",
+    "telephone": "8884243501",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Walnut Creek",
+      "streetAddress": "2103 N Main St",
+      "postalCode": "94596-3707",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.92348",
+      "longitude": "-122.06207"
+    },
+    "id": "j5653"
+  },
+  {
+    "name": "Jaguar of the Gulf Coast",
+    "url": "www.jaguargulfcoast.com",
+    "telephone": "8774671482",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mobile",
+      "streetAddress": "1151 E I65 Service Rd South",
+      "postalCode": "36606-3106",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": "30.67018",
+      "longitude": "-88.12685"
+    },
+    "id": "j5713"
+  },
+  {
+    "name": "Jaguar San Jose",
+    "url": "",
+    "telephone": "8889270513",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Jose",
+      "streetAddress": "4040 Stevens Creek Blvd",
+      "postalCode": "95129-1334",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.32316",
+      "longitude": "-121.97256"
+    },
+    "id": "j5329"
+  },
+  {
+    "name": "Jaguar Peabody",
+    "url": "www.jaguarpeabody.com",
+    "telephone": "8887067792",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peabody",
+      "streetAddress": "247 Newbury St",
+      "postalCode": "01960-1315",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": "42.55007",
+      "longitude": "70.98238"
+    },
+    "id": "j5328"
+  },
+  {
+    "name": "Jaguar Columbia",
+    "url": "www.jaguarcolumbia.com",
+    "telephone": "",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbia",
+      "streetAddress": "540 Jamil Rd",
+      "postalCode": "29210-5262",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": "34.06514",
+      "longitude": "-81.14151"
+    },
+    "id": "j5321"
+  },
+  {
+    "name": "Jaguar Palm Beach",
+    "url": "www.jaguarpalmbeach.com",
+    "telephone": "8888551619",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Palm Beach",
+      "streetAddress": "915 S Dixie Hwy",
+      "postalCode": "33401-6401",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "26.70508",
+      "longitude": "-80.05381"
+    },
+    "id": "j5320"
+  },
+  {
+    "name": "Jaguar Nashville",
+    "url": "www.jaguarnashville.com",
+    "telephone": "8883051623",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Brentwood",
+      "streetAddress": "3 Cadillac Dr",
+      "postalCode": "37027-5066",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": "36.03579",
+      "longitude": "-86.79699"
+    },
+    "id": "j5323"
+  },
+  {
+    "name": "Jaguar Birmingham",
+    "url": "www.jaguarbirmingham.com",
+    "telephone": "8888034454",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Irondale",
+      "streetAddress": "3000 Tom Williams Way",
+      "postalCode": "35210-3447",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": "33.53599",
+      "longitude": "-86.69004"
+    },
+    "id": "j5322"
+  },
+  {
+    "name": "Jaguar San Juan",
+    "url": "www.jaguarsanjuan.com",
+    "telephone": "8884806512",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Juan",
+      "streetAddress": "John F. Kennedy Ave",
+      "postalCode": "00920",
+      "addressRegion": "PR"
+    },
+    "geo": {
+      "latitude": "18.38957",
+      "longitude": "-66.05927"
+    },
+    "id": "j5325"
+  },
+  {
+    "name": "Jaguar Honolulu",
+    "url": "www.jaguarhonolulu.com",
+    "telephone": "8887101485",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Honolulu",
+      "streetAddress": "744 Ala Moana Blvd",
+      "postalCode": "96813-5504",
+      "addressRegion": "HI"
+    },
+    "geo": {
+      "latitude": "21.29731",
+      "longitude": "-157.8594"
+    },
+    "id": "j5327"
+  },
+  {
+    "name": "Jaguar Main Line",
+    "url": "www.jaguarmainline.com",
+    "telephone": "8668775953",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wayne",
+      "streetAddress": "325 E Lancaster Ave",
+      "postalCode": "19087-4201",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.04353",
+      "longitude": "-75.37873"
+    },
+    "id": "j5471"
+  },
+  {
+    "name": "Jake Kaplan's Ltd.",
+    "url": "www.jakekaplansjaguar.net",
+    "telephone": "8883066521",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Warwick",
+      "streetAddress": "1346 Bald Hill Rd",
+      "postalCode": "02886-4260",
+      "addressRegion": "RI"
+    },
+    "geo": {
+      "latitude": "41.70058",
+      "longitude": "87110-7413"
+    },
+    "id": "j4008"
+  },
+  {
+    "name": "Paretti Imports, L.L.C.",
+    "url": "www.parettiimports.com",
+    "telephone": "8882246905",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Metairie",
+      "streetAddress": "3000 Richland Ave",
+      "postalCode": "70002-6820",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": "30.00185",
+      "longitude": "-90.17429"
+    },
+    "id": "j0486"
+  },
+  {
+    "name": "Jaguar Hilton Head",
+    "url": "www.jaguarhiltonhead.com",
+    "telephone": "8773953141",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hardeeville",
+      "streetAddress": "145 Drivers Way",
+      "postalCode": "29927-4309",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": "32.27218",
+      "longitude": "-81.06182"
+    },
+    "id": "j5533"
+  },
+  {
+    "name": "Jaguar Waukesha",
+    "url": "www.jaguarlandroverwaukesha.com",
+    "telephone": "8669795204",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Waukesha",
+      "streetAddress": "1901 E Moreland Blvd",
+      "postalCode": "53186-3914",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": "43.01628",
+      "longitude": "-88.20746"
+    },
+    "id": "j5534"
+  },
+  {
+    "name": "Jaguar Naples",
+    "url": "www.jaguarnaples.net",
+    "telephone": "8882976876",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Naples",
+      "streetAddress": "900 N Tamiami Trail",
+      "postalCode": "34102-5403",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "26.15885",
+      "longitude": "-81.79729"
+    },
+    "id": "j5536"
+  },
+  {
+    "name": "Rusnak / Pasadena",
+    "url": "www.jaguar.rusnakonline.com",
+    "telephone": "8883780072",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pasadena",
+      "streetAddress": "337 W Colorado Blvd",
+      "postalCode": "91105-1823",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.14567",
+      "longitude": "-118.1576"
+    },
+    "id": "j5537"
+  },
+  {
+    "name": "Jaguar of Tampa",
+    "url": "www.jaguaroftampa.net",
+    "telephone": "8774666970",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tampa",
+      "streetAddress": "320 E Fletcher Ave",
+      "postalCode": "33612-3409",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "28.06936",
+      "longitude": "-82.45665"
+    },
+    "id": "j5768"
+  },
+  {
+    "name": "Warren Henry Jaguar",
+    "url": "www.warrenhenryjaguar.com",
+    "telephone": "8883810672",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Miami",
+      "streetAddress": "20800 NW 2nd Ave",
+      "postalCode": "33169-2104",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "25.9426",
+      "longitude": "-80.21307"
+    },
+    "id": "j5641"
+  },
+  {
+    "name": "Jaguar Tacoma",
+    "url": "www.jaguaroftacoma.com",
+    "telephone": "8776489526",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fife",
+      "streetAddress": "1601 40th Avenue Court E",
+      "postalCode": "98424-1113",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": "47.2426",
+      "longitude": "-122.37473"
+    },
+    "id": "j5760"
+  },
+  {
+    "name": "Jaguar Fort Myers",
+    "url": "www.ftmyersjaguar.com",
+    "telephone": "8772178809",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Myers",
+      "streetAddress": "15875 S Tamiami Trail",
+      "postalCode": "33908-4238",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "26.51212",
+      "longitude": "-81.86281"
+    },
+    "id": "j5763"
+  },
+  {
+    "name": "White-Allen Jaguar",
+    "url": "www.whiteallenjaguar.net",
+    "telephone": "8885601991",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dayton",
+      "streetAddress": "648 Springboro Pike",
+      "postalCode": "45449-3660",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "39.66151",
+      "longitude": "-84.23861"
+    },
+    "id": "j5762"
+  },
+  {
+    "name": "Jaguar Naperville",
+    "url": "www.jaguarofnaperville.com",
+    "telephone": "8883787649",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Naperville",
+      "streetAddress": "1559 W Ogden Ave",
+      "postalCode": "60540-3906",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "41.77025",
+      "longitude": "-88.18637"
+    },
+    "id": "j5767"
+  },
+  {
+    "name": "Jaguar Southampton",
+    "url": "www.jaguarsouthampton.com",
+    "telephone": "8778102397",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Southampton",
+      "streetAddress": "355 Hampton Rd",
+      "postalCode": "11968-3001",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.89264",
+      "longitude": "-72.37925"
+    },
+    "id": "j5332"
+  },
+  {
+    "name": "Jaguar Huntington",
+    "url": "www.jaguarhuntington.com",
+    "telephone": "8772507798",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntington",
+      "streetAddress": "1249 E Jericho Tpke",
+      "postalCode": "11743-5611",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.83309",
+      "longitude": "-73.3612"
+    },
+    "id": "j5333"
+  },
+  {
+    "name": "Jaguar Jacksonville",
+    "url": "www.jaguarjacksonville.net",
+    "telephone": "8772901873",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "11211 Atlantic Blvd",
+      "postalCode": "32225-2905",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "30.32449",
+      "longitude": "-81.51112"
+    },
+    "id": "j5330"
+  },
+  {
+    "name": "Jaguar Manhattan",
+    "url": "www.jaguarmanhattan.com",
+    "telephone": "8888614606",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New York",
+      "streetAddress": "787 11th Ave",
+      "postalCode": "10019-3538",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.76806",
+      "longitude": "-73.98796"
+    },
+    "id": "j5331"
+  },
+  {
+    "name": "Madison Jaguar",
+    "url": "www.madisonjaguar.com",
+    "telephone": "8884826856",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Madison",
+      "streetAddress": "275 Main St",
+      "postalCode": "07940-2208",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": "40.7509",
+      "longitude": "-74.40213"
+    },
+    "id": "j5427"
+  },
+  {
+    "name": "Jaguar of Greenville",
+    "url": "www.jaguarofgreenville.net",
+    "telephone": "8888003085",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenville",
+      "streetAddress": "2668 Laurens Road",
+      "postalCode": "29607-3818",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": "34.82268",
+      "longitude": "-82.34191"
+    },
+    "id": "j5389"
+  },
+  {
+    "name": "Jaguar San Diego",
+    "url": "www.jaguarsandiego.net",
+    "telephone": "8888963593",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Diego",
+      "streetAddress": "4525 Convoy St",
+      "postalCode": "92111-2307",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "32.82439",
+      "longitude": "-117.15488"
+    },
+    "id": "j5388"
+  },
+  {
+    "name": "Jaguar Orlando",
+    "url": "www.jaguaroforlando.com",
+    "telephone": "8776343584",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Orlando",
+      "streetAddress": "4249 Millenia Blvd",
+      "postalCode": "32839-2431",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "28.48874",
+      "longitude": "-81.43566"
+    },
+    "id": "j5387"
+  },
+  {
+    "name": "Jaguar Ventura",
+    "url": "www.jaguarventura.net",
+    "telephone": "8884856520",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ventura",
+      "streetAddress": "3190 Perkin Ave",
+      "postalCode": "93003-7204",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.24478",
+      "longitude": "-119.20076"
+    },
+    "id": "j5386"
+  },
+  {
+    "name": "Jaguar Spokane",
+    "url": "www.spokanejaguar.com",
+    "telephone": "8888144202",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Spokane",
+      "streetAddress": "1310 W 3rd Ave",
+      "postalCode": "99201-4622",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": "47.65335",
+      "longitude": "-117.4319"
+    },
+    "id": "j5385"
+  },
+  {
+    "name": "Jaguar Plano",
+    "url": "www.planojaguar.com",
+    "telephone": "8775909737",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Plano",
+      "streetAddress": "4422 W Plano Pkwy",
+      "postalCode": "75093-5608",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "33.01621",
+      "longitude": "-96.77933"
+    },
+    "id": "j5383"
+  },
+  {
+    "name": "Jaguar Little Rock",
+    "url": "www.jaguarlittlerock.net",
+    "telephone": "8884458307",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Little Rock",
+      "streetAddress": "25 Colonel Glenn Plaza Dr",
+      "postalCode": "72210-2842",
+      "addressRegion": "AR"
+    },
+    "geo": {
+      "latitude": "34.7023",
+      "longitude": "-92.46989"
+    },
+    "id": "j5382"
+  },
+  {
+    "name": "Jaguar Albany",
+    "url": "www.albanyjaguar.com",
+    "telephone": "8665989561",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Colonie",
+      "streetAddress": "347 New Karner Rd",
+      "postalCode": "12205-4607",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "42.72946",
+      "longitude": "-73.85343"
+    },
+    "id": "j5381"
+  },
+  {
+    "name": "Toyota Volvo Jaguar of Warren",
+    "url": "www.jaguarofwarren.net",
+    "telephone": "8883927820",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Warren",
+      "streetAddress": "3810 Youngstown Rd SE",
+      "postalCode": "44484-2835",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "41.21734",
+      "longitude": "-80.77504"
+    },
+    "id": "j5719"
+  },
+  {
+    "name": "Jaguar Jackson",
+    "url": "www.jaguarjackson.com",
+    "telephone": "8884795091",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jackson",
+      "streetAddress": "5320 I 55 North",
+      "postalCode": "39211-4026",
+      "addressRegion": "MS"
+    },
+    "geo": {
+      "latitude": "32.37485",
+      "longitude": "-90.14785"
+    },
+    "id": "j5307"
+  },
+  {
+    "name": "Autobahn Motorcars",
+    "url": "www.jaguarfortworth.com",
+    "telephone": "8887453768",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Worth",
+      "streetAddress": "3000 White Settlement Road",
+      "postalCode": "76107-1338",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "32.75909",
+      "longitude": "-97.36046"
+    },
+    "id": "j5672"
+  },
+  {
+    "name": "Jaguar St. Louis",
+    "url": "www.plazajaguarstlouis.com",
+    "telephone": "8888621501",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Creve Coeur",
+      "streetAddress": "11654 Olive Blvd",
+      "postalCode": "63141-7002",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": "38.66977",
+      "longitude": "-90.44"
+    },
+    "id": "j5305"
+  },
+  {
+    "name": "White Plains Jaguar",
+    "url": "www.whiteplainsjaguar.net",
+    "telephone": "8883480541",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Elmsford",
+      "streetAddress": "258 E Main St",
+      "postalCode": "10523-3412",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "41.04979",
+      "longitude": "-73.79877"
+    },
+    "id": "j5670"
+  },
+  {
+    "name": "Jaguar San Juan Texas",
+    "url": "www.jaguarsanjuantx.com",
+    "telephone": "8886966233",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Juan",
+      "streetAddress": "601 E Expressway 83",
+      "postalCode": "78589-4503",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "26.19551",
+      "longitude": "-98.14501"
+    },
+    "id": "j5303"
+  },
+  {
+    "name": "Jaguar Paramus",
+    "url": "www.jaguarparamus.com",
+    "telephone": "8884391355",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Paramus",
+      "streetAddress": "405 S State Rt 17",
+      "postalCode": "07652-2900",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": "40.94822",
+      "longitude": "-74.0728"
+    },
+    "id": "j5302"
+  },
+  {
+    "name": "Jaguar Cleveland",
+    "url": "www.jaguarofcleveland.com",
+    "telephone": "8668599028",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Solon",
+      "streetAddress": "6137 Kruse Dr",
+      "postalCode": "44139-2375",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "41.39219",
+      "longitude": "-81.43963"
+    },
+    "id": "j5675"
+  },
+  {
+    "name": "Jaguar Chattanooga",
+    "url": "www.jaguarchattanooga.net",
+    "telephone": "8669796612",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chattanooga",
+      "streetAddress": "7648 Lee Hwy",
+      "postalCode": "37421-1026",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": "35.06167",
+      "longitude": "-85.1352"
+    },
+    "id": "j5772"
+  },
+  {
+    "name": "Cherry Hill Classic Cars",
+    "url": "www.cherryhillclassicjaguar.com",
+    "telephone": "8885581749",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cherry Hill",
+      "streetAddress": "2000 Route 70 E",
+      "postalCode": "08003-1202",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": "39.88315",
+      "longitude": "-74.97201"
+    },
+    "id": "j5544"
+  },
+  {
+    "name": "Sill-TerHar Motors, Inc.",
+    "url": "www.sill-terharmotorsjaguar.com",
+    "telephone": "8883490383",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Broomfield",
+      "streetAddress": "125 Alter Street",
+      "postalCode": "80020-1679",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": "39.92141",
+      "longitude": "-105.09197"
+    },
+    "id": "j5771"
+  },
+  {
+    "name": "Jaguar Bellevue",
+    "url": "www.jaguarbellevue.com",
+    "telephone": "8774650624",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bellevue",
+      "streetAddress": "13817 NE 20th Street",
+      "postalCode": "98005-2012",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": "47.62788",
+      "longitude": "-122.15534"
+    },
+    "id": "j5776"
+  },
+  {
+    "name": "Jaguar Madison",
+    "url": "www.jaguarlandrovermadison.com",
+    "telephone": "8668732289",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Madison",
+      "streetAddress": "6624 Seybold Rd",
+      "postalCode": "53719-1308",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": "43.05169",
+      "longitude": "-89.49637"
+    },
+    "id": "j5540"
+  },
+  {
+    "name": "Jaguar Westside",
+    "url": "www.jaguarwestside.net",
+    "telephone": "8882474171",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cleveland",
+      "streetAddress": "9600 Brookpark Rd",
+      "postalCode": "44129-6812",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "41.41881",
+      "longitude": "-81.75266"
+    },
+    "id": "j5774"
+  },
+  {
+    "name": "Jaguar Anaheim Hills",
+    "url": "www.jaguaranaheimhills.com",
+    "telephone": "8883914802",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Anaheim",
+      "streetAddress": "5401 E La Palma Ave",
+      "postalCode": "92807-2022",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.85971",
+      "longitude": "-117.79741"
+    },
+    "id": "j5308"
+  },
+  {
+    "name": "Jaguar Huntsville",
+    "url": "www.centuryjaguarhuntsville.com",
+    "telephone": "8664352182",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntsville",
+      "streetAddress": "3800 University Dr NW",
+      "postalCode": "35816-3142",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": "34.73528",
+      "longitude": "-86.62451"
+    },
+    "id": "j5612"
+  },
+  {
+    "name": "Jaguar Greensboro",
+    "url": "www.flowjaguargreensboro.com",
+    "telephone": "8887131472",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greensboro",
+      "streetAddress": "1205 Bridford Pkwy",
+      "postalCode": "27407-2646",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": "36.05409",
+      "longitude": "-79.90251"
+    },
+    "id": "j5398"
+  },
+  {
+    "name": "Jaguar Harrisburg",
+    "url": "www.jaguarharrisburg.net",
+    "telephone": "8888405699",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Harrisburg",
+      "streetAddress": "1030 Highspire Rd",
+      "postalCode": "17111-2327",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.23052",
+      "longitude": "-76.79816"
+    },
+    "id": "j5399"
+  },
+  {
+    "name": "Jaguar Merriam",
+    "url": "www.aristocratjaguar.com",
+    "telephone": "8669381354",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Shawnee Mission",
+      "streetAddress": "9415 W 65th Street",
+      "postalCode": "66203-3663",
+      "addressRegion": "KS"
+    },
+    "geo": {
+      "latitude": "39.01121",
+      "longitude": "-94.69519"
+    },
+    "id": "j5743"
+  },
+  {
+    "name": "Heritage Jaguar of Freeport",
+    "url": "www.heritagejaguaroffreeport.com",
+    "telephone": "8883550878",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Freeport",
+      "streetAddress": "146 W Sunrise Hwy",
+      "postalCode": "11520-3443",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.6563",
+      "longitude": "-73.59061"
+    },
+    "id": "j5742"
+  },
+  {
+    "name": "Royal Jaguar Tucson",
+    "url": "www.royaljaguartucson.com",
+    "telephone": "8883781957",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tucson",
+      "streetAddress": "4670 N Circuit Rd",
+      "postalCode": "85705-6022",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": "32.29029",
+      "longitude": "-110.98119"
+    },
+    "id": "j5741"
+  },
+  {
+    "name": "Jaguar Orland Park",
+    "url": "www.jaguarorlandpark.net",
+    "telephone": "8775461279",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tinley Park",
+      "streetAddress": "8031 W 159th Street",
+      "postalCode": "60477-1214",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "41.60341",
+      "longitude": "-87.81475"
+    },
+    "id": "j5391"
+  },
+  {
+    "name": "Jaguar Austin",
+    "url": "www.jaguaraustin.com",
+    "telephone": "8886429174",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Austin",
+      "streetAddress": "1515 W 5th Street",
+      "postalCode": "78703-5131",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "30.28866",
+      "longitude": "-97.76458"
+    },
+    "id": "j5390"
+  },
+  {
+    "name": "Imperial Motors Jaguar of Wilmette",
+    "url": "www.imperialmotorsjaguarofwilmette.com",
+    "telephone": "8774638162",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilmette",
+      "streetAddress": "721 Green Bay Rd",
+      "postalCode": "60091-2518",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "42.07703",
+      "longitude": "-87.70955"
+    },
+    "id": "j1427"
+  },
+  {
+    "name": "Jaguar El Paso",
+    "url": "www.jaguarelpaso.com",
+    "telephone": "8772149190",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "El Paso",
+      "streetAddress": "1444 Airway Blvd",
+      "postalCode": "79925-2215",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "31.7886",
+      "longitude": "-106.3954"
+    },
+    "id": "j5392"
+  },
+  {
+    "name": "Jaguar Dallas",
+    "url": "www.jaguardallas.net",
+    "telephone": "8777620242",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dallas",
+      "streetAddress": "5300 Lemmon Ave",
+      "postalCode": "75209-6320",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "32.86045",
+      "longitude": "-96.88291"
+    },
+    "id": "j5394"
+  },
+  {
+    "name": "Jaguar West Ashley",
+    "url": "www.jaguarwestashley.com",
+    "telephone": "8778399364",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charleston",
+      "streetAddress": "1511 Savannah Hwy",
+      "postalCode": "29407-7822",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": "32.78531",
+      "longitude": "-80.00443"
+    },
+    "id": "j5395"
+  },
+  {
+    "name": "Jaguar Cincinnati",
+    "url": "www.jaguarcincinnati.com",
+    "telephone": "8668033356",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Blue Ash",
+      "streetAddress": "9111 Blue Ash Rd",
+      "postalCode": "45242-6821",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": "39.23127",
+      "longitude": "-84.35228"
+    },
+    "id": "j5396"
+  },
+  {
+    "name": "Jaguar Peoria",
+    "url": "www.jaguarpeoria.net",
+    "telephone": "8775792539",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peoria",
+      "streetAddress": "7300 N Allen Rd",
+      "postalCode": "61614-1109",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "40.7778",
+      "longitude": "-89.6312"
+    },
+    "id": "j5748"
+  },
+  {
+    "name": "Jaguar Tulsa",
+    "url": "www.jaguartulsa.com",
+    "telephone": "8777416250",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tulsa",
+      "streetAddress": "3905 S Memorial Dr",
+      "postalCode": "74145-4833",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": "36.10701",
+      "longitude": "-95.88597"
+    },
+    "id": "j5310"
+  },
+  {
+    "name": "Jaguar Monmouth",
+    "url": "www.jaguarlandrovermonmouth.com",
+    "telephone": "8884604923",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ocean",
+      "streetAddress": "807 Highway 35",
+      "postalCode": "07712-4546",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": "40.23091",
+      "longitude": "-74.03857"
+    },
+    "id": "j5311"
+  },
+  {
+    "name": "Jaguar Cerritos",
+    "url": "www.jaguarcerritos.com",
+    "telephone": "8888101432",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cerritos",
+      "streetAddress": "10861 183rd Street",
+      "postalCode": "90703-8011",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.8673",
+      "longitude": "-118.10311"
+    },
+    "id": "j5312"
+  },
+  {
+    "name": "Jaguar Larchmont/New Rochelle",
+    "url": "www.jaguarlarchmont.com",
+    "telephone": "8669023144",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New Rochelle",
+      "streetAddress": "1 E Main St",
+      "postalCode": "10801-5317",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": "40.92027",
+      "longitude": "-73.76482"
+    },
+    "id": "j5313"
+  },
+  {
+    "name": "Jaguar Thousand Oaks",
+    "url": "www.jaguarofthousandoaks.net",
+    "telephone": "8883393523",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Thousand Oaks",
+      "streetAddress": "3601 Auto Mall Dr",
+      "postalCode": "91362-3611",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "34.16304",
+      "longitude": "-118.83204"
+    },
+    "id": "j5668"
+  },
+  {
+    "name": "Jaguar Rancho Mirage",
+    "url": "www.jaguarranchomirage.net",
+    "telephone": "8772873263",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rancho Mirage",
+      "streetAddress": "71387 Highway 111",
+      "postalCode": "92270-4110",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.74609",
+      "longitude": "-116.41924"
+    },
+    "id": "j5315"
+  },
+  {
+    "name": "Jaguar Tysons Corner",
+    "url": "www.rosenthaljaguar.com",
+    "telephone": "8884660413",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Vienna",
+      "streetAddress": "1592 Spring Hill Rd",
+      "postalCode": "22182-2205",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": "38.9273",
+      "longitude": "-77.24376"
+    },
+    "id": "j5490"
+  },
+  {
+    "name": "Jaguar Treasure Coast",
+    "url": "www.jaguarlandrovertreasurecoast.com",
+    "telephone": "8776980250",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Pierce",
+      "streetAddress": "4771 S US Highway 1",
+      "postalCode": "34982-7005",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "27.37935",
+      "longitude": "-80.32592"
+    },
+    "id": "j5318"
+  },
+  {
+    "name": "Jaguar Roanoke",
+    "url": "www.jaguarroanoke.com",
+    "telephone": "8886864917",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Roanoke",
+      "streetAddress": "5000 Franklin Rd SW",
+      "postalCode": "24014-6652",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": "37.22423",
+      "longitude": "-79.96819"
+    },
+    "id": "j5319"
+  },
+  {
+    "name": "Jaguar Langhorne",
+    "url": "www.reedmantolljaguar.com",
+    "telephone": "8665718732",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Langhorne",
+      "streetAddress": "1700 E Lincoln Hwy",
+      "postalCode": "19047-3042",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.17677",
+      "longitude": "-74.9174"
+    },
+    "id": "j5554"
+  },
+  {
+    "name": "Jaguar Cary",
+    "url": "www.leithjaguar.com",
+    "telephone": "8884530541",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cary",
+      "streetAddress": "1000 Auto Park Blvd",
+      "postalCode": "27511-6038",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": "35.74665",
+      "longitude": "-78.81039"
+    },
+    "id": "j5662"
+  },
+  {
+    "name": "Jaguar of Sarasota",
+    "url": "www.wildejaguarofsarasota.com",
+    "telephone": "8774660419",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sarasota",
+      "streetAddress": "4821 Clark Rd",
+      "postalCode": "34233-3219",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "27.26913",
+      "longitude": "-82.47174"
+    },
+    "id": "j5691"
+  },
+  {
+    "name": "Jaguar Wichita",
+    "url": "www.scholfieldjaguar.net",
+    "telephone": "8883764565",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wichita",
+      "streetAddress": "11212 E Kellogg Dr",
+      "postalCode": "67207-1925",
+      "addressRegion": "KS"
+    },
+    "geo": {
+      "latitude": "37.67893",
+      "longitude": "-97.20673"
+    },
+    "id": "j5692"
+  },
+  {
+    "name": "Crown Jaguar",
+    "url": "www.crownjaguarsaintpetersburg.com",
+    "telephone": "8885238021",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Saint Petersburg",
+      "streetAddress": "6001 34th Street N",
+      "postalCode": "33714-1251",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": "27.8175",
+      "longitude": "-82.67549"
+    },
+    "id": "j5697"
+  },
+  {
+    "name": "Union Park Jaguar",
+    "url": "www.unionparkjaguar.com",
+    "telephone": "8773605481",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilmington",
+      "streetAddress": "1900 Pennsylvania Ave",
+      "postalCode": "19806",
+      "addressRegion": "DE"
+    },
+    "geo": {
+      "latitude": "39.75587",
+      "longitude": "-75.56741"
+    },
+    "id": "j5696"
+  },
+  {
+    "name": "Jaguar Marin",
+    "url": "www.jaguarmarin.com",
+    "telephone": "8888872154",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Corte Madera",
+      "streetAddress": "195 Casa Buena Dr",
+      "postalCode": "94925-1709",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "37.92466",
+      "longitude": "-122.51558"
+    },
+    "id": "j5752"
+  },
+  {
+    "name": "Imperial Motors Jaguar of Lake Bluff",
+    "url": "www.imperialmotorsjaguaroflakebluff.com",
+    "telephone": "8774418754",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lake Bluff",
+      "streetAddress": "150 Skokie Hwy",
+      "postalCode": "60044-2211",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "42.27228",
+      "longitude": "-87.86685"
+    },
+    "id": "j5756"
+  },
+  {
+    "name": "Jaguar Mission Viejo",
+    "url": "www.jaguarmissionviejo.com",
+    "telephone": "8882853481",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mission Viejo",
+      "streetAddress": "28701 Marguerite Pkwy",
+      "postalCode": "92692-3805",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": "33.54598",
+      "longitude": "-117.67141"
+    },
+    "id": "j5758"
+  },
+  {
+    "name": "Bobby Rahal Jaguar",
+    "url": "www.bobbyrahaljaguar.net",
+    "telephone": "8887891746",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wexford",
+      "streetAddress": "15035 Perry Hwy",
+      "postalCode": "15090-7302",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.65003",
+      "longitude": "-80.07866"
+    },
+    "id": "j5759"
+  },
+  {
+    "name": "Jaguar Elmhurst",
+    "url": "www.jaguarelmhurst.com",
+    "telephone": "8669807585",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Elmhurst",
+      "streetAddress": "490 W Lake St",
+      "postalCode": "60126-1418",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": "41.91918",
+      "longitude": "-87.95526"
+    },
+    "id": "j1417"
+  },
+  {
+    "name": "Hennessy Jaguar",
+    "url": "www.hennessyjaguar.com",
+    "telephone": "8883550784",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Atlanta",
+      "streetAddress": "3040 Piedmont Rd NE",
+      "postalCode": "30305-2628",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": "33.83806",
+      "longitude": "-84.36841"
+    },
+    "id": "j5618"
+  },
+  {
+    "name": "Jaguar Southwest Houston",
+    "url": "www.jaguarsouthwesthouston.com",
+    "telephone": "8777611104",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "10150 Southwest Fwy",
+      "postalCode": "77074-1204",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": "29.66896",
+      "longitude": "-95.54984"
+    },
+    "id": "j5563"
+  },
+  {
+    "name": "Jaguar Annapolis",
+    "url": "www.jaguarlandroverannapolis.com",
+    "telephone": "8776980150",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Annapolis",
+      "streetAddress": "101 Ferguson Rd",
+      "postalCode": "21409-5407",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": "39.01864",
+      "longitude": "-76.48062"
+    },
+    "id": "j5317"
+  },
+  {
+    "name": "Jaguar Monroeville",
+    "url": "www.jaguarmonroeville.com",
+    "telephone": "8886677612",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Monroeville",
+      "streetAddress": "3780 William Penn Hwy",
+      "postalCode": "15146-2126",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": "40.42995",
+      "longitude": "-79.76545"
+    },
+    "id": "j0380"
+  },
+  {
+    "name": "Jaguar Scarborough",
+    "url": "www.jaguarscarborough.com",
+    "telephone": "8883692415",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Scarborough",
+      "streetAddress": "371 US Route 1",
+      "postalCode": "04074-9704",
+      "addressRegion": "ME"
+    },
+    "geo": {
+      "latitude": "43.58588",
+      "longitude": "-70.35571"
+    },
+    "id": "j5616"
+  },
+  {
+    "name": "Jaguar Hunt Valley",
+    "url": "www.chesapeakejaguar.net",
+    "telephone": "8886909315",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cockeysville",
+      "streetAddress": "10260 York Rd",
+      "postalCode": "21030-3252",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": "39.47113",
+      "longitude": "-76.63941"
+    },
+    "id": "j5664"
+  }
+]
