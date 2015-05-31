@@ -4,14 +4,13 @@ import os
 from   collections import namedtuple
 import json
 import time
+from   itertools import chain
 
 # declare normalized data structure
 
-Organization = namedtuple('Organization', ['contactPoint', 'location', 'name', 'url', 'email', 'faxNumber', 'telephone', 'id'])
+LocalBusiness = namedtuple('LocalBusiness', ['contactPoint', 'address', 'geo', 'name', 'url', 'email', 'faxNumber', 'telephone', 'id', 'openingHours'])
 
 ContactPoint = namedtuple('ContactPoint', ['contactType', 'telephone', 'hoursAvailable'])
-
-Location = namedtuple('Location', ['address', 'geo'])
 
 GeoCoordinates = namedtuple('GeoCoordinates', ['latitude', 'longitude'])
 
@@ -42,6 +41,22 @@ def ToOpeningHours(obj):
     if obj['Hours'] == 'Closed':
         return []
     hours = obj['Hours'].split('-')
+    opens = time.strftime('%H:%M', time.strptime(hours[0], '%I:%M%p'))
+    closes = time.strftime('%H:%M', time.strptime(hours[1], '%I:%M%p'))
+    # extract days
+    day = obj['Day']
+    if '-' in day:
+        vals = day.split('-')
+        day = '{0}-{1}'.format(vals[0][0:2], vals[1][0:2])
+    else:
+        day = day[0:2]
+    return '{0} {1}-{2}'.format(day, opens, closes)
+
+def ToOpeningHoursSpecification(obj):
+    # extract hours
+    if obj['Hours'] == 'Closed':
+        return []
+    hours = obj['Hours'].split('-')
     opens = time.strftime('%H:%M:%S', time.strptime(hours[0], '%I:%M%p'))
     closes = time.strftime('%H:%M:%S', time.strptime(hours[1], '%I:%M%p'))
     # extract days
@@ -62,7 +77,7 @@ def ToOpeningHours(obj):
         results.append(OpeningHoursSpecification(opens, closes, day))
     return results
 
-organizations = []
+businesses = []
 
 with open(input_name, 'r') as fd:
     dealers = json.load(fd)
@@ -78,31 +93,28 @@ with open(input_name, 'r') as fd:
             latitude  = dealer['DealerLat'],
             longitude = dealer['DealerLong']
         )
-        location = Location(
-            address = address,
-            geo     = geo
-        )
-        # contacts
         contact_points = []
+        openingHours = []
         if 'ServicePhoneNumber' in dealer:
             contact_points.append(ContactPoint(
                 contactType    = 'Service',
                 telephone      = dealer['ServicePhoneNumber'],
-                hoursAvailable = map(ToOpeningHours, dealer['ServiceHours'])
+                hoursAvailable = list(chain(*map(ToOpeningHoursSpecification, dealer['ServiceHours'])))
             ))
         if 'SalesHours' in dealer and dealer['SalesHours'] is not None:
-                contact_points.append(ContactPoint(
-                    contactType    = 'Sales',
-                    telephone      = dealer['CPOPhoneNumber'],
-                    hoursAvailable = map(ToOpeningHours, dealer['SalesHours'])
-                ))
+            contact_points.append(ContactPoint(
+                contactType    = 'Sales',
+                telephone      = dealer['CPOPhoneNumber'],
+                hoursAvailable = list(chain(*map(ToOpeningHoursSpecification, dealer['SalesHours'])))
+            ))
+            openingHours = list(map(ToOpeningHours, dealer['SalesHours']))
         if 'PartsHours' in dealer:
             contact_points.append(ContactPoint(
                 contactType    = 'Parts',
                 telephone      = dealer['PartsPhoneNumber'],
-                hoursAvailable = map(ToOpeningHours, dealer['PartsHours'])
+                hoursAvailable = list(chain(*map(ToOpeningHoursSpecification, dealer['PartsHours'])))
             ))
-        organization = Organization(
+        business = LocalBusiness(
             id           = dealer['DealerID'],
             faxNumber    = dealer['DealerFaxNo'],
             telephone    = dealer['DealerPhoneNo'],
@@ -110,10 +122,12 @@ with open(input_name, 'r') as fd:
             name         = dealer['DealerName'],
             url          = dealer['DealerURL'],
             contactPoint = contact_points,
-            location     = location
+            address      = address,
+            geo          = geo,
+            openingHours = openingHours
         )
-        organizations.append(organization)
+        businesses.append(business)
 
 with open(output_name, 'w') as fd:
-    json.dump(list(map(ToDictionary, organizations)), fd)
+    json.dump(list(map(ToDictionary, businesses)), fd)
 
