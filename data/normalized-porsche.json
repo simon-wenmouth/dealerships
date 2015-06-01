@@ -1,0 +1,7410 @@
+[
+  {
+    "name": "Porsche of Tysons Corner",
+    "url": "http://tysons.porschedealer.com",
+    "telephone": "703-564-6300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Vienna",
+      "streetAddress": "8601 Westwood Center Drive",
+      "postalCode": "22182",
+      "addressRegion": "Virginia"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:00-19:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "19:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "19:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "19:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "19:00",
+              "opens": "07:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "703-448-2289"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 09:00-20:00",
+          "Sa 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "20:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "888-289-5196"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "703-448-2201"
+      }
+    ],
+    "id": "4501414"
+  },
+  {
+    "name": "Checkered Flag Porsche",
+    "url": "http://checkered-flag.porschedealer.com",
+    "telephone": "757-490-1111",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Virginia Beach",
+      "streetAddress": "2865 Virginia Beach Blvd.",
+      "postalCode": "23452",
+      "addressRegion": "Virginia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-280-0095"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-891-6208"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-280-0095"
+      }
+    ],
+    "id": "4501415"
+  },
+  {
+    "name": "Town Motor Car Corporation",
+    "url": "http://town-motorcar.porschedealer.com",
+    "telephone": "201-227-6500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Englewood",
+      "streetAddress": "105 Grand Avenue",
+      "postalCode": "07631",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:00-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "201-227-6500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "201-227-6500"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:00-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "201-227-6505"
+      }
+    ],
+    "id": "4501820"
+  },
+  {
+    "name": "Jack Daniels Motors",
+    "url": "http://jack-daniels.porschedealer.com",
+    "telephone": "201-368-7300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Upper Saddle River",
+      "streetAddress": "335 Route 17 South",
+      "postalCode": "07458",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "201-398-1210"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "201-368-7300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "201-316-1260"
+      }
+    ],
+    "id": "4501823"
+  },
+  {
+    "name": "Byers Imports",
+    "url": "http://byers.porschedealer.com",
+    "telephone": "614-864-5180",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbus",
+      "streetAddress": "401 N. Hamilton Road",
+      "postalCode": "43213",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-739-7771"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-876-8932"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-876-8932"
+      }
+    ],
+    "id": "4501155"
+  },
+  {
+    "name": "Blue Grass Motorsport",
+    "url": "http://blue-grass.porschedealer.com",
+    "telephone": "502-894-3428",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Louisville",
+      "streetAddress": "4720 Bowling Boulevard",
+      "postalCode": "40207",
+      "addressRegion": "Kentucky"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "502-515-5881"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "502-894-3428"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "502-515-5871"
+      }
+    ],
+    "id": "4501151"
+  },
+  {
+    "name": "Midwestern Auto Group",
+    "url": "http://midwestern.porschedealer.com",
+    "telephone": "614-889-2571",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dublin",
+      "streetAddress": "6335 Perimeter Loop Rd.",
+      "postalCode": "43017",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "614-889-2571"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "614-889-2571"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "614-889-2571"
+      }
+    ],
+    "id": "4501150"
+  },
+  {
+    "name": "Tom Wood Porsche",
+    "url": "http://tom-wood.porschedealer.com",
+    "telephone": "877-859-5550",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "3473 East 96th Street",
+      "postalCode": "46240",
+      "addressRegion": "Indiana"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "317-848-5550"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "317-848-5550"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "317-848-5550"
+      }
+    ],
+    "id": "4501152"
+  },
+  {
+    "name": "Ed Carroll Porsche",
+    "url": "http://ed-carroll.porschedealer.com",
+    "telephone": "970-226-3000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Collins",
+      "streetAddress": "3003 South College Avenue",
+      "postalCode": "80525",
+      "addressRegion": "Colorado"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "970-226-3000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "970-226-3000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "970-226-3000"
+      }
+    ],
+    "id": "4500413"
+  },
+  {
+    "name": "Niello Porsche",
+    "url": "http://niello.porschedealer.com",
+    "telephone": "916-625-8300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rocklin",
+      "streetAddress": "4525 Granite Drive",
+      "postalCode": "95677",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "916-625-8300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "916-625-8300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "916-625-8300"
+      }
+    ],
+    "id": "4500132"
+  },
+  {
+    "name": "Porsche of Springfield",
+    "url": "http://springfield.porschedealer.com",
+    "telephone": "855-836-6561",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Springfield",
+      "streetAddress": "3145 South Campbell Avenue",
+      "postalCode": "65807",
+      "addressRegion": "Missouri"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-836-6535"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-836-6561"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-835-6307"
+      }
+    ],
+    "id": "4500667"
+  },
+  {
+    "name": "Flemington Porsche",
+    "url": "http://flemington.porschedealer.com",
+    "telephone": "908-782-2400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Flemington",
+      "streetAddress": "Rt. 202-31 South",
+      "postalCode": "08822",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "908-782-2400"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "908-782-2400"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "908-782-2400"
+      }
+    ],
+    "id": "4501555"
+  },
+  {
+    "name": "Porsche of Farmington Hills",
+    "url": "http://farmington-hills.porschedealer.com",
+    "telephone": "248-471-0800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Farmington Hills",
+      "streetAddress": "37911 Grand River Ave.",
+      "postalCode": "48335",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "248-471-0800"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "248-471-0800"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "248-471-0800"
+      }
+    ],
+    "id": "4501312"
+  },
+  {
+    "name": "Fred Lavery Porsche Co.",
+    "url": "http://fred-lavery.porschedealer.com",
+    "telephone": "248-645-5930",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Birmingham",
+      "streetAddress": "34350 Woodward Avenue",
+      "postalCode": "48009",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "248-645-5930"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "248-645-5930"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "248-645-5930"
+      }
+    ],
+    "id": "4501311"
+  },
+  {
+    "name": "Sun Motor Cars Porsche",
+    "url": "http://sun-motor.porschedealer.com",
+    "telephone": "717-691-3333",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mechanicsburg",
+      "streetAddress": "356 Woods Drive",
+      "postalCode": "17050",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "717-691-3333"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "717-691-3333"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "717-691-3333"
+      }
+    ],
+    "id": "4501556"
+  },
+  {
+    "name": "Sonnen Porsche",
+    "url": "http://sonnen.porschedealer.com",
+    "telephone": "415-380-8000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mill Valley",
+      "streetAddress": "900 Redwood Hwy",
+      "postalCode": "94941",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-781-5740"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-781-1730"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "415-380-8000"
+      }
+    ],
+    "id": "4500144"
+  },
+  {
+    "name": "Fathers & Sons Porsche",
+    "url": "http://fathers-sons.porschedealer.com",
+    "telephone": "413-214-6777",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Springfield",
+      "streetAddress": "989 Memorial Avenue",
+      "postalCode": "01089",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo- F 08:00-17:00",
+          "Sa 08:30-12:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "12:30",
+              "opens": "08:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "413-214-6490"
+      },
+      {
+        "openingHours": [
+          "Mo-Th 09:00-20:00",
+          "Fr 09:00-18:00",
+          "Sa 09:00-17:00",
+          "Su 00:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Friday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "17:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Sunday",
+              "closes": "16:00",
+              "opens": "00:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "413-214-6777"
+      },
+      {
+        "openingHours": [
+          "Mo- F 08:00-17:00",
+          "Sa 08:30-12:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "12:30",
+              "opens": "08:30"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "413-214-6489"
+      }
+    ],
+    "id": "4501617"
+  },
+  {
+    "name": "Porsche of Burlington",
+    "url": "http://burlington.porschedealer.com",
+    "telephone": "781-202-3500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Burlington",
+      "streetAddress": "62 Cambridge Street",
+      "postalCode": "01803",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "781-202-3500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "781-202-3500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "781-202-3500"
+      }
+    ],
+    "id": "4501674"
+  },
+  {
+    "name": "Leith Porsche",
+    "url": "http://leith.porschedealer.com",
+    "telephone": "888-462-3059",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cary",
+      "streetAddress": "750 Autopark Blvd",
+      "postalCode": "27511",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888.716.8681"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(888) 462-3059"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888.816.7452"
+      }
+    ],
+    "id": "4501018"
+  },
+  {
+    "name": "Porsche of Peoria",
+    "url": "http://peoria.porschedealer.com",
+    "telephone": "855-656-2233",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peoria",
+      "streetAddress": "2322 Van Winkle Way",
+      "postalCode": "61615",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-656-3019"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-656-2233"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-656-3019"
+      }
+    ],
+    "id": "4501250"
+  },
+  {
+    "name": "Porsche of North Houston",
+    "url": "http://north-houston.porschedealer.com",
+    "telephone": "281-944-2122",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "18111 North Freeway",
+      "postalCode": "77090",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "281-944-2115"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "281-944-2122"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "281-944-2117"
+      }
+    ],
+    "id": "4500751"
+  },
+  {
+    "name": "Porsche of Norwell",
+    "url": "http://norwell.porschedealer.com",
+    "telephone": "781-261-5010",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Norwell",
+      "streetAddress": "98 Accord Park Drive",
+      "postalCode": "02061",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:00-18:00",
+          "Sa 08:00-13:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "13:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "781-261-5020"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "781-261-5010"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:00-18:00",
+          "Sa 08:00-13:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "13:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "781-261-5030"
+      }
+    ],
+    "id": "4501677"
+  },
+  {
+    "name": "Knopf Automotive",
+    "url": "http://knopf.porschedealer.com",
+    "telephone": "1-800-404-6556",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Allentown",
+      "streetAddress": "3401 Lehigh Street",
+      "postalCode": "18103",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-404-6556"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-800-404-6556"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-404-6556"
+      }
+    ],
+    "id": "4501517"
+  },
+  {
+    "name": "Roger Jobs Porsche",
+    "url": "http://roger-jobs.porschedealer.com",
+    "telephone": "360-734-5230",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bellingham",
+      "streetAddress": "2200 Iowa Street",
+      "postalCode": "98229",
+      "addressRegion": "Washington"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "360-734-5230"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "360-734-5230"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "360-734-5230"
+      }
+    ],
+    "id": "4501952"
+  },
+  {
+    "name": "Wyoming Valley Motors",
+    "url": "http://wyoming-valley.porschedealer.com",
+    "telephone": "800-347-8567",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Larksville",
+      "streetAddress": "Route 11, 126 Narrows Rd.",
+      "postalCode": "18651",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "570-288-7411"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "570-288-7411"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "570-288-7411"
+      }
+    ],
+    "id": "4501545"
+  },
+  {
+    "name": "Bert Smith International",
+    "url": "http://bert-smith.porschedealer.com",
+    "telephone": "1-866-869-7677",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "St. Petersburg",
+      "streetAddress": "3800 34th Street North",
+      "postalCode": "33714",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "727-527-1111"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-877-848-6461"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "727-528-1120 ext 593"
+      }
+    ],
+    "id": "4500933"
+  },
+  {
+    "name": "Porsche of Syracuse",
+    "url": "http://syracuse.porschedealer.com",
+    "telephone": "315-699-2661",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cicero",
+      "streetAddress": "5885 East Circle Drive",
+      "postalCode": "13039",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "315-699-2661"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "315-699-2661"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "315-699-2661"
+      }
+    ],
+    "id": "4501548"
+  },
+  {
+    "name": "Jackie Cooper Imports",
+    "url": "http://jackie-cooper.porschedealer.com",
+    "telephone": "888-441-8669",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tulsa",
+      "streetAddress": "9393 S. Memorial",
+      "postalCode": "74133",
+      "addressRegion": "Oklahoma"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-359-4406"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-441.8669"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-554-7117"
+      }
+    ],
+    "id": "4500658"
+  },
+  {
+    "name": "Porsche Santa Barbara",
+    "url": "http://santabarbara.porschedealer.com",
+    "telephone": "805-682-2000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Barbara",
+      "streetAddress": "402 South Hope Avenue",
+      "postalCode": "93105",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "805-563-4200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "805-682-2000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "805-682-2000"
+      }
+    ],
+    "id": "4500257"
+  },
+  {
+    "name": "Porsche of Boise",
+    "url": "http://boise.porschedealer.com",
+    "telephone": "800-621-1775",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Boise",
+      "streetAddress": "7607 W. Gratz Drive",
+      "postalCode": "83709",
+      "addressRegion": "Idaho"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "208-377-3900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "208-377-3900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "208-377-3900"
+      }
+    ],
+    "id": "4500472"
+  },
+  {
+    "name": "Walter's Porsche",
+    "url": "http://walters.porschedealer.com",
+    "telephone": "866-387-0766",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Riverside",
+      "streetAddress": "3210 Adams Auto Center Dr.",
+      "postalCode": "92504",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-656-5003"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-387-0766"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-656-5003"
+      }
+    ],
+    "id": "4500251"
+  },
+  {
+    "name": "Porsche of Bakersfield",
+    "url": "http://bakersfield.porschedealer.com",
+    "telephone": "661-617-6200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bakersfield",
+      "streetAddress": "6000 Wible Road",
+      "postalCode": "93313",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "661-735-1439"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-777-2834"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "661-617-6200"
+      }
+    ],
+    "id": "4500252"
+  },
+  {
+    "name": "Isringhausen Imports",
+    "url": "http://isringhausen.porschedealer.com",
+    "telephone": "877-364-6090",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Springfield",
+      "streetAddress": "229 East Jefferson Street",
+      "postalCode": "62701",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "217-528-2277"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-364-6090        "
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "217-528-2277"
+      }
+    ],
+    "id": "4501148"
+  },
+  {
+    "name": "Porsche of the Village",
+    "url": "http://porschevillage.porschedealer.com",
+    "telephone": "513-271-3200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cincinnati",
+      "streetAddress": "4113 Plainville Road",
+      "postalCode": "45227",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "513-272-7543"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "513-271-3200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "513-271-3200"
+      }
+    ],
+    "id": "4501149"
+  },
+  {
+    "name": "Porsche of Rancho Mirage",
+    "url": "http://rancho-mirage.porschedealer.com",
+    "telephone": "877-900-0740",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rancho Mirage",
+      "streetAddress": "71-387 Highway 111",
+      "postalCode": "92270",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-900-0740"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-900-0740"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-900-0740"
+      }
+    ],
+    "id": "4500259"
+  },
+  {
+    "name": "Porsche of Wichita",
+    "url": "http://wichita.porschedealer.com",
+    "telephone": "800-362-0943",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wichita",
+      "streetAddress": "11212 East Kellogg",
+      "postalCode": "67207",
+      "addressRegion": "Kansas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "316-688-5000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-362-0943"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "316-688-5000"
+      }
+    ],
+    "id": "4500654"
+  },
+  {
+    "name": "Roger Beasley Porsche",
+    "url": "http://roger-beasley.porschedealer.com",
+    "telephone": "512-371-1155",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Austin",
+      "streetAddress": "200 East Huntland Drive",
+      "postalCode": "78752",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "512-371-1155"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "512-371-1155"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "512-467-0083"
+      }
+    ],
+    "id": "4500656"
+  },
+  {
+    "name": "Porsche of Conshohocken",
+    "url": "http://conshohocken.porschedealer.com",
+    "telephone": "610-279-4100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Conshohocken",
+      "streetAddress": "1312 Ridge Pike",
+      "postalCode": "19428",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "610-279-4100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "610-279-4100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "610-279-4100"
+      }
+    ],
+    "id": "4501559"
+  },
+  {
+    "name": "Hendrick Porsche",
+    "url": "http://hendrick.porschedealer.com",
+    "telephone": "888-839-0246",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlotte",
+      "streetAddress": "6824 E Independence Blvd.",
+      "postalCode": "28227",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-419-4405"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-419-4404"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-419-4406"
+      }
+    ],
+    "id": "4501027"
+  },
+  {
+    "name": "Prestige Imports",
+    "url": "http://prestige-imports.porschedealer.com",
+    "telephone": "303-238-8101",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lakewood",
+      "streetAddress": "9201 W. Colfax Ave.",
+      "postalCode": "80215",
+      "addressRegion": "Colorado"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "303-238-8101"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "303-238-8101 / 888-516-2834"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "303-238-8101"
+      }
+    ],
+    "id": "4500416"
+  },
+  {
+    "name": "Porsche of Livermore",
+    "url": "http://livermore.porschedealer.com",
+    "telephone": "866-406-8208",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Livermore",
+      "streetAddress": "3100 Las Positas Road",
+      "postalCode": "94551",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866-406-8208"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-406-8208"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866-406-8208"
+      }
+    ],
+    "id": "4500153"
+  },
+  {
+    "name": "Porsche of Stevens Creek",
+    "url": "http://stevens-creek.porschedealer.com",
+    "telephone": "408-247-1655",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Clara",
+      "streetAddress": "4155 Stevens Creek Blvd",
+      "postalCode": "95051",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "408-247-1655"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "408-247-1655"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "408-260-6143"
+      }
+    ],
+    "id": "4500150"
+  },
+  {
+    "name": "Porsche of Fremont",
+    "url": "http://fremont.porschedealer.com",
+    "telephone": "877-291-5598",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fremont",
+      "streetAddress": "5740 Cushing Parkway",
+      "postalCode": "94538",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-363-5134"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-291-5598"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-216-9443"
+      }
+    ],
+    "id": "4500151"
+  },
+  {
+    "name": "Porsche of Destin",
+    "url": "http://destin.porschedealer.com",
+    "telephone": "850-650-0884",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Destin",
+      "streetAddress": "808 Airport Road",
+      "postalCode": "32541",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "850-650-0884"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "850-650-0884"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "850-650-0884"
+      }
+    ],
+    "id": "4500954"
+  },
+  {
+    "name": "Rusnak/Westlake",
+    "url": "http://rusnak-westlake.porschedealer.com",
+    "telephone": "844-298-0125",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Thousand Oaks",
+      "streetAddress": "3839 Auto Mall Drive",
+      "postalCode": "91362",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-578-8246"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "844-298-0125"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-579-1454"
+      }
+    ],
+    "id": "4500232"
+  },
+  {
+    "name": "Porsche of Fort Myers",
+    "url": "http://fort-myers.porschedealer.com",
+    "telephone": "239-225-7601",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Myers",
+      "streetAddress": "10064 Daniels Interstate Ct.",
+      "postalCode": "33913",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "239-225-7631"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "239-225-7601"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "239-225-7601"
+      }
+    ],
+    "id": "4500952"
+  },
+  {
+    "name": "Porsche of Ocala",
+    "url": "http://ocala.porschedealer.com",
+    "telephone": "352-861-0234",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ocala",
+      "streetAddress": "5155 S. W. College Road",
+      "postalCode": "34474",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "352-861-0234"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "352-861-0234"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "352-861-0234"
+      }
+    ],
+    "id": "4500953"
+  },
+  {
+    "name": "Porsche of Melbourne",
+    "url": "http://melbourne.porschedealer.com",
+    "telephone": "800-719-6627",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Melbourne",
+      "streetAddress": "509 East NASA Boulevard",
+      "postalCode": "32901",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-719-6628"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-719-6627"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-719-6628"
+      }
+    ],
+    "id": "4500950"
+  },
+  {
+    "name": "Porsche of Fresno",
+    "url": "http://fresno.porschedealer.com",
+    "telephone": "559-860-4000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fresno",
+      "streetAddress": "7121 N. Palm Avenue",
+      "postalCode": "93650",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "559-860-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "559-860-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "559-860-4000"
+      }
+    ],
+    "id": "4500258"
+  },
+  {
+    "name": "Porsche of New Orleans",
+    "url": "http://neworleans.porschedealer.com",
+    "telephone": "504-832-2112",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Metairie",
+      "streetAddress": "3700 N. Causeway Boulevard",
+      "postalCode": "70002",
+      "addressRegion": "Louisiana"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "504-832-2112"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "504-832-2112"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "504-832-2112"
+      }
+    ],
+    "id": "4500669"
+  },
+  {
+    "name": "Autobahn Motorcars",
+    "url": "http://autobahn.porschedealer.com",
+    "telephone": "817-336-0885",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Worth",
+      "streetAddress": "2815 White Settlement Road",
+      "postalCode": "76107",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "817-390-3824"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "817-390-3828"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "817-336-0885"
+      }
+    ],
+    "id": "4500646"
+  },
+  {
+    "name": "Ray Catena Porsche",
+    "url": "http://ray-catena.porschedealer.com",
+    "telephone": "732-205-9000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Edison",
+      "streetAddress": "920 U.S. Highway One",
+      "postalCode": "08817",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "732-205-9010"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "732-205-9000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "732-205-9010"
+      }
+    ],
+    "id": "4501537"
+  },
+  {
+    "name": "Porsche, North Scottsdale",
+    "url": "http://scottsdale.porschedealer.com",
+    "telephone": "480-538-3800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Phoenix",
+      "streetAddress": "18000 N. Scottsdale Road",
+      "postalCode": "85054",
+      "addressRegion": "Arizona"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-716-1277"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-704-4061"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-716-1795"
+      }
+    ],
+    "id": "4500430"
+  },
+  {
+    "name": "Bob Moore Porsche",
+    "url": "http://bob-moore.porschedealer.com",
+    "telephone": "866-347-5898",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Oklahoma City",
+      "streetAddress": "12910 N. Broadway",
+      "postalCode": "73114",
+      "addressRegion": "Oklahoma"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "405-748-8001"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-347-5898"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "405-748-8001"
+      }
+    ],
+    "id": "4500641"
+  },
+  {
+    "name": "Len Stoler Porsche",
+    "url": "http://len-stoler.porschedealer.com",
+    "telephone": "410-581-7000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Owings Mills",
+      "streetAddress": "11309 Reisterstown Road",
+      "postalCode": "21117",
+      "addressRegion": "Maryland"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "(443) 541-4630"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(443) 541-4630"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "(443) 541-4630"
+      }
+    ],
+    "id": "4501433"
+  },
+  {
+    "name": "Porsche of Buffalo",
+    "url": "http://buffalo.porschedealer.com",
+    "telephone": "1-888-245-8722",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Williamsville",
+      "streetAddress": "8135 Main Street",
+      "postalCode": "14231",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "716-923-2108"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-798-8728"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "716-929-3720"
+      }
+    ],
+    "id": "4501728"
+  },
+  {
+    "name": "Porsche of Silver Spring",
+    "url": "http://silverspring.porschedealer.com",
+    "telephone": "1-866-963-5812",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Silver Spring",
+      "streetAddress": "3141 Automobile Blvd",
+      "postalCode": "20904",
+      "addressRegion": "Maryland"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "301-847-2506"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-963-5812 "
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "301-679-4420"
+      }
+    ],
+    "id": "4501435"
+  },
+  {
+    "name": "Momentum Porsche",
+    "url": "http://momentum.porschedealer.com",
+    "telephone": "800-548-2510",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "10155 Southwest Freeway",
+      "postalCode": "77074",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-439-4129"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-548-2510"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-439-1817"
+      }
+    ],
+    "id": "4500664"
+  },
+  {
+    "name": "Porsche of Downtown L.A.",
+    "url": "http://downtown-la.porschedealer.com",
+    "telephone": "888-682-1025",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Los Angeles",
+      "streetAddress": "1900 South Figueroa Street",
+      "postalCode": "90007",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-862-7186"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-682-1025"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-814-6958"
+      }
+    ],
+    "id": "4500240"
+  },
+  {
+    "name": "Moffitt Porsche",
+    "url": "http://moffitt.porschedealer.com",
+    "telephone": "318-746-2175",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bossier City",
+      "streetAddress": "1960 Old Minden Rd.",
+      "postalCode": "71111",
+      "addressRegion": "Louisiana"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "318-746-2175"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "318-746-2175"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-727-2639"
+      }
+    ],
+    "id": "4500630"
+  },
+  {
+    "name": "Gaudin Porsche of Las Vegas",
+    "url": "http://gaudin.porschedealer.com",
+    "telephone": "702-284-7000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Las Vegas",
+      "streetAddress": "7200 W. Sahara Avenue",
+      "postalCode": "89117",
+      "addressRegion": "Nevada"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "702-221-4444 Service"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-866-516-2151"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "702-284-4400"
+      }
+    ],
+    "id": "4500244"
+  },
+  {
+    "name": "Beverly Hills Porsche",
+    "url": "http://beverly-hills.porschedealer.com",
+    "telephone": "310-557-2472",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Beverly Hills",
+      "streetAddress": "8425 Wilshire Blvd.",
+      "postalCode": "90211",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-711-2748"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-391-3469"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-711-2748"
+      }
+    ],
+    "id": "4500248"
+  },
+  {
+    "name": "Sewickley Porsche",
+    "url": "http://sewickley.porschedealer.com",
+    "telephone": "412-741-6400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sewickley",
+      "streetAddress": "526 Ohio River Blvd",
+      "postalCode": "15143",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "412-749-8499"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "412-741-6400"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "412-741-6400"
+      }
+    ],
+    "id": "4501131"
+  },
+  {
+    "name": "Baker Motor Company",
+    "url": "http://baker.porschedealer.com",
+    "telephone": "843-852-4000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charleston",
+      "streetAddress": "1511-1513 Savannah Highway",
+      "postalCode": "29407",
+      "addressRegion": "South Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "843-852-4030"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "843-852-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "843-852-4020"
+      }
+    ],
+    "id": "4501036"
+  },
+  {
+    "name": "Auto Palace Porsche",
+    "url": "http://auto-palace.porschedealer.com",
+    "telephone": "800-520-5756",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pittsburgh",
+      "streetAddress": "4627 Baum Blvd.",
+      "postalCode": "15213",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "412-687-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "412-687-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "412-687-4000"
+      }
+    ],
+    "id": "4501159"
+  },
+  {
+    "name": "Performance Porsche",
+    "url": "http://performance.porschedealer.com",
+    "telephone": " 888-309-3545",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chapel Hill",
+      "streetAddress": "1810 Durham-Chapel Hill Boulevard ",
+      "postalCode": "27514",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-309-3545"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": " 888-309-3545"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-309-3545"
+      }
+    ],
+    "id": "4501034"
+  },
+  {
+    "name": "Porsche of Greensboro",
+    "url": "http://greensboro.porschedealer.com",
+    "telephone": "336-294-0200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greensboro",
+      "streetAddress": "5603 Roanne Way",
+      "postalCode": "27409",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "336-294-0200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "336-294-0200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "336-294-0200"
+      }
+    ],
+    "id": "4501035"
+  },
+  {
+    "name": "Porsche of Kings Automall",
+    "url": "http://kings-automall.porschedealer.com",
+    "telephone": "513-851-5900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cincinnati",
+      "streetAddress": "9847 Kings Automall Road",
+      "postalCode": "45249",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "513-851-5900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "513-851-5900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "513-851-5900"
+      }
+    ],
+    "id": "4501158"
+  },
+  {
+    "name": "Paul Miller Porsche",
+    "url": "http://paul-miller.porschedealer.com",
+    "telephone": "973-227-3000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Parsippany",
+      "streetAddress": "250 Route 46 West",
+      "postalCode": "07054",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "973-227-3000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "973-227-3000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "973-227-3000"
+      }
+    ],
+    "id": "4501528"
+  },
+  {
+    "name": "Champion Porsche",
+    "url": "http://champion.porschedealer.com",
+    "telephone": "800-940-4020",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pompano Beach",
+      "streetAddress": "500 West Copans Road",
+      "postalCode": "33064",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "954-946-4020"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-940-4020"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "954-946-4020"
+      }
+    ],
+    "id": "4500925"
+  },
+  {
+    "name": "Porsche of Bend",
+    "url": "http://bend.porschedealer.com",
+    "telephone": "855-982-8897",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bend",
+      "streetAddress": "1045 S. E. 3rd. Street",
+      "postalCode": "97702",
+      "addressRegion": "Oregon"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "541-382-1711 x 316"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-982-8897"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "541-382-1711 x 359"
+      }
+    ],
+    "id": "4502069"
+  },
+  {
+    "name": "Herb Chambers Porsche",
+    "url": "http://chambers.porschedealer.com",
+    "telephone": "888-840-2174",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Boston",
+      "streetAddress": "1172 Commonwealth Avenue",
+      "postalCode": "02134",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "617-278-9300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-840-2174"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "617-278-9300"
+      }
+    ],
+    "id": "4501664"
+  },
+  {
+    "name": "Porsche of the Fox Valley",
+    "url": "http://foxvalley.porschedealer.com",
+    "telephone": "920-968-5600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Appleton",
+      "streetAddress": "3030 Victory Lane",
+      "postalCode": "54913",
+      "addressRegion": "Wisconsin"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "920-968-5600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "920-968-5600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "920-968-5600"
+      }
+    ],
+    "id": "4500583"
+  },
+  {
+    "name": "Harris Porsche",
+    "url": "http://harris.porschedealer.com",
+    "telephone": "225-754-1500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Baton Rouge",
+      "streetAddress": "12325 Airline Highway",
+      "postalCode": "70817",
+      "addressRegion": "Louisiana"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "225-754-1500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "225-754-1500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "225-754-1500"
+      }
+    ],
+    "id": "4500738"
+  },
+  {
+    "name": "Porsche of Cherry Hill",
+    "url": "http://cherry-hill.porschedealer.com",
+    "telephone": "856-665-5370",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cherry Hill",
+      "streetAddress": "2261 West Route 70",
+      "postalCode": "08002",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "856-665-5370"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "856-665-5370"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "856-665-5370"
+      }
+    ],
+    "id": "4501523"
+  },
+  {
+    "name": "Schneider + Nelson Porsche",
+    "url": "http://schneider-nelson.porschedealer.com",
+    "telephone": "732-935-7600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "W.Long Branch",
+      "streetAddress": "280 Highway 36",
+      "postalCode": "07764",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "732-935-7600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "732-935-7600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "732-389-4670"
+      }
+    ],
+    "id": "4501527"
+  },
+  {
+    "name": "Aristocrat Motors",
+    "url": "http://aristocrat.porschedealer.com",
+    "telephone": "913-677-3300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Merriam",
+      "streetAddress": "9400 W. 65th Street",
+      "postalCode": "66203",
+      "addressRegion": "Kansas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "913-677-3300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "913-677-3300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "913-677-3300"
+      }
+    ],
+    "id": "4500581"
+  },
+  {
+    "name": "Joe Rizza Porsche",
+    "url": "http://joe-rizza.porschedealer.com",
+    "telephone": "800-728-0866",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Orland Park",
+      "streetAddress": "8130 W. 159th Street",
+      "postalCode": "60462",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-17:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "708-364-2412"
+      },
+      {
+        "openingHours": [
+          "Mo-Th 09:00-20:00",
+          "Fr 09:00-19:00",
+          "Sa 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "20:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Friday",
+              "closes": "19:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "800.728.0866"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-17:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "08:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "708-403-0300"
+      }
+    ],
+    "id": "4500580"
+  },
+  {
+    "name": "Porsche of Jackson",
+    "url": "http://jackson.porschedealer.com",
+    "telephone": "601-956-4211",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jackson",
+      "streetAddress": "5385 Interstate 55 North",
+      "postalCode": "39206",
+      "addressRegion": "Mississippi"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "601-956-4211"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "601-956-4211"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "601-991-0226"
+      }
+    ],
+    "id": "4500851"
+  },
+  {
+    "name": "Loeber Motors",
+    "url": "http://loeber.porschedealer.com",
+    "telephone": "888-882-3507",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lincolnwood",
+      "streetAddress": "7101 North Lincoln Avenue",
+      "postalCode": "60712",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "847-933-7762"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-231-5983"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "847-933-7762"
+      }
+    ],
+    "id": "4500582"
+  },
+  {
+    "name": "Porsche of Minneapolis",
+    "url": "http://minneapolis.porschedealer.com",
+    "telephone": "763-744-9191",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Minneapolis",
+      "streetAddress": "9191 Wayzata Blvd.",
+      "postalCode": "55426",
+      "addressRegion": "Minnesota"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "763-744-9191"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "763-744-9191"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "763-744-9191"
+      }
+    ],
+    "id": "4500585"
+  },
+  {
+    "name": "Porsche of Quad Cities",
+    "url": "http://quadcities.porschedealer.com",
+    "telephone": "563-445-4305",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Davenport",
+      "streetAddress": "3602 N. Harrison St.",
+      "postalCode": "52806",
+      "addressRegion": "Iowa"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-379-1753"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-394-4647"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-319-3678"
+      }
+    ],
+    "id": "4500584"
+  },
+  {
+    "name": "Porsche of St. Paul",
+    "url": "http://stpaul.porschedealer.com",
+    "telephone": "651-483-2681",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Maplewood",
+      "streetAddress": "2780 Maplewood Drive",
+      "postalCode": "55109",
+      "addressRegion": "Minnesota"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "651-483-2681"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "651-483-2681"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "651-483-2681"
+      }
+    ],
+    "id": "4500586"
+  },
+  {
+    "name": "Porsche of Charlottesville",
+    "url": "http://charlottesville.porschedealer.com",
+    "telephone": "434-296-4147",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlottesville",
+      "streetAddress": "1313 Richmond Road",
+      "postalCode": "22911",
+      "addressRegion": "Virginia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "434-296-4147"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "434-296-4147"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "434-296-4147"
+      }
+    ],
+    "id": "4501448"
+  },
+  {
+    "name": "Porsche of Annapolis",
+    "url": "http://annapolis.porschedealer.com",
+    "telephone": "443-837-2600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Annapolis",
+      "streetAddress": "20 Hudson Street",
+      "postalCode": "21401",
+      "addressRegion": "Maryland"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "443-837-2635"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "443-837-2600"
+      },
+      {
+        "openingHours": [
+          "Mo- F 08:00-17:00"
+        ],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "443-837-2620"
+      }
+    ],
+    "id": "4501446"
+  },
+  {
+    "name": "Euroclassics Porsche",
+    "url": "http://euroclassics.porschedealer.com",
+    "telephone": "804-794-6868",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Midlothian",
+      "streetAddress": "11900 Midlothian Turnpike",
+      "postalCode": "23113",
+      "addressRegion": "Virginia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "804-794-3399"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "804-794-6868"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "804-794-3399"
+      }
+    ],
+    "id": "4501444"
+  },
+  {
+    "name": "Porsche of Arlington",
+    "url": "http://arlington.porschedealer.com",
+    "telephone": "703-684-6660",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Arlington",
+      "streetAddress": "3100 Jefferson Davis Highway",
+      "postalCode": "22202",
+      "addressRegion": "Virginia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "703-684-6660"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "703-684-6660"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "703-684-6660"
+      }
+    ],
+    "id": "4501443"
+  },
+  {
+    "name": "Porsche of Rockville",
+    "url": "http://rockville.porschedealer.com",
+    "telephone": "301-296-2800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rockville",
+      "streetAddress": "1125 Rockville Pike",
+      "postalCode": "20852",
+      "addressRegion": "Maryland"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "301-296-2800"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "301-296-2800"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "301-296-2800"
+      }
+    ],
+    "id": "4501442"
+  },
+  {
+    "name": "Porsche of Fayetteville",
+    "url": "http://fayetteville.porschedealer.com",
+    "telephone": "855-530-4347",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fayetteville",
+      "streetAddress": "3211 Bragg Blvd.",
+      "postalCode": "28303",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-530-4347"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-530-4347"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-530-4347"
+      }
+    ],
+    "id": "4501049"
+  },
+  {
+    "name": "Harmony Motors",
+    "url": "http://asheville.porschedealer.com",
+    "telephone": "828-232-4000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Asheville",
+      "streetAddress": "621 Brevard Road",
+      "postalCode": "28806",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "828-225-5158"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "828-232-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "828-232-4002"
+      }
+    ],
+    "id": "4501048"
+  },
+  {
+    "name": "White-Allen European Auto Group",
+    "url": "http://white-allen.porschedealer.com",
+    "telephone": "937-291-6000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dayton",
+      "streetAddress": "648 N. Springboro Pike",
+      "postalCode": "45449",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-292-1562"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-292-1562"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-292-1562"
+      }
+    ],
+    "id": "4501121"
+  },
+  {
+    "name": "Hoehn Motors",
+    "url": "http://hoehn.porschedealer.com",
+    "telephone": "760-438-4434",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Carlsbad",
+      "streetAddress": "6800 Avenida Encinas",
+      "postalCode": "92011",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "760-438-4434"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "760-438-4434"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "760-438-0311"
+      }
+    ],
+    "id": "4500338"
+  },
+  {
+    "name": "McDaniels Porsche",
+    "url": "http://mcdaniels.porschedealer.com",
+    "telephone": "803-754-1113",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbia",
+      "streetAddress": "6409 Two Notch Road",
+      "postalCode": "29223",
+      "addressRegion": "South Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "803-754-1113"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "803-754-1113"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "803-754-1113"
+      }
+    ],
+    "id": "4501042"
+  },
+  {
+    "name": "McKenna Porsche",
+    "url": "http://mckenna.porschedealer.com",
+    "telephone": "877-850-0065",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Norwalk",
+      "streetAddress": "10830 Firestone Boulevard",
+      "postalCode": "90650",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-850-0065"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-850-0065"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-850-0065"
+      }
+    ],
+    "id": "4500334"
+  },
+  {
+    "name": "Circle Porsche",
+    "url": "http://circle.porschedealer.com",
+    "telephone": "562-494-1911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Long Beach",
+      "streetAddress": "1850 Outer Traffic Circle",
+      "postalCode": "90815",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "562-494-1911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "562-494-1911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "562-494-1911"
+      }
+    ],
+    "id": "4500335"
+  },
+  {
+    "name": "Porsche of Greenville",
+    "url": "http://greenville.porschedealer.com",
+    "telephone": "877-434-5408",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenville",
+      "streetAddress": "2668 Laurens Road",
+      "postalCode": "29607",
+      "addressRegion": "South Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-434-5408"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-434-5408"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-434-5408"
+      }
+    ],
+    "id": "4501047"
+  },
+  {
+    "name": "Porsche of Hickory",
+    "url": "http://hickory.porschedealer.com",
+    "telephone": "828-328-1050",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hickory",
+      "streetAddress": "1205 South Center Street",
+      "postalCode": "28602",
+      "addressRegion": "North Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "828-328-1050"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "828-328-1050"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "828-328-1050"
+      }
+    ],
+    "id": "4501046"
+  },
+  {
+    "name": "Porsche of Nashville",
+    "url": "http://nashville.porschedealer.com",
+    "telephone": "855-409-2487",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Brentwood",
+      "streetAddress": "1580 Mallory Lane",
+      "postalCode": "37027",
+      "addressRegion": "Tennessee"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-445-3133"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-409-2487"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855-472-9712"
+      }
+    ],
+    "id": "4501045"
+  },
+  {
+    "name": "Brumos Porsche",
+    "url": "http://brumos.porschedealer.com",
+    "telephone": "888-758-9054",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "10100 Atlantic Blvd.",
+      "postalCode": "32225",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "888-840-5746"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 09:00-19:30",
+          "Sa 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "19:30",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "19:30",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "19:30",
+              "opens": "09:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "19:30",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "888-758-9054"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "866-288-6659"
+      }
+    ],
+    "id": "4500930"
+  },
+  {
+    "name": "Manhattan Motorcars",
+    "url": "http://manhattan.porschedealer.com",
+    "telephone": "877-398-5126",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New York",
+      "streetAddress": "262-270 Eleventh Avenue",
+      "postalCode": "10001",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "212-594-6200"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-19:00",
+          "Sa 10:00-17:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "19:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "19:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "19:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "19:00",
+              "opens": "08:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "17:00",
+              "opens": "10:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "877-398-5126"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-17:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:30",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:30",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:30",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:30",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "212-594-6200"
+      }
+    ],
+    "id": "4501842"
+  },
+  {
+    "name": "Legend Autorama",
+    "url": "http://legend.porschedealer.com",
+    "telephone": "1-888-70-PORSCHE",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Massapequa",
+      "streetAddress": "5775 Merrick Road",
+      "postalCode": "11758",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "516 798 8100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-888-70-PORSCHE"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "516 798-8100"
+      }
+    ],
+    "id": "4501840"
+  },
+  {
+    "name": "Braman Motorcars",
+    "url": "http://braman.porschedealer.com",
+    "telephone": "561-615-4800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Palm Beach",
+      "streetAddress": "2801 Okeechobee Blvd.",
+      "postalCode": "33409",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "561-615-4854"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-745-2259"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "561-615-4878"
+      }
+    ],
+    "id": "4500935"
+  },
+  {
+    "name": "Porsche of Reno",
+    "url": "http://reno.porschedealer.com",
+    "telephone": "775-826-2100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Reno",
+      "streetAddress": "11555 South Virginia Street",
+      "postalCode": "89511",
+      "addressRegion": "Nevada"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "775-826-2100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "775-826-2100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "775-826-2100"
+      }
+    ],
+    "id": "4500148"
+  },
+  {
+    "name": "Porsche of Beachwood",
+    "url": "http://beachwood.porschedealer.com",
+    "telephone": "216-763-4911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Beachwood",
+      "streetAddress": "25855 Chargrin Boulevard",
+      "postalCode": "44122",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "216-763-4911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-434-6651"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "216-763-4911"
+      }
+    ],
+    "id": "4501352"
+  },
+  {
+    "name": "Porsche of The Motor City",
+    "url": "http://porscheofthemotorcity.porschedealer.com",
+    "telephone": "586-435-8200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Eastpointe",
+      "streetAddress": "24717 Gratiot Avenue",
+      "postalCode": "48021",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "586-435-8200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "586-435-8200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "586-435-8200"
+      }
+    ],
+    "id": "4501351"
+  },
+  {
+    "name": "Porsche of Ann Arbor",
+    "url": "http://ann-arbor.porschedealer.com",
+    "telephone": "734-761-3200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ann Arbor",
+      "streetAddress": "2575 S. State Street",
+      "postalCode": "48104",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-761-9957"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "734-761-3200"
+      },
+      {
+        "openingHours": [
+          "Tu 07:30-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Tuesday thru Friday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "888-761-9948"
+      }
+    ],
+    "id": "4501355"
+  },
+  {
+    "name": "Porsche of Rochester",
+    "url": "http://rochester.porschedealer.com",
+    "telephone": "585-334-1600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rochester",
+      "streetAddress": "3955 Henrietta Road",
+      "postalCode": "14623",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "585-334-1600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "585-334-1600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "585-334-2221"
+      }
+    ],
+    "id": "4501354"
+  },
+  {
+    "name": "Rick Hill Imports",
+    "url": "http://rick-hill.porschedealer.com",
+    "telephone": "423-224-2100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kingsport",
+      "streetAddress": "865 East Stone Drive",
+      "postalCode": "37660",
+      "addressRegion": "Tennessee"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "423-224-2110"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "423-224-2100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "423-224-2117"
+      }
+    ],
+    "id": "4500840"
+  },
+  {
+    "name": "Michael Stead Porsche",
+    "url": "http://michael-stead.porschedealer.com",
+    "telephone": "925-280-4900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Walnut Creek",
+      "streetAddress": "2555 North Main Street",
+      "postalCode": "94597",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "925-280-4363"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "925-280-4900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "925-280-4364"
+      }
+    ],
+    "id": "4500146"
+  },
+  {
+    "name": "Harper Porsche",
+    "url": "http://harper.porschedealer.com",
+    "telephone": "865-691-2834",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Knoxville",
+      "streetAddress": "9735 Kingston Pike",
+      "postalCode": "37922",
+      "addressRegion": "Tennessee"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "865-691-2834"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "865-691-2834"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-382-2787"
+      }
+    ],
+    "id": "4500842"
+  },
+  {
+    "name": "Autohaus Lancaster, Inc.",
+    "url": "http://autohaus-lancaster.porschedealer.com",
+    "telephone": "1-866-356-8577",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lancaster",
+      "streetAddress": "1373 Manheim Pike",
+      "postalCode": "17601",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00",
+          "Sa 08:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "717-299-2801"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-866-356-8577"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-18:00",
+          "Sa 08:00-15:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "08:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "15:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "717-299-2801"
+      }
+    ],
+    "id": "4501511"
+  },
+  {
+    "name": "Porsche of Wallingford",
+    "url": "http://wallingford.porschedealer.com",
+    "telephone": "203-294-9000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wallingford",
+      "streetAddress": "800 S. Colony Street",
+      "postalCode": "06492",
+      "addressRegion": "Connecticut"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "203-269-3317"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "203-294-9000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "203-269-3318"
+      }
+    ],
+    "id": "4501668"
+  },
+  {
+    "name": "Porsche of Salt Lake City",
+    "url": "http://saltlakecity.porschedealer.com",
+    "telephone": "801-531-9900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Salt Lake City",
+      "streetAddress": "1045 S. State Street",
+      "postalCode": "84111",
+      "addressRegion": "Utah"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "801-531-9900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "801-531-9900 "
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "801-531-9900"
+      }
+    ],
+    "id": "4500452"
+  },
+  {
+    "name": "Hoffman Porsche",
+    "url": "http://hoffman.porschedealer.com",
+    "telephone": "860-289-7721",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "East Hartford",
+      "streetAddress": "630 Connecticut Blvd.",
+      "postalCode": "06108",
+      "addressRegion": "Connecticut"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "860-289-7721"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "860-289-7721"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "860-289-7721"
+      }
+    ],
+    "id": "4501712"
+  },
+  {
+    "name": "Porsche of Chattanooga",
+    "url": "http://chattanooga.porschedealer.com",
+    "telephone": "423-424-0500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chattanooga",
+      "streetAddress": "7648 Lee Highway",
+      "postalCode": "37421",
+      "addressRegion": "Tennessee"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "423-424-0500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "423-424-0500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "423-424-0500"
+      }
+    ],
+    "id": "4500746"
+  },
+  {
+    "name": "Porsche of Huntsville",
+    "url": "http://huntsville.porschedealer.com",
+    "telephone": "256-713-0114",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntsville",
+      "streetAddress": "3800 University Dr",
+      "postalCode": "35816",
+      "addressRegion": "Alabama"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "256-713-0192"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "256-536-3800"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "256-713-0143"
+      }
+    ],
+    "id": "4500745"
+  },
+  {
+    "name": "Porsche of Hilton Head",
+    "url": "http://hilton-head.porschedealer.com",
+    "telephone": "843-208-3300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hardeeville",
+      "streetAddress": "107 Drivers Way",
+      "postalCode": "29927",
+      "addressRegion": "South Carolina"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "843-208-3300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "843-208-3300"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "843-208-3300"
+      }
+    ],
+    "id": "4500744"
+  },
+  {
+    "name": "Porsche of Towson",
+    "url": "http://towson.porschedealer.com",
+    "telephone": "888-481-7748",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Towson",
+      "streetAddress": "700 Kenilworth Drive",
+      "postalCode": "21204",
+      "addressRegion": "Maryland"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-481-7971"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-481-7748"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-481-7971"
+      }
+    ],
+    "id": "4501450"
+  },
+  {
+    "name": "Porsche of San Antonio",
+    "url": "http://san-antonio.porschedealer.com",
+    "telephone": "210-738-3499",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Antonio",
+      "streetAddress": "9455 IH-10 West",
+      "postalCode": "78230",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "210-764-4251"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "210-764-6831"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "210-764-4251"
+      }
+    ],
+    "id": "4500741"
+  },
+  {
+    "name": "Valley Imports",
+    "url": "http://valley-imports.porschedealer.com",
+    "telephone": " (888) 863-0367 ",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fargo",
+      "streetAddress": "402 40th Street S.",
+      "postalCode": "58103",
+      "addressRegion": "North Dakota"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "(888) 859-5491"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(888) 863-0367 "
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "(888) 859-5491"
+      }
+    ],
+    "id": "4500511"
+  },
+  {
+    "name": "D-Patrick",
+    "url": "http://d-patrick.porschedealer.com",
+    "telephone": "812-473-6500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Evansville",
+      "streetAddress": "200 N. Green River Road",
+      "postalCode": "47715",
+      "addressRegion": "Indiana"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "812-473-6507"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "812-471-7778"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "812-473-6526"
+      }
+    ],
+    "id": "4501110"
+  },
+  {
+    "name": "Porsche of Hawaii",
+    "url": "http://hawaii.porschedealer.com",
+    "telephone": "808-591-1911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Honolulu",
+      "streetAddress": "730 Ala Moana Boulevard",
+      "postalCode": "96813",
+      "addressRegion": "Hawaii"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "808-592-3933"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "808-591-1911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "808-592-3945"
+      }
+    ],
+    "id": "4500349"
+  },
+  {
+    "name": "Pacific Porsche",
+    "url": "http://pacific.porschedealer.com",
+    "telephone": "424-271-3822",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Torrance",
+      "streetAddress": "2900 Pacific Coast Highway",
+      "postalCode": "90505",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "424-271-3822"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "424-271-3822"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "424-271-3822"
+      }
+    ],
+    "id": "4500348"
+  },
+  {
+    "name": "Rusnak/Pasadena",
+    "url": "http://rusnak-pasadena.porschedealer.com",
+    "telephone": "855-582-2837",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pasadena",
+      "streetAddress": "325 W. Colorado Blvd.",
+      "postalCode": "91105",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "855-582-3443"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-582-2837"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "855.582.5251"
+      }
+    ],
+    "id": "4500223"
+  },
+  {
+    "name": "Porsche of Monterey",
+    "url": "http://monterey.porschedealer.com",
+    "telephone": "866-681-7801",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Seaside",
+      "streetAddress": "1781 Del Monte Boulevard",
+      "postalCode": "93955",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866-221-9418"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-681-7801"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "831-583-4830"
+      }
+    ],
+    "id": "4500152"
+  },
+  {
+    "name": "Sunset Porsche",
+    "url": "http://sunset.porschedealer.com",
+    "telephone": "503-641-8600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Beaverton",
+      "streetAddress": "4030 SW 139th Way",
+      "postalCode": "97005",
+      "addressRegion": "Oregon"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "503-641-8600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "503-641-8600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "503-641-8600"
+      }
+    ],
+    "id": "4502040"
+  },
+  {
+    "name": "Porsche Plano",
+    "url": "http://plano.porschedealer.com",
+    "telephone": "972-249-0910",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Plano",
+      "streetAddress": "5924 W. Plano Pkwy",
+      "postalCode": "75093",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "214-576-1920"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(972) 249-0910"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "214-576-1930"
+      }
+    ],
+    "id": "4500670"
+  },
+  {
+    "name": "Porsche Fort Wayne",
+    "url": "http://porschefortwayne.porschedealer.com",
+    "telephone": "855-395-4556",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Wayne",
+      "streetAddress": "5611 Illinois Road",
+      "postalCode": "46804",
+      "addressRegion": "Indiana"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:30",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "260-435-5385"
+      },
+      {
+        "openingHours": [
+          "Mo 08:30-20:00",
+          "We 08:30-18:00",
+          "Sa 09:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday, Tuesday, Thursday",
+              "closes": "20:00",
+              "opens": "08:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Wednesday &amp; Friday",
+              "closes": "18:00",
+              "opens": "08:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "855-395-4565"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:30",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "260-435-5400"
+      }
+    ],
+    "id": "4501341"
+  },
+  {
+    "name": "Porsche Grand Rapids",
+    "url": "http://grandrapids.porschedealer.com",
+    "telephone": "616-988-9797",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Grand Rapids",
+      "streetAddress": "6025 28th Street SE",
+      "postalCode": "49546",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866-262-0231"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-264-5938"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866-262-0231"
+      }
+    ],
+    "id": "4501346"
+  },
+  {
+    "name": "Porsche of Okemos",
+    "url": "http://okemos.porschedealer.com",
+    "telephone": "517-853-2600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Okemos",
+      "streetAddress": "2186 Jolly Road",
+      "postalCode": "48864",
+      "addressRegion": "Michigan"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "517-853-2600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "517-853-2600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "517-853-2600"
+      }
+    ],
+    "id": "4501347"
+  },
+  {
+    "name": "Porsche of North Olmsted",
+    "url": "http://north-olmsted.porschedealer.com",
+    "telephone": "440-249-6044",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "North Olmsted",
+      "streetAddress": "28400 Lorain Road",
+      "postalCode": "44070",
+      "addressRegion": "Ohio"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-18:00",
+          "Sa 08:00-12:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "12:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "440-249-6047"
+      },
+      {
+        "openingHours": [
+          "Mo 09:00-20:00",
+          "Tu 09:00-19:00",
+          "Fr 09:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday and Thursday",
+              "closes": "20:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Tuesday and Wednesday",
+              "closes": "19:00",
+              "opens": "09:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Friday and Saturday",
+              "closes": "18:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Sales",
+        "telephone": "440-249-6044"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:30",
+          "Sa 08:00-12:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:30",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "12:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "440-716-2720"
+      }
+    ],
+    "id": "4501349"
+  },
+  {
+    "name": "Porsche of Stratham",
+    "url": "http://stratham.porschedealer.com",
+    "telephone": "(855) 446-6717",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Stratham",
+      "streetAddress": "60 Portsmouth Avenue",
+      "postalCode": "03885",
+      "addressRegion": "New Hampshire"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "(855) 533-7641"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(855) 446-6717"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "(855) 533-7641"
+      }
+    ],
+    "id": "4501670"
+  },
+  {
+    "name": "Porsche of Danvers",
+    "url": "http://danvers.porschedealer.com",
+    "telephone": "1-866-CALL-IRA",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Danvers",
+      "streetAddress": "97C Andover Street",
+      "postalCode": "01923",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "978-739-8804"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-866-CALL-IRA"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "978-739-8830"
+      }
+    ],
+    "id": "4501671"
+  },
+  {
+    "name": "Porsche of Nashua",
+    "url": "http://nashua.porschedealer.com",
+    "telephone": "(888) 695-4130",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Nashua",
+      "streetAddress": "170 Main Dunstable Road",
+      "postalCode": "03060",
+      "addressRegion": "New Hampshire"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "603-595-1707"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(888) 695-4130"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "603-595-1707"
+      }
+    ],
+    "id": "4501672"
+  },
+  {
+    "name": "Porsche of Warwick",
+    "url": "http://warwick.porschedealer.com",
+    "telephone": "800-958-9879",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Warwick",
+      "streetAddress": "1517 Bald Hill Road",
+      "postalCode": "02886",
+      "addressRegion": "Rhode Island"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:30"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:30",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:30",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "401-824-2345"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "401-824-2335"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-17:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "401-824-2230 "
+      }
+    ],
+    "id": "4501673"
+  },
+  {
+    "name": "Hennessy Porsche North Atlanta",
+    "url": "http://hennessy.porschedealer.com",
+    "telephone": "(888) 414-3960",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Roswell",
+      "streetAddress": "990 Mansell Road",
+      "postalCode": "30076",
+      "addressRegion": "Georgia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "(888) 414-3968"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(888) 414-3960"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "(888) 414-3968"
+      }
+    ],
+    "id": "4500750"
+  },
+  {
+    "name": "Porsche of Westwood",
+    "url": "http://westwood.porschedealer.com",
+    "telephone": "781-234-2000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Westwood",
+      "streetAddress": "420 Providence Highway",
+      "postalCode": "02090",
+      "addressRegion": "Massachusetts"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-381-7634"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-377-8416"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "888-355-7279"
+      }
+    ],
+    "id": "4501675"
+  },
+  {
+    "name": "Motor Werks Porsche",
+    "url": "http://motor-werks.porschedealer.com",
+    "telephone": "847-381-8900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Barrington",
+      "streetAddress": "1475 S. Barrington Rd.",
+      "postalCode": "60010",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "847-381-8900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-718-6924"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "847-381-8900"
+      }
+    ],
+    "id": "4500564"
+  },
+  {
+    "name": "Porsche of Albuquerque",
+    "url": "http://albuquerque.porschedealer.com",
+    "telephone": "888-215-9736",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Albuquerque",
+      "streetAddress": "8900 Pan American Freeway, N.E",
+      "postalCode": "87113",
+      "addressRegion": "New Mexico"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-215-9736"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-215-9736"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866-837-6671"
+      }
+    ],
+    "id": "4500470"
+  },
+  {
+    "name": "Porsche of Tucson",
+    "url": "http://tucson.porschedealer.com",
+    "telephone": "520-748-1000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tucson",
+      "streetAddress": "4690 East 22nd Street",
+      "postalCode": "85711",
+      "addressRegion": "Arizona"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "520-748-1000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "520-748-1000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "520-748-1000"
+      }
+    ],
+    "id": "4500350"
+  },
+  {
+    "name": "Porsche of San Diego",
+    "url": "http://san-diego.porschedealer.com",
+    "telephone": "877-660-2694",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Diego",
+      "streetAddress": "9020 Miramar Road",
+      "postalCode": "92126",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-660-2695"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-660-2694"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-660-2696"
+      }
+    ],
+    "id": "4500351"
+  },
+  {
+    "name": "Porsche of Colorado Springs",
+    "url": "http://colorado-springs.porschedealer.com",
+    "telephone": "719-219-1911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Colorado Springs",
+      "streetAddress": "917 Motor City Drive",
+      "postalCode": "80905",
+      "addressRegion": "Colorado"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "719-219-5030"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "719-219-1911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "719-219-5040"
+      }
+    ],
+    "id": "4500473"
+  },
+  {
+    "name": "Porsche of Clifton Park",
+    "url": "http://clifton-park.porschedealer.com",
+    "telephone": "518-664-4448",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mechanicville",
+      "streetAddress": "205 Route 146",
+      "postalCode": "12118",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "518-664-4448"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "518-664-4448"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "518-664-4448"
+      }
+    ],
+    "id": "4501884"
+  },
+  {
+    "name": "Danbury Porsche",
+    "url": "http://danbury.porschedealer.com",
+    "telephone": "203-744-5203",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Danbury",
+      "streetAddress": "23 Sugar Hollow Rd.",
+      "postalCode": "06810",
+      "addressRegion": "Connecticut"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "203-744-5203"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "203-744-5203"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "203-744-5203"
+      }
+    ],
+    "id": "4501867"
+  },
+  {
+    "name": "Porsche of Tampa",
+    "url": "http://tampa.porschedealer.com",
+    "telephone": "813-933-2811",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tampa",
+      "streetAddress": "103 E. Fowler Avenue",
+      "postalCode": "33612",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "813-935-9444"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "813-933-2811"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "813-933-2815"
+      }
+    ],
+    "id": "4500911"
+  },
+  {
+    "name": "Porsche of Orlando",
+    "url": "http://orlando.porschedealer.com",
+    "telephone": "407-262-0800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Maitland",
+      "streetAddress": "9590 South Highway 17-92",
+      "postalCode": "32751",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "407-262-0800"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "1-888-284-3804"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "407-262-0800"
+      }
+    ],
+    "id": "4500917"
+  },
+  {
+    "name": "Rector Motor Car Company",
+    "url": "http://rector.porschedealer.com",
+    "telephone": "650-348-0111",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Burlingame",
+      "streetAddress": "1010 Cadillac Way",
+      "postalCode": "94010",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "650-348-0111"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "650-348-0111"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "1-888-737-5738"
+      }
+    ],
+    "id": "4500136"
+  },
+  {
+    "name": "Carlsen Porsche",
+    "url": "http://carlsen.porschedealer.com",
+    "telephone": "650-701-9200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Redwood City",
+      "streetAddress": "3636 Haven Ave",
+      "postalCode": "94063",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "650-701-9200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "650-701-9200"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "650-701-9200"
+      }
+    ],
+    "id": "4500135"
+  },
+  {
+    "name": "Ken Garff Motors",
+    "url": "http://ken-garff.porschedealer.com",
+    "telephone": "801-228-0479",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Orem",
+      "streetAddress": "175 East University Parkway",
+      "postalCode": "84058",
+      "addressRegion": "Utah"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "801-852-5330"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "801-228-0479"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "801-228-0479"
+      }
+    ],
+    "id": "4500471"
+  },
+  {
+    "name": "Napleton's Auto Werks",
+    "url": "http://napletons.porschedealer.com",
+    "telephone": "815-398-0505",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rockford",
+      "streetAddress": "505 North Perryville Road",
+      "postalCode": "61107",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "815-398-0505"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "815-398-0505"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "815-398-0505"
+      }
+    ],
+    "id": "4500579"
+  },
+  {
+    "name": "Porsche of South Shore",
+    "url": "http://southshore.porschedealer.com",
+    "telephone": "516-546-1700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Freeport",
+      "streetAddress": "185 West Sunrise Highway",
+      "postalCode": "11520",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "516-546-1700 ext.114"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "516-546-1700"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "516-546-1700 x110"
+      }
+    ],
+    "id": "4501885"
+  },
+  {
+    "name": "Jim Ellis Porsche",
+    "url": "http://jim-ellis.porschedealer.com",
+    "telephone": "888-893-6299",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Atlanta",
+      "streetAddress": "5901 Peachtree Industrial Boulevard",
+      "postalCode": "30341",
+      "addressRegion": "Georgia"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "888-256-2408 "
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-893-6299"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "770-216-7590"
+      }
+    ],
+    "id": "4500832"
+  },
+  {
+    "name": "Porsche of Southampton",
+    "url": "http://southampton.porschedealer.com",
+    "telephone": "631-283-0888",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Southampton",
+      "streetAddress": "705 County Road 39A",
+      "postalCode": "11968",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "631-283-0888"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "631-283-0888"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "631-204-2565"
+      }
+    ],
+    "id": "4501883"
+  },
+  {
+    "name": "Porsche of Huntington",
+    "url": "http://huntington.porschedealer.com",
+    "telephone": "855-314-7802",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntington Station",
+      "streetAddress": "855 East Jericho Turnpike",
+      "postalCode": "11746",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:00",
+          "Sa 07:30-14:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "14:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "855-314-7822"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-314-7802"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-17:00",
+          "Sa 07:30-14:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "14:00",
+              "opens": "07:30"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "855-314-7832"
+      }
+    ],
+    "id": "4501882"
+  },
+  {
+    "name": "Porsche of West Houston",
+    "url": "http://houston.porschedealer.com",
+    "telephone": "281-249-4700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "11890 Katy Freeway",
+      "postalCode": "77079",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-381-1072"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": " 281-892-0181"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-381-1072"
+      }
+    ],
+    "id": "4500743"
+  },
+  {
+    "name": "Porsche of Roslyn",
+    "url": "http://roslyn.porschedealer.com",
+    "telephone": "516-625-5544",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Roslyn Heights",
+      "streetAddress": "22 Mineola Ave. ",
+      "postalCode": "11577",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "516-625-5544"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "516-625-5544"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "516-625-5544"
+      }
+    ],
+    "id": "4501880"
+  },
+  {
+    "name": "The Porsche Exchange",
+    "url": "http://porsche-exchange.porschedealer.com",
+    "telephone": "847-266-7000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Highland Park",
+      "streetAddress": "2300 Skokie Valley Rd",
+      "postalCode": "60035",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "847-266-7000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "847-266-7000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "847-266-7000"
+      }
+    ],
+    "id": "4500571"
+  },
+  {
+    "name": "Porsche of Madison",
+    "url": "http://madison.porschedealer.com",
+    "telephone": "608-258-4000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Madison",
+      "streetAddress": "2300 Rimrock Road",
+      "postalCode": "53713",
+      "addressRegion": "Wisconsin"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "608-258-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "608-258-4000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "608-258-4007"
+      }
+    ],
+    "id": "4500574"
+  },
+  {
+    "name": "Napleton Westmont Porsche",
+    "url": "http://ed-napleton.porschedealer.com",
+    "telephone": "630-725-0911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Westmont",
+      "streetAddress": "201 E. Ogden Avenue ",
+      "postalCode": "60559",
+      "addressRegion": "Illinois"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "630-725-0911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "630-725-0911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "630-725-0911"
+      }
+    ],
+    "id": "4500575"
+  },
+  {
+    "name": "Concours Motors",
+    "url": "http://concours.porschedealer.com",
+    "telephone": "866.559.0123",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Milwaukee",
+      "streetAddress": "1400 W. Silver Spring Drive",
+      "postalCode": "53209",
+      "addressRegion": "Wisconsin"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866.559.0123"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855.656.1730"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866.559.0123"
+      }
+    ],
+    "id": "4500576"
+  },
+  {
+    "name": "International Autos",
+    "url": "http://international-autos.porschedealer.com",
+    "telephone": "262-754-0911",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Waukesha",
+      "streetAddress": "2230 E. Moreland Boulevard",
+      "postalCode": "53186",
+      "addressRegion": "Wisconsin"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "262-821-5000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "262-754-0911"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "262-821-5000  X353"
+      }
+    ],
+    "id": "4500577"
+  },
+  {
+    "name": "New Country Porsche of Greenwich",
+    "url": "http://new-country.porschedealer.com",
+    "telephone": "203-869-8900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenwich",
+      "streetAddress": "241 West Putnam Avenue",
+      "postalCode": "06830",
+      "addressRegion": "Connecticut"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "203-869-8900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "203-869-8900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "203-869-8900"
+      }
+    ],
+    "id": "4501878"
+  },
+  {
+    "name": "Porsche of Fairfield",
+    "url": "http://fairfield.porschedealer.com",
+    "telephone": "203-367-3700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fairfield",
+      "streetAddress": "475 Commerce Drive",
+      "postalCode": "06825",
+      "addressRegion": "Connecticut"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-506-0177"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-469-0294"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-506-0162"
+      }
+    ],
+    "id": "4501879"
+  },
+  {
+    "name": "Park Place Porsche",
+    "url": "http://park-place.porschedealer.com",
+    "telephone": "214-525-5400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dallas",
+      "streetAddress": "6113 Lemmon Avenue",
+      "postalCode": "75209",
+      "addressRegion": "Texas"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866-254-1332"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-254-1332"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866-254-1332"
+      }
+    ],
+    "id": "4500653"
+  },
+  {
+    "name": "Porsche of Larchmont",
+    "url": "http://larchmont.porschedealer.com",
+    "telephone": "888-781-4341",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Larchmont",
+      "streetAddress": "2500 Boston Post Road",
+      "postalCode": "10538",
+      "addressRegion": "New York"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-424-9291"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "888-781-4341"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-232-0851"
+      }
+    ],
+    "id": "4501871"
+  },
+  {
+    "name": "Morong-Falmouth",
+    "url": "http://morong-falmouth.porschedealer.com",
+    "telephone": "207-781-4020",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Falmouth",
+      "streetAddress": "187 US Route 1",
+      "postalCode": "04104",
+      "addressRegion": "Maine"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "207-781-4020"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "207-781-4020"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "207-781-4020"
+      }
+    ],
+    "id": "4501651"
+  },
+  {
+    "name": "Porsche of Naples",
+    "url": "http://naples.porschedealer.com",
+    "telephone": "866-603-6004",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Naples",
+      "streetAddress": "800 Tamiami Trail North",
+      "postalCode": "34102",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "(866) 603-6005"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "(239) 280-5100"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "(866) 603-6009"
+      }
+    ],
+    "id": "4500948"
+  },
+  {
+    "name": "Dean McCrary Imports",
+    "url": "http://dean-mccrary.porschedealer.com",
+    "telephone": "251-300-6902",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mobile",
+      "streetAddress": "1525 E I-65 Service Road S",
+      "postalCode": "36606",
+      "addressRegion": "Alabama"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "251-459-8168"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "251-300-6902"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-304-3326"
+      }
+    ],
+    "id": "4500814"
+  },
+  {
+    "name": "Jack Ingram Motors",
+    "url": "http://jack-ingram.porschedealer.com",
+    "telephone": "334-420-9900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Montgomery",
+      "streetAddress": "231 Eastern Blvd",
+      "postalCode": "36117",
+      "addressRegion": "Alabama"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "334-420-9901"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "334-420-9900"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "334-420-9902"
+      }
+    ],
+    "id": "4500813"
+  },
+  {
+    "name": "The Collection",
+    "url": "http://thecollection.porschedealer.com",
+    "telephone": "305-444-5555",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Coral Gables",
+      "streetAddress": "200 Bird Road",
+      "postalCode": "33146",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "305-444-1111"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "305-444-5555"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "305-461-2121"
+      }
+    ],
+    "id": "4500940"
+  },
+  {
+    "name": "Capital Eurocars",
+    "url": "http://capital.porschedealer.com",
+    "telephone": "850-574-3777",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tallahassee",
+      "streetAddress": "3963 West Tennessee Street",
+      "postalCode": "32304",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "866-238-5727"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "866-238-5727"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "866-238-5727"
+      }
+    ],
+    "id": "4500942"
+  },
+  {
+    "name": "Tom Williams Porsche",
+    "url": "http://tom-williams.porschedealer.com",
+    "telephone": "800-572-2863",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Irondale",
+      "streetAddress": "3001 Tom WIlliams Way",
+      "postalCode": "35210",
+      "addressRegion": "Alabama"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "205-397-2700"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "205-397-2700"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "205-397-2700"
+      }
+    ],
+    "id": "4500945"
+  },
+  {
+    "name": "Suncoast Porsche",
+    "url": "http://suncoast.porschedealer.com",
+    "telephone": "941-923-1700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sarasota",
+      "streetAddress": "5005 S. Tamiami Trail",
+      "postalCode": "34231",
+      "addressRegion": "Florida"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "941-923-1700"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "941-923-1700"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-923-1700"
+      }
+    ],
+    "id": "4500946"
+  },
+  {
+    "name": "Stevinson Imports",
+    "url": "http://stevinson.porschedealer.com",
+    "telephone": "303-794-3550",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Littleton",
+      "streetAddress": "5500 South Broadway Blvd.",
+      "postalCode": "80121",
+      "addressRegion": "Colorado"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "303-794-3550"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "303-794-3550"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "303-794-3550"
+      }
+    ],
+    "id": "4500469"
+  },
+  {
+    "name": "Porsche of Delaware",
+    "url": "http://delaware.porschedealer.com",
+    "telephone": "302-292-8250",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newark",
+      "streetAddress": "1851 Ogletown Road",
+      "postalCode": "19711",
+      "addressRegion": "Delaware"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "302-292-8250"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-721-1119"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "302-292-8250"
+      }
+    ],
+    "id": "4501564"
+  },
+  {
+    "name": "Porsche of Atlantic City",
+    "url": "http://atlanticcity.porschedealer.com",
+    "telephone": "800-645-6115",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Atlantic City",
+      "streetAddress": "7020 Black Horse Pike",
+      "postalCode": "08232",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "800-645-6115"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "800-645-6115"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "800-645-6115"
+      }
+    ],
+    "id": "4501565"
+  },
+  {
+    "name": "Porsche of Princeton",
+    "url": "http://princeton.porschedealer.com",
+    "telephone": "609-945-1500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lawrenceville",
+      "streetAddress": "3333 Route 1",
+      "postalCode": "08648",
+      "addressRegion": "New Jersey"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "609-945-1500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "609-945-1500"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "609-945-1500"
+      }
+    ],
+    "id": "4501566"
+  },
+  {
+    "name": "Porsche of The Main Line",
+    "url": "http://main-line.porschedealer.com",
+    "telephone": "610-886-1000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newtown Square",
+      "streetAddress": "4005 West Chester Pike",
+      "postalCode": "19073",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-18:00",
+          "Sa 09:00-16:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "18:00",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "18:00",
+              "opens": "08:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "16:00",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "610-886-1000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "610-886-1000"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 08:00-17:15",
+          "Sa 09:00-13:15"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "17:15",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "17:15",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "17:15",
+              "opens": "08:00"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "17:15",
+              "opens": "08:00"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "13:15",
+              "opens": "09:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "610-886-1000"
+      }
+    ],
+    "id": "4501561"
+  },
+  {
+    "name": "Porsche of Bucks County",
+    "url": "http://buckscounty.porschedealer.com",
+    "telephone": "215-343-1600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Warrington",
+      "streetAddress": "1607 Easton Road",
+      "postalCode": "18976",
+      "addressRegion": "Pennsylvania"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-21:00",
+          "Sa 08:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "21:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "18:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Service",
+        "telephone": "215-343-1600"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "215-343-1600"
+      },
+      {
+        "openingHours": [
+          "Mo-Fr 07:30-21:00",
+          "Sa 08:00-18:00"
+        ],
+        "openingHoursSpecification": [
+          [
+            {
+              "dayOfWeek": "Monday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Tuesday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Wednesday",
+              "closes": "21:00",
+              "opens": "07:30"
+            },
+            {
+              "dayOfWeek": "Thursday",
+              "closes": "21:00",
+              "opens": "07:30"
+            }
+          ],
+          [
+            {
+              "dayOfWeek": "Saturday",
+              "closes": "18:00",
+              "opens": "08:00"
+            }
+          ]
+        ],
+        "name": "Parts",
+        "telephone": "215-343-1600"
+      }
+    ],
+    "id": "4501563"
+  },
+  {
+    "name": "Plaza Motor Co.",
+    "url": "http://plaza-motor.porschedealer.com",
+    "telephone": "314-301-1712",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Creve Coeur",
+      "streetAddress": "11830 Olive St.",
+      "postalCode": "63141",
+      "addressRegion": "Missouri"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "314-919-8225"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "314-485-4846"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "314-301-1702"
+      }
+    ],
+    "id": "4501241"
+  },
+  {
+    "name": "Parktown Porsche",
+    "url": "http://parktown.porschedealer.com",
+    "telephone": "314-965-7711",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kirkwood",
+      "streetAddress": "10230 Manchester Road",
+      "postalCode": "63122",
+      "addressRegion": "Missouri"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "314-965-7711"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "314-965-7711"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "314-965-7711"
+      }
+    ],
+    "id": "4501243"
+  },
+  {
+    "name": "Gossett Porsche",
+    "url": "http://gossett.porschedealer.com",
+    "telephone": "901-388-8989",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Memphis",
+      "streetAddress": "1875 Covington Pike",
+      "postalCode": "38128",
+      "addressRegion": "Tennessee"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "901-388-8989"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "901-328-8178"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "901-388-8989"
+      }
+    ],
+    "id": "4501038"
+  },
+  {
+    "name": "Porsche of Newport Beach",
+    "url": "http://newport-beach.porschedealer.com",
+    "telephone": "877-202-5590",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newport Beach",
+      "streetAddress": "445 East Pacific Coast Highway",
+      "postalCode": "92660",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "877-202-5590"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "877-202-5590"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "877-202-5590"
+      }
+    ],
+    "id": "4500254"
+  },
+  {
+    "name": "Porsche of Omaha",
+    "url": "http://omaha.porschedealer.com",
+    "telephone": "402-592-1000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Omaha",
+      "streetAddress": "6603 L Street",
+      "postalCode": "68117",
+      "addressRegion": "Nebraska"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "402-592-1000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "402-592-1000"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "402-592-1000"
+      }
+    ],
+    "id": "4501249"
+  },
+  {
+    "name": "Porsche of Tacoma",
+    "url": "http://tacoma.porschedealer.com",
+    "telephone": "253-671-6555",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fife",
+      "streetAddress": "1701 Alexander Avenue E.",
+      "postalCode": "98424",
+      "addressRegion": "Washington"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "253-671-6561"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "253-671-6555"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "253-896-9607"
+      }
+    ],
+    "id": "4501962"
+  },
+  {
+    "name": "The Auto Gallery",
+    "url": "http://autogallery.porschedealer.com",
+    "telephone": "888-216-0592",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Woodland Hills",
+      "streetAddress": "21301 Ventura Blvd.",
+      "postalCode": "91364",
+      "addressRegion": "California"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "844-857-7353"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "844-857-4646"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "844-857-7361"
+      }
+    ],
+    "id": "4500256"
+  },
+  {
+    "name": "Porsche of Spokane",
+    "url": "http://spokane.porschedealer.com",
+    "telephone": "509-210-2010",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Liberty Lake",
+      "streetAddress": "21702 E. George Gee Avenue",
+      "postalCode": "99019",
+      "addressRegion": "Washington"
+    },
+    "department": [
+      {
+        "openingHours": [
+          "Se-Fr 08:00-17:00"
+        ],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "509-210-2010"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "509-210-2010"
+      },
+      {
+        "openingHours": [
+          "Se-Fr 08:00-17:00"
+        ],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "509-210-2010"
+      }
+    ],
+    "id": "4501964"
+  },
+  {
+    "name": "Porsche of Anchorage",
+    "url": "http://anchorage.porschedealer.com",
+    "telephone": "855-981-5401",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Anchorage",
+      "streetAddress": "935 Gambell Street",
+      "postalCode": "99501",
+      "addressRegion": "Alaska"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "907-272-5522"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "855-981-5401"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "907-272-5522"
+      }
+    ],
+    "id": "4501965"
+  },
+  {
+    "name": "Porsche Bellevue",
+    "url": "http://bellevue.porschedealer.com",
+    "telephone": "425-412-4114",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bellevue",
+      "streetAddress": "11910 Northeast 8th Street",
+      "postalCode": "98005",
+      "addressRegion": "Washington"
+    },
+    "department": [
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Service",
+        "telephone": "425-412-4114"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Sales",
+        "telephone": "425-412-4114"
+      },
+      {
+        "openingHours": [],
+        "openingHoursSpecification": [],
+        "name": "Parts",
+        "telephone": "425-412-4114"
+      }
+    ],
+    "id": "4501966"
+  }
+]
