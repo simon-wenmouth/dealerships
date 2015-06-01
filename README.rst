@@ -102,7 +102,11 @@ This repository contains the data these manufacturer's dealerships.
 +---------------+------------------+
 
 NADA_ reports that there were 16K (or so) new car dealerships and the total of the above table
-is greater than 20K which means that there are dealerships with multiple franchises.
+is greater than 20K which means that there are dealerships with multiple franchises (i.e. they
+are in more than one file).
+
+As such, I have merged the various manufacturers into a single normalized file (based on URL)
+which has identified 19,171 different dealerships.  Evidently a better heuristic is required.
 
 .. _NADA: https://www.nada.org/IndustryAnalysis/_Resources/2015/NADA-DATA-2014/
 
@@ -111,4 +115,7 @@ Changelog
 
 * 2015-05-29
   Initial revision pushed to GitHub.
+
+* 2015-05-31
+  Created normalized JSON files.
 
