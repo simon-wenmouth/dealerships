@@ -1,0 +1,1481 @@
+[
+  {
+    "name": "SMART CENTER LINCOLNWOOD",
+    "url": "WWW.SMARTCENTERLINCOLNWOOD.COM",
+    "telephone": "8476751000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LINCOLNWOOD",
+      "streetAddress": "4255 W. TOUHY AVENUE",
+      "postalCode": "60712",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.01096,
+      "longitude": -87.735179
+    },
+    "id": "22409"
+  },
+  {
+    "name": "SMART CENTER OF ORLAND PARK",
+    "url": "WWW.SMARTCENTEROFORLANDPARK.COM",
+    "telephone": "7084600400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ORLAND PARK",
+      "streetAddress": "8470 WEST 159TH STREET",
+      "postalCode": "60462",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.6024675,
+      "longitude": -87.8262864
+    },
+    "id": "22111"
+  },
+  {
+    "name": "SMART CENTER OF ST. CHARLES",
+    "url": "WWW.SMARTCENTEROFST-CHARLES.COM",
+    "telephone": "8884592190",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ST. CHARLES",
+      "streetAddress": "225 N. RANDALL ROAD",
+      "postalCode": "60174",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.914149599,
+      "longitude": -88.34120229
+    },
+    "id": "22122"
+  },
+  {
+    "name": "SMART CENTER OF MADISON",
+    "url": "WWW.SMARTCENTERMADISON.COM",
+    "telephone": "6082584000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "MADISON",
+      "streetAddress": "2300 RIMROCK ROAD",
+      "postalCode": "53713",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 43.0390665,
+      "longitude": -89.379797
+    },
+    "id": "86416"
+  },
+  {
+    "name": "SMART CENTER INDIANAPOLIS",
+    "url": "WWW.SMARTCENTERINDIANAPOLIS.COM",
+    "telephone": "3175806800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "INDIANAPOLIS",
+      "streetAddress": "4000 EAST 96TH STREET",
+      "postalCode": "46240",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 39.9278057,
+      "longitude": -86.1038631
+    },
+    "id": "25412"
+  },
+  {
+    "name": "SMART CENTER OF BLOOMFIELD HILLS",
+    "url": "WWW.SMARTCENTERBLOOMFIELD.COM",
+    "telephone": "2486448400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "BLOOMFIELD HILLS",
+      "streetAddress": "36600 N. WOODWARD AVENUE",
+      "postalCode": "48304",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.557334,
+      "longitude": -83.22113999
+    },
+    "id": "39417"
+  },
+  {
+    "name": "SMART CENTER OF CINCINNATI",
+    "url": "WWW.SMARTCENTERCINCINNATI.COM",
+    "telephone": "5139849000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CINCINNATI",
+      "streetAddress": "8727 MONTGOMERY ROAD",
+      "postalCode": "45236",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 39.2142102,
+      "longitude": -84.3599232
+    },
+    "id": "62410"
+  },
+  {
+    "name": "SMART CENTER CREVE COEUR",
+    "url": "WWW.SMARTCENTERCREVECOEUR.COM",
+    "telephone": "3143011715",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CREVE COEUR",
+      "streetAddress": "11830 OLIVE BOULEVARD",
+      "postalCode": "63141",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.6703201,
+      "longitude": -90.44452079
+    },
+    "id": "45102"
+  },
+  {
+    "name": "SMART CENTER OF ROCHESTER",
+    "url": "WWW.SMARTCENTEROFROCHESTER.COM",
+    "telephone": "5074243001",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ROCHESTER",
+      "streetAddress": "4447 CANAL PLACE SE",
+      "postalCode": "55904",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": 43.9569067,
+      "longitude": -92.4645592
+    },
+    "id": "42118"
+  },
+  {
+    "name": "SMART CENTER EASTON",
+    "url": "WWW.SMARTCENTEREASTON.COM",
+    "telephone": "6142992144",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "COLUMBUS",
+      "streetAddress": "4300 MORSE CROSSING",
+      "postalCode": "43219",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 40.0570708,
+      "longitude": -82.9177119
+    },
+    "id": "62109"
+  },
+  {
+    "name": "SMART CENTER OF LOUISVILLE",
+    "url": "WWW.SMARTCENTERLOUISVILLE.COM",
+    "telephone": "5028964411",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LOUISVILLE",
+      "streetAddress": "4156 SHELBYVILLE ROAD",
+      "postalCode": "40207",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 38.2511684,
+      "longitude": -85.64153619
+    },
+    "id": "31403"
+  },
+  {
+    "name": "SMART CENTER OF NORTH OLMSTED",
+    "url": "WWW.SMARTCENTEROFNORTHOLMSTED.COM",
+    "telephone": "4407162700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "NORTH OLMSTED",
+      "streetAddress": "28450 LORAIN ROAD",
+      "postalCode": "44070",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.4104138,
+      "longitude": -81.9371725
+    },
+    "id": "62111"
+  },
+  {
+    "name": "SMART CENTER BEDFORD",
+    "url": "WWW.SMARTCENTERBEDFORD.COM",
+    "telephone": "4404390100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "BEDFORD",
+      "streetAddress": "99 BROADWAY",
+      "postalCode": "44146",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.403801,
+      "longitude": -81.5533899
+    },
+    "id": "62106"
+  },
+  {
+    "name": "SMART CENTER PITTSBURGH",
+    "url": "WWW.SMARTCENTERPITTSBURGH.COM",
+    "telephone": "4126835000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "PITTSBURGH",
+      "streetAddress": "4709 BAUM BLVD.",
+      "postalCode": "15213",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.454705,
+      "longitude": -79.9498
+    },
+    "id": "67110"
+  },
+  {
+    "name": "SMART CENTER NASHVILLE",
+    "url": "WWW.SMARTCENTERNASHVILLE.COM",
+    "telephone": "6157428000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "FRANKLIN",
+      "streetAddress": "630 BAKERS BRIDGE AVENUE",
+      "postalCode": "37067",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.9598964,
+      "longitude": -86.80499069
+    },
+    "id": "74102"
+  },
+  {
+    "name": "SMART CENTER MERRIAM",
+    "url": "WWW.SMARTCENTEROFMERRIAM.COM",
+    "telephone": "9136773300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "MERRIAM",
+      "streetAddress": "9400 W. 65TH ST.",
+      "postalCode": "66203",
+      "addressRegion": "KS"
+    },
+    "geo": {
+      "latitude": 39.0119537,
+      "longitude": -94.69478199
+    },
+    "id": "30104"
+  },
+  {
+    "name": "SMART CENTER OF OMAHA",
+    "url": "WWW.SMARTCENTEROMAHA.COM",
+    "telephone": "4023849999",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "OMAHA",
+      "streetAddress": "14335 HILLSDALE AVENUE",
+      "postalCode": "68137",
+      "addressRegion": "NE"
+    },
+    "geo": {
+      "latitude": 41.2141963,
+      "longitude": -96.1379923
+    },
+    "id": "48103"
+  },
+  {
+    "name": "SMART CENTER BUFFALO",
+    "url": "WWW.SMARTCENTERBUFFALO.COM",
+    "telephone": "7166330088",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WILLIAMSVILLE",
+      "streetAddress": "8185 MAIN STREET",
+      "postalCode": "14221",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 42.964236,
+      "longitude": -78.689224
+    },
+    "id": "55201"
+  },
+  {
+    "name": "SMART CENTER KNOXVILLE",
+    "url": "WWW.SMARTCENTERKNOXVILLE.COM",
+    "telephone": "8657772222",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "KNOXVILLE",
+      "streetAddress": "10131 PARKSIDE DRIVE",
+      "postalCode": "37922",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.909441,
+      "longitude": -84.123762
+    },
+    "id": "74303"
+  },
+  {
+    "name": "SMART CENTER WINSTON-SALEM",
+    "url": "WWW.SMARTCENTERWINSTON-SALEM.COM",
+    "telephone": "3367604580",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WINSTON-SALEM",
+      "streetAddress": "691 JONESTOWN ROAD",
+      "postalCode": "27114",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 36.0696436,
+      "longitude": -80.3395292
+    },
+    "id": "59215"
+  },
+  {
+    "name": "SMART CENTER OF ALPHARETTA",
+    "url": "WWW.ALPHARETTA.SMARTDEALERSITES.COM",
+    "telephone": "6786372333",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ALPHARETTA",
+      "streetAddress": "345 MCFARLAND PARKWAY",
+      "postalCode": "30004",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 34.1357528,
+      "longitude": -84.2404739
+    },
+    "id": "17114"
+  },
+  {
+    "name": "SMART CENTER GERMANTOWN",
+    "url": "WWW.SMARTCENTERGERMANTOWN.COM",
+    "telephone": "3016015500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "GERMANTOWN",
+      "streetAddress": "19750 GERMANTOWN ROAD",
+      "postalCode": "20874",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.1811404,
+      "longitude": -77.2648207
+    },
+    "id": "34108"
+  },
+  {
+    "name": "SMART CENTER TYSONS CORNER",
+    "url": "WWW.SMARTCENTERTYSONSCORNER.COM",
+    "telephone": "7035646330",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "VIENNA",
+      "streetAddress": "8545 LEESBURG PK - R T 7 TYSONS CORNER",
+      "postalCode": "22182",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.928683,
+      "longitude": -77.243223
+    },
+    "id": "80215"
+  },
+  {
+    "name": "SMART CENTER BUCKHEAD",
+    "url": "WWW.SMARTCENTERBUCKHEAD.COM",
+    "telephone": "4048463500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ATLANTA",
+      "streetAddress": "2799 PIEDMONT ROAD",
+      "postalCode": "30305",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.8302863,
+      "longitude": -84.3671181
+    },
+    "id": "17107"
+  },
+  {
+    "name": "SMART CENTER BIRMINGHAM",
+    "url": "",
+    "telephone": "205985420",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "HOOVER",
+      "streetAddress": "1800 MONTGOMERY HIGHWAY",
+      "postalCode": "35244",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 33.3758748,
+      "longitude": -86.8035579
+    },
+    "id": "01127"
+  },
+  {
+    "name": "SMART CENTER OF CATONSVILLE",
+    "url": "WWW.SMARTCENTEROFCATONSVILLE.COM",
+    "telephone": "4107887744",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CATONSVILLE",
+      "streetAddress": "6631 BALTIMORE NATIONAL PIKE",
+      "postalCode": "21228",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.288270399,
+      "longitude": -76.76974349
+    },
+    "id": "34117"
+  },
+  {
+    "name": "SMART CENTER SOUTH CHARLOTTE",
+    "url": "WWW.SMARTCENTERSOUTHCHARLOTTE.COM",
+    "telephone": "7048894444",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "PINEVILLE",
+      "streetAddress": "950 NORTH POLK STREET",
+      "postalCode": "28134",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.093342,
+      "longitude": -80.883484
+    },
+    "id": "59110"
+  },
+  {
+    "name": "SMART CENTER TULSA",
+    "url": "WWW.SMARTCENTERTULSA.COM",
+    "telephone": "9182499393",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "TULSA",
+      "streetAddress": "9393 SOUTH MEMORIAL",
+      "postalCode": "74133",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": 36.02725,
+      "longitude": -95.88513599
+    },
+    "id": "65100"
+  },
+  {
+    "name": "SMART CENTER OF RICHMOND",
+    "url": "WWW.SMARTCENTEROFRICHMOND.COM",
+    "telephone": "8047559300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "RICHMOND",
+      "streetAddress": "8225 WEST BROAD STREET",
+      "postalCode": "23294",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.630484,
+      "longitude": -77.537283
+    },
+    "id": "80206"
+  },
+  {
+    "name": "SMART CENTER ANNAPOLIS",
+    "url": "WWW.SMARTCENTERANNAPOLIS.COM",
+    "telephone": "4102682222",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ANNAPOLIS",
+      "streetAddress": "324 SIXTH STREET",
+      "postalCode": "21403",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 38.970505,
+      "longitude": -76.485288
+    },
+    "id": "34107"
+  },
+  {
+    "name": "SMART CENTER CARY",
+    "url": "WWW.SMARTCENTERCARY.COM",
+    "telephone": "9196533330",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CARY",
+      "streetAddress": "2400 AUTO PARK BLVD",
+      "postalCode": "27511",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.7374808,
+      "longitude": -78.81500989
+    },
+    "id": "59106"
+  },
+  {
+    "name": "SMART CENTER OF WEST CHESTER",
+    "url": "WWW.SMARTCENTEROFWESTCHESTER.COM",
+    "telephone": "4843131100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WEST CHESTER",
+      "streetAddress": "1260 WILMINGTON PIKE",
+      "postalCode": "19382",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 39.909419,
+      "longitude": -75.5704839
+    },
+    "id": "67115"
+  },
+  {
+    "name": "SMART CENTER DEVON",
+    "url": "WWW.SMARTCENTERDEVON.COM",
+    "telephone": "6106871500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "DEVON",
+      "streetAddress": "214 LANCASTER AVENUE",
+      "postalCode": "19333",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.0449075,
+      "longitude": -75.4242897
+    },
+    "id": "67116"
+  },
+  {
+    "name": "SMART CENTER CHERRY HILL",
+    "url": "WWW.SMARTCENTERCHERRYHILL.COM",
+    "telephone": "8566633200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CHERRY HILL",
+      "streetAddress": "2151 RT. 70 W",
+      "postalCode": "08002",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 39.916742,
+      "longitude": -75.02798899
+    },
+    "id": "51209"
+  },
+  {
+    "name": "SMART CENTER OF BRIDGEWATER",
+    "url": "WWW.SMARTCENTEROFBRIDGEWATER.COM",
+    "telephone": "9086850800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "BRIDGEWATER",
+      "streetAddress": "1250 ROUTE 22",
+      "postalCode": "08807",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.5769398,
+      "longitude": -74.5825813
+    },
+    "id": "51158"
+  },
+  {
+    "name": "TYSINGER MOTOR CO., INC.",
+    "url": "WWW.SMARTCENTEROFHAMPTON.COM",
+    "telephone": "7578658000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "HAMPTON",
+      "streetAddress": "2712 MAGRUDER BLVD",
+      "postalCode": "23666",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.0625844,
+      "longitude": -76.39984799
+    },
+    "id": "80210"
+  },
+  {
+    "name": "SMART CENTER OF OKLAHOMA CITY",
+    "url": "WWW.SMARTCENTEROFOKLAHOMACITY.COM",
+    "telephone": "4052361224",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "OKLAHOMA CITY",
+      "streetAddress": "1225 NORTH BROADWAY",
+      "postalCode": "73103",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": 35.4817546,
+      "longitude": -97.51449509
+    },
+    "id": "65101"
+  },
+  {
+    "name": "SMART CENTER EDISON",
+    "url": "WWW.SMARTCENTEREDISON.COM",
+    "telephone": "7325496600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "EDISON",
+      "streetAddress": "910 U S HIGHWAY RTE 1",
+      "postalCode": "08817",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.5158974,
+      "longitude": -74.3717897
+    },
+    "id": "51146"
+  },
+  {
+    "name": "SMART CENTER LATHAM",
+    "url": "WWW.SMARTCENTERLATHAM.COM",
+    "telephone": "5187854197",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LATHAM",
+      "streetAddress": "1111 TROY SCHENECTADY ROAD",
+      "postalCode": "12110",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 42.7671968,
+      "longitude": -73.8128651
+    },
+    "id": "55132"
+  },
+  {
+    "name": "SMART CENTER MANHATTAN",
+    "url": "WWW.SMARTCENTERMANHATTAN.COM",
+    "telephone": "2126291600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "NEW YORK",
+      "streetAddress": "770 11TH AVENUE",
+      "postalCode": "10019",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.768061,
+      "longitude": -73.9926962
+    },
+    "id": "56113"
+  },
+  {
+    "name": "SMART CENTER ENGLEWOOD",
+    "url": "WWW.SMARTCENTERENGLEWOOD.COM",
+    "telephone": "2015671400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ENGLEWOOD",
+      "streetAddress": "24 GRAND AVENUE",
+      "postalCode": "07631",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.8921626,
+      "longitude": -73.9737471
+    },
+    "id": "51142"
+  },
+  {
+    "name": "SMART CENTER OF ROSLYN",
+    "url": "WWW.SMARTCENTERROSLYN.COM",
+    "telephone": "5166251600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ROSLYN",
+      "streetAddress": "1600 NORTHERN BLVD.",
+      "postalCode": "11576",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.803923,
+      "longitude": -73.641637
+    },
+    "id": "55109"
+  },
+  {
+    "name": "SMART CENTER FAIRFIELD",
+    "url": "WWW.SMARTCENTERFAIRFIELD.COM",
+    "telephone": "2033367285",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "FAIRFIELD",
+      "streetAddress": "165 COMMERCE DRIVE",
+      "postalCode": "06825",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.166662,
+      "longitude": -73.2261907
+    },
+    "id": "09115"
+  },
+  {
+    "name": "SMART CENTER CHARLESTON",
+    "url": "WWW.SMARTCENTERCHARLESTON.COM",
+    "telephone": "8438524000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CHARLESTON",
+      "streetAddress": "1511 SAVANNAH HIGHWAY",
+      "postalCode": "29407",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 32.784735,
+      "longitude": -80.00334099
+    },
+    "id": "72320"
+  },
+  {
+    "name": "SMART CENTER HARTFORD",
+    "url": "WWW.SMARTCENTERHARTFORD.COM",
+    "telephone": "8602782000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "HARTFORD",
+      "streetAddress": "1 WESTON STREET",
+      "postalCode": "06120",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.7833905,
+      "longitude": -72.6636758
+    },
+    "id": "09100"
+  },
+  {
+    "name": "SMART CENTER OF PLANO",
+    "url": "WWW.SMARTCENTEROFPLANO.COM",
+    "telephone": "9725990909",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "PLANO",
+      "streetAddress": "4464 WEST PLANO PARKWAY",
+      "postalCode": "75093",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 33.01609,
+      "longitude": -96.7827161
+    },
+    "id": "75534"
+  },
+  {
+    "name": "PARK PLACE MOTORCARS",
+    "url": "WWW.SMARTCENTERDALLAS.COM",
+    "telephone": "2145268701",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "DALLAS",
+      "streetAddress": "6113 LEMMON AVENUE",
+      "postalCode": "75209",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.8324507,
+      "longitude": -96.8295187
+    },
+    "id": "75568"
+  },
+  {
+    "name": "SMART CENTER WARWICK",
+    "url": "WWW.SMARTCENTERWARWICK.COM",
+    "telephone": "4018211510",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WARWICK",
+      "streetAddress": "1557 BALD HILL ROAD",
+      "postalCode": "02886",
+      "addressRegion": "RI"
+    },
+    "geo": {
+      "latitude": 41.6977059,
+      "longitude": -71.4983632
+    },
+    "id": "71100"
+  },
+  {
+    "name": "PARK PLACE MOTORCARS FORT WORTH",
+    "url": "WWW.SMARTCENTERFORTWORTH.COM",
+    "telephone": "8172633600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "FORT WORTH",
+      "streetAddress": "5601 BRYANT IRVIN ROAD",
+      "postalCode": "76132",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.6674434,
+      "longitude": -97.41830929
+    },
+    "id": "75137"
+  },
+  {
+    "name": "SMART CENTER NEW ORLEANS",
+    "url": "WWW.SMARTCENTERNEWORLEANS.COM",
+    "telephone": "5044563727",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "METAIRIE",
+      "streetAddress": "3727 VETERANS MEMORIAL BLVD",
+      "postalCode": "70002",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 30.0047971,
+      "longitude": -90.1669957
+    },
+    "id": "32507"
+  },
+  {
+    "name": "SMART CENTER BOSTON",
+    "url": "WWW.SMARTCENTERBOSTON.COM",
+    "telephone": "6176664100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SOMERVILLE",
+      "streetAddress": "259 MC GRATH HWY",
+      "postalCode": "02143",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.3784774,
+      "longitude": -71.0885717
+    },
+    "id": "36200"
+  },
+  {
+    "name": "SMART CENTER LYNNFIELD",
+    "url": "WWW.SMARTCENTERLYNNFIELD.COM",
+    "telephone": "7815969700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LYNNFIELD",
+      "streetAddress": "385 BROADWAY",
+      "postalCode": "01940",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.5119732,
+      "longitude": -71.005496
+    },
+    "id": "36100"
+  },
+  {
+    "name": "SMART CENTER JACKSONVILLE",
+    "url": "WWW.SMARTCENTERJACKSONVILLE.COM",
+    "telephone": "9047775900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "JACKSONVILLE",
+      "streetAddress": "7018 BLANDING BLVD",
+      "postalCode": "32244",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.2211372,
+      "longitude": -81.7381188
+    },
+    "id": "14146"
+  },
+  {
+    "name": "SMART CENTER OF SCARBOROUGH",
+    "url": "WWW.SMARTCENTEROFSCARBOROUGH.COM",
+    "telephone": "2075102250",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SCARBOROUGH",
+      "streetAddress": "137 U. S. ROUTE ONE",
+      "postalCode": "04074",
+      "addressRegion": "ME"
+    },
+    "geo": {
+      "latitude": 43.6081335,
+      "longitude": -70.31481939
+    },
+    "id": "33102"
+  },
+  {
+    "name": "SMART CENTER OF GAINESVILLE",
+    "url": "WWW.SMARTCENTEROFGAINESVILLE.COM",
+    "telephone": "3523327571",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "GAINESVILLE",
+      "streetAddress": "4000 N. MAIN STREET",
+      "postalCode": "32609",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 29.689498,
+      "longitude": -82.3199829
+    },
+    "id": "14132"
+  },
+  {
+    "name": "SMART CENTER WESTMINSTER",
+    "url": "WWW.SMARTCENTERWESTMINSTER.COM",
+    "telephone": "3034107800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WESTMINSTER",
+      "streetAddress": "10391 WESTMINSTER BOULEVARD",
+      "postalCode": "80020",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 39.886156,
+      "longitude": -105.069073
+    },
+    "id": "08109"
+  },
+  {
+    "name": "SMART CENTER HOUSTON NORTH",
+    "url": "WWW.SMARTCENTERHOUSTONNORTH.COM",
+    "telephone": "2812336000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "HOUSTON",
+      "streetAddress": "17510 I-45 NORTH FREEWAY",
+      "postalCode": "77090",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.022908,
+      "longitude": -95.4278384
+    },
+    "id": "75117"
+  },
+  {
+    "name": "SMART CENTER SUGARLAND",
+    "url": "WWW.SMARTCENTERSUGARLAND.COM",
+    "telephone": "2812071500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SUGAR LAND",
+      "streetAddress": "15625 SOUTHWEST FREEWAY",
+      "postalCode": "77478",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.5993679,
+      "longitude": -95.619145
+    },
+    "id": "75128"
+  },
+  {
+    "name": "SMART CENTER OF GEORGETOWN",
+    "url": "WWW.SMARTCENTEROFGEORGETOWN.COM",
+    "telephone": "5128689711",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "GEORGETOWN",
+      "streetAddress": "7401 IH 35 SOUTH",
+      "postalCode": "78627",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.5584177,
+      "longitude": -97.6931791
+    },
+    "id": "76504"
+  },
+  {
+    "name": "SMART CENTER OF ORLANDO",
+    "url": "WWW.SMARTCENTEROFORLANDO.COM",
+    "telephone": "4076454222",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "MAITLAND",
+      "streetAddress": "810 N. ORLANDO AVENUE",
+      "postalCode": "32751",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.6339764,
+      "longitude": -81.36087719
+    },
+    "id": "14320"
+  },
+  {
+    "name": "SMART CENTER CLEARWATER",
+    "url": "WWW.SMARTCENTERCLEARWATER.COM",
+    "telephone": "7275301661",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CLEARWATER",
+      "streetAddress": "19820 US HWY 19 N",
+      "postalCode": "33764",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.9527907,
+      "longitude": -82.730993
+    },
+    "id": "14167"
+  },
+  {
+    "name": "SMART CENTER TAMPA",
+    "url": "WWW.SMARTCENTERTAMPA.COM",
+    "telephone": "8137122777",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "TAMPA",
+      "streetAddress": "4400 N. DALE MABRY HIGHWAY",
+      "postalCode": "33614",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.982455,
+      "longitude": -82.5062676
+    },
+    "id": "14316"
+  },
+  {
+    "name": "SMART CENTER SAN ANTONIO",
+    "url": "WWW.SMARTCENTERSANANTONIO.COM",
+    "telephone": "2103669600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SAN ANTONIO",
+      "streetAddress": "9600 SAN PEDRO",
+      "postalCode": "78216",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.5272381,
+      "longitude": -98.497627
+    },
+    "id": "75565"
+  },
+  {
+    "name": "SMART CENTER OF SARASOTA",
+    "url": "WWW.SMARTCENTERSARASOTA.COM",
+    "telephone": "9419233441",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SARASOTA",
+      "streetAddress": "4754 CLARK ROAD",
+      "postalCode": "34233",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.2682431,
+      "longitude": -82.4741336
+    },
+    "id": "14125"
+  },
+  {
+    "name": "SMART CENTER OF SANTA FE",
+    "url": "WWW.SMARTCENTEROFSANTAFE.COM",
+    "telephone": "5059132900",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SANTA FE",
+      "streetAddress": "2586 CAMINO ENTRADA",
+      "postalCode": "87507",
+      "addressRegion": "NM"
+    },
+    "geo": {
+      "latitude": 35.633619,
+      "longitude": -106.022324
+    },
+    "id": "54106"
+  },
+  {
+    "name": "SMART CENTER ALBUQUERQUE",
+    "url": "WWW.SMARTCENTERALBUQUERQUE.COM",
+    "telephone": "5059992500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ALBUQUERQUE",
+      "streetAddress": "1220 S. RENAISSANCE BLVD NE",
+      "postalCode": "87107",
+      "addressRegion": "NM"
+    },
+    "geo": {
+      "latitude": 35.1336077,
+      "longitude": -106.619611
+    },
+    "id": "54104"
+  },
+  {
+    "name": "SMART CENTER PALM BEACH",
+    "url": "WWW.SMARTCENTERPALMBEACH.COM",
+    "telephone": "5616896363",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WEST PALM BEACH",
+      "streetAddress": "4002 OKEECHOBEE BLVD.",
+      "postalCode": "33409",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.7067005,
+      "longitude": -80.1032008
+    },
+    "id": "14135"
+  },
+  {
+    "name": "SMART CENTER OF NAPLES",
+    "url": "WWW.SMARTCENTERNAPLES.COM",
+    "telephone": "2396435006",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "NAPLES",
+      "streetAddress": "501 AIRPORT ROAD SOUTH",
+      "postalCode": "34104",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.1492179,
+      "longitude": -81.7660753
+    },
+    "id": "14340"
+  },
+  {
+    "name": "SMART CENTER OF COCONUT CREEK",
+    "url": "WWW.SMARTCENTEROFCOCONUTCREEK.COM",
+    "telephone": "9545903100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "COCONUT CREEK",
+      "streetAddress": "4250 N. STATE ROAD 7",
+      "postalCode": "33072",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.2816101,
+      "longitude": -80.20121139
+    },
+    "id": "14161"
+  },
+  {
+    "name": "SMART CENTER OF CUTLER BAY",
+    "url": "WWW.SMARTCENTEROFCUTLERBAY.COM",
+    "telephone": "3052510345",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CUTLER BAY",
+      "streetAddress": "10701 S. W. 211TH STREET",
+      "postalCode": "33189",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 25.573696,
+      "longitude": -80.365065
+    },
+    "id": "14147"
+  },
+  {
+    "name": "SMART CENTER OF SAN JUAN",
+    "url": "WWW.SMARTCENTEROFSANJUAN.COM",
+    "telephone": "9567874400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SAN JUAN",
+      "streetAddress": "400 EAST EXPRESSWAY 83",
+      "postalCode": "78589",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 26.1978061,
+      "longitude": -98.1485999
+    },
+    "id": "75167"
+  },
+  {
+    "name": "SMART CENTER LINDON",
+    "url": "WWW.SMARTCENTERLINDON.COM",
+    "telephone": "8012224400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LINDON",
+      "streetAddress": "530 S. LINDON PARK DRIVE",
+      "postalCode": "84042",
+      "addressRegion": "UT"
+    },
+    "geo": {
+      "latitude": 40.329034,
+      "longitude": -111.732345
+    },
+    "id": "78102"
+  },
+  {
+    "name": "SMART CENTER CHANDLER",
+    "url": "WWW.SMARTCENTERCHANDLER.COM",
+    "telephone": "4804033400",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "CHANDLER",
+      "streetAddress": "7450 W. ORCHID LANE",
+      "postalCode": "85226",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 33.3249971,
+      "longitude": -111.9703563
+    },
+    "id": "03102"
+  },
+  {
+    "name": "SMART CENTER LAS VEGAS",
+    "url": "WWW.SMARTCENTERLASVEGAS.COM",
+    "telephone": "7023642700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LAS VEGAS",
+      "streetAddress": "7300 WEST SAHARA AVENUE",
+      "postalCode": "89117",
+      "addressRegion": "NV"
+    },
+    "geo": {
+      "latitude": 36.144889,
+      "longitude": -115.252885
+    },
+    "id": "49702"
+  },
+  {
+    "name": "SMART CENTER RIVERSIDE",
+    "url": "WWW.SMARTCENTERRIVERSIDE.COM",
+    "telephone": "9516883332",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "RIVERSIDE",
+      "streetAddress": "8505 INDIANA AVENUE",
+      "postalCode": "92504",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.924769,
+      "longitude": -117.423353
+    },
+    "id": "05733"
+  },
+  {
+    "name": "SMART CENTER WEST COVINA",
+    "url": "WWW.SMARTCENTERWESTCOVINA.COM",
+    "telephone": "6268591200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "WEST COVINA",
+      "streetAddress": "2010 EAST GARVEY AVENUE SOUTH",
+      "postalCode": "91791",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.0710431,
+      "longitude": -117.9024636
+    },
+    "id": "05127"
+  },
+  {
+    "name": "SMART CENTER OF SEATTLE",
+    "url": "WWW.SMARTCENTERSEATTLE.COM",
+    "telephone": "2063245959",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SEATTLE",
+      "streetAddress": "2025 AIRPORT WAY SOUTH",
+      "postalCode": "98134",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.5842672,
+      "longitude": -122.3222017
+    },
+    "id": "84112"
+  },
+  {
+    "name": "SMART CENTER SAN DIEGO",
+    "url": "WWW.SMARTCENTERSANDIEGO.COM",
+    "telephone": "8582797202",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SAN DIEGO",
+      "streetAddress": "4750 KEARNY MESA ROAD",
+      "postalCode": "92111",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 32.8247646,
+      "longitude": -117.1456623
+    },
+    "id": "05718"
+  },
+  {
+    "name": "SMART CENTER OF LAGUNA NIGUEL",
+    "url": "WWW.SMARTCENTERLAGUNANIGUEL.COM",
+    "telephone": "9493473700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "LAGUNA NIGUEL",
+      "streetAddress": "ONE STAR DRIVE",
+      "postalCode": "92677",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.5438679,
+      "longitude": -117.6754672
+    },
+    "id": "05747"
+  },
+  {
+    "name": "SMART CENTER OF PORTLAND",
+    "url": "WWW.SMARTCENTERPORTLAND.COM",
+    "telephone": "5032288351",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "PORTLAND",
+      "streetAddress": "1605 SW NAITO PARKWAY",
+      "postalCode": "97201",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 45.5110556,
+      "longitude": -122.676856
+    },
+    "id": "66114"
+  },
+  {
+    "name": "SMART CENTER BEVERLY HILLS",
+    "url": "WWW.SMARTCENTERBEVERLYHILLS.COM",
+    "telephone": "3106592980",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "BEVERLY HILLS",
+      "streetAddress": "9250 BEVERLY BOULEVARD",
+      "postalCode": "90210",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.0769641,
+      "longitude": -118.3946635
+    },
+    "id": "05146"
+  },
+  {
+    "name": "SMART CENTER OXNARD",
+    "url": "WWW.SMARTCENTER-OXNARD.COM",
+    "telephone": "8056046500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "OXNARD",
+      "streetAddress": "1511 AUTO CENTER DRIVE",
+      "postalCode": "93036",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.2291496,
+      "longitude": -119.1550179
+    },
+    "id": "05188"
+  },
+  {
+    "name": "SMART CENTER SACRAMENTO",
+    "url": "WWW.SMARTCENTERSACRAMENTO.COM",
+    "telephone": "9169248000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SACRAMENTO",
+      "streetAddress": "1810 HOWE AVENUE",
+      "postalCode": "95825",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.5987505,
+      "longitude": -121.4143236
+    },
+    "id": "05189"
+  },
+  {
+    "name": "SMART CENTER OF MEDFORD",
+    "url": "WWW.SMARTCENTEROFMEDFORD.COM",
+    "telephone": "5417741000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "MEDFORD",
+      "streetAddress": "3240 CRATER LAKE AVENUE",
+      "postalCode": "97504",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 42.3644775,
+      "longitude": -122.8547941
+    },
+    "id": "66127"
+  },
+  {
+    "name": "SMART CENTER SANTA BARBARA",
+    "url": "WWW.SMARTCENTERSANTABARBARA.COM",
+    "telephone": "8056822000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SANTA BARBARA",
+      "streetAddress": "401 SOUTH HOPE AVENUE",
+      "postalCode": "93105",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.43515,
+      "longitude": -119.747966
+    },
+    "id": "05144"
+  },
+  {
+    "name": "SMART CENTER OF SAN JOSE",
+    "url": "WWW.SMARTCENTEROFSANJOSE.COM",
+    "telephone": "4082392300",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SAN JOSE",
+      "streetAddress": "3000 E. CAPITOL EXPRESSWAY",
+      "postalCode": "95148",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.3324303,
+      "longitude": -121.8126495
+    },
+    "id": "05137"
+  },
+  {
+    "name": "SMART CENTER SAN FRANCISCO",
+    "url": "WWW.SMARTCENTERSANFRANCISCO.COM",
+    "telephone": "4156732000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "SAN FRANCISCO",
+      "streetAddress": "500 8TH STREET",
+      "postalCode": "94103",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.7719428,
+      "longitude": -122.4070745
+    },
+    "id": "05221"
+  }
+]
