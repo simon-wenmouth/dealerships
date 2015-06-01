@@ -1,0 +1,6698 @@
+[
+  {
+    "name": "Mercedes-Benz of Daytona Beach",
+    "url": "www.daytona-beach.mercedesdealer.com",
+    "telephone": "(386) 274-4775",
+    "faxNumber": "(386) 274-4633",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Daytona Beach",
+      "streetAddress": "1188 North Tomoka Farm Road",
+      "postalCode": "32124",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 29.206177,
+      "longitude": -81.099033
+    },
+    "id": "14177"
+  },
+  {
+    "name": "Keeler Motor Car Company",
+    "url": "www.keeler.mercedesdealer.com",
+    "telephone": "(518) 785-4197",
+    "faxNumber": "(518) 782-7315",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Latham",
+      "streetAddress": "1111 Troy Schenectady Road",
+      "postalCode": "12110",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 42.766662,
+      "longitude": -73.814608
+    },
+    "id": "55132"
+  },
+  {
+    "name": "Mercedes-Benz of El Cajon",
+    "url": "www.elcajon.mercedesdealer.com",
+    "telephone": "(619) 873-9000",
+    "faxNumber": "(619) 873-9099",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "El Cajon",
+      "streetAddress": "875 El Cajon Boulevard",
+      "postalCode": "92020",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 32.785021,
+      "longitude": -116.976909
+    },
+    "id": "05266"
+  },
+  {
+    "name": "Mercedes-Benz of Walnut Creek",
+    "url": "www.walnutcreek.mercedesdealer.com",
+    "telephone": "(925) 937-1655",
+    "faxNumber": "(925) 937-5590",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Walnut Creek",
+      "streetAddress": "1301 Parkside Drive",
+      "postalCode": "94596",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.911673,
+      "longitude": -122.06271
+    },
+    "id": "05158"
+  },
+  {
+    "name": "Mercedes-Benz of Orange Park",
+    "url": "www.orangepark.mercedesdealer.com",
+    "telephone": "(904) 777-5900",
+    "faxNumber": "(904) 253-7385",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "7018 Blanding Boulevard",
+      "postalCode": "32244",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.221233,
+      "longitude": -81.737124
+    },
+    "id": "14146"
+  },
+  {
+    "name": "Mercedes-Benz of Anchorage",
+    "url": "www.anchorage.mercedesdealer.com",
+    "telephone": "(907) 277-3383",
+    "faxNumber": "(907) 277-2508",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Anchorage",
+      "streetAddress": "1000 East 6th Avenue",
+      "postalCode": "99501",
+      "addressRegion": "AK"
+    },
+    "geo": {
+      "latitude": 61.21657,
+      "longitude": -149.864879
+    },
+    "id": "02103"
+  },
+  {
+    "name": "Lujack Motorwerks",
+    "url": "www.lujack.mercedesdealer.com",
+    "telephone": "(563) 386-1511",
+    "faxNumber": "(563) 388-2704",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Davenport",
+      "streetAddress": "3602 Harrison Street",
+      "postalCode": "52806",
+      "addressRegion": "IA"
+    },
+    "geo": {
+      "latitude": 41.5565,
+      "longitude": -90.5771
+    },
+    "id": "28106"
+  },
+  {
+    "name": "Carousel Motors",
+    "url": "www.iowacity.mercedesdealer.com",
+    "telephone": "(319) 354-2550",
+    "faxNumber": "(319) 337-6030",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Iowa City",
+      "streetAddress": "809 Highway 1 West",
+      "postalCode": "52246",
+      "addressRegion": "IA"
+    },
+    "geo": {
+      "latitude": 41.646665,
+      "longitude": -91.551028
+    },
+    "id": "28104"
+  },
+  {
+    "name": "Mercedes-Benz of Des Moines",
+    "url": "www.desmoines.mercedesdealer.com",
+    "telephone": "(877) 331-4794",
+    "faxNumber": "(515) 278-4371",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Des Moines",
+      "streetAddress": "9993 Hickman Road",
+      "postalCode": "50322",
+      "addressRegion": "IA"
+    },
+    "geo": {
+      "latitude": 41.615863,
+      "longitude": -93.755428
+    },
+    "id": "28105"
+  },
+  {
+    "name": "Flagship Motorcars",
+    "url": "www.flagship.mercedesdealer.com",
+    "telephone": "(781) 596-9700",
+    "faxNumber": "(781) 596-9869",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lynnfield",
+      "streetAddress": "385 Broadway",
+      "postalCode": "01940",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.512383,
+      "longitude": -71.006391
+    },
+    "id": "36100"
+  },
+  {
+    "name": "Mercedes-Benz of Novi",
+    "url": "www.novi.mercedesdealer.com",
+    "telephone": "(248) 426-9600",
+    "faxNumber": "(248) 426-8686",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Novi",
+      "streetAddress": "39500 Grand River Ave.",
+      "postalCode": "48375",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.471892,
+      "longitude": -83.435697
+    },
+    "id": "39106"
+  },
+  {
+    "name": "Grand Blanc Motorcars, Ltd.",
+    "url": "www.grand.mercedesdealer.com",
+    "telephone": "(810) 695-4400",
+    "faxNumber": "(810) 695-8027",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Grand Blanc",
+      "streetAddress": "9099 Holly Road",
+      "postalCode": "48439",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.899325,
+      "longitude": -83.631167
+    },
+    "id": "39100"
+  },
+  {
+    "name": "Ed Hicks Imports, Ltd.",
+    "url": "www.hicks.mercedesdealer.com",
+    "telephone": "(361) 854-1955",
+    "faxNumber": "(361) 855-0025",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Corpus Christi",
+      "streetAddress": "3102 South Padre Island Drive",
+      "postalCode": "78415",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 27.730556,
+      "longitude": -97.41633
+    },
+    "id": "75540"
+  },
+  {
+    "name": "W.I. Simonson, Inc.",
+    "url": "www.simonson.mercedesdealer.com",
+    "telephone": "(310) 829-4511",
+    "faxNumber": "(310) 453-9170",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Monica",
+      "streetAddress": "1626 Wilshire Blvd.",
+      "postalCode": "90403",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.028515,
+      "longitude": -118.486747
+    },
+    "id": "05154"
+  },
+  {
+    "name": "Mercedes-Benz of St. Louis",
+    "url": "www.stlouis.mercedesdealer.com",
+    "telephone": "(314) 647-2400",
+    "faxNumber": "(314) 833-6007",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "St Louis",
+      "streetAddress": "1048 Hampton Avenue",
+      "postalCode": "63139",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.6299,
+      "longitude": -90.28708
+    },
+    "id": "45101"
+  },
+  {
+    "name": "Aristocrat Motors",
+    "url": "www.aristocrat.mercedesdealer.com",
+    "telephone": "(913) 677-3300",
+    "faxNumber": "(913) 677-1341",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Merriam",
+      "streetAddress": "9400 W. 65th St.",
+      "postalCode": "66203",
+      "addressRegion": "KS"
+    },
+    "geo": {
+      "latitude": 39.0112,
+      "longitude": -94.694998
+    },
+    "id": "30104"
+  },
+  {
+    "name": "Mercedes-Benz of Wichita",
+    "url": "www.wichita.mercedesdealer.com",
+    "telephone": "1-888-869-6188",
+    "faxNumber": "1-316-688-5168",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wichita",
+      "streetAddress": "1545 N. Greenwich",
+      "postalCode": "97206",
+      "addressRegion": "KS"
+    },
+    "geo": {
+      "latitude": 37.711515,
+      "longitude": -97.207994
+    },
+    "id": "30100"
+  },
+  {
+    "name": "Mercedes-Benz of Boston",
+    "url": "www.boston.mercedesdealer.com",
+    "telephone": "(617) 666-4100",
+    "faxNumber": "(617) 666-1025",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Somerville",
+      "streetAddress": "259 Mc Grath Hwy.",
+      "postalCode": "02143",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.378,
+      "longitude": -71.088899
+    },
+    "id": "36200"
+  },
+  {
+    "name": "Mercedes-Benz of Orlando",
+    "url": "www.orlando.mercedesdealer.com",
+    "telephone": "(407) 645-4222",
+    "faxNumber": "(407) 645-4829",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Maitland",
+      "streetAddress": "810 N. Orlando Ave.",
+      "postalCode": "32751",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.634114,
+      "longitude": -81.361257
+    },
+    "id": "14320"
+  },
+  {
+    "name": "Mercedes-Benz of Collierville",
+    "url": "www.collierville.mercedesdealer.com",
+    "telephone": "(901) 316-3535",
+    "faxNumber": "(901) 316-3575",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Collierville",
+      "streetAddress": "4651 S. Houston Levee Road",
+      "postalCode": "38017",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.021407,
+      "longitude": -89.737077
+    },
+    "id": "74121"
+  },
+  {
+    "name": "Mercedes-Benz of Richmond",
+    "url": "www.mcgeorge.mercedesdealer.com",
+    "telephone": "(804) 755-9300",
+    "faxNumber": "(804) 755-9339",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Richmond",
+      "streetAddress": "8225 West Broad Street",
+      "postalCode": "23294",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.630277,
+      "longitude": -77.535697
+    },
+    "id": "80206"
+  },
+  {
+    "name": "Mercedes-Benz of Arlington",
+    "url": "www.arlington.mercedesdealer.com",
+    "telephone": "(703) 525-2100",
+    "faxNumber": "(703) 525-1430",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Arlington",
+      "streetAddress": "585 North Glebe Road",
+      "postalCode": "22203",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.876593,
+      "longitude": -77.108877
+    },
+    "id": "80201"
+  },
+  {
+    "name": "Mercedes-Benz of Lindon",
+    "url": "www.lindon.mercedesdealer.com",
+    "telephone": "(801) 222-4400",
+    "faxNumber": "(801) 222-4408",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lindon",
+      "streetAddress": "530 S. Lindon Park Drive",
+      "postalCode": "84042",
+      "addressRegion": "UT"
+    },
+    "geo": {
+      "latitude": 40.329069,
+      "longitude": -111.73113
+    },
+    "id": "78102"
+  },
+  {
+    "name": "Atlanta Classic Cars, Inc.",
+    "url": "www.duluth.mercedesdealer.com",
+    "telephone": "(770) 279-3600",
+    "faxNumber": "(770) 279-3690",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Duluth",
+      "streetAddress": "1705 Boggs Road",
+      "postalCode": "30096",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.96522,
+      "longitude": -84.095396
+    },
+    "id": "17315"
+  },
+  {
+    "name": "Mercedes-Benz of Morristown",
+    "url": "www.morristown.mercedesdealer.com",
+    "telephone": "(973) 267-9200",
+    "faxNumber": "(973) 267-8645",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Morristown",
+      "streetAddress": "34 Ridgedale Avenue",
+      "postalCode": "07962",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.798122,
+      "longitude": -74.469949
+    },
+    "id": "51113"
+  },
+  {
+    "name": "Mercedes-Benz of Macon",
+    "url": "www.jackson.mercedesdealer.com",
+    "telephone": "(478) 477-4858",
+    "faxNumber": "(478) 474-6960",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Macon",
+      "streetAddress": "4781 Riverside Drive",
+      "postalCode": "31210",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 32.922718,
+      "longitude": -83.710618
+    },
+    "id": "17319"
+  },
+  {
+    "name": "Mercedes-Benz of El Dorado Hills",
+    "url": "www.eldoradohills.mercedesdealer.com",
+    "telephone": "1-888-773-3154",
+    "faxNumber": "(916) 941-6800",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "El Dorado Hills",
+      "streetAddress": "1000 Mercedes Lane",
+      "postalCode": "95762",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.65263,
+      "longitude": -121.066529
+    },
+    "id": "05138"
+  },
+  {
+    "name": "Mercedes-Benz of Pleasanton",
+    "url": "www.pleasanton.mercedesdealer.com",
+    "telephone": "(925) 463-2525",
+    "faxNumber": "(925) 463-3662",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pleasanton",
+      "streetAddress": "5885 Owens Drive",
+      "postalCode": "94588",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.699967,
+      "longitude": -121.901038
+    },
+    "id": "05641"
+  },
+  {
+    "name": "Berberian European Motors",
+    "url": "www.berberian.mercedesdealer.com",
+    "telephone": "(209) 944-5511",
+    "faxNumber": "(209) 944-0157",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Stockton",
+      "streetAddress": "3755 N. West Lane",
+      "postalCode": "95204",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.987461,
+      "longitude": -121.285187
+    },
+    "id": "05643"
+  },
+  {
+    "name": "Courtesy Motors Auto Center, Inc.",
+    "url": "www.courtesy.mercedesdealer.com",
+    "telephone": "(530) 893-1300",
+    "faxNumber": "(530) 893-0928",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chico",
+      "streetAddress": "2520 Cohasset Road",
+      "postalCode": "95973",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 39.762229,
+      "longitude": -121.843466
+    },
+    "id": "05644"
+  },
+  {
+    "name": "Mercedes-Benz of Rocklin",
+    "url": "www.rocklin.mercedesdealer.com",
+    "telephone": "(916) 567-4300",
+    "faxNumber": "(916) 630-2173",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rocklin",
+      "streetAddress": "4747 Granite Drive",
+      "postalCode": "95677",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.791853,
+      "longitude": -121.220733
+    },
+    "id": "05133"
+  },
+  {
+    "name": "Rusnak/Arcadia",
+    "url": "www.rusnak.mercedesdealer.com",
+    "telephone": "(626) 447-1117",
+    "faxNumber": "(626) 447-3337",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Arcadia",
+      "streetAddress": "55 W. Huntington Drive",
+      "postalCode": "91007",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.14,
+      "longitude": -118.033631
+    },
+    "id": "05646"
+  },
+  {
+    "name": "Mercedes-Benz of Athens",
+    "url": "www.athens.mercedesdealer.com",
+    "telephone": "(706) 549-6585",
+    "faxNumber": "(706) 549-9221",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Athens",
+      "streetAddress": "4735 Atlanta Highway",
+      "postalCode": "30606",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.946301,
+      "longitude": -83.42895
+    },
+    "id": "17135"
+  },
+  {
+    "name": "Mercedes-Benz of Rockville Centre",
+    "url": "www.lakeview.mercedesdealer.com",
+    "telephone": "(516) 766-6900",
+    "faxNumber": "(516) 766-6933",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rockville Centre",
+      "streetAddress": "650 Sunrise Highway",
+      "postalCode": "11570",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.656863,
+      "longitude": -73.627643
+    },
+    "id": "55124"
+  },
+  {
+    "name": "Mercedes-Benz of Southampton",
+    "url": "www.southampton.mercedesdealer.com",
+    "telephone": "(631) 204-2500",
+    "faxNumber": "(631) 702-8020",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Southampton",
+      "streetAddress": "575 County Road 39",
+      "postalCode": "11968",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.89908,
+      "longitude": -72.374754
+    },
+    "id": "55126"
+  },
+  {
+    "name": "Mercedes-Benz of Chantilly",
+    "url": "www.chantilly.mercedesdealer.com",
+    "telephone": "(703) 956-2000",
+    "faxNumber": "(703) 956-2000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chantilly",
+      "streetAddress": "14841 Stonecroft Center Court",
+      "postalCode": "20151",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.897784,
+      "longitude": -77.461247
+    },
+    "id": "80111"
+  },
+  {
+    "name": "House of Imports, Inc.",
+    "url": "www.imports.mercedesdealer.com",
+    "telephone": "(714) 562-1100",
+    "faxNumber": "(714) 562-1111",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Buena Park",
+      "streetAddress": "6862 Auto Center Drive",
+      "postalCode": "90621",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.860898,
+      "longitude": -117.987791
+    },
+    "id": "05734"
+  },
+  {
+    "name": "Downtown LA Motors",
+    "url": "www.los-angeles.mercedesdealer.com",
+    "telephone": "1-888-335-6073",
+    "faxNumber": "1-213-746-2542",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Los Angeles",
+      "streetAddress": "1801 South Figueroa Street",
+      "postalCode": "90015",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.03543,
+      "longitude": -118.271401
+    },
+    "id": "05737"
+  },
+  {
+    "name": "Walter's Auto Sales and Service, Inc.",
+    "url": "www.walters.mercedesdealer.com",
+    "telephone": "(951) 688-3332",
+    "faxNumber": "(951) 687-7737",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Riverside",
+      "streetAddress": "3213 Adams St./Auto Center Dr.",
+      "postalCode": "92504",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.924879,
+      "longitude": -117.417666
+    },
+    "id": "05733"
+  },
+  {
+    "name": "Mercedes-Benz of Gainesville",
+    "url": "www.duval.mercedesdealer.com",
+    "telephone": "1-888-860-9452",
+    "faxNumber": "(352) 332-9879",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Gainesville",
+      "streetAddress": "4000 N. Main St.",
+      "postalCode": "32609",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 29.6814,
+      "longitude": -82.428
+    },
+    "id": "14132"
+  },
+  {
+    "name": "Mercedes-Benz of Palm Beach",
+    "url": "www.palm-beach.mercedesdealer.com",
+    "telephone": "(561) 689-6363",
+    "faxNumber": "(561) 478-4914",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Palm Beach",
+      "streetAddress": "4000 Okeechobee Blvd.",
+      "postalCode": "33409",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.70671,
+      "longitude": -80.104326
+    },
+    "id": "14135"
+  },
+  {
+    "name": "Mercedes-Benz of Escondido",
+    "url": "www.escondido.mercedesdealer.com",
+    "telephone": "(760) 745-5000",
+    "faxNumber": "(760) 745-9853",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Escondido",
+      "streetAddress": "1101 West Ninth Avenue",
+      "postalCode": "92025",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.1085,
+      "longitude": -117.093097
+    },
+    "id": "05181"
+  },
+  {
+    "name": "Smith Motor Sales of Haverhill Inc.",
+    "url": "www.smith.mercedesdealer.com",
+    "telephone": "(978) 372-2552",
+    "faxNumber": "(978) 372-2627",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Haverhill",
+      "streetAddress": "420 River Street",
+      "postalCode": "01832",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.765691,
+      "longitude": -71.09809
+    },
+    "id": "36103"
+  },
+  {
+    "name": "Mercedes-Benz of Sacramento",
+    "url": "www.sacramento.mercedesdealer.com",
+    "telephone": "1-888-479-0451",
+    "faxNumber": "(916) 924-6718",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sacramento",
+      "streetAddress": "1810 Howe Avenue",
+      "postalCode": "95825",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.598512,
+      "longitude": -121.415359
+    },
+    "id": "05189"
+  },
+  {
+    "name": "Mercedes-Benz of Oxnard",
+    "url": "www.oxnard.mercedesdealer.com",
+    "telephone": "(805) 604-6500",
+    "faxNumber": "(805) 604-6599",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Oxnard",
+      "streetAddress": "1511 Auto Center Drive",
+      "postalCode": "93036",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.229014,
+      "longitude": -119.155088
+    },
+    "id": "05188"
+  },
+  {
+    "name": "Mercedes-Benz of Fairfield",
+    "url": "www.fairfieldca.mercedesdealer.com",
+    "telephone": "(707) 430-0101",
+    "faxNumber": "(707) 421-3304",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fairfield",
+      "streetAddress": "2950 Auto Mall Parkway",
+      "postalCode": "94533",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.241684,
+      "longitude": -122.083507
+    },
+    "id": "05227"
+  },
+  {
+    "name": "Mercedes-Benz of Beaumont",
+    "url": "www.beaumont.mercedesdealer.com",
+    "telephone": "(409) 840-2000",
+    "faxNumber": "(409) 840-2010",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Beaumont",
+      "streetAddress": "1865 I-10 South",
+      "postalCode": "77701",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.058264,
+      "longitude": -94.136157
+    },
+    "id": "75113"
+  },
+  {
+    "name": "Mercedes-Benz of Tyler",
+    "url": "www.tyler.mercedesdealer.com",
+    "telephone": "(903) 534-7060",
+    "faxNumber": "(903) 534-0741",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tyler",
+      "streetAddress": "3274 Professional Drive",
+      "postalCode": "75701",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.3037,
+      "longitude": -95.322881
+    },
+    "id": "75110"
+  },
+  {
+    "name": "Mercedes-Benz of Houston North",
+    "url": "www.houston-north.mercedesdealer.com",
+    "telephone": "(281) 233-6000",
+    "faxNumber": "(281) 233-6029",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "17510 I-45 North Freeway",
+      "postalCode": "77090",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.022429,
+      "longitude": -95.428399
+    },
+    "id": "75117"
+  },
+  {
+    "name": "Mercedes-Benz of Houston Greenway",
+    "url": "www.houston-greenway.mercedesdealer.com",
+    "telephone": "1-888-872-1461",
+    "faxNumber": "(713) 986-6403",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "3900 Southwest Freeway",
+      "postalCode": "77027",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.7293,
+      "longitude": -95.439899
+    },
+    "id": "75116"
+  },
+  {
+    "name": "Brumos Motor Cars, Inc.",
+    "url": "www.brumos.mercedesdealer.com",
+    "telephone": "(904) 724-1080",
+    "faxNumber": "(904) 725-5006",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "10231 Atlantic Boulevard",
+      "postalCode": "32225",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.323291,
+      "longitude": -81.534556
+    },
+    "id": "15320"
+  },
+  {
+    "name": "Mercedes-Benz of Maui",
+    "url": "www.maui.mercedesdealer.com",
+    "telephone": "(808) 872-1500",
+    "faxNumber": "(808) 872-1500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kahului",
+      "streetAddress": "69 Hobron Avenue",
+      "postalCode": "96732",
+      "addressRegion": "HI"
+    },
+    "geo": {
+      "latitude": 20.89232,
+      "longitude": -156.462185
+    },
+    "id": "20102"
+  },
+  {
+    "name": "Park Place Motorcars Grapevine",
+    "url": "www.parkplace-grapevine.mercedesdealer.com",
+    "telephone": "(817) 359-4700",
+    "faxNumber": "(817) 571-1237",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Grapevine",
+      "streetAddress": "1300 Texan Trail",
+      "postalCode": "76051",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.838073,
+      "longitude": -97.108738
+    },
+    "id": "75118"
+  },
+  {
+    "name": "Carriage House of New London, Inc.",
+    "url": "www.carriagehouse.mercedesdealer.com",
+    "telephone": "(860) 447-3361",
+    "faxNumber": "(860) 447-2499",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New London",
+      "streetAddress": "488 Colman St.",
+      "postalCode": "06320",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.365343,
+      "longitude": -72.120189
+    },
+    "id": "09125"
+  },
+  {
+    "name": "Mercedes-Benz of North Haven",
+    "url": "www.northhaven.mercedesdealer.com",
+    "telephone": "(203) 239-1313",
+    "faxNumber": "(203) 234-2786",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "North Haven",
+      "streetAddress": "620 Washington Avenue",
+      "postalCode": "06473",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.421109,
+      "longitude": -72.839695
+    },
+    "id": "09127"
+  },
+  {
+    "name": "Mercedes-Benz of Northwest Arkansas",
+    "url": "www.mercedes-benzofnorthwestarkansas.mercedesdealer.com",
+    "telephone": "888-615-1240",
+    "faxNumber": "(479) 521-7296",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bentonville",
+      "streetAddress": "2400 SE Moberly Lane",
+      "postalCode": "72712",
+      "addressRegion": "AR"
+    },
+    "geo": {
+      "latitude": 36.346412,
+      "longitude": -94.184627
+    },
+    "id": "04100"
+  },
+  {
+    "name": "Mercedes-Benz of Loveland",
+    "url": "www.loveland.mercedesdealer.com",
+    "telephone": "(970) 278-2300",
+    "faxNumber": "(970) 278-2301",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Loveland",
+      "streetAddress": "4040 Byrd Drive",
+      "postalCode": "80538",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 40.434653,
+      "longitude": -104.995885
+    },
+    "id": "08119"
+  },
+  {
+    "name": "JP Motors, Inc.",
+    "url": "www.jpmotors.mercedesdealer.com",
+    "telephone": "(815) 223-7000",
+    "faxNumber": "(815) 224-4288",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peru",
+      "streetAddress": "3675 Frontage Road",
+      "postalCode": "61354",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.36535,
+      "longitude": -89.156697
+    },
+    "id": "22438"
+  },
+  {
+    "name": "Sullivan-Parkhill Imports, Inc.",
+    "url": "www.sullivan-parkhill.mercedesdealer.com",
+    "telephone": "(217) 352-4161",
+    "faxNumber": "(217) 359-5001",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Champaign",
+      "streetAddress": "401 W. Marketview Dr.",
+      "postalCode": "61822",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 40.137254,
+      "longitude": -88.248985
+    },
+    "id": "22439"
+  },
+  {
+    "name": "Mercedes-Benz of North Palm Beach",
+    "url": "www.northpalmbeach.mercedesdealer.com",
+    "telephone": "(561) 848-2900",
+    "faxNumber": "(561) 848-2110",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "North Palm Beach",
+      "streetAddress": "9275 Alternate A1A",
+      "postalCode": "33403",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.811741,
+      "longitude": -80.078258
+    },
+    "id": "14149"
+  },
+  {
+    "name": "Mercedes-Benz of Delray",
+    "url": "www.delray.mercedesdealer.com",
+    "telephone": "(561) 381-6500",
+    "faxNumber": "(561) 381-6497",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Delray Beach",
+      "streetAddress": "1001 Linton Blvd.",
+      "postalCode": "33444",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.442091,
+      "longitude": -80.084051
+    },
+    "id": "14148"
+  },
+  {
+    "name": "Mercedes-Benz of St. Charles",
+    "url": "www.st-charles.mercedesdealer.com",
+    "telephone": "(630) 485-2300",
+    "faxNumber": "(630) 485-2311",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "St. Charles",
+      "streetAddress": "225 N. Randall Road",
+      "postalCode": "60174",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.913784,
+      "longitude": -88.340024
+    },
+    "id": "22122"
+  },
+  {
+    "name": "Mercedes-Benz of Cutler Bay",
+    "url": "www.cutlerbay.mercedesdealer.com",
+    "telephone": "(305) 251-0345",
+    "faxNumber": "(305) 251-0331",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cutler Bay",
+      "streetAddress": "10701 SW 211th Street",
+      "postalCode": "33189",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 25.573796,
+      "longitude": -80.364872
+    },
+    "id": "14147"
+  },
+  {
+    "name": "Mercedes-Benz of Hoffman Estates",
+    "url": "www.hoffman.mercedesdealer.com",
+    "telephone": "(866) 979-0869",
+    "faxNumber": "(224) 653-2153",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hoffman Estates",
+      "streetAddress": "1000 West Golf Road",
+      "postalCode": "60169",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.0484,
+      "longitude": -88.104198
+    },
+    "id": "22121"
+  },
+  {
+    "name": "Mercedes-Benz of Melbourne",
+    "url": "www.melbourne.mercedesdealer.com",
+    "telephone": "(321) 956-0600",
+    "faxNumber": "(321) 956-0700",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Melbourne",
+      "streetAddress": "509 East Nasa Blvd.",
+      "postalCode": "32901",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.09307,
+      "longitude": -80.613483
+    },
+    "id": "14141"
+  },
+  {
+    "name": "Autohaus of Peoria",
+    "url": "www.peoria.mercedesdealer.com",
+    "telephone": "(309) 243-7000",
+    "faxNumber": "(309) 243-3901",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peoria",
+      "streetAddress": "9500 N. Allen Road",
+      "postalCode": "61615",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 40.8030035,
+      "longitude": -89.6292408
+    },
+    "id": "22127"
+  },
+  {
+    "name": "Mercedes-Benz of Mobile",
+    "url": "www.mobile.mercedesdealer.com",
+    "telephone": "(251) 472-2369",
+    "faxNumber": "(251) 472-3321",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mobile",
+      "streetAddress": "3060 Dauphin Street",
+      "postalCode": "36606",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 30.689737,
+      "longitude": -88.116468
+    },
+    "id": "01117"
+  },
+  {
+    "name": "Mercedes-Benz of Burlington",
+    "url": "www.burlington.mercedesdealer.com",
+    "telephone": "(781) 229-1600",
+    "faxNumber": "(781) 232-9578",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Burlington",
+      "streetAddress": "80 Cambridge Street",
+      "postalCode": "01803",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.4936672,
+      "longitude": -71.1926343
+    },
+    "id": "36156"
+  },
+  {
+    "name": "Mercedes-Benz of Hanover",
+    "url": "www.hanover.mercedesdealer.com",
+    "telephone": "(781) 924-4200",
+    "faxNumber": "(781) 924-4289",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hanover",
+      "streetAddress": "1877 Washington St.",
+      "postalCode": "02339",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.149329,
+      "longitude": -70.84557
+    },
+    "id": "36154"
+  },
+  {
+    "name": "Holmes European Motors, Inc.",
+    "url": "www.holmes.mercedesdealer.com",
+    "telephone": "(318) 212-1212",
+    "faxNumber": "(318) 212-1312",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Shreveport",
+      "streetAddress": "1221 East Bert Kouns Ind. Loop",
+      "postalCode": "71135",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 32.420357,
+      "longitude": -93.721299
+    },
+    "id": "32571"
+  },
+  {
+    "name": "Mercedes-Benz of St. Clair Shores",
+    "url": "www.st-clairshores.mercedesdealer.com",
+    "telephone": "(586) 773-2369",
+    "faxNumber": "(586) 773-1580",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "St. Clair Shores",
+      "streetAddress": "20101 East Nine Mile Road",
+      "postalCode": "48080",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.4659,
+      "longitude": -82.913909
+    },
+    "id": "39133"
+  },
+  {
+    "name": "Okemos Auto Collection",
+    "url": "www.lansingimports.mercedesdealer.com",
+    "telephone": "(517) 853-2600",
+    "faxNumber": "(517) 853-2660",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Okemos",
+      "streetAddress": "2186 Jolly Road",
+      "postalCode": "48864",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.682929,
+      "longitude": -84.42965
+    },
+    "id": "39132"
+  },
+  {
+    "name": "Mercedes-Benz of Traverse City",
+    "url": "www.traversecity.mercedesdealer.com",
+    "telephone": "(231) 938-3800",
+    "faxNumber": "(231) 938-2683",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Traverse City",
+      "streetAddress": "3258 North US 31 South",
+      "postalCode": "49684",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 44.7719,
+      "longitude": -85.5013
+    },
+    "id": "39139"
+  },
+  {
+    "name": "Mercedes-Benz of Cary",
+    "url": "www.cary.mercedesdealer.com",
+    "telephone": "(919) 380-1800",
+    "faxNumber": "(919) 460-3016",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cary",
+      "streetAddress": "2400 Auto Park Boulevard",
+      "postalCode": "27511",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.738142,
+      "longitude": -78.81423
+    },
+    "id": "59106"
+  },
+  {
+    "name": "Mercedes-Benz of Greensboro",
+    "url": "www.greensboro.mercedesdealer.com",
+    "telephone": "(336) 856-1552",
+    "faxNumber": "(336) 856-0895",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greensboro",
+      "streetAddress": "819 Norwalk",
+      "postalCode": "27407",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 36.059488,
+      "longitude": -79.870863
+    },
+    "id": "59104"
+  },
+  {
+    "name": "Smith Company Motor Cars",
+    "url": "www.smithcompany.mercedesdealer.com",
+    "telephone": "1-800-427-4034",
+    "faxNumber": "1-304-746-0030",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charleston",
+      "streetAddress": "5 Dudley Farms Lane",
+      "postalCode": "25309",
+      "addressRegion": "WV"
+    },
+    "geo": {
+      "latitude": 38.327119,
+      "longitude": -81.713119
+    },
+    "id": "85201"
+  },
+  {
+    "name": "Open Road of Bridgewater",
+    "url": "www.bridgewater.mercedesdealer.com",
+    "telephone": "(908) 685-0800",
+    "faxNumber": "(908) 685-0840",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bridgewater",
+      "streetAddress": "1250 Route 22 East",
+      "postalCode": "08807",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.577603,
+      "longitude": -74.582635
+    },
+    "id": "51158"
+  },
+  {
+    "name": "Bobby Rahal Motorcar Co.",
+    "url": "www.bobbyrahal.mercedesdealer.com",
+    "telephone": "(724) 935-9300",
+    "faxNumber": "(724) 935-8142",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wexford",
+      "streetAddress": "10701 Perry Highway",
+      "postalCode": "15090",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.6144,
+      "longitude": -80.054923
+    },
+    "id": "67102"
+  },
+  {
+    "name": "Euro Motorcars, Inc.",
+    "url": "www.euromotorcars.mercedesdealer.com",
+    "telephone": "(301) 986-8800",
+    "faxNumber": "(301) 656-0918",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bethesda",
+      "streetAddress": "7020 Arlington Road",
+      "postalCode": "20814",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 38.979709,
+      "longitude": -77.098399
+    },
+    "id": "34203"
+  },
+  {
+    "name": "Mercedes-Benz of Hagerstown",
+    "url": "www.hagerstown.mercedesdealer.com",
+    "telephone": "(301) 733-2301",
+    "faxNumber": "(301) 733-4484",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hagerstown",
+      "streetAddress": "1955 Dual Highway",
+      "postalCode": "21740",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.604022,
+      "longitude": -77.685088
+    },
+    "id": "34205"
+  },
+  {
+    "name": "Demarois Buick GMC Mercedes",
+    "url": "www.demarois.mercedesdealer.com",
+    "telephone": "(406) 721-4000",
+    "faxNumber": "(406) 728-4935",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Missoula",
+      "streetAddress": "3115 West Broadway",
+      "postalCode": "59801",
+      "addressRegion": "MT"
+    },
+    "geo": {
+      "latitude": 46.8959,
+      "longitude": -114.034
+    },
+    "id": "47607"
+  },
+  {
+    "name": "Mercedes-Benz of Santa Fe",
+    "url": "www.santafe.mercedesdealer.com",
+    "telephone": "(505) 913-2900",
+    "faxNumber": "(505) 260-5018",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Fe",
+      "streetAddress": "2586 Camino Entrada",
+      "postalCode": "87507",
+      "addressRegion": "NM"
+    },
+    "geo": {
+      "latitude": 35.633619,
+      "longitude": -106.022324
+    },
+    "id": "54106"
+  },
+  {
+    "name": "Mercedes-Benz of Albuquerque",
+    "url": "www.albuquerque.mercedesdealer.com",
+    "telephone": "(888) 253-3816",
+    "faxNumber": "(505) 338-8216",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Albuquerque",
+      "streetAddress": "8920 Pan American NE",
+      "postalCode": "87113",
+      "addressRegion": "NM"
+    },
+    "geo": {
+      "latitude": 35.186036,
+      "longitude": -106.580499
+    },
+    "id": "54101"
+  },
+  {
+    "name": "Mercedes-Benz of Arrowhead",
+    "url": "www.arrowhead.mercedesdealer.com",
+    "telephone": "1-623-583-7200",
+    "faxNumber": "1-623-583-1346",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Peoria",
+      "streetAddress": "9260 West Bell Road",
+      "postalCode": "85382",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 33.638164,
+      "longitude": -112.257693
+    },
+    "id": "03108"
+  },
+  {
+    "name": "Mercedes-Benz of Tucson",
+    "url": "www.tucson.mercedesdealer.com",
+    "telephone": "(520) 886-1311",
+    "faxNumber": "(520) 722-9648",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tucson",
+      "streetAddress": "6350 E. Grant Road",
+      "postalCode": "85715",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 32.2505304,
+      "longitude": -110.856641
+    },
+    "id": "03106"
+  },
+  {
+    "name": "Mercedes-Benz of Chandler",
+    "url": "www.chandler.mercedesdealer.com",
+    "telephone": "(480) 421-4500",
+    "faxNumber": "(480) 421-4505",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chandler",
+      "streetAddress": "7450 W. Orchid Lane",
+      "postalCode": "85226",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 33.32352,
+      "longitude": -111.970581
+    },
+    "id": "03102"
+  },
+  {
+    "name": "Mercedes-Benz of Florence",
+    "url": "www.florence.mercedesdealer.com",
+    "telephone": "(843) 662-8711",
+    "faxNumber": "(843) 669-0064",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Florence",
+      "streetAddress": "2199 David McLeod Blvd",
+      "postalCode": "29501",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 34.186982,
+      "longitude": -79.817189
+    },
+    "id": "72120"
+  },
+  {
+    "name": "Park Avenue Motors",
+    "url": "www.parkavenue.mercedesservicedealer.com",
+    "telephone": "(650) 494-0311",
+    "faxNumber": "(650) 494-7192",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Palo Alto",
+      "streetAddress": "3290 Park Boulevard",
+      "postalCode": "94306",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.42384,
+      "longitude": -122.134439
+    },
+    "id": "05675"
+  },
+  {
+    "name": "Mercedes-Benz of Hilton Head",
+    "url": "www.hiltonhead.mercedesdealer.com",
+    "telephone": "(843) 815-0300",
+    "faxNumber": "(843) 815-0359",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bluffton",
+      "streetAddress": "155 Fording Island Rd.",
+      "postalCode": "29910",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 32.217399,
+      "longitude": -80.7165
+    },
+    "id": "72319"
+  },
+  {
+    "name": "Crown Eurocars, Inc.",
+    "url": "www.crowneurocar.mercedesdealer.com",
+    "telephone": "(614) 799-4666",
+    "faxNumber": "(614) 799-4676",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dublin",
+      "streetAddress": "6500 Perimeter Loop Road",
+      "postalCode": "43017",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 40.1003,
+      "longitude": -83.156319
+    },
+    "id": "62423"
+  },
+  {
+    "name": "Cardenas Metroplex",
+    "url": "www.cardenas.mercedesdealer.com",
+    "telephone": "(956) 428-2369",
+    "faxNumber": "(956) 423-6200",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Harlingen",
+      "streetAddress": "111 South Loop 499",
+      "postalCode": "78550",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 26.19147,
+      "longitude": -97.663059
+    },
+    "id": "75152"
+  },
+  {
+    "name": "Silver Star Motors",
+    "url": "www.silverstar.mercedesdealer.com",
+    "telephone": "(718) 361-2332",
+    "faxNumber": "(718) 361-1790",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Long Island City",
+      "streetAddress": "36-11 Northern Boulevard",
+      "postalCode": "11101",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.7521,
+      "longitude": -73.927666
+    },
+    "id": "55110"
+  },
+  {
+    "name": "Mercedes-Benz of Knoxville",
+    "url": "www.knoxville.mercedesdealer.com",
+    "telephone": "(865) 777-2222",
+    "faxNumber": "(865) 777-2224",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Knoxville",
+      "streetAddress": "10131 Parkside Drive",
+      "postalCode": "37922",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.90858,
+      "longitude": -84.123911
+    },
+    "id": "74303"
+  },
+  {
+    "name": "Mercedes-Benz of New Rochelle",
+    "url": "www.newrochelle.mercedesdealer.com",
+    "telephone": "(914) 275-4000",
+    "faxNumber": "(914) 834-2944",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New Rochelle",
+      "streetAddress": "77 East Main Street",
+      "postalCode": "10801",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.921107,
+      "longitude": -73.764118
+    },
+    "id": "55116"
+  },
+  {
+    "name": "Mercedes-Benz of Portland",
+    "url": "www.portland.mercedesdealer.com",
+    "telephone": "1-888-208-7248",
+    "faxNumber": "1-503-223-7577",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Portland",
+      "streetAddress": "1605 SW Naito Parkway",
+      "postalCode": "97201",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 45.510942,
+      "longitude": -122.676125
+    },
+    "id": "66114"
+  },
+  {
+    "name": "Mercedes-Benz of Beaverton",
+    "url": "www.beaverton.mercedesdealer.com",
+    "telephone": "(503) 296-1700",
+    "faxNumber": "(503) 296-1799",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Portland",
+      "streetAddress": "9275 SW Canyon Road",
+      "postalCode": "97225",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 45.495518,
+      "longitude": -122.772181
+    },
+    "id": "66123"
+  },
+  {
+    "name": "Mercedes-Benz of Calabasas",
+    "url": "www.calabasas.mercedesdealer.com",
+    "telephone": "(877) 256-1108",
+    "faxNumber": "(818) 223-3575",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Calabasas",
+      "streetAddress": "24181 Calabasas Road",
+      "postalCode": "91302",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.151514,
+      "longitude": -118.653951
+    },
+    "id": "05179"
+  },
+  {
+    "name": "Husker Auto Group",
+    "url": "www.husker.mercedesdealer.com",
+    "telephone": "(402) 479-7600",
+    "faxNumber": "(402) 479-7670",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lincoln",
+      "streetAddress": "6701 Telluride Drive",
+      "postalCode": "68521",
+      "addressRegion": "NE"
+    },
+    "geo": {
+      "latitude": 40.878855,
+      "longitude": -96.683769
+    },
+    "id": "48101"
+  },
+  {
+    "name": "Mercedes-Benz of Omaha",
+    "url": "www.omaha.mercedesdealer.com",
+    "telephone": "(402) 384-9999",
+    "faxNumber": "(402) 384-8539",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Omaha",
+      "streetAddress": "14335 Hillsdale Ave.",
+      "postalCode": "68137",
+      "addressRegion": "NE"
+    },
+    "geo": {
+      "latitude": 41.21512,
+      "longitude": -96.137889
+    },
+    "id": "48103"
+  },
+  {
+    "name": "Isringhausen Imports, Inc.",
+    "url": "www.isringhausen.mercedesdealer.com",
+    "telephone": "(217) 528-2277",
+    "faxNumber": "(217) 528-8146",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Springfield",
+      "streetAddress": "229 East Jefferson St",
+      "postalCode": "62701",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 39.802905,
+      "longitude": -89.65284
+    },
+    "id": "22470"
+  },
+  {
+    "name": "Mercedes-Benz of Medford",
+    "url": "www.medford.mercedesdealer.com",
+    "telephone": "(541) 774-1000",
+    "faxNumber": "(541) 774-3557",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Medford",
+      "streetAddress": "3240 Crater Lake Avenue",
+      "postalCode": "97504",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 42.364278,
+      "longitude": -122.855656
+    },
+    "id": "66127"
+  },
+  {
+    "name": "RAB Motors",
+    "url": "www.rabmotors.mercedesdealer.com",
+    "telephone": "(415) 454-0582",
+    "faxNumber": "(415) 457-9121",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Rafael",
+      "streetAddress": "540 Francisco Blvd. West",
+      "postalCode": "94901",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.965762,
+      "longitude": -122.516076
+    },
+    "id": "05253"
+  },
+  {
+    "name": "Mercedes-Benz of Encino",
+    "url": "www.encino.mercedesdealer.com",
+    "telephone": "1-818-788-0234",
+    "faxNumber": "1-818-783-9098",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Encino",
+      "streetAddress": "16721 Ventura Boulevard",
+      "postalCode": "91436",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.158504,
+      "longitude": -118.497939
+    },
+    "id": "05257"
+  },
+  {
+    "name": "Mercedes-Benz of Temecula",
+    "url": "www.temecula.mercedesdealer.com",
+    "telephone": "(951) 216-7800",
+    "faxNumber": "(951) 216-7889",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Temecula",
+      "streetAddress": "40910 Temecula Center Drive",
+      "postalCode": "92590",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.486493,
+      "longitude": -117.211222
+    },
+    "id": "05256"
+  },
+  {
+    "name": "Mercedes-Benz of South Bay",
+    "url": "www.southbay.mercedesdealer.com",
+    "telephone": "(310) 534-3333",
+    "faxNumber": "(310) 325-0892",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Torrance",
+      "streetAddress": "3311 Pacific Coast Hwy.",
+      "postalCode": "90505",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.798981,
+      "longitude": -118.342089
+    },
+    "id": "05705"
+  },
+  {
+    "name": "Mercedes-Benz of Nanuet",
+    "url": "www.nanuet.mercedesdealer.com",
+    "telephone": "(845) 624-1500",
+    "faxNumber": "(845) 623-1256",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Nanuet",
+      "streetAddress": "99 Route 304",
+      "postalCode": "10954",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 41.101601,
+      "longitude": -73.99763
+    },
+    "id": "55106"
+  },
+  {
+    "name": "Mercedes-Benz of Maplewood",
+    "url": "www.maplewood.mercedesdealer.com",
+    "telephone": "(651) 483-2681",
+    "faxNumber": "(651) 766-2323",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Maplewood",
+      "streetAddress": "2780 North Highway 61",
+      "postalCode": "55109",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": 45.025343,
+      "longitude": -93.047734
+    },
+    "id": "42117"
+  },
+  {
+    "name": "Mercedes-Benz of Rochester",
+    "url": "www.rochestermn.mercedesdealer.com",
+    "telephone": "(507) 424-3001",
+    "faxNumber": "(507) 424-2020",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rochester",
+      "streetAddress": "4447 Canal Place SE",
+      "postalCode": "55904",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": 43.956019,
+      "longitude": -92.463403
+    },
+    "id": "42118"
+  },
+  {
+    "name": "Zimbrick European",
+    "url": "www.zeuropean.mercedesdealer.com",
+    "telephone": "(608) 258-4000",
+    "faxNumber": "(608) 258-4042",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Madison",
+      "streetAddress": "2300 Rimrock Road",
+      "postalCode": "53713",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 43.038309,
+      "longitude": -89.378988
+    },
+    "id": "86416"
+  },
+  {
+    "name": "Mercedes-Benz of Plano",
+    "url": "www.plano.mercedesdealer.com",
+    "telephone": "(972) 599-0909",
+    "faxNumber": "(972) 599-0907",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Plano",
+      "streetAddress": "4464 West Plano Parkway",
+      "postalCode": "75093",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 33.016378,
+      "longitude": -96.782278
+    },
+    "id": "75534"
+  },
+  {
+    "name": "Concours Motors, Inc.",
+    "url": "www.concours.mercedesdealer.com",
+    "telephone": "(414) 290-1400",
+    "faxNumber": "(414) 228-8150",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Glendale",
+      "streetAddress": "1400 West Silver Spring Drive",
+      "postalCode": "53209",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 43.11886,
+      "longitude": -87.928099
+    },
+    "id": "86412"
+  },
+  {
+    "name": "Mercedes-Benz of Scottsdale",
+    "url": "www.scottsdale.mercedesdealer.com",
+    "telephone": "(480) 748-4800",
+    "faxNumber": "1-602-234-3090",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Scottsdale",
+      "streetAddress": "4725 North Scottsdale Road",
+      "postalCode": "85251",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 33.505675,
+      "longitude": -111.925983
+    },
+    "id": "03703"
+  },
+  {
+    "name": "ZT Motors of Fort Walton Beach",
+    "url": "www.quality.mercedesdealer.com",
+    "telephone": "(850) 863-2161",
+    "faxNumber": "(850) 863-1217",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Walton Beach",
+      "streetAddress": "1000 Beal Parkway",
+      "postalCode": "32547",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.452958,
+      "longitude": -86.639283
+    },
+    "id": "14208"
+  },
+  {
+    "name": "Mercedes-Benz of Wesley Chapel",
+    "url": "www.wesleychapel.mercedesdealer.com",
+    "telephone": "(813) 200-7788",
+    "faxNumber": "Coming Soon",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wesley Chapel",
+      "streetAddress": "2383 Willow Oak Drive",
+      "postalCode": "33544",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.191762,
+      "longitude": -82.377116
+    },
+    "id": "14209"
+  },
+  {
+    "name": "Loeber Motors, Inc.",
+    "url": "www.loeber.mercedesdealer.com",
+    "telephone": "(847) 675-1000",
+    "faxNumber": "(847) 675-5212",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lincolnwood",
+      "streetAddress": "4255 W. Touhy Avenue",
+      "postalCode": "60712",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.011757,
+      "longitude": -87.734965
+    },
+    "id": "22409"
+  },
+  {
+    "name": "Mercedes-Benz of Caldwell",
+    "url": "www.caldwell.mercedesdealer.com",
+    "telephone": "(973) 227-3600",
+    "faxNumber": "(973) 575-7835",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fairfield",
+      "streetAddress": "1230 Bloomfield Avenue",
+      "postalCode": "07004",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.856656,
+      "longitude": -74.314418
+    },
+    "id": "51195"
+  },
+  {
+    "name": "Mercedes-Benz of Cherry Hill",
+    "url": "www.cherry-hill.mercedesdealer.com",
+    "telephone": "(856) 663-3200",
+    "faxNumber": "(856) 488-3523",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cherry Hill",
+      "streetAddress": "2151 Rt. 70 W",
+      "postalCode": "08002",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 39.921002,
+      "longitude": -75.038401
+    },
+    "id": "51209"
+  },
+  {
+    "name": "Mercedes-Benz of Huntsville",
+    "url": "www.huntsville.mercedesdealer.com",
+    "telephone": "(256) 837-5753",
+    "faxNumber": "(256) 830-1298",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntsville",
+      "streetAddress": "6520 University Drive NW",
+      "postalCode": "35806",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 34.747971,
+      "longitude": -86.690283
+    },
+    "id": "01120"
+  },
+  {
+    "name": "Mercedes-Benz of Birmingham",
+    "url": "www.birmingham.mercedesdealer.com",
+    "telephone": "(205) 985-4200",
+    "faxNumber": "(205) 402-2213",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hoover",
+      "streetAddress": "1800 Montgomery Highway",
+      "postalCode": "35244",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 33.375722,
+      "longitude": -86.803957
+    },
+    "id": "01127"
+  },
+  {
+    "name": "Mercedes-Benz of Bloomfield Hills",
+    "url": "www.bloomfield-hills.mercedesdealer.com",
+    "telephone": "(248) 644-8400",
+    "faxNumber": "(248) 644-7444",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bloomfield Hills",
+      "streetAddress": "36600 N. Woodward Avenue",
+      "postalCode": "48304",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.557459,
+      "longitude": -83.222105
+    },
+    "id": "39417"
+  },
+  {
+    "name": "Mercedes-Benz of Beverly Hills",
+    "url": "www.beverlyhills.mercedesdealer.com",
+    "telephone": "(310) 659-2980",
+    "faxNumber": "(310) 854-3712",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Beverly Hills",
+      "streetAddress": "9250 Beverly Boulevard",
+      "postalCode": "90210",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.077166,
+      "longitude": -118.393737
+    },
+    "id": "05146"
+  },
+  {
+    "name": "Mansfield Motor Group",
+    "url": "www.mansfield.mercedesdealer.com",
+    "telephone": "(419) 529-7800",
+    "faxNumber": "(419) 529-4445",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mansfield",
+      "streetAddress": "1493 Park Avenue, West",
+      "postalCode": "44906",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 40.759426,
+      "longitude": -82.566289
+    },
+    "id": "62113"
+  },
+  {
+    "name": "Mercedes-Benz of North Olmsted",
+    "url": "www.northolmsted.mercedesdealer.com",
+    "telephone": "(440) 716-2700",
+    "faxNumber": "(440) 716-2720",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "North Olmsted",
+      "streetAddress": "28450 Lorain Road",
+      "postalCode": "44070",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.409838,
+      "longitude": -81.936541
+    },
+    "id": "62111"
+  },
+  {
+    "name": "Mercedes-Benz of West Chester",
+    "url": "www.mbwestchester.mercedesdealer.com",
+    "telephone": "1-888-871-7308",
+    "faxNumber": "1-513-870-1025",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Chester",
+      "streetAddress": "5897 Muhlhauser Road",
+      "postalCode": "45069",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 39.326,
+      "longitude": -84.4259
+    },
+    "id": "62110"
+  },
+  {
+    "name": "Tysinger Motor Co., Inc.",
+    "url": "www.tysinger.mercedesdealer.com",
+    "telephone": "(757) 865-8000",
+    "faxNumber": "(757) 865-0420",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hampton",
+      "streetAddress": "2712 Magruder Blvd",
+      "postalCode": "23666",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.061527,
+      "longitude": -76.400653
+    },
+    "id": "80210"
+  },
+  {
+    "name": "Mercedes-Benz of Tysons Corner",
+    "url": "www.tysonscorner.mercedesdealer.com",
+    "telephone": "(703) 442-8200",
+    "faxNumber": "(703) 564-6015",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Vienna",
+      "streetAddress": "8545 Leesburg Pk - Rte 7",
+      "postalCode": "22182",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.929226,
+      "longitude": -77.24223
+    },
+    "id": "80215"
+  },
+  {
+    "name": "R B M of Atlanta, Inc.",
+    "url": "www.atlanta.mercedesdealer.com",
+    "telephone": "(770) 390-0700",
+    "faxNumber": "(770) 395-7521",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Atlanta",
+      "streetAddress": "7640 Roswell Road",
+      "postalCode": "30350",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.96273,
+      "longitude": -84.365409
+    },
+    "id": "17302"
+  },
+  {
+    "name": "Critz, Inc.",
+    "url": "www.critz.mercedesdealer.com",
+    "telephone": "(912) 354-7000",
+    "faxNumber": "(912) 355-4521",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Savannah",
+      "streetAddress": "7000 Abercorn St.",
+      "postalCode": "31403",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 32.013601,
+      "longitude": -81.113198
+    },
+    "id": "17303"
+  },
+  {
+    "name": "Mercedes-Benz of Dothan",
+    "url": "www.dothan.mercedesdealer.com",
+    "telephone": "(334) 794-6716",
+    "faxNumber": "(334) 794-3180",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dothan",
+      "streetAddress": "2309 Ross Clark Circle",
+      "postalCode": "36301",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 31.21291,
+      "longitude": -85.393084
+    },
+    "id": "01330"
+  },
+  {
+    "name": "Mercedes-Benz of Bend",
+    "url": "www.bend.mercedesdealer.com",
+    "telephone": "(541) 749-2500",
+    "faxNumber": "(541) 749-2510",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bend",
+      "streetAddress": "61440 S. Third Street",
+      "postalCode": "97702",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 44.0153,
+      "longitude": -121.3016
+    },
+    "id": "66128"
+  },
+  {
+    "name": "Mercedes-Benz of Modesto",
+    "url": "www.modesto.mercedesdealer.com",
+    "telephone": "(209) 522-8100",
+    "faxNumber": "(209) 575-7550",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Modesto",
+      "streetAddress": "3900 McHenry Ave",
+      "postalCode": "95356",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.695502,
+      "longitude": -120.994399
+    },
+    "id": "05103"
+  },
+  {
+    "name": "Keyes European, LLC",
+    "url": "www.keyes.mercedesdealer.com",
+    "telephone": "(818) 461-3900",
+    "faxNumber": "(818) 461-3991",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Van Nuys",
+      "streetAddress": "5400 Van Nuys Blvd.",
+      "postalCode": "91401",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.168503,
+      "longitude": -118.448599
+    },
+    "id": "05102"
+  },
+  {
+    "name": "Fletcher Jones Motorcars",
+    "url": "www.fletcher.mercedesdealer.com",
+    "telephone": "(949) 718-3000",
+    "faxNumber": "(949) 718-3100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newport Beach",
+      "streetAddress": "3300 Jamboree Road",
+      "postalCode": "92660",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.652902,
+      "longitude": -117.866735
+    },
+    "id": "05101"
+  },
+  {
+    "name": "Mercedes-Benz of Wilsonville",
+    "url": "www.wilsonville.mercedesdealer.com",
+    "telephone": "1-503-454-5000",
+    "faxNumber": "1-503-454-5013",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilsonville",
+      "streetAddress": "25035 SW Parkway Avenue",
+      "postalCode": "97070",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 45.340007,
+      "longitude": -122.766196
+    },
+    "id": "66126"
+  },
+  {
+    "name": "Mercedes-Benz of Santa Rosa",
+    "url": "www.smothers.mercedesdealer.com",
+    "telephone": "(707) 542-4810",
+    "faxNumber": "(707) 544-7079",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Rosa",
+      "streetAddress": "2885 Corby Ave.",
+      "postalCode": "95407",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 38.40728,
+      "longitude": -122.716409
+    },
+    "id": "05106"
+  },
+  {
+    "name": "Mercedes-Benz of Boise",
+    "url": "www.boise.mercedesdealer.com",
+    "telephone": "(208) 377-3900",
+    "faxNumber": "(208) 323-8492",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Boise",
+      "streetAddress": "351 Auto Drive",
+      "postalCode": "83709",
+      "addressRegion": "ID"
+    },
+    "geo": {
+      "latitude": 43.601224,
+      "longitude": -116.276053
+    },
+    "id": "21603"
+  },
+  {
+    "name": "Mercedes-Benz of Oklahoma City",
+    "url": "www.oklahoma-city.mercedesdealer.com",
+    "telephone": "(405) 236-1224",
+    "faxNumber": "(405) 272-1772",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Oklahoma City",
+      "streetAddress": "1225 North Broadway Avenue",
+      "postalCode": "73146",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": 35.480452,
+      "longitude": -97.513999
+    },
+    "id": "65101"
+  },
+  {
+    "name": "Mercedes-Benz of Fredericksburg",
+    "url": "www.fredericksburg.mercedesdealer.com",
+    "telephone": "(540) 373-5200",
+    "faxNumber": "(540) 374-1348",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fredericksburg",
+      "streetAddress": "3400 Fall Hill Avenue",
+      "postalCode": "22401",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.31222,
+      "longitude": -77.505629
+    },
+    "id": "80107"
+  },
+  {
+    "name": "Mercedes-Benz of Alexandria",
+    "url": "www.alexandria.mercedesdealer.com",
+    "telephone": "(703) 341-2100",
+    "faxNumber": "(703) 751-4841",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Alexandria",
+      "streetAddress": "200 S. Pickett Street",
+      "postalCode": "22304",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.80887,
+      "longitude": -77.124163
+    },
+    "id": "80101"
+  },
+  {
+    "name": "Mercedes-Benz of Midlothian",
+    "url": "www.midlothian.mercedesdealer.com.",
+    "telephone": "(804) 545-9600",
+    "faxNumber": "(804) 545-9639",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Midlothian",
+      "streetAddress": "12200 Midlothian Turnpike",
+      "postalCode": "23113",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.50417,
+      "longitude": -77.623429
+    },
+    "id": "80102"
+  },
+  {
+    "name": "Romano Motors Ltd.",
+    "url": "www.romano.mercedesdealer.com",
+    "telephone": "(315) 637-4500",
+    "faxNumber": "(315) 637-5041",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fayetteville",
+      "streetAddress": "5433 North Burdick Street",
+      "postalCode": "13066",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 43.037991,
+      "longitude": -76.017355
+    },
+    "id": "56119"
+  },
+  {
+    "name": "Mercedes-Benz of Seattle",
+    "url": "www.seattle.mercedesdealer.com",
+    "telephone": "(206) 324-5959",
+    "faxNumber": "(206) 325-6906",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Seattle",
+      "streetAddress": "2025 Airport Way South",
+      "postalCode": "98134",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.61409,
+      "longitude": -122.324429
+    },
+    "id": "84112"
+  },
+  {
+    "name": "Mercedes-Benz of Fresno",
+    "url": "www.fresno.mercedesdealer.com",
+    "telephone": "1-559-438-0300",
+    "faxNumber": "1-559-438-7262",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fresno",
+      "streetAddress": "7055 N. Palm Avenue",
+      "postalCode": "93650",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 36.837964,
+      "longitude": -119.808372
+    },
+    "id": "05215"
+  },
+  {
+    "name": "Mercedes-Benz of Bakersfield",
+    "url": "www.bakersfield.mercedesdealer.com",
+    "telephone": "1-888-867-2091",
+    "faxNumber": "1-661-397-2993",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bakersfield",
+      "streetAddress": "5600 Gasoline Alley Drive",
+      "postalCode": "93313",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 35.304119,
+      "longitude": -119.03549
+    },
+    "id": "05745"
+  },
+  {
+    "name": "Baker Motor Company of Charleston, Inc.",
+    "url": "www.baker.mercedesdealer.com",
+    "telephone": "(843) 852-4000",
+    "faxNumber": "(843) 852-4038",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charleston",
+      "streetAddress": "1511 Savannah Hwy.",
+      "postalCode": "29407",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 32.785744,
+      "longitude": -80.007011
+    },
+    "id": "72320"
+  },
+  {
+    "name": "Mercedes-Benz of Laguna Niguel",
+    "url": "www.laguna-niguel.mercedesdealer.com",
+    "telephone": "1-949-347-3700",
+    "faxNumber": "1-949-347-3920",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Laguna Niguel",
+      "streetAddress": "One Star Drive",
+      "postalCode": "92677",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.545474,
+      "longitude": -117.675288
+    },
+    "id": "05747"
+  },
+  {
+    "name": "Mercedes-Benz of Palm Springs",
+    "url": "www.palm-springs.mercedesdealer.com",
+    "telephone": "(760) 328-6525",
+    "faxNumber": "(760) 328-0153",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Palm Springs",
+      "streetAddress": "4095 East Palm Canyon Drive",
+      "postalCode": "92264",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.794874,
+      "longitude": -116.50219
+    },
+    "id": "05746"
+  },
+  {
+    "name": "Hoehn Motors, Inc.",
+    "url": "www.hoehn.mercedesdealer.com",
+    "telephone": "(760) 438-4454",
+    "faxNumber": "(760) 438-0568",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Carlsbad",
+      "streetAddress": "5475 Car Country Drive",
+      "postalCode": "92008",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.12913,
+      "longitude": -117.321537
+    },
+    "id": "05749"
+  },
+  {
+    "name": "Mercedes-Benz of Sioux Falls",
+    "url": "www.siouxfalls.mercedesdealer.com",
+    "telephone": "1-888-339-5060",
+    "faxNumber": "1-605-221-2115",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sioux Falls",
+      "streetAddress": "4410 W. 12th St.",
+      "postalCode": "57107",
+      "addressRegion": "SD"
+    },
+    "geo": {
+      "latitude": 43.53215,
+      "longitude": -96.731289
+    },
+    "id": "73100"
+  },
+  {
+    "name": "Mercedes-Benz of Oakland",
+    "url": "www.oakland.mercedesdealer.com",
+    "telephone": "(510) 832-6030",
+    "faxNumber": "(510) 832-6139",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Oakland",
+      "streetAddress": "2915 Broadway Street",
+      "postalCode": "94611",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.81792,
+      "longitude": -122.262689
+    },
+    "id": "05626"
+  },
+  {
+    "name": "Mercedes-Benz of Foothill Ranch",
+    "url": "www.foothillranch.mercedesdealer.com",
+    "telephone": "1-949-328-8800",
+    "faxNumber": "1-949-328-8701",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Foothill Ranch",
+      "streetAddress": "81 Auto Center Drive",
+      "postalCode": "92610",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.675411,
+      "longitude": -117.65986
+    },
+    "id": "05191"
+  },
+  {
+    "name": "Fletcher Jones Imports",
+    "url": "www.fletcherjones.mercedesdealer.com",
+    "telephone": "(702) 364-2700",
+    "faxNumber": "(702) 364-2821",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Las Vegas",
+      "streetAddress": "7300 West Sahara Avenue",
+      "postalCode": "89117",
+      "addressRegion": "NV"
+    },
+    "geo": {
+      "latitude": 36.144001,
+      "longitude": -115.251929
+    },
+    "id": "49702"
+  },
+  {
+    "name": "Crown Eurocars, Inc.",
+    "url": "www.crowneuro.mercedesdealer.com",
+    "telephone": "(727) 526-3738",
+    "faxNumber": "(727) 522-4539",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Saint Petersburg",
+      "streetAddress": "6001 34th St. North",
+      "postalCode": "33714",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.826566,
+      "longitude": -82.679518
+    },
+    "id": "15311"
+  },
+  {
+    "name": "Mercedes-Benz of Winston-Salem",
+    "url": "www.salem.mercedesdealer.com",
+    "telephone": "(336) 760-4580",
+    "faxNumber": "(336) 659-5647",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Winston-Salem",
+      "streetAddress": "691 Jonestown Road",
+      "postalCode": "27114",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 36.069475,
+      "longitude": -80.340141
+    },
+    "id": "59215"
+  },
+  {
+    "name": "Mercedes-Benz of Pompano",
+    "url": "www.pompano.mercedesdealer.com",
+    "telephone": "(954) 943-5000",
+    "faxNumber": "(954) 786-2716",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pompano Beach",
+      "streetAddress": "350 West Copans Road",
+      "postalCode": "33064",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.260565,
+      "longitude": -80.127521
+    },
+    "id": "15317"
+  },
+  {
+    "name": "Mercedes-Benz of Fayetteville",
+    "url": "www.fayetteville.mercedesdealer.com",
+    "telephone": "1-800-264-3203",
+    "faxNumber": "(910) 764-7887",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fayetteville",
+      "streetAddress": "3203 Bragg Blvd.",
+      "postalCode": "28303",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.075962,
+      "longitude": -78.932871
+    },
+    "id": "59213"
+  },
+  {
+    "name": "Leith, Inc.",
+    "url": "www.leith.mercedesdealer.com",
+    "telephone": "(919) 876-5432",
+    "faxNumber": "(919) 876-3192",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Raleigh",
+      "streetAddress": "5601 Capital Boulevard",
+      "postalCode": "27616",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.86133,
+      "longitude": -78.581859
+    },
+    "id": "59218"
+  },
+  {
+    "name": "Mercedes-Benz of Greenwich",
+    "url": "www.greenwich.mercedesdealer.com",
+    "telephone": "(203) 869-2850",
+    "faxNumber": "(203) 869-2950",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenwich",
+      "streetAddress": "261 West Putnam Ave.",
+      "postalCode": "06830",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.02435,
+      "longitude": -73.635639
+    },
+    "id": "09133"
+  },
+  {
+    "name": "Mercedes-Benz of Rochester",
+    "url": "www.rochesterny.mercedesdealer.com",
+    "telephone": "(585) 424-4740",
+    "faxNumber": "(585) 334-2088",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rochester",
+      "streetAddress": "4296 West Henrietta Road",
+      "postalCode": "14623",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 43.075221,
+      "longitude": -77.643204
+    },
+    "id": "55146"
+  },
+  {
+    "name": "Mercedes-Benz of White Plains",
+    "url": "www.white-plains.mercedesdealer.com",
+    "telephone": "(914) 949-4000",
+    "faxNumber": "(914) 949-4024",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "White Plains",
+      "streetAddress": "50 Bank Street",
+      "postalCode": "10606",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 41.0284,
+      "longitude": -73.774549
+    },
+    "id": "55143"
+  },
+  {
+    "name": "Mercedes-Benz of Chicago",
+    "url": "www.chicago.mercedesdealer.com",
+    "telephone": "(312) 628-4500",
+    "faxNumber": "(312) 944-4934",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chicago",
+      "streetAddress": "1520 W. North Ave.",
+      "postalCode": "60642",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.901853,
+      "longitude": -87.631389
+    },
+    "id": "22117"
+  },
+  {
+    "name": "Mercedes-Benz of Westmont",
+    "url": "www.laurel.mercedesdealer.com",
+    "telephone": "(630) 654-8100",
+    "faxNumber": "(630) 654-9634",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Westmont",
+      "streetAddress": "200 East Ogden Avenue",
+      "postalCode": "60559",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.81017,
+      "longitude": -87.971019
+    },
+    "id": "22116"
+  },
+  {
+    "name": "Mercedes-Benz of Naperville",
+    "url": "www.naperville.mercedesdealer.com",
+    "telephone": "(630) 305-4560",
+    "faxNumber": "(630) 357-0466",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Naperville",
+      "streetAddress": "1569 Ogden Avenue",
+      "postalCode": "60540",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.768971,
+      "longitude": -88.186348
+    },
+    "id": "22115"
+  },
+  {
+    "name": "Mercedes-Benz of Little Rock",
+    "url": "www.riverside.mercedesdealer.com",
+    "telephone": "(501) 666-9457",
+    "faxNumber": "(501) 666-2664",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Little Rock",
+      "streetAddress": "8 Colonel Glenn Plaza Dr.",
+      "postalCode": "72210",
+      "addressRegion": "AR"
+    },
+    "geo": {
+      "latitude": 34.763049,
+      "longitude": -92.310099
+    },
+    "id": "04507"
+  },
+  {
+    "name": "Mercedes-Benz of Orland Park",
+    "url": "www.orlandpark.mercedesdealer.com",
+    "telephone": "(708) 460-0400",
+    "faxNumber": "(708) 460-9526",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Orland Park",
+      "streetAddress": "8430 West 159th Street",
+      "postalCode": "60462",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.601814,
+      "longitude": -87.824166
+    },
+    "id": "22111"
+  },
+  {
+    "name": "Napleton's Autowerks, Inc.",
+    "url": "www.napleton.mercedesdealer.com",
+    "telephone": "(815) 636-6600",
+    "faxNumber": "(815) 636-6625",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Loves Park",
+      "streetAddress": "6600 E. Riverside Dr.",
+      "postalCode": "61111",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.318755,
+      "longitude": -88.986849
+    },
+    "id": "22110"
+  },
+  {
+    "name": "Mercedes-Benz of Buffalo",
+    "url": "www.mercedesbenzbflo.mercedesdealer.com",
+    "telephone": "(716) 633-0088",
+    "faxNumber": "(716) 633-1488",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Williamsville",
+      "streetAddress": "8185 Main Street",
+      "postalCode": "14221",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 42.965055,
+      "longitude": -78.688962
+    },
+    "id": "55201"
+  },
+  {
+    "name": "Brian Bemis Imports",
+    "url": "www.brianbemismercedesbenz.com",
+    "telephone": "(815) 895-8105",
+    "faxNumber": "(815) 895-8120",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sycamore",
+      "streetAddress": "1875 Dekalb Avenue",
+      "postalCode": "60178",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.96903,
+      "longitude": -88.718599
+    },
+    "id": "22118"
+  },
+  {
+    "name": "Mercedes-Benz of Billings",
+    "url": "www.billings.mercedesdealer.com",
+    "telephone": "(406) 294-7000",
+    "faxNumber": "(406) 655-8574",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Billings",
+      "streetAddress": "3045 King Avenue West",
+      "postalCode": "59102",
+      "addressRegion": "MT"
+    },
+    "geo": {
+      "latitude": 42.868072,
+      "longitude": -112.445279
+    },
+    "id": "47100"
+  },
+  {
+    "name": "Fields Motorcars",
+    "url": "www.fieldsmotorcars.mercedesdealer.com",
+    "telephone": "(863) 688-8111",
+    "faxNumber": "(863) 688-7881",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lakeland",
+      "streetAddress": "4141 North Florida Avenue",
+      "postalCode": "33805",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.095251,
+      "longitude": -81.953392
+    },
+    "id": "14150"
+  },
+  {
+    "name": "Jackie Cooper Imports",
+    "url": "www.cooper.mercedesdealer.com",
+    "telephone": "(918) 249-9393",
+    "faxNumber": "(918) 362-1357",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tulsa",
+      "streetAddress": "9393 S. Memorial",
+      "postalCode": "74133",
+      "addressRegion": "OK"
+    },
+    "geo": {
+      "latitude": 36.02445,
+      "longitude": -95.886399
+    },
+    "id": "65100"
+  },
+  {
+    "name": "Mercedes-Benz of New Orleans",
+    "url": "www.neworleans.mercedesdealer.com",
+    "telephone": "(504) 456-3727",
+    "faxNumber": "(504) 456-3712",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Metairie",
+      "streetAddress": "3727 Veterans Blvd.",
+      "postalCode": "70002",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 30.004204,
+      "longitude": -90.166999
+    },
+    "id": "32507"
+  },
+  {
+    "name": "Mercedes-Benz of Rochester",
+    "url": "www.rochester.mercedesdealer.com",
+    "telephone": "(248) 652-3800",
+    "faxNumber": "(248) 652-1120",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Rochester",
+      "streetAddress": "595 S. Rochester Road",
+      "postalCode": "48307",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.672372,
+      "longitude": -83.133399
+    },
+    "id": "39121"
+  },
+  {
+    "name": "Walker Automotive",
+    "url": "www.walker.mercedesdealer.com.",
+    "telephone": "(318) 445-6681",
+    "faxNumber": "(318) 448-2428",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Alexandria",
+      "streetAddress": "6655 Coliseum Blvd",
+      "postalCode": "71303",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 31.282701,
+      "longitude": -92.473797
+    },
+    "id": "32509"
+  },
+  {
+    "name": "Mercedes-Benz of Hunt Valley",
+    "url": "www.huntvalley.mercedesdealer.com",
+    "telephone": "(443) 689-4269",
+    "faxNumber": "(410) 628-7548",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cockeysville",
+      "streetAddress": "9800 York Road",
+      "postalCode": "21030",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.458363,
+      "longitude": -76.633898
+    },
+    "id": "34209"
+  },
+  {
+    "name": "Santa Barbara Auto Group",
+    "url": "www.santabarbara.mercedesdealer.com",
+    "telephone": "1-888-864-1578",
+    "faxNumber": "1-805-682-7133",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Barbara",
+      "streetAddress": "402 South Hope Ave",
+      "postalCode": "93105",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.435253,
+      "longitude": -119.747021
+    },
+    "id": "05144"
+  },
+  {
+    "name": "Park Place Motorcars Dallas",
+    "url": "www.parkplace-dallas.mercedesdealer.com",
+    "telephone": "(214) 526-8701",
+    "faxNumber": "(214) 443-8205",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Dallas",
+      "streetAddress": "6113 Lemmon Avenue",
+      "postalCode": "75209",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.832763,
+      "longitude": -96.82889
+    },
+    "id": "75568"
+  },
+  {
+    "name": "Mercedes-Benz of San Antonio",
+    "url": "www.san-antonio.mercedesdealer.com",
+    "telephone": "(210) 366-9600",
+    "faxNumber": "(210) 344-2756",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Antonio",
+      "streetAddress": "9600 San Pedro",
+      "postalCode": "78216",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.527733,
+      "longitude": -98.498089
+    },
+    "id": "75565"
+  },
+  {
+    "name": "Mercedes-Benz of Laredo",
+    "url": "www.laredo.mercedesdealer.com",
+    "telephone": "(956) 722-5182",
+    "faxNumber": "(956) 722-1988",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Laredo",
+      "streetAddress": "6912 Bob Bullock Loop",
+      "postalCode": "78041",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 27.5572153,
+      "longitude": -99.4479317
+    },
+    "id": "75563"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Washington",
+    "url": "www.fortwashington.mercedesdealer.com",
+    "telephone": "(215) 646-7700",
+    "faxNumber": "(215) 540-9555",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Washington",
+      "streetAddress": "404 Pennsylvania Ave.",
+      "postalCode": "19034",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.13747,
+      "longitude": -75.211719
+    },
+    "id": "67114"
+  },
+  {
+    "name": "Mercedes-Benz of West Chester",
+    "url": "www.westchester.mercedesdealer.com",
+    "telephone": "(484) 313-1100",
+    "faxNumber": "(484) 313-1031",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Chester",
+      "streetAddress": "1260 Wilmington Pike",
+      "postalCode": "19382",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 39.910211,
+      "longitude": -75.570224
+    },
+    "id": "67115"
+  },
+  {
+    "name": "EuroMotorcars Devon, Inc.",
+    "url": "www.devon.mercedesdealer.com",
+    "telephone": "(610) 687-1500",
+    "faxNumber": "(610) 254-0654",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Devon",
+      "streetAddress": "214 West Lancaster Ave.",
+      "postalCode": "19333",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.045397,
+      "longitude": -75.424403
+    },
+    "id": "67116"
+  },
+  {
+    "name": "Mercedes-Benz of Pittsburgh",
+    "url": "www.pittsburgh.mercedesdealer.com",
+    "telephone": "(412) 683-5000",
+    "faxNumber": "(412) 683-1975",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pittsburgh",
+      "streetAddress": "4709 Baum Blvd.",
+      "postalCode": "15213",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.454058,
+      "longitude": -79.949537
+    },
+    "id": "67110"
+  },
+  {
+    "name": "Mercedes-Benz of State College",
+    "url": "www.statecollege.mercedesdealer.com",
+    "telephone": "(814) 238-2447",
+    "faxNumber": "(814) 234-9629",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "State College",
+      "streetAddress": "3220 West College Avenue",
+      "postalCode": "16801",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.759682,
+      "longitude": -77.877692
+    },
+    "id": "67113"
+  },
+  {
+    "name": "Keenan Motors",
+    "url": "www.keenan.mercedesdealer.com",
+    "telephone": "(215) 348-0800",
+    "faxNumber": "(215) 348-9615",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Doylestown",
+      "streetAddress": "4311 West Swamp Road",
+      "postalCode": "18902",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.329911,
+      "longitude": -75.132319
+    },
+    "id": "67294"
+  },
+  {
+    "name": "Mercedes-Benz of Littleton",
+    "url": "www.littleton.mercedesdealer.com",
+    "telephone": "(303) 738-7700",
+    "faxNumber": "(303) 730-9205",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Littleton",
+      "streetAddress": "8070 South Broadway",
+      "postalCode": "80122",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 39.570458,
+      "longitude": -104.988441
+    },
+    "id": "08103"
+  },
+  {
+    "name": "Benzel-Busch Motor Car Corp.",
+    "url": "www.benzel.mercedesdealer.com",
+    "telephone": "(866) 751-2754",
+    "faxNumber": "(201) 567-0218",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Englewood",
+      "streetAddress": "28 Grand Avenue",
+      "postalCode": "07631",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.891874,
+      "longitude": -73.973571
+    },
+    "id": "51142"
+  },
+  {
+    "name": "Contemporary Motor Cars, Inc.",
+    "url": "www.contemporarymotor.mercedesdealer.com",
+    "telephone": "(732) 842-5353",
+    "faxNumber": "(732) 842-3810",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Little Silver",
+      "streetAddress": "100 Oceanport Avenue",
+      "postalCode": "07739",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.323731,
+      "longitude": -74.037788
+    },
+    "id": "51140"
+  },
+  {
+    "name": "Ray Catena Motor Car Corporation",
+    "url": "www.catena.mercedesdealer.com",
+    "telephone": "(732) 549-6600",
+    "faxNumber": "(732) 549-9387",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Edison",
+      "streetAddress": "910 U S Highway Rte 1",
+      "postalCode": "08817",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.516379,
+      "longitude": -74.371812
+    },
+    "id": "51146"
+  },
+  {
+    "name": "Mercedes-Benz of Princeton",
+    "url": "www.princeton.mercedesdealer.com",
+    "telephone": "(609) 771-8040",
+    "faxNumber": "(609) 771-9384",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lawrenceville",
+      "streetAddress": "2910 Route 1",
+      "postalCode": "08648",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.272943,
+      "longitude": -74.708708
+    },
+    "id": "51147"
+  },
+  {
+    "name": "Mercedes-Benz of Flemington",
+    "url": "www.flemington.mercedesdealer.com",
+    "telephone": "(908) 788-0003",
+    "faxNumber": "(908) 788-9414",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Flemington",
+      "streetAddress": "135 Route 31",
+      "postalCode": "08822",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.525136,
+      "longitude": -74.855969
+    },
+    "id": "51144"
+  },
+  {
+    "name": "Mercedes-Benz of Henderson",
+    "url": "www.henderson.mercedesdealer.com",
+    "telephone": "(702) 485-3000",
+    "faxNumber": "(702) 485-3000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Henderson",
+      "streetAddress": "925 Auto Show Drive",
+      "postalCode": "89014",
+      "addressRegion": "NV"
+    },
+    "geo": {
+      "latitude": 36.044788,
+      "longitude": -115.024426
+    },
+    "id": "49108"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Mitchell",
+    "url": "www.ftmitchell.mercedesdealer.com",
+    "telephone": "(859) 331-1500",
+    "faxNumber": "(859) 363-2717",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Mitchell",
+      "streetAddress": "2100 Dixie Highway",
+      "postalCode": "41011",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 39.052237,
+      "longitude": -84.552282
+    },
+    "id": "31113"
+  },
+  {
+    "name": "Mercedes-Benz of Georgetown",
+    "url": "www.georgetown.mercedesdealer.com",
+    "telephone": "(512) 868-9711",
+    "faxNumber": "(512) 930-6194",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Georgetown",
+      "streetAddress": "7401 IH 35 South",
+      "postalCode": "78627",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.580738,
+      "longitude": -97.692299
+    },
+    "id": "76504"
+  },
+  {
+    "name": "Ray Catena of Union LLC",
+    "url": "www.union.mercedesdealer.com",
+    "telephone": "(908) 379-7200",
+    "faxNumber": "(908) 729-7298",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Union",
+      "streetAddress": "2585 Route 22 West",
+      "postalCode": "07083",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.689563,
+      "longitude": -74.304026
+    },
+    "id": "51114"
+  },
+  {
+    "name": "Mercedes-Benz of Miami",
+    "url": "www.miami.mercedesdealer.com",
+    "telephone": "(305) 919-8000",
+    "faxNumber": "(305) 919-9015",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Miami",
+      "streetAddress": "1200 N. W. 167th Street",
+      "postalCode": "33169",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 25.9416,
+      "longitude": -80.2131
+    },
+    "id": "14310"
+  },
+  {
+    "name": "Jack Ingram Motors, Inc.",
+    "url": "www.ingram.mercedesdealer.com",
+    "telephone": "(334) 277-5700",
+    "faxNumber": "(334) 260-7263",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Montgomery",
+      "streetAddress": "217 Eastern Blvd.",
+      "postalCode": "36124",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 32.37762,
+      "longitude": -86.2092
+    },
+    "id": "01303"
+  },
+  {
+    "name": "Mercedes-Benz of Lancaster",
+    "url": "www.lancaster.mercedesdealer.com",
+    "telephone": "(717) 569-2100",
+    "faxNumber": "(717) 569-7042",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "East Petersburg",
+      "streetAddress": "5100 Main Street",
+      "postalCode": "17520",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.085348,
+      "longitude": -76.344914
+    },
+    "id": "67207"
+  },
+  {
+    "name": "Leigh Automotive, Inc.",
+    "url": "www.leigh.mercedesdealer.com",
+    "telephone": "(205) 556-1111",
+    "faxNumber": "(205) 556-1125",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tuscaloosa",
+      "streetAddress": "3200 Skyland Blvd. E.",
+      "postalCode": "35407",
+      "addressRegion": "AL"
+    },
+    "geo": {
+      "latitude": 33.169956,
+      "longitude": -87.495526
+    },
+    "id": "01325"
+  },
+  {
+    "name": "Mercedes-Benz of Owings Mills",
+    "url": "www.rhmotor.mercedesdealer.com",
+    "telephone": "(410) 363-3900",
+    "faxNumber": "(410) 363-3987",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Owings Mills",
+      "streetAddress": "9727 Reisterstown Road",
+      "postalCode": "21117",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.406873,
+      "longitude": -76.762094
+    },
+    "id": "34129"
+  },
+  {
+    "name": "Alderson European Motors",
+    "url": "www.lubbock.mercedesdealer.com",
+    "telephone": "(806) 749-2369",
+    "faxNumber": "(806) 687-4837",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lubbock",
+      "streetAddress": "1702 Texas Avenue",
+      "postalCode": "79401",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 33.579871,
+      "longitude": -101.845599
+    },
+    "id": "75141"
+  },
+  {
+    "name": "Alderson European Motors",
+    "url": "www.midland.mercedesdealer.com",
+    "telephone": "(432) 699-7993",
+    "faxNumber": "(432) 699-0003",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Midland",
+      "streetAddress": "5801 Andrews Highway",
+      "postalCode": "79706",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 31.980906,
+      "longitude": -102.112448
+    },
+    "id": "75142"
+  },
+  {
+    "name": "Estate Motors, Inc.",
+    "url": "www.estatemotors.mercedesdealer.com",
+    "telephone": "(914) 232-8122",
+    "faxNumber": "(914) 232-8720",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Goldens Bridge",
+      "streetAddress": "321 Route 22",
+      "postalCode": "10526",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 41.2966,
+      "longitude": -73.6647
+    },
+    "id": "55103"
+  },
+  {
+    "name": "Long of Chattanooga",
+    "url": "www.longco.mercedesdealer.com",
+    "telephone": "(423) 855-3726",
+    "faxNumber": "(423) 855-1938",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Chattanooga",
+      "streetAddress": "6039 International Drive",
+      "postalCode": "37422",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.059733,
+      "longitude": -85.192057
+    },
+    "id": "74312"
+  },
+  {
+    "name": "Mercedes-Benz of Huntington",
+    "url": "www.huntington.mercedesdealer.com",
+    "telephone": "(631) 549-2369",
+    "faxNumber": "(631) 549-3295",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Huntington",
+      "streetAddress": "1103 East Jericho Turnpike",
+      "postalCode": "11743",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.834802,
+      "longitude": -73.367975
+    },
+    "id": "55107"
+  },
+  {
+    "name": "Mercedes-Benz of Kingsport",
+    "url": "www.kingsport.mercedesdealer.com",
+    "telephone": "(423) 224-2260",
+    "faxNumber": "(423) 224-2261",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kingsport",
+      "streetAddress": "867 East Stone Drive",
+      "postalCode": "37660",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 36.556671,
+      "longitude": -82.539701
+    },
+    "id": "74311"
+  },
+  {
+    "name": "Rallye Motors LLC",
+    "url": "www.rallye.mercedesdealer.com",
+    "telephone": "(516) 625-1600",
+    "faxNumber": "(516) 625-0889",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Roslyn",
+      "streetAddress": "1600 Northern Blvd.",
+      "postalCode": "11576",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.804831,
+      "longitude": -73.642699
+    },
+    "id": "55109"
+  },
+  {
+    "name": "Berglund Luxury Auto",
+    "url": "www.berglund.mercedesdealer.com",
+    "telephone": "(434) 385-6226",
+    "faxNumber": "(434) 385-7219",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lynchburg",
+      "streetAddress": "2643 Lakeside Drive",
+      "postalCode": "24501",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.396035,
+      "longitude": -79.228719
+    },
+    "id": "80134"
+  },
+  {
+    "name": "Mercedes-Benz of Roanoke",
+    "url": "www.roanoke.mercedesdealer.com",
+    "telephone": "(540) 344-6284",
+    "faxNumber": "(540) 345-6708",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Roanoke",
+      "streetAddress": "5040 Franklin Rd. S.W.",
+      "postalCode": "24014",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 37.207338,
+      "longitude": -79.95441
+    },
+    "id": "80136"
+  },
+  {
+    "name": "Carwell, LLC",
+    "url": "http://www.southbay.mercedescenter.com/",
+    "telephone": "310-303-3500",
+    "faxNumber": "310-303-3590",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "MANHATTAN BEACH",
+      "streetAddress": "707 NORTH SEPULVEDA BLVD.",
+      "postalCode": "90266",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "id": "05142"
+  },
+  {
+    "name": "Mercedes-Benz of Virginia Beach",
+    "url": "www.virginiabeach.mercedesdealer.com",
+    "telephone": "(757) 499-3771",
+    "faxNumber": "(757) 499-7570",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Virginia Beach",
+      "streetAddress": "4949 Virginia Beach Blvd.",
+      "postalCode": "23462",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 36.843616,
+      "longitude": -76.148344
+    },
+    "id": "80133"
+  },
+  {
+    "name": "Capital Eurocars, Inc.",
+    "url": "www.capital.mercedesdealer.com",
+    "telephone": "(850) 574-3777",
+    "faxNumber": "(850) 575-7898",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tallahassee",
+      "streetAddress": "3705 West Tennessee Street",
+      "postalCode": "32304",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.45927,
+      "longitude": -84.358239
+    },
+    "id": "14114"
+  },
+  {
+    "name": "Garage Isla Verde, Inc.",
+    "url": "www.islaverde.mercedesdealer.com",
+    "telephone": "(787) 620-1313",
+    "faxNumber": "(787) 791-4206",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Carolina",
+      "streetAddress": "Ave Baldorioty De Castro",
+      "postalCode": "00979",
+      "addressRegion": "PR"
+    },
+    "geo": {
+      "latitude": 18.4353,
+      "longitude": -66.0143
+    },
+    "id": "70301"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Myers",
+    "url": "www.fort-myers.mercedesdealer.com",
+    "telephone": "(239) 433-8300",
+    "faxNumber": "(239) 433-5546",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Myers",
+      "streetAddress": "15461 South Tamiami Trail",
+      "postalCode": "33908",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.517702,
+      "longitude": -81.866635
+    },
+    "id": "14118"
+  },
+  {
+    "name": "Mercedes-Benz of San Diego",
+    "url": "www.san-diego.mercedesdealer.com",
+    "telephone": "(858) 279-7202",
+    "faxNumber": "(858) 279-5592",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Diego",
+      "streetAddress": "4750 Kearny Mesa Road",
+      "postalCode": "92111",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 32.824582,
+      "longitude": -117.14625
+    },
+    "id": "05718"
+  },
+  {
+    "name": "Park Place Motorcars Fort Worth",
+    "url": "www.fortworth.mercedesdealer.com",
+    "telephone": "(817) 263-3600",
+    "faxNumber": "(817) 263-3699",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Worth",
+      "streetAddress": "5601 Bryant Irvin Road",
+      "postalCode": "76132",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 32.66774,
+      "longitude": -97.419478
+    },
+    "id": "75137"
+  },
+  {
+    "name": "Mercedes-Benz of Westwood",
+    "url": "www.westwood.mercedesdealer.com",
+    "telephone": "(866) 261-8291",
+    "faxNumber": "(781) 688-1162",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Westwood",
+      "streetAddress": "425 Providence Highway",
+      "postalCode": "02090",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.214069,
+      "longitude": -71.182191
+    },
+    "id": "36120"
+  },
+  {
+    "name": "Beshoff MotorCars",
+    "url": "www.beshoffmotorcars.mercedesdealer.com",
+    "telephone": "(408) 239-2300",
+    "faxNumber": "(408) 239-2391",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Jose",
+      "streetAddress": "3000 East Capitol Expressway",
+      "postalCode": "95148",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.332153,
+      "longitude": -121.813279
+    },
+    "id": "05137"
+  },
+  {
+    "name": "Holloway Motor Cars of Manchester, LLC",
+    "url": "www.holloway.mercedesdealer.com",
+    "telephone": "(603) 669-6788",
+    "faxNumber": "(603) 627-9037",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Manchester",
+      "streetAddress": "875 Gold Street",
+      "postalCode": "03103",
+      "addressRegion": "NH"
+    },
+    "geo": {
+      "latitude": 42.956774,
+      "longitude": -71.441874
+    },
+    "id": "50100"
+  },
+  {
+    "name": "Mercedes-Benz of Ann Arbor",
+    "url": "www.annarbor.mercedesdealer.com",
+    "telephone": "(734) 663-3300",
+    "faxNumber": "(734) 213-5165",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ann Arbor",
+      "streetAddress": "570 Auto Mall Drive",
+      "postalCode": "48103",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.286473,
+      "longitude": -83.810829
+    },
+    "id": "39166"
+  },
+  {
+    "name": "Holloway Automotive",
+    "url": "www.dreher.mercedesdealer.com",
+    "telephone": "(603) 431-8585",
+    "faxNumber": "(603) 427-2035",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenland",
+      "streetAddress": "309 Portsmouth Avenue",
+      "postalCode": "03840",
+      "addressRegion": "NH"
+    },
+    "geo": {
+      "latitude": 43.042381,
+      "longitude": -70.824678
+    },
+    "id": "50107"
+  },
+  {
+    "name": "Quirk Auto Park of Bangor",
+    "url": "www.quirk.mercedesdealer.com",
+    "telephone": "(207) 941-1017",
+    "faxNumber": "(207) 947-4918",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bangor",
+      "streetAddress": "327 Hogan Road",
+      "postalCode": "04401",
+      "addressRegion": "ME"
+    },
+    "geo": {
+      "latitude": 44.824892,
+      "longitude": -68.740111
+    },
+    "id": "33400"
+  },
+  {
+    "name": "Star Motor Cars",
+    "url": "www.starmotorcars.mercedesdealer.com",
+    "telephone": "(713) 868-6800",
+    "faxNumber": "(713) 864-5821",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Houston",
+      "streetAddress": "7000 Katy Road",
+      "postalCode": "77024",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.78261,
+      "longitude": -95.442869
+    },
+    "id": "75522"
+  },
+  {
+    "name": "Mercedes-Benz of Catonsville",
+    "url": "www.catonsville.mercedesdealer.com",
+    "telephone": "(410) 788-7744",
+    "faxNumber": "(866) 803-3451",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Catonsville",
+      "streetAddress": "6631 Baltimore National Pike",
+      "postalCode": "21228",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.288521,
+      "longitude": -76.769691
+    },
+    "id": "34117"
+  },
+  {
+    "name": "Mercedes-Benz of Waco",
+    "url": "www.samuels.mercedesdealer.com",
+    "telephone": "(254) 761-5562",
+    "faxNumber": "(254) 761-5577",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Waco",
+      "streetAddress": "1625 North Valley Mills Drive",
+      "postalCode": "76714",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 31.525151,
+      "longitude": -97.142328
+    },
+    "id": "75525"
+  },
+  {
+    "name": "Mercedes-Benz of Colorado Springs",
+    "url": "www.coloradosprings.mercedesdealer.com",
+    "telephone": "(855) 221-5807",
+    "faxNumber": "(719) 575-7097",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Colorado Springs",
+      "streetAddress": "730 Automotive Drive",
+      "postalCode": "80906",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 38.81612,
+      "longitude": -104.84053
+    },
+    "id": "08522"
+  },
+  {
+    "name": "Mercedes-Benz of Willoughby",
+    "url": "www.willoughby.mercedesdealer.com",
+    "telephone": "(440) 946-6900",
+    "faxNumber": "(440) 946-4328",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Willoughby",
+      "streetAddress": "38750 Mentor Avenue",
+      "postalCode": "44094",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.644609,
+      "longitude": -81.393286
+    },
+    "id": "62214"
+  },
+  {
+    "name": "Grossinger Motors",
+    "url": "www.grossinger.mercedesdealer.com",
+    "telephone": "(309) 888-1000",
+    "faxNumber": "(309) 862-5000",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Normal",
+      "streetAddress": "1430 East Fort Jesse Road",
+      "postalCode": "61761",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 40.517668,
+      "longitude": -88.962154
+    },
+    "id": "22144"
+  },
+  {
+    "name": "Knauz Continental Autos, Inc.",
+    "url": "www.knauz.mercedesdealer.com",
+    "telephone": "(847) 234-1700",
+    "faxNumber": "(847) 615-1394",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lake Bluff",
+      "streetAddress": "409 Skokie Highway",
+      "postalCode": "60044",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.270946,
+      "longitude": -87.865127
+    },
+    "id": "22415"
+  },
+  {
+    "name": "Mercedes-Benz of Marion",
+    "url": "www.marion.mercedesdealer.com",
+    "telephone": "(618) 997-1313",
+    "faxNumber": "(618) 993-8094",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Marion",
+      "streetAddress": "2608 West DeYoung St.",
+      "postalCode": "62959",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 37.741616,
+      "longitude": -88.965278
+    },
+    "id": "22140"
+  },
+  {
+    "name": "Mercedes-Benz of Atlantic City",
+    "url": "www.atlantic-city.mercedesdealer.com",
+    "telephone": "(609) 645-9000",
+    "faxNumber": "(609) 272-0966",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Atlantic City",
+      "streetAddress": "7018 Blackhorse Pk",
+      "postalCode": "08232",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 39.3877,
+      "longitude": -74.517864
+    },
+    "id": "51180"
+  },
+  {
+    "name": "Mercedes-Benz of Jackson",
+    "url": "www.higginbotham.mercedesdealer.com",
+    "telephone": "(601) 956-4211",
+    "faxNumber": "(601) 978-1952",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Jackson",
+      "streetAddress": "5397 I-55 North",
+      "postalCode": "39206",
+      "addressRegion": "MS"
+    },
+    "geo": {
+      "latitude": 32.375493,
+      "longitude": -90.148437
+    },
+    "id": "44101"
+  },
+  {
+    "name": "Mercedes-Benz of South Mississippi",
+    "url": "www.southmississippi.mercedesdealer.com",
+    "telephone": "(228) 265-9185",
+    "faxNumber": "(228) 265-9185",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "D’lberville",
+      "streetAddress": "11619 Bobby Eleuterius Blvd.",
+      "postalCode": "39540",
+      "addressRegion": "MS"
+    },
+    "geo": {
+      "latitude": 30.442617,
+      "longitude": -88.893473
+    },
+    "id": "44102"
+  },
+  {
+    "name": "Helms Bros., Inc.",
+    "url": "www.helmsbros.mercedesdealer.com",
+    "telephone": "(718) 631-8181",
+    "faxNumber": "(718) 279-3372",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bayside",
+      "streetAddress": "208-24 Northern Blvd.",
+      "postalCode": "11361",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.7588,
+      "longitude": -73.7746
+    },
+    "id": "56106"
+  },
+  {
+    "name": "John Sisson Motors, Inc.",
+    "url": "www.sisson.mercedesdealer.com",
+    "telephone": "(724) 206-6000",
+    "faxNumber": "(724) 206-6020",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Washington",
+      "streetAddress": "470 Washington Road",
+      "postalCode": "15301",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.188509,
+      "longitude": -80.216014
+    },
+    "id": "67231"
+  },
+  {
+    "name": "Knopf Automotive",
+    "url": "www.knopf.mercedesdealer.com",
+    "telephone": "(610) 967-4121",
+    "faxNumber": "(610) 967-0935",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Allentown",
+      "streetAddress": "3401 Lehigh Street",
+      "postalCode": "18103",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.5545,
+      "longitude": -75.490098
+    },
+    "id": "67235"
+  },
+  {
+    "name": "Tom Masano, Inc.",
+    "url": "www.masano.mercedesdealer.com",
+    "telephone": "(610) 777-6587",
+    "faxNumber": "(610) 777-0658",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Reading",
+      "streetAddress": "815 Lancaster Ave.",
+      "postalCode": "19607",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.31579,
+      "longitude": -75.940009
+    },
+    "id": "67234"
+  },
+  {
+    "name": "Mercedes-Benz of Salt Lake City",
+    "url": "www.garff.mercedesdealer.com",
+    "telephone": "(801) 257-3000",
+    "faxNumber": "(801) 257-3060",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Salt Lake City",
+      "streetAddress": "575 South State St.",
+      "postalCode": "84111",
+      "addressRegion": "UT"
+    },
+    "geo": {
+      "latitude": 40.75683,
+      "longitude": -111.888199
+    },
+    "id": "78602"
+  },
+  {
+    "name": "Mercedes-Benz of Coral Gables",
+    "url": "www.ussery.mercedesdealer.com",
+    "telephone": "(305) 445-8593",
+    "faxNumber": "(305) 567-1252",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Coral Gables",
+      "streetAddress": "300 Almeria Avenue",
+      "postalCode": "33134",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 25.746981,
+      "longitude": -80.260589
+    },
+    "id": "14302"
+  },
+  {
+    "name": "Mercedes-Benz of Nashville",
+    "url": "www.nashville.mercedesdealer.com",
+    "telephone": "(615) 742-8000",
+    "faxNumber": "(615) 242-0136",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Franklin",
+      "streetAddress": "630 Bakers Bridge Avenue",
+      "postalCode": "37067",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.958791,
+      "longitude": -86.804596
+    },
+    "id": "74102"
+  },
+  {
+    "name": "Betten Imports, Inc.",
+    "url": "www.betten.mercedesdealer.com",
+    "telephone": "(616) 301-2100",
+    "faxNumber": "(616) 301-2105",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Grand Rapids",
+      "streetAddress": "5901 28th Street, S. E.",
+      "postalCode": "49546",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.9131,
+      "longitude": -85.520694
+    },
+    "id": "39424"
+  },
+  {
+    "name": "Gurley-Leep Motor Werks",
+    "url": "www.gurley.mercedesdealer.com",
+    "telephone": "(574) 254-7130",
+    "faxNumber": "(574) 254-7158",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mishawaka",
+      "streetAddress": "4004 North Grape Road",
+      "postalCode": "46545",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 41.696433,
+      "longitude": -86.187354
+    },
+    "id": "25425"
+  },
+  {
+    "name": "Mercedes-Benz of Morgantown",
+    "url": "www.university.mercedesdealer.com",
+    "telephone": "1-888-858-6997",
+    "faxNumber": "1-304-296-5399",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Morgantown",
+      "streetAddress": "60 Don Knotts Blvd.",
+      "postalCode": "26507",
+      "addressRegion": "WV"
+    },
+    "geo": {
+      "latitude": 39.605753,
+      "longitude": -79.967813
+    },
+    "id": "85220"
+  },
+  {
+    "name": "Mercedes-Benz of Easton",
+    "url": "www.easton.mercedesdealer.com",
+    "telephone": "(614) 299-2144",
+    "faxNumber": "(614) 299-8424",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbus",
+      "streetAddress": "4300 Morse Crossing",
+      "postalCode": "43219",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 40.056866,
+      "longitude": -82.918294
+    },
+    "id": "62109"
+  },
+  {
+    "name": "Mercedes-Benz of Bedford",
+    "url": "www.bedford.mercedesdealer.com",
+    "telephone": "1-888-429-2144",
+    "faxNumber": "1-440-232-0500",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bedford",
+      "streetAddress": "18122 Rockside Road",
+      "postalCode": "44146",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.403115,
+      "longitude": -81.551853
+    },
+    "id": "62106"
+  },
+  {
+    "name": "Kempthorn Motors, Inc.",
+    "url": "www.kempthorn.mercedesdealer.com",
+    "telephone": "(330) 452-6511",
+    "faxNumber": "(330) 455-0620",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Canton",
+      "streetAddress": "1449 Cleveland Ave. N W",
+      "postalCode": "44703",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 40.813509,
+      "longitude": -81.378403
+    },
+    "id": "62100"
+  },
+  {
+    "name": "Sears Imported Autos, Inc.",
+    "url": "www.sears.mercedesdealer.com",
+    "telephone": "(952) 546-5301",
+    "faxNumber": "(952) 546-2899",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Minnetonka",
+      "streetAddress": "13500 Wayzata Blvd.",
+      "postalCode": "55305",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": 44.971303,
+      "longitude": -93.449199
+    },
+    "id": "42406"
+  },
+  {
+    "name": "Mercedes-Benz of Akron",
+    "url": "www.akron.mercedesdealer.com",
+    "telephone": "(330) 733-7511",
+    "faxNumber": "(330) 733-5666",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Akron",
+      "streetAddress": "1361 East Market Street",
+      "postalCode": "44305",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.063744,
+      "longitude": -81.478211
+    },
+    "id": "62103"
+  },
+  {
+    "name": "Schumacher European Ltd.",
+    "url": "www.schumacher.mercedesdealer.com",
+    "telephone": "(480) 991-1155",
+    "faxNumber": "(480) 483-2273",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Phoenix",
+      "streetAddress": "18530 N. Scottsdale Road",
+      "postalCode": "85054",
+      "addressRegion": "AZ"
+    },
+    "geo": {
+      "latitude": 33.652641,
+      "longitude": -111.925404
+    },
+    "id": "03710"
+  },
+  {
+    "name": "Intercar, Inc.",
+    "url": "www.intercar.mercedesdealer.com",
+    "telephone": "(973) 383-8300",
+    "faxNumber": "(973) 300-4999",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Newton",
+      "streetAddress": "92 Hampton House Road",
+      "postalCode": "07860",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 41.079345,
+      "longitude": -74.736299
+    },
+    "id": "51138"
+  },
+  {
+    "name": "Mercedes-Benz of Columbus",
+    "url": "www.columbus.mercedesdealer.com",
+    "telephone": "(706) 256-6100",
+    "faxNumber": "(706) 256-6116",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbus",
+      "streetAddress": "7470 Veterans Parkway",
+      "postalCode": "31909",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 32.557689,
+      "longitude": -84.94331
+    },
+    "id": "17333"
+  },
+  {
+    "name": "Mercedes-Benz of Augusta",
+    "url": "www.augusta.mercedesdealer.com",
+    "telephone": "(706) 860-1111",
+    "faxNumber": "(706) 860-7241",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Augusta",
+      "streetAddress": "3061 Washington Rd.",
+      "postalCode": "30907",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.513254,
+      "longitude": -82.051337
+    },
+    "id": "17115"
+  },
+  {
+    "name": "RBM of Alpharetta",
+    "url": "www.rbmofalpharetta.mercedesdealer.com",
+    "telephone": "(678) 637-2333",
+    "faxNumber": "(678) 597-3715",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Alpharetta",
+      "streetAddress": "345 Mcfarland Parkway",
+      "postalCode": "30004",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 34.134489,
+      "longitude": -84.239895
+    },
+    "id": "17114"
+  },
+  {
+    "name": "Mercedes-Benz of South Atlanta",
+    "url": "www.southatlanta.mercedesdealer.com",
+    "telephone": "(770) 964-1600",
+    "faxNumber": "(770) 969-7456",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Atlanta",
+      "streetAddress": "3775 Royal South Parkway",
+      "postalCode": "30349",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.587789,
+      "longitude": -84.513357
+    },
+    "id": "17113"
+  },
+  {
+    "name": "Mercedes-Benz of Clear Lake",
+    "url": "www.alexrodriguez.mercedesdealer.com",
+    "telephone": "(281) 554-9100",
+    "faxNumber": "(281) 554-9190",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "League City",
+      "streetAddress": "500 Gulf Freeway South",
+      "postalCode": "77573",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.497227,
+      "longitude": -95.110111
+    },
+    "id": "75188"
+  },
+  {
+    "name": "Mercedes-Benz of Boerne",
+    "url": "www.boerne.mercedesdealer.com",
+    "telephone": "(830) 981-6000",
+    "faxNumber": "(830) 981-6001",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Boerne",
+      "streetAddress": "31445 Interstate 10 West",
+      "postalCode": "78006",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.745576,
+      "longitude": -98.694424
+    },
+    "id": "75189"
+  },
+  {
+    "name": "Mercedes-Benz of Baton Rouge",
+    "url": "www.batonrouge.mercedesdealer.com",
+    "telephone": "(225) 490-3101",
+    "faxNumber": "(225) 214-1658",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Baton Rouge",
+      "streetAddress": "10949 Airline Highway",
+      "postalCode": "70816",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 30.405312,
+      "longitude": -91.059544
+    },
+    "id": "32103"
+  },
+  {
+    "name": "Mercedes-Benz of Wilmington",
+    "url": "www.wilmington.mercedesdealer.com",
+    "telephone": "(302) 995-2211",
+    "faxNumber": "(302) 998-2635",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilmington",
+      "streetAddress": "3801 Lancaster Pike",
+      "postalCode": "19805",
+      "addressRegion": "DE"
+    },
+    "geo": {
+      "latitude": 39.754913,
+      "longitude": -75.594639
+    },
+    "id": "12104"
+  },
+  {
+    "name": "Mercedes-Benz of Tacoma",
+    "url": "www.tacoma.mercedesdealer.com",
+    "telephone": "(253) 922-6820",
+    "faxNumber": "(253) 474-0668",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fife",
+      "streetAddress": "1701 Alexander Avenue E",
+      "postalCode": "98424",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.238997,
+      "longitude": -122.374648
+    },
+    "id": "84100"
+  },
+  {
+    "name": "Mercedes-Benz of Spokane",
+    "url": "www.spokane.mercedesdealer.com",
+    "telephone": "(877) 331-4796",
+    "faxNumber": "(509) 838-6413",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Liberty Lake",
+      "streetAddress": "21802 E. George Gee Avenue",
+      "postalCode": "99019",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.6534,
+      "longitude": -117.426908
+    },
+    "id": "84102"
+  },
+  {
+    "name": "Mercedes-Benz of Lynnwood",
+    "url": "www.lynnwood.mercedesdealer.com",
+    "telephone": "(425) 673-0505",
+    "faxNumber": "(425) 673-5959",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lynnwood",
+      "streetAddress": "17800 Highway 99",
+      "postalCode": "98037",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.812794,
+      "longitude": -122.322302
+    },
+    "id": "84104"
+  },
+  {
+    "name": "Carlton Motorcars, Inc.",
+    "url": "www.carlton.mercedesdealer.com",
+    "telephone": "(864) 213-8000",
+    "faxNumber": "(864) 213-5966",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greenville",
+      "streetAddress": "2446 Laurens Road",
+      "postalCode": "29607",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 34.827543,
+      "longitude": -82.346551
+    },
+    "id": "72100"
+  },
+  {
+    "name": "Mercedes-Benz of Myrtle Beach",
+    "url": "www.myrtlebeach.mercedesdealer.com",
+    "telephone": "(843) 848-6800",
+    "faxNumber": "(843) 848-6777",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Myrtle Beach",
+      "streetAddress": "936 Jason Blvd.",
+      "postalCode": "29577",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 33.788778,
+      "longitude": -78.995341
+    },
+    "id": "72105"
+  },
+  {
+    "name": "Silver Star A.G., Ltd.",
+    "url": "www.star.mercedesdealer.com",
+    "telephone": "(805) 371-5400",
+    "faxNumber": "(805) 494-9688",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Thousand Oaks",
+      "streetAddress": "3905 Auto Mall Dr.",
+      "postalCode": "91362",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.16014,
+      "longitude": -118.827708
+    },
+    "id": "05752"
+  },
+  {
+    "name": "Vin Devers, Inc.",
+    "url": "www.devers.mercedesdealer.com",
+    "telephone": "(419) 885-5111",
+    "faxNumber": "(419) 824-7955",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sylvania",
+      "streetAddress": "5570 Monroe Street",
+      "postalCode": "43560",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.707409,
+      "longitude": -83.668771
+    },
+    "id": "62405"
+  },
+  {
+    "name": "Coppus Motors, Inc.",
+    "url": "www.coppus.mercedesdealer.com",
+    "telephone": "(419) 447-8131",
+    "faxNumber": "(419) 447-8254",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tiffin",
+      "streetAddress": "2190 West Market Street",
+      "postalCode": "44883",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.11031,
+      "longitude": -83.212451
+    },
+    "id": "62404"
+  },
+  {
+    "name": "Calstar Motors, Inc.",
+    "url": "www.calstar.mercedesdealer.com",
+    "telephone": "(818) 246-1800",
+    "faxNumber": "(818) 242-4990",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Glendale",
+      "streetAddress": "700 South Brand Boulevard",
+      "postalCode": "91204",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.138349,
+      "longitude": -118.254899
+    },
+    "id": "05758"
+  },
+  {
+    "name": "Mercedes-Benz of Anaheim",
+    "url": "www.anaheim.mercedesdealer.com",
+    "telephone": "(714) 777-1900",
+    "faxNumber": "(714) 777-8091",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Anaheim",
+      "streetAddress": "5395 E La Palma",
+      "postalCode": "92807",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.85949,
+      "longitude": -117.799146
+    },
+    "id": "05759"
+  },
+  {
+    "name": "Mercedes-Benz of Stevens Creek",
+    "url": "www.smythe.mercedesdealer.com",
+    "telephone": "(408) 983-5200",
+    "faxNumber": "(408) 983-0971",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Jose",
+      "streetAddress": "4500 Stevens Creek Blvd.",
+      "postalCode": "95129",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.32312,
+      "longitude": -121.981089
+    },
+    "id": "05619"
+  },
+  {
+    "name": "Mercedes-Benz of San Francisco",
+    "url": "www.san-francisco.mercedesdealer.com",
+    "telephone": "(415) 673-2000",
+    "faxNumber": "(415) 673-6100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Francisco",
+      "streetAddress": "500 8th Street",
+      "postalCode": "94103",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.77251,
+      "longitude": -122.406979
+    },
+    "id": "05612"
+  },
+  {
+    "name": "Bob King Autohaus",
+    "url": "www.king.mercedesdealer.com",
+    "telephone": "(910) 799-3520",
+    "faxNumber": "(910) 791-9248",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilmington",
+      "streetAddress": "5115 New Centre Drive",
+      "postalCode": "28406",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 34.23931,
+      "longitude": -77.876737
+    },
+    "id": "59229"
+  },
+  {
+    "name": "Mercedes-Benz of Texarkana",
+    "url": "www.texarkana.mercedesdealer.com",
+    "telephone": "(903) 334-6400",
+    "faxNumber": "(903) 838-0219",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Texarkana",
+      "streetAddress": "806 Sowell Lane",
+      "postalCode": "75503",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 33.45383,
+      "longitude": -94.06512
+    },
+    "id": "75172"
+  },
+  {
+    "name": "Mercedes-Benz of Massapequa",
+    "url": "www.massapequa.mercedesdealer.com",
+    "telephone": "(516) 541-4800",
+    "faxNumber": "(631) 789-0100",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Amityville",
+      "streetAddress": "101 East Sunrise Highway",
+      "postalCode": "11701",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.6879,
+      "longitude": -73.413699
+    },
+    "id": "55178"
+  },
+  {
+    "name": "Mercedes-Benz of Natick",
+    "url": "www.natick.mercedesdealer.com",
+    "telephone": "(508) 655-5350",
+    "faxNumber": "(508) 651-0178",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Natick",
+      "streetAddress": "253 North Main Street",
+      "postalCode": "01760",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.306181,
+      "longitude": -71.361731
+    },
+    "id": "36118"
+  },
+  {
+    "name": "Mercedes-Benz of Brooklyn",
+    "url": "www.brooklyn.mercedesdealer.com",
+    "telephone": "(718) 258-5100",
+    "faxNumber": "(718) 859-3230",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Brooklyn",
+      "streetAddress": "1810 Shore Parkway",
+      "postalCode": "11214",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.591792,
+      "longitude": -73.994953
+    },
+    "id": "55172"
+  },
+  {
+    "name": "Mercedes-Benz of Long Beach",
+    "url": "www.long-beach.mercedesdealer.com",
+    "telephone": "(562) 988-8300",
+    "faxNumber": "(562) 988-8260",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Signal Hill",
+      "streetAddress": "2300 East Spring Street",
+      "postalCode": "90755",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 33.81168,
+      "longitude": -118.164444
+    },
+    "id": "05119"
+  },
+  {
+    "name": "New Country Motor Cars, Inc.",
+    "url": "www.newcountry.mercedesdealer.com",
+    "telephone": "(860) 278-2000",
+    "faxNumber": "(860) 278-0181",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hartford",
+      "streetAddress": "1 Weston Street",
+      "postalCode": "06120",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.782933,
+      "longitude": -72.661559
+    },
+    "id": "09100"
+  },
+  {
+    "name": "Mercedes-Benz of Wappingers Falls",
+    "url": "www.wappingers.mercedesdealer.com",
+    "telephone": "(866) 210-9199",
+    "faxNumber": "(845) 298-0878",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wappingers Falls",
+      "streetAddress": "134 Old Post Road",
+      "postalCode": "12590",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 41.574135,
+      "longitude": -73.908721
+    },
+    "id": "55212"
+  },
+  {
+    "name": "Mercedes-Benz of North Orlando",
+    "url": "www.northorlando.mercedesdealer.com",
+    "telephone": "(407) 688-4200",
+    "faxNumber": "(407) 688-4190",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sanford",
+      "streetAddress": "1100 Rinehart Road",
+      "postalCode": "32771",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.793197,
+      "longitude": -81.342364
+    },
+    "id": "14162"
+  },
+  {
+    "name": "Mercedes-Benz of Coconut Creek",
+    "url": "www.mercedescoconutcreek.com",
+    "telephone": "(954) 406-1167",
+    "faxNumber": "(954) 590-3075",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Coconut Creek",
+      "streetAddress": "4250 N. State Road 7",
+      "postalCode": "33073",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.281173,
+      "longitude": -80.200094
+    },
+    "id": "14161"
+  },
+  {
+    "name": "Moss Motors",
+    "url": "www.moss.mercedesdealer.com",
+    "telephone": "(337) 235-9086",
+    "faxNumber": "(337) 233-4995",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lafayette",
+      "streetAddress": "1401 - 1403 Surrey St.",
+      "postalCode": "70509",
+      "addressRegion": "LA"
+    },
+    "geo": {
+      "latitude": 30.221299,
+      "longitude": -91.995095
+    },
+    "id": "32518"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Pierce",
+    "url": "www.fort-pierce.mercedesdealer.com",
+    "telephone": "(772) 466-7000",
+    "faxNumber": "(772) 466-4952",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Pierce",
+      "streetAddress": "4500 South U S 1",
+      "postalCode": "34982",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.381501,
+      "longitude": -80.325899
+    },
+    "id": "14345"
+  },
+  {
+    "name": "Centennial Imports",
+    "url": "www.centennial.mercedesdealer.com",
+    "telephone": "(850) 432-9903",
+    "faxNumber": "(850) 438-1302",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pensacola",
+      "streetAddress": "3050 Navy Boulevard",
+      "postalCode": "32505",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 30.4122,
+      "longitude": -87.25183
+    },
+    "id": "14342"
+  },
+  {
+    "name": "Mercedes-Benz of Northlake",
+    "url": "www.northlake.mercedesdealer.com",
+    "telephone": "(704) 379-4800",
+    "faxNumber": "(704) 379-4801",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlotte",
+      "streetAddress": "10725 Northlake Auto Plaza Blv",
+      "postalCode": "28269",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.367656,
+      "longitude": -80.833087
+    },
+    "id": "59122"
+  },
+  {
+    "name": "Mercedes-Benz of Naples",
+    "url": "www.naples.mercedesdealer.com",
+    "telephone": "(239) 643-5006",
+    "faxNumber": "(239) 643-4628",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Naples",
+      "streetAddress": "501 Airport Road South",
+      "postalCode": "34104",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.149169,
+      "longitude": -81.766632
+    },
+    "id": "14340"
+  },
+  {
+    "name": "Mercedes-Benz of Durham",
+    "url": "www.durham.mercedesdealer.com",
+    "telephone": "(919) 354-7770",
+    "faxNumber": "(919) 354-7452",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Durham",
+      "streetAddress": "110 Kentington Drive",
+      "postalCode": "27713",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.899153,
+      "longitude": -78.940778
+    },
+    "id": "59128"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Lauderdale",
+    "url": "www.fort-lauderdale.mercedesdealer.com",
+    "telephone": "(954) 462-4381",
+    "faxNumber": "(954) 462-4441",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Lauderdale",
+      "streetAddress": "2411 South Federal Highway",
+      "postalCode": "33316",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.092601,
+      "longitude": -80.136634
+    },
+    "id": "14349"
+  },
+  {
+    "name": "International Autos, Inc.",
+    "url": "www.internationalautos.mercedesdealer.com",
+    "telephone": "(414) 543-3000",
+    "faxNumber": "(414) 543-2804",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Allis",
+      "streetAddress": "2400 South 108th St",
+      "postalCode": "53227",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 43.0006,
+      "longitude": -88.046809
+    },
+    "id": "86435"
+  },
+  {
+    "name": "Enterprise Motorcars, Inc.",
+    "url": "www.enterprise.mercedesdealer.com",
+    "telephone": "(920) 749-2020",
+    "faxNumber": "(920) 749-2030",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Appleton",
+      "streetAddress": "3002 Victory Lane",
+      "postalCode": "54913",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 44.290845,
+      "longitude": -88.47072
+    },
+    "id": "86432"
+  },
+  {
+    "name": "Mercedes-Benz of El Paso",
+    "url": "www.el-paso.mercedesdealer.com",
+    "telephone": "(915) 778-5341",
+    "faxNumber": "(915) 772-0545",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "El Paso",
+      "streetAddress": "1122 Airway Boulevard",
+      "postalCode": "79925",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 31.780744,
+      "longitude": -106.391832
+    },
+    "id": "75556"
+  },
+  {
+    "name": "Fred Martin of Youngstown",
+    "url": "www.martin.mercedesdealer.com",
+    "telephone": "(330) 793-2444",
+    "faxNumber": "(330) 793-0819",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Youngstown",
+      "streetAddress": "4701 Mahoning Ave.",
+      "postalCode": "44515",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 41.100964,
+      "longitude": -80.74083
+    },
+    "id": "62221"
+  },
+  {
+    "name": "Mercedes-Benz of Warwick",
+    "url": "www.warwick.mercedesdealer.com",
+    "telephone": "(401) 821-1510",
+    "faxNumber": "(401) 822-8270",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Warwick",
+      "streetAddress": "1557 Bald Hill Road",
+      "postalCode": "02886",
+      "addressRegion": "RI"
+    },
+    "geo": {
+      "latitude": 41.698795,
+      "longitude": -71.496644
+    },
+    "id": "71100"
+  },
+  {
+    "name": "Viti Mercedes-Benz",
+    "url": "www.viti.mercedesdealer.com",
+    "telephone": "(401) 624-6181",
+    "faxNumber": "(401) 624-2256",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tiverton",
+      "streetAddress": "975 Fish Road",
+      "postalCode": "02878",
+      "addressRegion": "RI"
+    },
+    "geo": {
+      "latitude": 41.64304,
+      "longitude": -71.187159
+    },
+    "id": "71108"
+  },
+  {
+    "name": "Sun Motor Cars, Inc.",
+    "url": "www.sunmotor.mercedesdealer.com",
+    "telephone": "(717) 691-3333",
+    "faxNumber": "(717) 691-8021",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Mechanicsburg",
+      "streetAddress": "6677 Carlisle Pike",
+      "postalCode": "17050",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.237764,
+      "longitude": -76.959163
+    },
+    "id": "67267"
+  },
+  {
+    "name": "Valley Imports, Inc.",
+    "url": "www.valleyimports.mercedesdealer.com",
+    "telephone": "(701) 277-1777",
+    "faxNumber": "(701) 277-1331",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fargo",
+      "streetAddress": "402 40th Street Sw",
+      "postalCode": "58103",
+      "addressRegion": "ND"
+    },
+    "geo": {
+      "latitude": 46.871578,
+      "longitude": -96.845799
+    },
+    "id": "61406"
+  },
+  {
+    "name": "Contemporary Motorcar Ltd.",
+    "url": "www.cml.mercedesdealer.com",
+    "telephone": "(814) 868-8622",
+    "faxNumber": "(814) 868-2183",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Erie",
+      "streetAddress": "4910 Peach Street",
+      "postalCode": "16509",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 42.082503,
+      "longitude": -80.089474
+    },
+    "id": "67303"
+  },
+  {
+    "name": "Mercedes-Benz of Fort Wayne",
+    "url": "www.fortwayne.mercedesdealer.com",
+    "telephone": "(260) 432-7200",
+    "faxNumber": "(260) 434-0346",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fort Wayne",
+      "streetAddress": "7227 West Jefferson Blvd",
+      "postalCode": "46804",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 41.047869,
+      "longitude": -85.235109
+    },
+    "id": "25104"
+  },
+  {
+    "name": "Mike Raisor Imports, Inc.",
+    "url": "www.raisor.mercedesdealer.com",
+    "telephone": "(765) 448-4582",
+    "faxNumber": "(765) 448-1796",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lafayette",
+      "streetAddress": "2912 East Main St.",
+      "postalCode": "47903",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 40.405406,
+      "longitude": -86.864233
+    },
+    "id": "25101"
+  },
+  {
+    "name": "Napleton's Auto Werks of Indiana, Inc.",
+    "url": "www.schererville.mercedesdealer.com",
+    "telephone": "(219) 865-3800",
+    "faxNumber": "(219) 865-4044",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Schererville",
+      "streetAddress": "1349 Indianapolis Blvd.",
+      "postalCode": "46375",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 41.499514,
+      "longitude": -87.471094
+    },
+    "id": "25103"
+  },
+  {
+    "name": "Mercedes-Benz of Indianapolis",
+    "url": "www.indianapolis.mercedesdealer.com",
+    "telephone": "(317) 924-5321",
+    "faxNumber": "(317) 920-3208",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "2314 North Meridian St.",
+      "postalCode": "46208",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 39.799369,
+      "longitude": -86.157
+    },
+    "id": "25102"
+  },
+  {
+    "name": "Joe Machens",
+    "url": "www.machens.mercedesdealer.com",
+    "telephone": "(573) 886-7040",
+    "faxNumber": "(573) 446-1112",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbia",
+      "streetAddress": "1710 I-70 SW,",
+      "postalCode": "65203",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.965235,
+      "longitude": -92.363496
+    },
+    "id": "45420"
+  },
+  {
+    "name": "Elite Automotive Group",
+    "url": "www.elite.mercedesdealer.com",
+    "telephone": "(417) 889-5750",
+    "faxNumber": "(417) 887-6348",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Springfield",
+      "streetAddress": "3727 S. Campbell",
+      "postalCode": "65807",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 37.146377,
+      "longitude": -93.296077
+    },
+    "id": "45421"
+  },
+  {
+    "name": "Mercedes-Benz of Annapolis",
+    "url": "www.annapolis.mercedesdealer.com",
+    "telephone": "(410) 268-2222",
+    "faxNumber": "(410) 268-2508",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Annapolis",
+      "streetAddress": "324 Sixth Street",
+      "postalCode": "21403",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 38.971452,
+      "longitude": -76.485299
+    },
+    "id": "34107"
+  },
+  {
+    "name": "Mercedes-Benz of Salisbury",
+    "url": "www.salisbury.mercedesdealer.com",
+    "telephone": "(410) 548-3411",
+    "faxNumber": "(410) 749-4626",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Salisbury",
+      "streetAddress": "2013 N. Salisbury Blvd.",
+      "postalCode": "21801",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 38.39183,
+      "longitude": -75.575489
+    },
+    "id": "34105"
+  },
+  {
+    "name": "Mercedes-Benz of Silver Spring",
+    "url": "www.silverspring.mercedesdealer.com",
+    "telephone": "(301) 890-3030",
+    "faxNumber": "(301) 890-5450",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Silver Spring",
+      "streetAddress": "3301 Briggs Chaney Rd.",
+      "postalCode": "20904",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.077966,
+      "longitude": -76.946982
+    },
+    "id": "34104"
+  },
+  {
+    "name": "James Motor Company",
+    "url": "www.james.mercedesdealer.com",
+    "telephone": "(859) 268-1150",
+    "faxNumber": "(859) 266-1516",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Lexington",
+      "streetAddress": "2440 Richmond Road",
+      "postalCode": "40502",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 38.013881,
+      "longitude": -84.459971
+    },
+    "id": "31401"
+  },
+  {
+    "name": "Tafel Motors, Inc.",
+    "url": "www.tafel.mercedesdealer.com",
+    "telephone": "(502) 896-4411",
+    "faxNumber": "(502) 893-4720",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Louisville",
+      "streetAddress": "4156 Shelbyville Road",
+      "postalCode": "40207",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 38.251788,
+      "longitude": -85.641783
+    },
+    "id": "31403"
+  },
+  {
+    "name": "Euro Motorcars Germantown, Inc.",
+    "url": "www.germantown.mercedesdealer.com",
+    "telephone": "(301) 601-5500",
+    "faxNumber": "(240) 686-1696",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Germantown",
+      "streetAddress": "19750 Germantown Road",
+      "postalCode": "20874",
+      "addressRegion": "MD"
+    },
+    "geo": {
+      "latitude": 39.180274,
+      "longitude": -77.264535
+    },
+    "id": "34108"
+  },
+  {
+    "name": "Mercedes-Benz of Cincinnati",
+    "url": "www.cincinnati.mercedesdealer.com",
+    "telephone": "(513) 984-9000",
+    "faxNumber": "(513) 984-9468",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Cincinnati",
+      "streetAddress": "8727 Montgomery Road",
+      "postalCode": "45236",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 39.214236,
+      "longitude": -84.359898
+    },
+    "id": "62410"
+  },
+  {
+    "name": "Mercedes-Benz of Memphis",
+    "url": "www.memphis.mercedesdealer.com",
+    "telephone": "(901) 345-6211",
+    "faxNumber": "(901) 345-6928",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Memphis",
+      "streetAddress": "5389 Poplar Avenue",
+      "postalCode": "38119",
+      "addressRegion": "TN"
+    },
+    "geo": {
+      "latitude": 35.106978,
+      "longitude": -89.882168
+    },
+    "id": "74320"
+  },
+  {
+    "name": "Mercedes-Benz of Smithtown",
+    "url": "www.smithtown.mercedesdealer.com",
+    "telephone": "(631) 265-2204",
+    "faxNumber": "(631) 265-2968",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "St. James",
+      "streetAddress": "630 Middle Country Road",
+      "postalCode": "11780",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.860275,
+      "longitude": -73.156413
+    },
+    "id": "55138"
+  },
+  {
+    "name": "Skyland Automotive, Inc.",
+    "url": "www.skyland.mercedesdealer.com",
+    "telephone": "(828) 667-5213",
+    "faxNumber": "(828) 667-2116",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Asheville",
+      "streetAddress": "255 Smoky Park Highway",
+      "postalCode": "28816",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.555695,
+      "longitude": -82.641207
+    },
+    "id": "59301"
+  },
+  {
+    "name": "Fannin Imports",
+    "url": "www.fannin.mercedesdealer.com",
+    "telephone": "(606) 929-9000",
+    "faxNumber": "(606) 929-1819",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "ASHLAND",
+      "streetAddress": "7405 US ROUTE 60",
+      "postalCode": "41102",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 38.424885,
+      "longitude": -82.700113
+    },
+    "id": "31104"
+  },
+  {
+    "name": "Luxury Imports of Bowling Green",
+    "url": "www.bowlinggreen.mercedesdealer.com",
+    "telephone": "(270) 745-0001",
+    "faxNumber": "(270) 745-9040",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bowling Green",
+      "streetAddress": "325 Three Springs Road",
+      "postalCode": "42104",
+      "addressRegion": "KY"
+    },
+    "geo": {
+      "latitude": 36.935633,
+      "longitude": -86.421197
+    },
+    "id": "31105"
+  },
+  {
+    "name": "Plaza Motors West",
+    "url": "www.progresspoint.mercedesdealer.com",
+    "telephone": "(636) 300-2277",
+    "faxNumber": "(636) 300-2299",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "O'Fallon",
+      "streetAddress": "951 Technology Drive",
+      "postalCode": "63368",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.717765,
+      "longitude": -90.702474
+    },
+    "id": "45109"
+  },
+  {
+    "name": "Mercedes-Benz of Charlottesville",
+    "url": "www.charlottesville.mercedesdealer.com",
+    "telephone": "(434) 817-3380",
+    "faxNumber": "(434) 817-6260",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlottesville",
+      "streetAddress": "1381 Richmond Road",
+      "postalCode": "22911",
+      "addressRegion": "VA"
+    },
+    "geo": {
+      "latitude": 38.033053,
+      "longitude": -78.44839
+    },
+    "id": "80127"
+  },
+  {
+    "name": "Mercedes-Benz of Kansas City",
+    "url": "www.kansascity.mercedesdealer.com",
+    "telephone": "(816) 943-7000",
+    "faxNumber": "1-816-942-5399",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kansas City",
+      "streetAddress": "13851 Madison Avenue",
+      "postalCode": "64145",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.941869,
+      "longitude": -94.603797
+    },
+    "id": "45105"
+  },
+  {
+    "name": "Orrin B. Hayes, Inc.",
+    "url": "www.orrin.mercedesdealer.com",
+    "telephone": "(269) 345-0167",
+    "faxNumber": "(269) 345-3286",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kalamazoo",
+      "streetAddress": "543 West Michigan Avenue",
+      "postalCode": "49007",
+      "addressRegion": "MI"
+    },
+    "geo": {
+      "latitude": 42.291545,
+      "longitude": -85.590264
+    },
+    "id": "39420"
+  },
+  {
+    "name": "Frank Fletcher Imports",
+    "url": "www.frankfletcherimports.mercedesdealer.com",
+    "telephone": "(417) 625-4575",
+    "faxNumber": "(417) 781-4637",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Joplin",
+      "streetAddress": "3111 East 32nd Street",
+      "postalCode": "64804",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 37.066077,
+      "longitude": -94.477979
+    },
+    "id": "45103"
+  },
+  {
+    "name": "Plaza Motor Company",
+    "url": "www.plaza.mercedesdealer.com",
+    "telephone": "(314) 301-1715",
+    "faxNumber": "(314) 301-1723",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Creve Coeur",
+      "streetAddress": "11830 Olive Boulevard",
+      "postalCode": "63141",
+      "addressRegion": "MO"
+    },
+    "geo": {
+      "latitude": 38.67081,
+      "longitude": -90.444278
+    },
+    "id": "45102"
+  },
+  {
+    "name": "Mercedes-Benz of Valencia",
+    "url": "www.santaclarita.mercedesdealer.com",
+    "telephone": "(661) 753-5555",
+    "faxNumber": "(661) 753-5599",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Santa Clarita",
+      "streetAddress": "23355 Valencia Blvd.",
+      "postalCode": "91355",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.421854,
+      "longitude": -118.547036
+    },
+    "id": "05156"
+  },
+  {
+    "name": "Fletcher Jones Motorcars of Fremont",
+    "url": "www.fremont.mercedesdealer.com",
+    "telephone": "(510) 623-1111",
+    "faxNumber": "(510) 440-8410",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fremont",
+      "streetAddress": "5760 Cushing Parkway",
+      "postalCode": "94538",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.499767,
+      "longitude": -121.975601
+    },
+    "id": "05157"
+  },
+  {
+    "name": "Mercedes-Benz of Sarasota",
+    "url": "www.sarasota.mercedesdealer.com",
+    "telephone": "(941) 923-3441",
+    "faxNumber": "(941) 923-3689",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sarasota",
+      "streetAddress": "4754 Clark Road",
+      "postalCode": "34233",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.25672,
+      "longitude": -82.519227
+    },
+    "id": "14125"
+  },
+  {
+    "name": "Mercedes-Benz of South Orlando",
+    "url": "www.southorlando.mercedesdealer.com",
+    "telephone": "(407) 367-2700",
+    "faxNumber": "(407) 367-2760",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Orlando",
+      "streetAddress": "4301 Millenia Blvd",
+      "postalCode": "32839",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 28.488752,
+      "longitude": -81.433275
+    },
+    "id": "14124"
+  },
+  {
+    "name": "Mercedes-Benz of Pembroke Pines",
+    "url": "www.pembroke.mercedesdealer.com",
+    "telephone": "(954) 517-8600",
+    "faxNumber": "(954) 517-8562",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pembroke Pines",
+      "streetAddress": "14199 Pines Blvd.",
+      "postalCode": "33027",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 26.00786,
+      "longitude": -80.334609
+    },
+    "id": "14123"
+  },
+  {
+    "name": "Alfano Motorcars",
+    "url": "www.alfano.mercedesdealer.com",
+    "telephone": "(805) 543-5752",
+    "faxNumber": "(805) 543-1179",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Luis Obispo",
+      "streetAddress": "1423 Calle Joaquin",
+      "postalCode": "93405",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 35.248088,
+      "longitude": -120.680519
+    },
+    "id": "05231"
+  },
+  {
+    "name": "Mercedes-Benz of Ontario",
+    "url": "www.ontario.mercedesdealer.com",
+    "telephone": "(909) 212-8400",
+    "faxNumber": "(909) 212-8499",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Ontario",
+      "streetAddress": "3787 East Guasti Road",
+      "postalCode": "91761",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.06547,
+      "longitude": -117.571803
+    },
+    "id": "05235"
+  },
+  {
+    "name": "Mercedes-Benz of Honolulu",
+    "url": "www.honolulu.mercedesdealer.com",
+    "telephone": "(808) 592-5600",
+    "faxNumber": "1-808-592-5619",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Honolulu",
+      "streetAddress": "818 Kapiolani Boulevard",
+      "postalCode": "96813",
+      "addressRegion": "HI"
+    },
+    "geo": {
+      "latitude": 21.29963,
+      "longitude": -157.853231
+    },
+    "id": "20100"
+  },
+  {
+    "name": "Mercedes-Benz of Shrewsbury",
+    "url": "www.shrewsbury.mercedesdealer.com",
+    "telephone": "(508) 581-5600",
+    "faxNumber": "(508) 581-5600",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Shrewsbury",
+      "streetAddress": "760 Boston Turnpike",
+      "postalCode": "01545",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 42.316918,
+      "longitude": -71.756818
+    },
+    "id": "36133"
+  },
+  {
+    "name": "Prime Service Center",
+    "url": "",
+    "telephone": "1-508-815-2100",
+    "faxNumber": "1-781-688-1162",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Hyannis",
+      "streetAddress": "95 Falmouth Road",
+      "postalCode": "02601",
+      "addressRegion": "MA"
+    },
+    "geo": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "id": "36136"
+  },
+  {
+    "name": "Mercedes-Benz of Sugar Land",
+    "url": "www.sugarland.mercedesdealer.com",
+    "telephone": "(281) 207-1500",
+    "faxNumber": "(281) 207-1551",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Sugar Land",
+      "streetAddress": "15625 Southwest Freeway",
+      "postalCode": "77478",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 29.600523,
+      "longitude": -95.619658
+    },
+    "id": "75128"
+  },
+  {
+    "name": "Patterson Auto Center",
+    "url": "www.wichitafalls.mercedesdealer.com",
+    "telephone": "1-888-766-9790",
+    "faxNumber": "1-281-233-6094",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wichita Falls",
+      "streetAddress": "315 Central Freeway East",
+      "postalCode": "76302",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 33.890648,
+      "longitude": -98.48725
+    },
+    "id": "75517"
+  },
+  {
+    "name": "Mercedes-Benz of Austin Texas",
+    "url": "www.austin.mercedesdealer.com",
+    "telephone": "(512) 454-6821",
+    "faxNumber": "(512) 454-2878",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Austin",
+      "streetAddress": "6757 Airport Blvd.",
+      "postalCode": "78752",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 30.333154,
+      "longitude": -97.716529
+    },
+    "id": "75513"
+  },
+  {
+    "name": "Mercedes-Benz of Denver",
+    "url": "www.denver.mercedesdealer.com",
+    "telephone": "(303) 759-3400",
+    "faxNumber": "(303) 639-7953",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Denver",
+      "streetAddress": "4300 E Kentucky Ave",
+      "postalCode": "80246",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 39.7002,
+      "longitude": -104.937479
+    },
+    "id": "08120"
+  },
+  {
+    "name": "Autohaus On Edens, LLC",
+    "url": "www.edens.mercedesdealer.com",
+    "telephone": "(847) 272-7900",
+    "faxNumber": "(847) 272-7964",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Northbrook",
+      "streetAddress": "1600 Frontage Road",
+      "postalCode": "60062",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.122887,
+      "longitude": -87.782147
+    },
+    "id": "22420"
+  },
+  {
+    "name": "Motor Werks of Barrington",
+    "url": "www.motorwerks.mercedesdealer.com",
+    "telephone": "(866) 938-9842",
+    "faxNumber": "(847) 381-0115",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Barrington",
+      "streetAddress": "1475 S. Barrington Road",
+      "postalCode": "60010",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 42.129547,
+      "longitude": -88.136223
+    },
+    "id": "22427"
+  },
+  {
+    "name": "Napleton's Autowerks",
+    "url": "www.napletons.mercedesdealer.com",
+    "telephone": "(815) 933-8221",
+    "faxNumber": "(815) 933-8238",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bourbonnais",
+      "streetAddress": "515 Latham Drive",
+      "postalCode": "60914",
+      "addressRegion": "IL"
+    },
+    "geo": {
+      "latitude": 41.161155,
+      "longitude": -87.887772
+    },
+    "id": "22424"
+  },
+  {
+    "name": "The Automaster",
+    "url": "www.automaster.mercedesdealer.com",
+    "telephone": "(802) 985-8482",
+    "faxNumber": "(802) 985-3730",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Shelburne",
+      "streetAddress": "3328 Shelburne Road",
+      "postalCode": "05482",
+      "addressRegion": "VT"
+    },
+    "geo": {
+      "latitude": 44.3878,
+      "longitude": -73.22
+    },
+    "id": "79103"
+  },
+  {
+    "name": "Wilson Motors",
+    "url": "www.wilson.mercedesdealer.com",
+    "telephone": "(360) 676-0600",
+    "faxNumber": "(360) 676-4831",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bellingham",
+      "streetAddress": "1100 Iowa Street",
+      "postalCode": "98229",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 48.749926,
+      "longitude": -122.472889
+    },
+    "id": "84610"
+  },
+  {
+    "name": "Steve Hahn",
+    "url": "www.hahn.mercedesdealer.com",
+    "telephone": "(509) 248-4700",
+    "faxNumber": "(509) 575-1194",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Yakima",
+      "streetAddress": "1730 South First Street",
+      "postalCode": "98901",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 46.57851,
+      "longitude": -120.493449
+    },
+    "id": "84611"
+  },
+  {
+    "name": "Mercedes-Benz of Tri-Cities",
+    "url": "www.tri-cities.mercedesdealer.com",
+    "telephone": "(509) 547-5555",
+    "faxNumber": "(509) 547-5970",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Kennewick",
+      "streetAddress": "6901 West Clearwater Ave.",
+      "postalCode": "99336",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 46.240012,
+      "longitude": -119.131998
+    },
+    "id": "84614"
+  },
+  {
+    "name": "Mercedes-Benz of Bellevue",
+    "url": "www.bellevue.mercedesdealer.com",
+    "telephone": "(425) 455-8535",
+    "faxNumber": "(425) 637-5586",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bellevue",
+      "streetAddress": "11850 Bellevue - Redmond Rd.",
+      "postalCode": "98005",
+      "addressRegion": "WA"
+    },
+    "geo": {
+      "latitude": 47.61806,
+      "longitude": -122.179927
+    },
+    "id": "84615"
+  },
+  {
+    "name": "Mercedes-Benz Manhattan, Inc.",
+    "url": "www.manhattan.mercedesdealer.com",
+    "telephone": "(212) 629-1600",
+    "faxNumber": "(212) 760-0663",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "New York",
+      "streetAddress": "770 11th Avenue",
+      "postalCode": "10019",
+      "addressRegion": "NY"
+    },
+    "geo": {
+      "latitude": 40.759445,
+      "longitude": -73.997123
+    },
+    "id": "56113"
+  },
+  {
+    "name": "Mercedes-Benz of West Covina",
+    "url": "www.penske.mercedesdealer.com",
+    "telephone": "(626) 859-1200",
+    "faxNumber": "(626) 859-1279",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "West Covina",
+      "streetAddress": "1829 East Garvey Avenue North",
+      "postalCode": "91791",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 34.071779,
+      "longitude": -117.903045
+    },
+    "id": "05127"
+  },
+  {
+    "name": "World Wide Motors, Inc.",
+    "url": "www.wwmotors.mercedesdealer.com",
+    "telephone": "(317) 580-6800",
+    "faxNumber": "(317) 580-6808",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "3900 East 96th St.",
+      "postalCode": "46240",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 39.92688,
+      "longitude": -86.105489
+    },
+    "id": "25412"
+  },
+  {
+    "name": "Motorworld",
+    "url": "www.motorworld.mercedesdealer.com",
+    "telephone": "(570) 829-3500",
+    "faxNumber": "(570) 821-3737",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Wilkes-Barre",
+      "streetAddress": "150 Motorworld Drive",
+      "postalCode": "18703",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 41.2548,
+      "longitude": -75.839099
+    },
+    "id": "67227"
+  },
+  {
+    "name": "D-Patrick, Inc.",
+    "url": "www.patrick.mercedesdealer.com",
+    "telephone": "(812) 473-6500",
+    "faxNumber": "(812) 473-6541",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Evansville",
+      "streetAddress": "200 N. Green River Rd.",
+      "postalCode": "47715",
+      "addressRegion": "IN"
+    },
+    "geo": {
+      "latitude": 37.978284,
+      "longitude": -87.492618
+    },
+    "id": "25419"
+  },
+  {
+    "name": "Lokey Motor Company",
+    "url": "www.lokey.mercedesdealer.com",
+    "telephone": "(727) 530-1661",
+    "faxNumber": "(727) 530-5125",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Clearwater",
+      "streetAddress": "19820 U. S. Hwy 19 N.",
+      "postalCode": "33764",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.952565,
+      "longitude": -82.730199
+    },
+    "id": "14318"
+  },
+  {
+    "name": "Mercedes-Benz of Tampa",
+    "url": "www.tampa.mercedesdealer.com",
+    "telephone": "(813) 870-0010",
+    "faxNumber": "(813) 865-8153",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Tampa",
+      "streetAddress": "4400 North Dale Mabry Highway",
+      "postalCode": "33614",
+      "addressRegion": "FL"
+    },
+    "geo": {
+      "latitude": 27.98486,
+      "longitude": -82.505296
+    },
+    "id": "14316"
+  },
+  {
+    "name": "Feldmann Imports, Inc.",
+    "url": "www.feldmanns.mercedesdealer.com",
+    "telephone": "(952) 837-6300",
+    "faxNumber": "(952) 837-6367",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Bloomington",
+      "streetAddress": "4901 American Boulevard West",
+      "postalCode": "55437",
+      "addressRegion": "MN"
+    },
+    "geo": {
+      "latitude": 44.858016,
+      "longitude": -93.342348
+    },
+    "id": "42418"
+  },
+  {
+    "name": "Mercedes-Benz of South Charlotte",
+    "url": "www.southcharlotte.mercedesdealer.com",
+    "telephone": "(704) 889-4444",
+    "faxNumber": "(704) 889-4474",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Pineville",
+      "streetAddress": "950 North Polk Street",
+      "postalCode": "28134",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.093166,
+      "longitude": -80.884457
+    },
+    "id": "59110"
+  },
+  {
+    "name": "Hendrick Motors of Charlotte",
+    "url": "www.hendrick-charlotte.mercedesdealer.com",
+    "telephone": "(704) 535-6400",
+    "faxNumber": "(704) 532-1926",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Charlotte",
+      "streetAddress": "5201 E. Independence Blvd",
+      "postalCode": "28212",
+      "addressRegion": "NC"
+    },
+    "geo": {
+      "latitude": 35.18772,
+      "longitude": -80.759916
+    },
+    "id": "59113"
+  },
+  {
+    "name": "Astorg Motor Co.",
+    "url": "www.astorg.mercedesdealer.com",
+    "telephone": "(304) 422-6403",
+    "faxNumber": "(304) 420-2346",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Parkersburg",
+      "streetAddress": "2028 Seventh Street",
+      "postalCode": "26102",
+      "addressRegion": "WV"
+    },
+    "geo": {
+      "latitude": 39.268541,
+      "longitude": -81.521435
+    },
+    "id": "85210"
+  },
+  {
+    "name": "Mercedes-Benz of Freehold",
+    "url": "www.freehold.mercedesdealer.com",
+    "telephone": "(732) 339-6800",
+    "faxNumber": "(732) 339-6805",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Freehold",
+      "streetAddress": "4380 Route 9",
+      "postalCode": "07728",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.281724,
+      "longitude": -74.294446
+    },
+    "id": "51126"
+  },
+  {
+    "name": "Prestige Motors, Inc.",
+    "url": "www.prestige.mercedesdealer.com",
+    "telephone": "(201) 265-7800",
+    "faxNumber": "(201) 265-7846",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Paramus",
+      "streetAddress": "755 Route 17",
+      "postalCode": "07652",
+      "addressRegion": "NJ"
+    },
+    "geo": {
+      "latitude": 40.945864,
+      "longitude": -74.071824
+    },
+    "id": "51121"
+  },
+  {
+    "name": "Bud Smail Motorcars, Ltd.",
+    "url": "www.smail.mercedesdealer.com",
+    "telephone": "(724) 838-1200",
+    "faxNumber": "(724) 834-0587",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Greensburg",
+      "streetAddress": "Route 30 East",
+      "postalCode": "15601",
+      "addressRegion": "PA"
+    },
+    "geo": {
+      "latitude": 40.3032,
+      "longitude": -79.50695
+    },
+    "id": "68206"
+  },
+  {
+    "name": "Mercedes-Benz of Buckhead",
+    "url": "www.buckhead.mercedesdealer.com",
+    "telephone": "(404) 846-3500",
+    "faxNumber": "(404) 846-8941",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Atlanta",
+      "streetAddress": "2799 Piedmont Road",
+      "postalCode": "30305",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 33.831301,
+      "longitude": -84.367996
+    },
+    "id": "17107"
+  },
+  {
+    "name": "Albany Motorcars",
+    "url": "www.albany.mercedesdealer.com",
+    "telephone": "(229) 883-2040",
+    "faxNumber": "(229) 435-1505",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Albany",
+      "streetAddress": "805 East Oglethorpe Boulevard",
+      "postalCode": "31705",
+      "addressRegion": "GA"
+    },
+    "geo": {
+      "latitude": 31.573392,
+      "longitude": -84.132007
+    },
+    "id": "17108"
+  },
+  {
+    "name": "Mercedes-Benz of Reno",
+    "url": "www.reno.mercedesdealer.com",
+    "telephone": "(775) 326-4000",
+    "faxNumber": "(775) 851-0281",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Reno",
+      "streetAddress": "11500 South Virginia Street",
+      "postalCode": "89511",
+      "addressRegion": "NV"
+    },
+    "geo": {
+      "latitude": 39.426858,
+      "longitude": -119.760724
+    },
+    "id": "49120"
+  },
+  {
+    "name": "Mercedes-Benz of Salem",
+    "url": "www.salemor.mercedesdealer.com",
+    "telephone": "(503) 585-1231",
+    "faxNumber": "(503) 391-5242",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Salem",
+      "streetAddress": "2405 Commercial S E",
+      "postalCode": "97302",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 44.918165,
+      "longitude": -123.044899
+    },
+    "id": "66607"
+  },
+  {
+    "name": "Mercedes-Benz of Monterey",
+    "url": "www.monterey.mercedesdealer.com",
+    "telephone": "(831) 375-2456",
+    "faxNumber": "(831) 373-4212",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Monterey",
+      "streetAddress": "498 Fremont St.",
+      "postalCode": "93942",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 36.5951,
+      "longitude": -121.891019
+    },
+    "id": "05606"
+  },
+  {
+    "name": "Dick Dyer",
+    "url": "www.dyer.mercedesdealer.com",
+    "telephone": "(803) 786-8888",
+    "faxNumber": "(803) 754-2397",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Columbia",
+      "streetAddress": "5825 Two Notch Road",
+      "postalCode": "29223",
+      "addressRegion": "SC"
+    },
+    "geo": {
+      "latitude": 34.053399,
+      "longitude": -80.9781
+    },
+    "id": "72307"
+  },
+  {
+    "name": "Mercedes-Benz of Centerville",
+    "url": "www.centerville.mercedesdealer.com",
+    "telephone": "(937) 433-0990",
+    "faxNumber": "(937) 433-5282",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Centerville",
+      "streetAddress": "1 Loop Road",
+      "postalCode": "45459",
+      "addressRegion": "OH"
+    },
+    "geo": {
+      "latitude": 39.64893,
+      "longitude": -84.157099
+    },
+    "id": "62414"
+  },
+  {
+    "name": "Autobahn Motors",
+    "url": "www.autobahn.mercedesdealer.com",
+    "telephone": "(650) 637-2333",
+    "faxNumber": "(650) 631-3661",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Belmont",
+      "streetAddress": "700 Island Parkway",
+      "postalCode": "94002",
+      "addressRegion": "CA"
+    },
+    "geo": {
+      "latitude": 37.52957,
+      "longitude": -122.270309
+    },
+    "id": "05765"
+  },
+  {
+    "name": "Prime Motor Cars",
+    "url": "www.primemb.mercedesdealer.com",
+    "telephone": "(207) 510-2250",
+    "faxNumber": "(207) 781-4942",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Scarborough",
+      "streetAddress": "137 U.S. Route One",
+      "postalCode": "04074",
+      "addressRegion": "ME"
+    },
+    "geo": {
+      "latitude": 43.59934,
+      "longitude": -70.321658
+    },
+    "id": "33102"
+  },
+  {
+    "name": "Mercedes-Benz of Elmbrook",
+    "url": "www.elmbrook.mercedesdealer.com",
+    "telephone": "(262) 821-5000",
+    "faxNumber": "(262) 785-4179",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Waukesha",
+      "streetAddress": "2230 E. Moreland Blvd.",
+      "postalCode": "53186",
+      "addressRegion": "WI"
+    },
+    "geo": {
+      "latitude": 43.029845,
+      "longitude": -88.183247
+    },
+    "id": "86102"
+  },
+  {
+    "name": "Mercedes-Benz of San Juan",
+    "url": "www.sanjuantx.mercedesdealer.com",
+    "telephone": "(956) 787-4400",
+    "faxNumber": "(956) 787-4490",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "San Juan",
+      "streetAddress": "400 East Expressway 83",
+      "postalCode": "78589",
+      "addressRegion": "TX"
+    },
+    "geo": {
+      "latitude": 26.197716,
+      "longitude": -98.148306
+    },
+    "id": "75167"
+  },
+  {
+    "name": "Mercedes-Benz of Westminster",
+    "url": "www.westminster.mercedesdealer.com",
+    "telephone": "(303) 410-7800",
+    "faxNumber": "(303) 410-9195",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Westminster",
+      "streetAddress": "10391 Westminster Boulevard",
+      "postalCode": "80020",
+      "addressRegion": "CO"
+    },
+    "geo": {
+      "latitude": 39.887953,
+      "longitude": -105.067453
+    },
+    "id": "08109"
+  },
+  {
+    "name": "Mercedes-Benz of Eugene",
+    "url": "www.eugene.mercedesdealer.com",
+    "telephone": "(541) 687-8888",
+    "faxNumber": "(541) 344-6821",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Eugene",
+      "streetAddress": "2200 Martin Luther King Jr Blv",
+      "postalCode": "97401",
+      "addressRegion": "OR"
+    },
+    "geo": {
+      "latitude": 44.059586,
+      "longitude": -123.078232
+    },
+    "id": "66103"
+  },
+  {
+    "name": "I.G. Burton & Co., Inc.",
+    "url": "www.burton.mercedesdealer.com",
+    "telephone": "(302) 424-3042",
+    "faxNumber": "(302) 424-6450",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Milford",
+      "streetAddress": "509 Bay Road",
+      "postalCode": "19963",
+      "addressRegion": "DE"
+    },
+    "geo": {
+      "latitude": 38.945165,
+      "longitude": -75.426688
+    },
+    "id": "12202"
+  },
+  {
+    "name": "Mercedes-Benz of Fairfield",
+    "url": "www.fairfield.mercedesdealer.com",
+    "telephone": "(203) 368-6725",
+    "faxNumber": "(203) 337-4484",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Fairfield",
+      "streetAddress": "165 Commerce Drive",
+      "postalCode": "06825",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.16711,
+      "longitude": -73.226329
+    },
+    "id": "09115"
+  },
+  {
+    "name": "Mercedes-Benz of Danbury",
+    "url": "www.danbury.mercedesdealer.com",
+    "telephone": "(203) 778-6333",
+    "faxNumber": "(203) 778-6444",
+    "address": {
+      "addressCountry": "US",
+      "addressLocality": "Danbury",
+      "streetAddress": "100 Federal Road",
+      "postalCode": "06810",
+      "addressRegion": "CT"
+    },
+    "geo": {
+      "latitude": 41.419355,
+      "longitude": -73.419765
+    },
+    "id": "09116"
+  }
+]
