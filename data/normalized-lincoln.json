@@ -591,7 +591,6 @@
     "name": "Fox Ford Lincoln Grand Traverse",
     "url": "http://www.foxlincolngrandtraverse.com",
     "telephone": "(231) 922-2000",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Traverse City",
@@ -6794,9 +6793,6 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.V2G39&rt=1dealer.htm&icon=2",
     "name": "Autogrupo Ford De Bayamon",
-    "url": {},
-    "telephone": {},
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Toa Baja",
@@ -7666,7 +7662,6 @@
     "name": "Bob Utter Ford Lincoln",
     "url": "http://www.BobUtterLincoln.net",
     "telephone": "(903) 892-3555",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Sherman",
@@ -7999,7 +7994,6 @@
     "name": "Woodrum Ford Lincoln",
     "url": "http://www.woodrumlincolnmacomb.com",
     "telephone": "(309) 833-2111",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Macomb",
@@ -8623,7 +8617,6 @@
     "name": "Ford Lincoln of Huntington",
     "url": "http://www.SyossetLincolnofHuntington.com",
     "telephone": "(516) 496-9700",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Huntington",
@@ -9372,7 +9365,6 @@
     "name": "Prescott Brothers Ford Lincoln of Princeton, Inc.",
     "url": "http://www.prescottbrotherslincoln.com",
     "telephone": "(815) 875-1180",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Princeton",
@@ -10696,7 +10688,6 @@
     "name": "Olathe Ford Lincoln",
     "url": "http://www.OlatheLincoln.net",
     "telephone": "(913) 782-0881",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Olathe",
@@ -10908,7 +10899,6 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.51464&rt=1dealer.htm&icon=2",
     "name": "King Ford Lincoln of Lenoir",
-    "url": {},
     "telephone": "(828) 754-1524",
     "faxNumber": "(828) 757-9984",
     "address": {
@@ -17229,9 +17219,7 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.59544&rt=1dealer.htm&icon=2",
     "name": "Tasca Ford Lincoln",
-    "url": {},
     "telephone": "(401) 681-1300",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Seekonk",
@@ -21293,7 +21281,6 @@
     "name": "Diers, Inc.",
     "url": "http://www.dierslincolnorfremont.com",
     "telephone": "(402) 721-1471",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Fremont",
@@ -22791,7 +22778,6 @@
     "name": "Mcauley Motors Inc",
     "url": "http://www.mcauleylincoln.com",
     "telephone": "(209) 722-2777",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Merced",
@@ -23497,7 +23483,6 @@
     "name": "Vista Ford Lincoln of Oxnard",
     "url": "http://www.vistalincolnoxnard.com",
     "telephone": "(805) 983-6511",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Oxnard",
@@ -26250,7 +26235,6 @@
     "name": "Mike Ferrell Ford Lincoln, Inc.",
     "url": "http://www.mikeferrelllincolnwilliamson.com",
     "telephone": "(304) 235-4931",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Williamson",
@@ -27522,7 +27506,6 @@
     "name": "Fox Charlevoix Ford, LLC",
     "url": "http://www.foxcharlevoixlincoln.com",
     "telephone": "(231) 547-4401",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Charlevoix",
@@ -27629,7 +27612,6 @@
     "name": "Madison County Ford Lincoln",
     "url": "http://www.madisoncountylincoln.com",
     "telephone": "(859) 623-3252",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Richmond",
@@ -32412,9 +32394,7 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.57829&rt=1dealer.htm&icon=2",
     "name": "Dellen Ford Lincoln",
-    "url": {},
     "telephone": "(765) 289-0431",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Muncie",
@@ -32963,7 +32943,6 @@
     "name": "Grand Ledge Ford Lincoln",
     "url": "http://www.GrandLedgeLincoln.net",
     "telephone": "(517) 627-8100",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Grand Ledge",
@@ -34134,7 +34113,6 @@
     "name": "Findlay Lincoln",
     "url": "http://www.findlaylincolnofhenderson.com",
     "telephone": "(702) 982-4779",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Henderson",
@@ -34663,7 +34641,6 @@
     "name": "Biondi Motor Company Inc",
     "url": "http://www.biondilincoln.net",
     "telephone": "(412) 856-1200",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Monroeville",
@@ -38735,7 +38712,6 @@
     "name": "Sauers Ford Lincoln",
     "url": "http://www.sauerslincolnmichigancity.com",
     "telephone": "(219) 879-5381",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Michigan City",
@@ -39149,9 +39125,6 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.59800&rt=1dealer.htm&icon=2",
     "name": "Orchid Isle Auto Center",
-    "url": {},
-    "telephone": {},
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Kailua Kona",
@@ -40045,7 +40018,6 @@
     "name": "Long-Lewis Ford Lincoln",
     "url": "http://www.longlewislincolnsales.com",
     "telephone": "(256) 386-7800",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Muscle Shoals",
@@ -44983,7 +44955,6 @@
     "name": "Roberts Ford Lincoln, LLC",
     "url": "http://www.robertslincolnpryor.com",
     "telephone": "(918) 825-7373",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Pryor",
@@ -46537,7 +46508,6 @@
     "name": "Laurel Ford Lincoln",
     "url": "http://www.LaurelLincoln.net",
     "telephone": "(814) 467-5565",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Windber",
@@ -47540,7 +47510,6 @@
     "name": "Wolf Auto Center Sterling, LLC",
     "url": "http://www.WolfAutoCenterSterlinglincoln.com",
     "telephone": "(970) 522-2523",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Sterling",
@@ -53314,7 +53283,6 @@
     "name": "Rountree Ford Lincoln",
     "url": "http://www.rountreelincoln.com",
     "telephone": "(603) 283-5900",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Swanzey",
@@ -53825,7 +53793,6 @@
     "name": "White Bear Lincoln, Inc.",
     "url": "http://www.whitebearlincoln.com",
     "telephone": "(800) 328-3456",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "St Paul",
@@ -54814,7 +54781,6 @@
     "name": "Wilson Motors",
     "url": "http://www.WilsonMotorslincoln.com",
     "telephone": "(325) 573-6351",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Snyder",
@@ -55884,7 +55850,6 @@
     "name": "Ramey Ford Princeton",
     "url": "http://www.rameylincolnprinceton.com",
     "telephone": "(304) 425-2128",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Princeton",
@@ -59782,7 +59747,6 @@
     "name": "Bobby Jones Ford Lincoln",
     "url": "http://www.bobbyjoneslincoln.com",
     "telephone": "(706) 738-8000",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Augusta",
@@ -60311,7 +60275,6 @@
     "name": "First Choice Ford",
     "url": "http://www.firstchoicelincoln.com",
     "telephone": "(307) 382-2519",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Rock Springs",
@@ -60733,7 +60696,6 @@
     "name": "Carman Ford Lincoln",
     "url": "http://www.carmanlincoln.com",
     "telephone": "(302) 323-2300",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "New Castle",
@@ -67578,7 +67540,6 @@
   {
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.63529&rt=1dealer.htm&icon=2",
     "name": "H. A. Wilson Motor Company",
-    "url": {},
     "telephone": "(512) 365-3232",
     "faxNumber": "(512) 365-3232",
     "address": {
@@ -68878,7 +68839,6 @@
     "name": "Downtown Ford Lincoln, Inc.",
     "url": "http://www.DowntownLincoln.net",
     "telephone": "(330) 456-2781",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Canton",
@@ -74531,7 +74491,6 @@
     "name": "White's University Motors",
     "url": "http://www.whitesuniversitylincolnoflaramie.com",
     "telephone": "(307) 745-7315",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Laramie",
@@ -77896,7 +77855,6 @@
     "name": "Reagor Dykes Ford Lincoln",
     "url": "http://www.reagordykeslincoln.net",
     "telephone": "(806) 293-2511",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Plainview",
@@ -81325,8 +81283,6 @@
     "map": "http://classic.fordmapping.com/clients/browse.cgi?client=dealerdirect&ovtype=2&f_dlrpa=.63486&rt=1dealer.htm&icon=2",
     "name": "Berglund Luxury Auto",
     "url": "http://www.berglundlincolnoflynchburg.com",
-    "telephone": {},
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Lynchburg",
@@ -82579,7 +82535,6 @@
     "name": "Don Franklin Ford Lincoln, LLC",
     "url": "http://www.donfranklinlincoln.net",
     "telephone": "(604) 864-3555",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "London",
@@ -82900,7 +82855,6 @@
     "name": "Brondes Ford Lincoln",
     "url": "http://www.brondeslincolnofmaumee.com",
     "telephone": "(419) 887-1511",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Maumee",
@@ -85003,7 +84957,6 @@
     "name": "Antelope Valley Ford Lincoln",
     "url": "http://www.antelopevalleylincoln.com",
     "telephone": "(661) 949-3586",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Lancaster",
@@ -87214,7 +87167,6 @@
     "name": "Northgate Lincoln",
     "url": "http://northgatelincolnofcincinnati.dealerconnection.com",
     "telephone": "(513) 385-1818",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Cincinnati",
@@ -89558,7 +89510,6 @@
     "name": "Kruse Ford Lincoln, Inc.",
     "url": "http://www.KRUSELINCOLN.COM",
     "telephone": "(507) 537-0313",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Marshall",
@@ -93407,7 +93358,6 @@
     "name": "Alvarez Lincoln",
     "url": "http://www.alvarezlincolnofriverside.com",
     "telephone": "(951) 687-1212",
-    "faxNumber": {},
     "address": {
       "addressCountry": "USA",
       "addressLocality": "Riverside",

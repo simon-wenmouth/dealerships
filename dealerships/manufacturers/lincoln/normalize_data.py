@@ -79,12 +79,21 @@ with open(input_name, 'r') as fd:
                 openingHours = [ x for x in map(ToOpeningHours, dealer['SalesHours']['Day']) if x is not None],
                 openingHoursSpecification = [x for x in map(ToOpeningHoursSpecification, dealer['SalesHours']['Day']) if x is not None]
             ))
+        url = dealer['URL']
+        if isinstance(url, dict):
+            url = None
+        telephone = dealer['Phone']
+        if isinstance(telephone, dict):
+            telephone = None
+        faxNumber = dealer['Fax']
+        if isinstance(faxNumber, dict):
+            faxNumber = None
         business = LocalBusiness(
             id           = dealer['PACode'],
-            telephone    = dealer['Phone'],
-            faxNumber    = dealer['Fax'],
+            telephone    = telephone,
+            faxNumber    = faxNumber,
             name         = dealer['Name'],
-            url          = dealer['URL'],
+            url          = url,
             map          = dealer['MapURL'],
             department   = departments,
             address      = address,
