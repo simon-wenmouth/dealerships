@@ -8,7 +8,7 @@
       "addressLocality": "Vienna",
       "streetAddress": "8601 Westwood Center Drive",
       "postalCode": "22182",
-      "addressRegion": "Virginia"
+      "addressRegion": "VA"
     },
     "department": [
       {
@@ -140,7 +140,7 @@
       "addressLocality": "Virginia Beach",
       "streetAddress": "2865 Virginia Beach Blvd.",
       "postalCode": "23452",
-      "addressRegion": "Virginia"
+      "addressRegion": "VA"
     },
     "department": [
       {
@@ -173,7 +173,7 @@
       "addressLocality": "Englewood",
       "streetAddress": "105 Grand Avenue",
       "postalCode": "07631",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -272,7 +272,7 @@
       "addressLocality": "Upper Saddle River",
       "streetAddress": "335 Route 17 South",
       "postalCode": "07458",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -305,7 +305,7 @@
       "addressLocality": "Columbus",
       "streetAddress": "401 N. Hamilton Road",
       "postalCode": "43213",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -338,7 +338,7 @@
       "addressLocality": "Louisville",
       "streetAddress": "4720 Bowling Boulevard",
       "postalCode": "40207",
-      "addressRegion": "Kentucky"
+      "addressRegion": "KY"
     },
     "department": [
       {
@@ -371,7 +371,7 @@
       "addressLocality": "Dublin",
       "streetAddress": "6335 Perimeter Loop Rd.",
       "postalCode": "43017",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -404,7 +404,7 @@
       "addressLocality": "Indianapolis",
       "streetAddress": "3473 East 96th Street",
       "postalCode": "46240",
-      "addressRegion": "Indiana"
+      "addressRegion": "IN"
     },
     "department": [
       {
@@ -437,7 +437,7 @@
       "addressLocality": "Fort Collins",
       "streetAddress": "3003 South College Avenue",
       "postalCode": "80525",
-      "addressRegion": "Colorado"
+      "addressRegion": "CO"
     },
     "department": [
       {
@@ -470,7 +470,7 @@
       "addressLocality": "Rocklin",
       "streetAddress": "4525 Granite Drive",
       "postalCode": "95677",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -503,7 +503,7 @@
       "addressLocality": "Springfield",
       "streetAddress": "3145 South Campbell Avenue",
       "postalCode": "65807",
-      "addressRegion": "Missouri"
+      "addressRegion": "MO"
     },
     "department": [
       {
@@ -536,7 +536,7 @@
       "addressLocality": "Flemington",
       "streetAddress": "Rt. 202-31 South",
       "postalCode": "08822",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -569,7 +569,7 @@
       "addressLocality": "Farmington Hills",
       "streetAddress": "37911 Grand River Ave.",
       "postalCode": "48335",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -602,7 +602,7 @@
       "addressLocality": "Birmingham",
       "streetAddress": "34350 Woodward Avenue",
       "postalCode": "48009",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -635,7 +635,7 @@
       "addressLocality": "Mechanicsburg",
       "streetAddress": "356 Woods Drive",
       "postalCode": "17050",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -668,7 +668,7 @@
       "addressLocality": "Mill Valley",
       "streetAddress": "900 Redwood Hwy",
       "postalCode": "94941",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -701,7 +701,7 @@
       "addressLocality": "West Springfield",
       "streetAddress": "989 Memorial Avenue",
       "postalCode": "01089",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -800,7 +800,7 @@
       "addressLocality": "Burlington",
       "streetAddress": "62 Cambridge Street",
       "postalCode": "01803",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -833,7 +833,7 @@
       "addressLocality": "Cary",
       "streetAddress": "750 Autopark Blvd",
       "postalCode": "27511",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -866,7 +866,7 @@
       "addressLocality": "Peoria",
       "streetAddress": "2322 Van Winkle Way",
       "postalCode": "61615",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -899,7 +899,7 @@
       "addressLocality": "Houston",
       "streetAddress": "18111 North Freeway",
       "postalCode": "77090",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -932,7 +932,7 @@
       "addressLocality": "Norwell",
       "streetAddress": "98 Accord Park Drive",
       "postalCode": "02061",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -1031,7 +1031,7 @@
       "addressLocality": "Allentown",
       "streetAddress": "3401 Lehigh Street",
       "postalCode": "18103",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -1064,7 +1064,7 @@
       "addressLocality": "Bellingham",
       "streetAddress": "2200 Iowa Street",
       "postalCode": "98229",
-      "addressRegion": "Washington"
+      "addressRegion": "WA"
     },
     "department": [
       {
@@ -1097,7 +1097,7 @@
       "addressLocality": "Larksville",
       "streetAddress": "Route 11, 126 Narrows Rd.",
       "postalCode": "18651",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -1130,7 +1130,7 @@
       "addressLocality": "St. Petersburg",
       "streetAddress": "3800 34th Street North",
       "postalCode": "33714",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -1163,7 +1163,7 @@
       "addressLocality": "Cicero",
       "streetAddress": "5885 East Circle Drive",
       "postalCode": "13039",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -1196,7 +1196,7 @@
       "addressLocality": "Tulsa",
       "streetAddress": "9393 S. Memorial",
       "postalCode": "74133",
-      "addressRegion": "Oklahoma"
+      "addressRegion": "OK"
     },
     "department": [
       {
@@ -1229,7 +1229,7 @@
       "addressLocality": "Santa Barbara",
       "streetAddress": "402 South Hope Avenue",
       "postalCode": "93105",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1262,7 +1262,7 @@
       "addressLocality": "Boise",
       "streetAddress": "7607 W. Gratz Drive",
       "postalCode": "83709",
-      "addressRegion": "Idaho"
+      "addressRegion": "ID"
     },
     "department": [
       {
@@ -1295,7 +1295,7 @@
       "addressLocality": "Riverside",
       "streetAddress": "3210 Adams Auto Center Dr.",
       "postalCode": "92504",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1328,7 +1328,7 @@
       "addressLocality": "Bakersfield",
       "streetAddress": "6000 Wible Road",
       "postalCode": "93313",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1361,7 +1361,7 @@
       "addressLocality": "Springfield",
       "streetAddress": "229 East Jefferson Street",
       "postalCode": "62701",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -1394,7 +1394,7 @@
       "addressLocality": "Cincinnati",
       "streetAddress": "4113 Plainville Road",
       "postalCode": "45227",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -1427,7 +1427,7 @@
       "addressLocality": "Rancho Mirage",
       "streetAddress": "71-387 Highway 111",
       "postalCode": "92270",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1460,7 +1460,7 @@
       "addressLocality": "Wichita",
       "streetAddress": "11212 East Kellogg",
       "postalCode": "67207",
-      "addressRegion": "Kansas"
+      "addressRegion": "KS"
     },
     "department": [
       {
@@ -1493,7 +1493,7 @@
       "addressLocality": "Austin",
       "streetAddress": "200 East Huntland Drive",
       "postalCode": "78752",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -1526,7 +1526,7 @@
       "addressLocality": "Conshohocken",
       "streetAddress": "1312 Ridge Pike",
       "postalCode": "19428",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -1559,7 +1559,7 @@
       "addressLocality": "Charlotte",
       "streetAddress": "6824 E Independence Blvd.",
       "postalCode": "28227",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -1592,7 +1592,7 @@
       "addressLocality": "Lakewood",
       "streetAddress": "9201 W. Colfax Ave.",
       "postalCode": "80215",
-      "addressRegion": "Colorado"
+      "addressRegion": "CO"
     },
     "department": [
       {
@@ -1625,7 +1625,7 @@
       "addressLocality": "Livermore",
       "streetAddress": "3100 Las Positas Road",
       "postalCode": "94551",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1658,7 +1658,7 @@
       "addressLocality": "Santa Clara",
       "streetAddress": "4155 Stevens Creek Blvd",
       "postalCode": "95051",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1691,7 +1691,7 @@
       "addressLocality": "Fremont",
       "streetAddress": "5740 Cushing Parkway",
       "postalCode": "94538",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1724,7 +1724,7 @@
       "addressLocality": "Destin",
       "streetAddress": "808 Airport Road",
       "postalCode": "32541",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -1757,7 +1757,7 @@
       "addressLocality": "Thousand Oaks",
       "streetAddress": "3839 Auto Mall Drive",
       "postalCode": "91362",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1790,7 +1790,7 @@
       "addressLocality": "Fort Myers",
       "streetAddress": "10064 Daniels Interstate Ct.",
       "postalCode": "33913",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -1823,7 +1823,7 @@
       "addressLocality": "Ocala",
       "streetAddress": "5155 S. W. College Road",
       "postalCode": "34474",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -1856,7 +1856,7 @@
       "addressLocality": "Melbourne",
       "streetAddress": "509 East NASA Boulevard",
       "postalCode": "32901",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -1889,7 +1889,7 @@
       "addressLocality": "Fresno",
       "streetAddress": "7121 N. Palm Avenue",
       "postalCode": "93650",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -1922,7 +1922,7 @@
       "addressLocality": "Metairie",
       "streetAddress": "3700 N. Causeway Boulevard",
       "postalCode": "70002",
-      "addressRegion": "Louisiana"
+      "addressRegion": "LA"
     },
     "department": [
       {
@@ -1955,7 +1955,7 @@
       "addressLocality": "Fort Worth",
       "streetAddress": "2815 White Settlement Road",
       "postalCode": "76107",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -1988,7 +1988,7 @@
       "addressLocality": "Edison",
       "streetAddress": "920 U.S. Highway One",
       "postalCode": "08817",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -2021,7 +2021,7 @@
       "addressLocality": "Phoenix",
       "streetAddress": "18000 N. Scottsdale Road",
       "postalCode": "85054",
-      "addressRegion": "Arizona"
+      "addressRegion": "AZ"
     },
     "department": [
       {
@@ -2054,7 +2054,7 @@
       "addressLocality": "Oklahoma City",
       "streetAddress": "12910 N. Broadway",
       "postalCode": "73114",
-      "addressRegion": "Oklahoma"
+      "addressRegion": "OK"
     },
     "department": [
       {
@@ -2087,7 +2087,7 @@
       "addressLocality": "Owings Mills",
       "streetAddress": "11309 Reisterstown Road",
       "postalCode": "21117",
-      "addressRegion": "Maryland"
+      "addressRegion": "MD"
     },
     "department": [
       {
@@ -2120,7 +2120,7 @@
       "addressLocality": "Williamsville",
       "streetAddress": "8135 Main Street",
       "postalCode": "14231",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -2153,7 +2153,7 @@
       "addressLocality": "Silver Spring",
       "streetAddress": "3141 Automobile Blvd",
       "postalCode": "20904",
-      "addressRegion": "Maryland"
+      "addressRegion": "MD"
     },
     "department": [
       {
@@ -2186,7 +2186,7 @@
       "addressLocality": "Houston",
       "streetAddress": "10155 Southwest Freeway",
       "postalCode": "77074",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -2219,7 +2219,7 @@
       "addressLocality": "Los Angeles",
       "streetAddress": "1900 South Figueroa Street",
       "postalCode": "90007",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -2252,7 +2252,7 @@
       "addressLocality": "Bossier City",
       "streetAddress": "1960 Old Minden Rd.",
       "postalCode": "71111",
-      "addressRegion": "Louisiana"
+      "addressRegion": "LA"
     },
     "department": [
       {
@@ -2285,7 +2285,7 @@
       "addressLocality": "Las Vegas",
       "streetAddress": "7200 W. Sahara Avenue",
       "postalCode": "89117",
-      "addressRegion": "Nevada"
+      "addressRegion": "NV"
     },
     "department": [
       {
@@ -2318,7 +2318,7 @@
       "addressLocality": "Beverly Hills",
       "streetAddress": "8425 Wilshire Blvd.",
       "postalCode": "90211",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -2351,7 +2351,7 @@
       "addressLocality": "Sewickley",
       "streetAddress": "526 Ohio River Blvd",
       "postalCode": "15143",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -2384,7 +2384,7 @@
       "addressLocality": "Charleston",
       "streetAddress": "1511-1513 Savannah Highway",
       "postalCode": "29407",
-      "addressRegion": "South Carolina"
+      "addressRegion": "SC"
     },
     "department": [
       {
@@ -2417,7 +2417,7 @@
       "addressLocality": "Pittsburgh",
       "streetAddress": "4627 Baum Blvd.",
       "postalCode": "15213",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -2450,7 +2450,7 @@
       "addressLocality": "Chapel Hill",
       "streetAddress": "1810 Durham-Chapel Hill Boulevard ",
       "postalCode": "27514",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -2483,7 +2483,7 @@
       "addressLocality": "Greensboro",
       "streetAddress": "5603 Roanne Way",
       "postalCode": "27409",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -2516,7 +2516,7 @@
       "addressLocality": "Cincinnati",
       "streetAddress": "9847 Kings Automall Road",
       "postalCode": "45249",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -2549,7 +2549,7 @@
       "addressLocality": "Parsippany",
       "streetAddress": "250 Route 46 West",
       "postalCode": "07054",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -2582,7 +2582,7 @@
       "addressLocality": "Pompano Beach",
       "streetAddress": "500 West Copans Road",
       "postalCode": "33064",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -2615,7 +2615,7 @@
       "addressLocality": "Bend",
       "streetAddress": "1045 S. E. 3rd. Street",
       "postalCode": "97702",
-      "addressRegion": "Oregon"
+      "addressRegion": "OR"
     },
     "department": [
       {
@@ -2648,7 +2648,7 @@
       "addressLocality": "Boston",
       "streetAddress": "1172 Commonwealth Avenue",
       "postalCode": "02134",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -2681,7 +2681,7 @@
       "addressLocality": "Appleton",
       "streetAddress": "3030 Victory Lane",
       "postalCode": "54913",
-      "addressRegion": "Wisconsin"
+      "addressRegion": "WI"
     },
     "department": [
       {
@@ -2714,7 +2714,7 @@
       "addressLocality": "Baton Rouge",
       "streetAddress": "12325 Airline Highway",
       "postalCode": "70817",
-      "addressRegion": "Louisiana"
+      "addressRegion": "LA"
     },
     "department": [
       {
@@ -2747,7 +2747,7 @@
       "addressLocality": "Cherry Hill",
       "streetAddress": "2261 West Route 70",
       "postalCode": "08002",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -2780,7 +2780,7 @@
       "addressLocality": "W.Long Branch",
       "streetAddress": "280 Highway 36",
       "postalCode": "07764",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -2813,7 +2813,7 @@
       "addressLocality": "Merriam",
       "streetAddress": "9400 W. 65th Street",
       "postalCode": "66203",
-      "addressRegion": "Kansas"
+      "addressRegion": "KS"
     },
     "department": [
       {
@@ -2846,7 +2846,7 @@
       "addressLocality": "Orland Park",
       "streetAddress": "8130 W. 159th Street",
       "postalCode": "60462",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -2973,7 +2973,7 @@
       "addressLocality": "Jackson",
       "streetAddress": "5385 Interstate 55 North",
       "postalCode": "39206",
-      "addressRegion": "Mississippi"
+      "addressRegion": "MS"
     },
     "department": [
       {
@@ -3006,7 +3006,7 @@
       "addressLocality": "Lincolnwood",
       "streetAddress": "7101 North Lincoln Avenue",
       "postalCode": "60712",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -3039,7 +3039,7 @@
       "addressLocality": "Minneapolis",
       "streetAddress": "9191 Wayzata Blvd.",
       "postalCode": "55426",
-      "addressRegion": "Minnesota"
+      "addressRegion": "MN"
     },
     "department": [
       {
@@ -3072,7 +3072,7 @@
       "addressLocality": "Davenport",
       "streetAddress": "3602 N. Harrison St.",
       "postalCode": "52806",
-      "addressRegion": "Iowa"
+      "addressRegion": "IA"
     },
     "department": [
       {
@@ -3105,7 +3105,7 @@
       "addressLocality": "Maplewood",
       "streetAddress": "2780 Maplewood Drive",
       "postalCode": "55109",
-      "addressRegion": "Minnesota"
+      "addressRegion": "MN"
     },
     "department": [
       {
@@ -3138,7 +3138,7 @@
       "addressLocality": "Charlottesville",
       "streetAddress": "1313 Richmond Road",
       "postalCode": "22911",
-      "addressRegion": "Virginia"
+      "addressRegion": "VA"
     },
     "department": [
       {
@@ -3171,7 +3171,7 @@
       "addressLocality": "Annapolis",
       "streetAddress": "20 Hudson Street",
       "postalCode": "21401",
-      "addressRegion": "Maryland"
+      "addressRegion": "MD"
     },
     "department": [
       {
@@ -3206,7 +3206,7 @@
       "addressLocality": "Midlothian",
       "streetAddress": "11900 Midlothian Turnpike",
       "postalCode": "23113",
-      "addressRegion": "Virginia"
+      "addressRegion": "VA"
     },
     "department": [
       {
@@ -3239,7 +3239,7 @@
       "addressLocality": "Arlington",
       "streetAddress": "3100 Jefferson Davis Highway",
       "postalCode": "22202",
-      "addressRegion": "Virginia"
+      "addressRegion": "VA"
     },
     "department": [
       {
@@ -3272,7 +3272,7 @@
       "addressLocality": "Rockville",
       "streetAddress": "1125 Rockville Pike",
       "postalCode": "20852",
-      "addressRegion": "Maryland"
+      "addressRegion": "MD"
     },
     "department": [
       {
@@ -3355,7 +3355,7 @@
       "addressLocality": "Fayetteville",
       "streetAddress": "3211 Bragg Blvd.",
       "postalCode": "28303",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -3388,7 +3388,7 @@
       "addressLocality": "Asheville",
       "streetAddress": "621 Brevard Road",
       "postalCode": "28806",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -3421,7 +3421,7 @@
       "addressLocality": "Dayton",
       "streetAddress": "648 N. Springboro Pike",
       "postalCode": "45449",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -3454,7 +3454,7 @@
       "addressLocality": "Carlsbad",
       "streetAddress": "6800 Avenida Encinas",
       "postalCode": "92011",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -3487,7 +3487,7 @@
       "addressLocality": "Columbia",
       "streetAddress": "6409 Two Notch Road",
       "postalCode": "29223",
-      "addressRegion": "South Carolina"
+      "addressRegion": "SC"
     },
     "department": [
       {
@@ -3520,7 +3520,7 @@
       "addressLocality": "Norwalk",
       "streetAddress": "10830 Firestone Boulevard",
       "postalCode": "90650",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -3553,7 +3553,7 @@
       "addressLocality": "Long Beach",
       "streetAddress": "1850 Outer Traffic Circle",
       "postalCode": "90815",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -3586,7 +3586,7 @@
       "addressLocality": "Greenville",
       "streetAddress": "2668 Laurens Road",
       "postalCode": "29607",
-      "addressRegion": "South Carolina"
+      "addressRegion": "SC"
     },
     "department": [
       {
@@ -3619,7 +3619,7 @@
       "addressLocality": "Hickory",
       "streetAddress": "1205 South Center Street",
       "postalCode": "28602",
-      "addressRegion": "North Carolina"
+      "addressRegion": "NC"
     },
     "department": [
       {
@@ -3652,7 +3652,7 @@
       "addressLocality": "Brentwood",
       "streetAddress": "1580 Mallory Lane",
       "postalCode": "37027",
-      "addressRegion": "Tennessee"
+      "addressRegion": "TN"
     },
     "department": [
       {
@@ -3685,7 +3685,7 @@
       "addressLocality": "Jacksonville",
       "streetAddress": "10100 Atlantic Blvd.",
       "postalCode": "32225",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -3817,7 +3817,7 @@
       "addressLocality": "New York",
       "streetAddress": "262-270 Eleventh Avenue",
       "postalCode": "10001",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -3933,7 +3933,7 @@
       "addressLocality": "Massapequa",
       "streetAddress": "5775 Merrick Road",
       "postalCode": "11758",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -3966,7 +3966,7 @@
       "addressLocality": "West Palm Beach",
       "streetAddress": "2801 Okeechobee Blvd.",
       "postalCode": "33409",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -3999,7 +3999,7 @@
       "addressLocality": "Reno",
       "streetAddress": "11555 South Virginia Street",
       "postalCode": "89511",
-      "addressRegion": "Nevada"
+      "addressRegion": "NV"
     },
     "department": [
       {
@@ -4032,7 +4032,7 @@
       "addressLocality": "Beachwood",
       "streetAddress": "25855 Chargrin Boulevard",
       "postalCode": "44122",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -4065,7 +4065,7 @@
       "addressLocality": "Eastpointe",
       "streetAddress": "24717 Gratiot Avenue",
       "postalCode": "48021",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -4098,7 +4098,7 @@
       "addressLocality": "Ann Arbor",
       "streetAddress": "2575 S. State Street",
       "postalCode": "48104",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -4141,7 +4141,7 @@
       "addressLocality": "Rochester",
       "streetAddress": "3955 Henrietta Road",
       "postalCode": "14623",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -4174,7 +4174,7 @@
       "addressLocality": "Kingsport",
       "streetAddress": "865 East Stone Drive",
       "postalCode": "37660",
-      "addressRegion": "Tennessee"
+      "addressRegion": "TN"
     },
     "department": [
       {
@@ -4207,7 +4207,7 @@
       "addressLocality": "Walnut Creek",
       "streetAddress": "2555 North Main Street",
       "postalCode": "94597",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -4240,7 +4240,7 @@
       "addressLocality": "Knoxville",
       "streetAddress": "9735 Kingston Pike",
       "postalCode": "37922",
-      "addressRegion": "Tennessee"
+      "addressRegion": "TN"
     },
     "department": [
       {
@@ -4273,7 +4273,7 @@
       "addressLocality": "Lancaster",
       "streetAddress": "1373 Manheim Pike",
       "postalCode": "17601",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -4372,7 +4372,7 @@
       "addressLocality": "Wallingford",
       "streetAddress": "800 S. Colony Street",
       "postalCode": "06492",
-      "addressRegion": "Connecticut"
+      "addressRegion": "CT"
     },
     "department": [
       {
@@ -4405,7 +4405,7 @@
       "addressLocality": "Salt Lake City",
       "streetAddress": "1045 S. State Street",
       "postalCode": "84111",
-      "addressRegion": "Utah"
+      "addressRegion": "UT"
     },
     "department": [
       {
@@ -4438,7 +4438,7 @@
       "addressLocality": "East Hartford",
       "streetAddress": "630 Connecticut Blvd.",
       "postalCode": "06108",
-      "addressRegion": "Connecticut"
+      "addressRegion": "CT"
     },
     "department": [
       {
@@ -4471,7 +4471,7 @@
       "addressLocality": "Chattanooga",
       "streetAddress": "7648 Lee Highway",
       "postalCode": "37421",
-      "addressRegion": "Tennessee"
+      "addressRegion": "TN"
     },
     "department": [
       {
@@ -4504,7 +4504,7 @@
       "addressLocality": "Huntsville",
       "streetAddress": "3800 University Dr",
       "postalCode": "35816",
-      "addressRegion": "Alabama"
+      "addressRegion": "AL"
     },
     "department": [
       {
@@ -4537,7 +4537,7 @@
       "addressLocality": "Hardeeville",
       "streetAddress": "107 Drivers Way",
       "postalCode": "29927",
-      "addressRegion": "South Carolina"
+      "addressRegion": "SC"
     },
     "department": [
       {
@@ -4570,7 +4570,7 @@
       "addressLocality": "Towson",
       "streetAddress": "700 Kenilworth Drive",
       "postalCode": "21204",
-      "addressRegion": "Maryland"
+      "addressRegion": "MD"
     },
     "department": [
       {
@@ -4603,7 +4603,7 @@
       "addressLocality": "San Antonio",
       "streetAddress": "9455 IH-10 West",
       "postalCode": "78230",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -4636,7 +4636,7 @@
       "addressLocality": "Fargo",
       "streetAddress": "402 40th Street S.",
       "postalCode": "58103",
-      "addressRegion": "North Dakota"
+      "addressRegion": "ND"
     },
     "department": [
       {
@@ -4669,7 +4669,7 @@
       "addressLocality": "Evansville",
       "streetAddress": "200 N. Green River Road",
       "postalCode": "47715",
-      "addressRegion": "Indiana"
+      "addressRegion": "IN"
     },
     "department": [
       {
@@ -4702,7 +4702,7 @@
       "addressLocality": "Honolulu",
       "streetAddress": "730 Ala Moana Boulevard",
       "postalCode": "96813",
-      "addressRegion": "Hawaii"
+      "addressRegion": "HI"
     },
     "department": [
       {
@@ -4735,7 +4735,7 @@
       "addressLocality": "Torrance",
       "streetAddress": "2900 Pacific Coast Highway",
       "postalCode": "90505",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -4768,7 +4768,7 @@
       "addressLocality": "Pasadena",
       "streetAddress": "325 W. Colorado Blvd.",
       "postalCode": "91105",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -4801,7 +4801,7 @@
       "addressLocality": "Seaside",
       "streetAddress": "1781 Del Monte Boulevard",
       "postalCode": "93955",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -4834,7 +4834,7 @@
       "addressLocality": "Beaverton",
       "streetAddress": "4030 SW 139th Way",
       "postalCode": "97005",
-      "addressRegion": "Oregon"
+      "addressRegion": "OR"
     },
     "department": [
       {
@@ -4867,7 +4867,7 @@
       "addressLocality": "Plano",
       "streetAddress": "5924 W. Plano Pkwy",
       "postalCode": "75093",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -4900,7 +4900,7 @@
       "addressLocality": "Fort Wayne",
       "streetAddress": "5611 Illinois Road",
       "postalCode": "46804",
-      "addressRegion": "Indiana"
+      "addressRegion": "IN"
     },
     "department": [
       {
@@ -5009,7 +5009,7 @@
       "addressLocality": "Grand Rapids",
       "streetAddress": "6025 28th Street SE",
       "postalCode": "49546",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -5042,7 +5042,7 @@
       "addressLocality": "Okemos",
       "streetAddress": "2186 Jolly Road",
       "postalCode": "48864",
-      "addressRegion": "Michigan"
+      "addressRegion": "MI"
     },
     "department": [
       {
@@ -5075,7 +5075,7 @@
       "addressLocality": "North Olmsted",
       "streetAddress": "28400 Lorain Road",
       "postalCode": "44070",
-      "addressRegion": "Ohio"
+      "addressRegion": "OH"
     },
     "department": [
       {
@@ -5200,7 +5200,7 @@
       "addressLocality": "Stratham",
       "streetAddress": "60 Portsmouth Avenue",
       "postalCode": "03885",
-      "addressRegion": "New Hampshire"
+      "addressRegion": "NH"
     },
     "department": [
       {
@@ -5233,7 +5233,7 @@
       "addressLocality": "Danvers",
       "streetAddress": "97C Andover Street",
       "postalCode": "01923",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -5266,7 +5266,7 @@
       "addressLocality": "Nashua",
       "streetAddress": "170 Main Dunstable Road",
       "postalCode": "03060",
-      "addressRegion": "New Hampshire"
+      "addressRegion": "NH"
     },
     "department": [
       {
@@ -5299,7 +5299,7 @@
       "addressLocality": "Warwick",
       "streetAddress": "1517 Bald Hill Road",
       "postalCode": "02886",
-      "addressRegion": "Rhode Island"
+      "addressRegion": "RI"
     },
     "department": [
       {
@@ -5382,7 +5382,7 @@
       "addressLocality": "Roswell",
       "streetAddress": "990 Mansell Road",
       "postalCode": "30076",
-      "addressRegion": "Georgia"
+      "addressRegion": "GA"
     },
     "department": [
       {
@@ -5415,7 +5415,7 @@
       "addressLocality": "Westwood",
       "streetAddress": "420 Providence Highway",
       "postalCode": "02090",
-      "addressRegion": "Massachusetts"
+      "addressRegion": "MA"
     },
     "department": [
       {
@@ -5448,7 +5448,7 @@
       "addressLocality": "Barrington",
       "streetAddress": "1475 S. Barrington Rd.",
       "postalCode": "60010",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -5481,7 +5481,7 @@
       "addressLocality": "Albuquerque",
       "streetAddress": "8900 Pan American Freeway, N.E",
       "postalCode": "87113",
-      "addressRegion": "New Mexico"
+      "addressRegion": "NM"
     },
     "department": [
       {
@@ -5514,7 +5514,7 @@
       "addressLocality": "Tucson",
       "streetAddress": "4690 East 22nd Street",
       "postalCode": "85711",
-      "addressRegion": "Arizona"
+      "addressRegion": "AZ"
     },
     "department": [
       {
@@ -5547,7 +5547,7 @@
       "addressLocality": "San Diego",
       "streetAddress": "9020 Miramar Road",
       "postalCode": "92126",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -5580,7 +5580,7 @@
       "addressLocality": "Colorado Springs",
       "streetAddress": "917 Motor City Drive",
       "postalCode": "80905",
-      "addressRegion": "Colorado"
+      "addressRegion": "CO"
     },
     "department": [
       {
@@ -5613,7 +5613,7 @@
       "addressLocality": "Mechanicville",
       "streetAddress": "205 Route 146",
       "postalCode": "12118",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -5696,7 +5696,7 @@
       "addressLocality": "Danbury",
       "streetAddress": "23 Sugar Hollow Rd.",
       "postalCode": "06810",
-      "addressRegion": "Connecticut"
+      "addressRegion": "CT"
     },
     "department": [
       {
@@ -5729,7 +5729,7 @@
       "addressLocality": "Tampa",
       "streetAddress": "103 E. Fowler Avenue",
       "postalCode": "33612",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -5762,7 +5762,7 @@
       "addressLocality": "Maitland",
       "streetAddress": "9590 South Highway 17-92",
       "postalCode": "32751",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -5795,7 +5795,7 @@
       "addressLocality": "Burlingame",
       "streetAddress": "1010 Cadillac Way",
       "postalCode": "94010",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -5828,7 +5828,7 @@
       "addressLocality": "Redwood City",
       "streetAddress": "3636 Haven Ave",
       "postalCode": "94063",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -5861,7 +5861,7 @@
       "addressLocality": "Orem",
       "streetAddress": "175 East University Parkway",
       "postalCode": "84058",
-      "addressRegion": "Utah"
+      "addressRegion": "UT"
     },
     "department": [
       {
@@ -5894,7 +5894,7 @@
       "addressLocality": "Rockford",
       "streetAddress": "505 North Perryville Road",
       "postalCode": "61107",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -5927,7 +5927,7 @@
       "addressLocality": "Freeport",
       "streetAddress": "185 West Sunrise Highway",
       "postalCode": "11520",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -5960,7 +5960,7 @@
       "addressLocality": "Atlanta",
       "streetAddress": "5901 Peachtree Industrial Boulevard",
       "postalCode": "30341",
-      "addressRegion": "Georgia"
+      "addressRegion": "GA"
     },
     "department": [
       {
@@ -5993,7 +5993,7 @@
       "addressLocality": "Southampton",
       "streetAddress": "705 County Road 39A",
       "postalCode": "11968",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -6026,7 +6026,7 @@
       "addressLocality": "Huntington Station",
       "streetAddress": "855 East Jericho Turnpike",
       "postalCode": "11746",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -6125,7 +6125,7 @@
       "addressLocality": "Houston",
       "streetAddress": "11890 Katy Freeway",
       "postalCode": "77079",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -6158,7 +6158,7 @@
       "addressLocality": "Roslyn Heights",
       "streetAddress": "22 Mineola Ave. ",
       "postalCode": "11577",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -6191,7 +6191,7 @@
       "addressLocality": "Highland Park",
       "streetAddress": "2300 Skokie Valley Rd",
       "postalCode": "60035",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -6224,7 +6224,7 @@
       "addressLocality": "Madison",
       "streetAddress": "2300 Rimrock Road",
       "postalCode": "53713",
-      "addressRegion": "Wisconsin"
+      "addressRegion": "WI"
     },
     "department": [
       {
@@ -6257,7 +6257,7 @@
       "addressLocality": "Westmont",
       "streetAddress": "201 E. Ogden Avenue ",
       "postalCode": "60559",
-      "addressRegion": "Illinois"
+      "addressRegion": "IL"
     },
     "department": [
       {
@@ -6290,7 +6290,7 @@
       "addressLocality": "Milwaukee",
       "streetAddress": "1400 W. Silver Spring Drive",
       "postalCode": "53209",
-      "addressRegion": "Wisconsin"
+      "addressRegion": "WI"
     },
     "department": [
       {
@@ -6323,7 +6323,7 @@
       "addressLocality": "Waukesha",
       "streetAddress": "2230 E. Moreland Boulevard",
       "postalCode": "53186",
-      "addressRegion": "Wisconsin"
+      "addressRegion": "WI"
     },
     "department": [
       {
@@ -6356,7 +6356,7 @@
       "addressLocality": "Greenwich",
       "streetAddress": "241 West Putnam Avenue",
       "postalCode": "06830",
-      "addressRegion": "Connecticut"
+      "addressRegion": "CT"
     },
     "department": [
       {
@@ -6389,7 +6389,7 @@
       "addressLocality": "Fairfield",
       "streetAddress": "475 Commerce Drive",
       "postalCode": "06825",
-      "addressRegion": "Connecticut"
+      "addressRegion": "CT"
     },
     "department": [
       {
@@ -6422,7 +6422,7 @@
       "addressLocality": "Dallas",
       "streetAddress": "6113 Lemmon Avenue",
       "postalCode": "75209",
-      "addressRegion": "Texas"
+      "addressRegion": "TX"
     },
     "department": [
       {
@@ -6455,7 +6455,7 @@
       "addressLocality": "Larchmont",
       "streetAddress": "2500 Boston Post Road",
       "postalCode": "10538",
-      "addressRegion": "New York"
+      "addressRegion": "NY"
     },
     "department": [
       {
@@ -6488,7 +6488,7 @@
       "addressLocality": "Falmouth",
       "streetAddress": "187 US Route 1",
       "postalCode": "04104",
-      "addressRegion": "Maine"
+      "addressRegion": "ME"
     },
     "department": [
       {
@@ -6521,7 +6521,7 @@
       "addressLocality": "Naples",
       "streetAddress": "800 Tamiami Trail North",
       "postalCode": "34102",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -6554,7 +6554,7 @@
       "addressLocality": "Mobile",
       "streetAddress": "1525 E I-65 Service Road S",
       "postalCode": "36606",
-      "addressRegion": "Alabama"
+      "addressRegion": "AL"
     },
     "department": [
       {
@@ -6587,7 +6587,7 @@
       "addressLocality": "Montgomery",
       "streetAddress": "231 Eastern Blvd",
       "postalCode": "36117",
-      "addressRegion": "Alabama"
+      "addressRegion": "AL"
     },
     "department": [
       {
@@ -6620,7 +6620,7 @@
       "addressLocality": "Coral Gables",
       "streetAddress": "200 Bird Road",
       "postalCode": "33146",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -6653,7 +6653,7 @@
       "addressLocality": "Tallahassee",
       "streetAddress": "3963 West Tennessee Street",
       "postalCode": "32304",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -6686,7 +6686,7 @@
       "addressLocality": "Irondale",
       "streetAddress": "3001 Tom WIlliams Way",
       "postalCode": "35210",
-      "addressRegion": "Alabama"
+      "addressRegion": "AL"
     },
     "department": [
       {
@@ -6719,7 +6719,7 @@
       "addressLocality": "Sarasota",
       "streetAddress": "5005 S. Tamiami Trail",
       "postalCode": "34231",
-      "addressRegion": "Florida"
+      "addressRegion": "FL"
     },
     "department": [
       {
@@ -6752,7 +6752,7 @@
       "addressLocality": "Littleton",
       "streetAddress": "5500 South Broadway Blvd.",
       "postalCode": "80121",
-      "addressRegion": "Colorado"
+      "addressRegion": "CO"
     },
     "department": [
       {
@@ -6785,7 +6785,7 @@
       "addressLocality": "Newark",
       "streetAddress": "1851 Ogletown Road",
       "postalCode": "19711",
-      "addressRegion": "Delaware"
+      "addressRegion": "DE"
     },
     "department": [
       {
@@ -6818,7 +6818,7 @@
       "addressLocality": "West Atlantic City",
       "streetAddress": "7020 Black Horse Pike",
       "postalCode": "08232",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -6851,7 +6851,7 @@
       "addressLocality": "Lawrenceville",
       "streetAddress": "3333 Route 1",
       "postalCode": "08648",
-      "addressRegion": "New Jersey"
+      "addressRegion": "NJ"
     },
     "department": [
       {
@@ -6884,7 +6884,7 @@
       "addressLocality": "Newtown Square",
       "streetAddress": "4005 West Chester Pike",
       "postalCode": "19073",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -6983,7 +6983,7 @@
       "addressLocality": "Warrington",
       "streetAddress": "1607 Easton Road",
       "postalCode": "18976",
-      "addressRegion": "Pennsylvania"
+      "addressRegion": "PA"
     },
     "department": [
       {
@@ -7082,7 +7082,7 @@
       "addressLocality": "Creve Coeur",
       "streetAddress": "11830 Olive St.",
       "postalCode": "63141",
-      "addressRegion": "Missouri"
+      "addressRegion": "MO"
     },
     "department": [
       {
@@ -7115,7 +7115,7 @@
       "addressLocality": "Kirkwood",
       "streetAddress": "10230 Manchester Road",
       "postalCode": "63122",
-      "addressRegion": "Missouri"
+      "addressRegion": "MO"
     },
     "department": [
       {
@@ -7148,7 +7148,7 @@
       "addressLocality": "Memphis",
       "streetAddress": "1875 Covington Pike",
       "postalCode": "38128",
-      "addressRegion": "Tennessee"
+      "addressRegion": "TN"
     },
     "department": [
       {
@@ -7181,7 +7181,7 @@
       "addressLocality": "Newport Beach",
       "streetAddress": "445 East Pacific Coast Highway",
       "postalCode": "92660",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -7214,7 +7214,7 @@
       "addressLocality": "Omaha",
       "streetAddress": "6603 L Street",
       "postalCode": "68117",
-      "addressRegion": "Nebraska"
+      "addressRegion": "NE"
     },
     "department": [
       {
@@ -7247,7 +7247,7 @@
       "addressLocality": "Fife",
       "streetAddress": "1701 Alexander Avenue E.",
       "postalCode": "98424",
-      "addressRegion": "Washington"
+      "addressRegion": "WA"
     },
     "department": [
       {
@@ -7280,7 +7280,7 @@
       "addressLocality": "Woodland Hills",
       "streetAddress": "21301 Ventura Blvd.",
       "postalCode": "91364",
-      "addressRegion": "California"
+      "addressRegion": "CA"
     },
     "department": [
       {
@@ -7313,7 +7313,7 @@
       "addressLocality": "Liberty Lake",
       "streetAddress": "21702 E. George Gee Avenue",
       "postalCode": "99019",
-      "addressRegion": "Washington"
+      "addressRegion": "WA"
     },
     "department": [
       {
@@ -7350,7 +7350,7 @@
       "addressLocality": "Anchorage",
       "streetAddress": "935 Gambell Street",
       "postalCode": "99501",
-      "addressRegion": "Alaska"
+      "addressRegion": "AK"
     },
     "department": [
       {
@@ -7383,7 +7383,7 @@
       "addressLocality": "Bellevue",
       "streetAddress": "11910 Northeast 8th Street",
       "postalCode": "98005",
-      "addressRegion": "Washington"
+      "addressRegion": "WA"
     },
     "department": [
       {
