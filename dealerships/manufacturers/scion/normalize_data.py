@@ -43,8 +43,8 @@ with open(input_name, 'r') as fd:
             addressCountry  = 'US'
         )
         geo = GeoCoordinates(
-            latitude  = dealer['latitude'],
-            longitude = dealer['longitude']
+            latitude  = dealer['latitude'][:8],
+            longitude = dealer['longitude'][:10]
         )
         email = None
         if 'emailAddress' in dealer:
