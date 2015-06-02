@@ -53,7 +53,7 @@ with open(input_name, 'r') as fd:
                 break
         url = None
         if 'url' in dealer:
-            url = dealer['url']
+            url = dealer['url'].lower()
         business = LocalBusiness(
             id           = dealer['code'],
             telephone    = telephone,
