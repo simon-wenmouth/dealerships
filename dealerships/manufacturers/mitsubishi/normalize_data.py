@@ -36,22 +36,25 @@ with open(input_name, 'r') as fd:
     dealers = json.load(fd)
     for dealer in dealers:
         address = Address(
-            streetAddress   = dealer['address1'],
+            streetAddress   = dealer['address1'].title(),
             addressRegion   = dealer['state'],
             postalCode      = dealer['zipcode'],
-            addressLocality = dealer['city'],
+            addressLocality = dealer['city'].title(),
             addressCountry  = dealer['country'],
         )
         geo = GeoCoordinates(
             latitude  = dealer['latitude'],
             longitude = dealer['longitude']
         )
+        url = dealer['dealerUrl']
+        if url is not None:
+            url = url.lower()
         business = LocalBusiness(
             id           = dealer['bizId'],
             telephone    = dealer['phone'],
             faxNumber    = dealer['fax'],
             name         = dealer['dealerName'],
-            url          = dealer['dealerUrl'],
+            url          = url,
             address      = address,
             geo          = geo
         )

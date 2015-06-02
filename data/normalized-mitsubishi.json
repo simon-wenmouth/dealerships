@@ -1,13 +1,13 @@
 [
   {
     "name": "City Mitsubishi-Ny",
-    "url": "WWW.CITYMITSUBISHICARS.COM",
+    "url": "www.citymitsubishicars.com",
     "telephone": "(718)777-8090",
     "faxNumber": "(718)777-2310",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WOODSIDE",
-      "streetAddress": "56-15 NORTHERN BLVD.",
+      "addressLocality": "Woodside",
+      "streetAddress": "56-15 Northern Blvd.",
       "postalCode": "11377",
       "addressRegion": "NY"
     },
@@ -19,13 +19,13 @@
   },
   {
     "name": "Camacho Mitsubishi",
-    "url": "WWW.CAMACHOMITSUBISHI.COM",
+    "url": "www.camachomitsubishi.com",
     "telephone": "(661)344-1000",
     "faxNumber": "(661)449-8603",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PALMDALE",
-      "streetAddress": "401 AUTO VISTA DRIVE",
+      "addressLocality": "Palmdale",
+      "streetAddress": "401 Auto Vista Drive",
       "postalCode": "93551",
       "addressRegion": "CA"
     },
@@ -37,13 +37,13 @@
   },
   {
     "name": "Kearny Mesa Mitsubishi",
-    "url": "WWW.KEARNYMESAMITSUBISHI.COM",
+    "url": "www.kearnymesamitsubishi.com",
     "telephone": "(858)362-7850",
     "faxNumber": "(858)467-1234",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN DIEGO",
-      "streetAddress": "4595 CONVOY ST.",
+      "addressLocality": "San Diego",
+      "streetAddress": "4595 Convoy St.",
       "postalCode": "92111",
       "addressRegion": "CA"
     },
@@ -55,13 +55,13 @@
   },
   {
     "name": "Ed Payne Mitsubishi",
-    "url": "WWW.PAYNEBROWNSVILLEMITSUBISHI.COM",
+    "url": "www.paynebrownsvillemitsubishi.com",
     "telephone": "(956)350-4488",
     "faxNumber": "(956)350-9677",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BROWNSVILLE",
-      "streetAddress": "4017 N. EXPRESSWAY 83",
+      "addressLocality": "Brownsville",
+      "streetAddress": "4017 N. Expressway 83",
       "postalCode": "78520-0000",
       "addressRegion": "TX"
     },
@@ -73,13 +73,13 @@
   },
   {
     "name": "Riverton Mitsubishi",
-    "url": "WWW.RIVERTONMITSUBISHI.COM",
+    "url": "www.rivertonmitsubishi.com",
     "telephone": "(801)208-2700",
     "faxNumber": "(801)208-2705",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SANDY",
-      "streetAddress": "80 WEST MOTOR PARK AVENUE",
+      "addressLocality": "Sandy",
+      "streetAddress": "80 West Motor Park Avenue",
       "postalCode": "84070",
       "addressRegion": "UT"
     },
@@ -91,13 +91,13 @@
   },
   {
     "name": "Painter's Sun Country Mitsubishi",
-    "url": "WWW.SUNCOUNTRYAUTO.COM",
+    "url": "www.suncountryauto.com",
     "telephone": "(435)673-1600",
     "faxNumber": "(435)674-5824",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAINT GEORGE",
-      "streetAddress": "1600 S. HILTON DRIVE",
+      "addressLocality": "Saint George",
+      "streetAddress": "1600 S. Hilton Drive",
       "postalCode": "84770",
       "addressRegion": "UT"
     },
@@ -109,13 +109,13 @@
   },
   {
     "name": "Cutrubus Mitsubishi",
-    "url": "WWW.LAYTONMITSUBISHI.COM",
+    "url": "www.laytonmitsubishi.com",
     "telephone": "(801)614-3000",
     "faxNumber": "(801)614-3001",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAYTON",
-      "streetAddress": "1711 N. MAIN STREET",
+      "addressLocality": "Layton",
+      "streetAddress": "1711 N. Main Street",
       "postalCode": "84041",
       "addressRegion": "UT"
     },
@@ -127,13 +127,13 @@
   },
   {
     "name": "Cougar Mitsubishi",
-    "url": "WWW.COUGARMITSUBISHI.COM",
+    "url": "www.cougarmitsubishi.com",
     "telephone": "(801)225-6866",
     "faxNumber": "(801)960-9149",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OREM",
-      "streetAddress": "273 SOUTH STATE STREET",
+      "addressLocality": "Orem",
+      "streetAddress": "273 South State Street",
       "postalCode": "84058",
       "addressRegion": "UT"
     },
@@ -145,13 +145,13 @@
   },
   {
     "name": "Sport Mitsubishi",
-    "url": "WWW.SPORTMITSUBISHI.COM",
+    "url": "www.sportmitsubishi.com",
     "telephone": "(407)291-1448",
     "faxNumber": "(407)297-0287",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ORLANDO",
-      "streetAddress": "3772 WEST COLONIAL DRIVE",
+      "addressLocality": "Orlando",
+      "streetAddress": "3772 West Colonial Drive",
       "postalCode": "32808",
       "addressRegion": "FL"
     },
@@ -163,13 +163,13 @@
   },
   {
     "name": "Cable Mitsubishi",
-    "url": "WWW.CABLEMITSUBISHI.COM",
+    "url": "www.cablemitsubishi.com",
     "telephone": "(405)787-0433",
     "faxNumber": "(405)789-3317",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OKLAHOMA CITY",
-      "streetAddress": "5600 N.W. 39TH STREET",
+      "addressLocality": "Oklahoma City",
+      "streetAddress": "5600 N.W. 39Th Street",
       "postalCode": "73122",
       "addressRegion": "OK"
     },
@@ -181,13 +181,13 @@
   },
   {
     "name": "Olympia Mitsubishi-Wa",
-    "url": "WWW.OLYMPIAMITSUBISHI.COM",
+    "url": "www.olympiamitsubishi.com",
     "telephone": "(360)352-8558",
     "faxNumber": "(360)352-8678",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OLYMPIA",
-      "streetAddress": "2200 CARRIAGE STREET SW",
+      "addressLocality": "Olympia",
+      "streetAddress": "2200 Carriage Street Sw",
       "postalCode": "98502",
       "addressRegion": "WA"
     },
@@ -199,13 +199,13 @@
   },
   {
     "name": "Murdock Mitsubishi",
-    "url": "WWW.MURDOCKMITSUBISHI.COM",
+    "url": "www.murdockmitsubishi.com",
     "telephone": "(785)776-1950",
     "faxNumber": "(785)776-0537",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MANHATTAN",
-      "streetAddress": "600 MCCALL RD.",
+      "addressLocality": "Manhattan",
+      "streetAddress": "600 Mccall Rd.",
       "postalCode": "66502-5060",
       "addressRegion": "KS"
     },
@@ -221,8 +221,8 @@
     "faxNumber": "(859)885-1308",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NICHOLASVILLE",
-      "streetAddress": "3001 LEXINGTON RD",
+      "addressLocality": "Nicholasville",
+      "streetAddress": "3001 Lexington Rd",
       "postalCode": "40356",
       "addressRegion": "KY"
     },
@@ -238,8 +238,8 @@
     "faxNumber": "(270)351-4170",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RADCLIFF",
-      "streetAddress": "253 SOUTH DIXIE BLVD.",
+      "addressLocality": "Radcliff",
+      "streetAddress": "253 South Dixie Blvd.",
       "postalCode": "40160-0000",
       "addressRegion": "KY"
     },
@@ -251,13 +251,13 @@
   },
   {
     "name": "Oakland Mitsubishi",
-    "url": "WWW.OAKLANDMITSUBISHI.COM",
+    "url": "www.oaklandmitsubishi.com",
     "telephone": "(510)267-0688",
     "faxNumber": "(510)267-0622",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OAKLAND",
-      "streetAddress": "2500 WEBSTER STREET",
+      "addressLocality": "Oakland",
+      "streetAddress": "2500 Webster Street",
       "postalCode": "94612",
       "addressRegion": "CA"
     },
@@ -269,13 +269,13 @@
   },
   {
     "name": "Walters Mitsubishi",
-    "url": "WWW.WALTERSMITSUBISHISALES.COM",
+    "url": "www.waltersmitsubishisales.com",
     "telephone": "(606)437-9810",
     "faxNumber": "(606)437-0062",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PIKEVILLE",
-      "streetAddress": "3987 NORTH MAYO TRAIL",
+      "addressLocality": "Pikeville",
+      "streetAddress": "3987 North Mayo Trail",
       "postalCode": "41501-0000",
       "addressRegion": "KY"
     },
@@ -287,13 +287,13 @@
   },
   {
     "name": "Vann York Mitsubishi",
-    "url": "WWW.VANNYORKMITSUBISHI.COM",
+    "url": "www.vannyorkmitsubishi.com",
     "telephone": "(336)841-6200",
     "faxNumber": "(336)841-6204",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HIGH POINT",
-      "streetAddress": "410 EASTCHESTER DRIVE",
+      "addressLocality": "High Point",
+      "streetAddress": "410 Eastchester Drive",
       "postalCode": "27262",
       "addressRegion": "NC"
     },
@@ -305,13 +305,13 @@
   },
   {
     "name": "Absolute Mitsubishi",
-    "url": "ABSOLUTEMITSUBISHI.COM",
+    "url": "absolutemitsubishi.com",
     "telephone": "(469)221-8000",
     "faxNumber": "(469)221-8100",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MESQUITE",
-      "streetAddress": "16200 LBJ FREEWAY",
+      "addressLocality": "Mesquite",
+      "streetAddress": "16200 Lbj Freeway",
       "postalCode": "75150",
       "addressRegion": "TX"
     },
@@ -323,13 +323,13 @@
   },
   {
     "name": "Barker Mitsubishi",
-    "url": "WWW.BARKERMITSUBISHI.COM",
+    "url": "www.barkermitsubishi.com",
     "telephone": "(985)879-1990",
     "faxNumber": "(985)879-1382",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOUMA",
-      "streetAddress": "1190 W. TUNNEL BOULEVARD",
+      "addressLocality": "Houma",
+      "streetAddress": "1190 W. Tunnel Boulevard",
       "postalCode": "70360-4052",
       "addressRegion": "LA"
     },
@@ -341,13 +341,13 @@
   },
   {
     "name": "San Bernardino Mitsubishi",
-    "url": "WWW.SBMITSU.COM",
+    "url": "www.sbmitsu.com",
     "telephone": "(909)884-7700",
     "faxNumber": "(909)763-4860",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN BERNARDINO",
-      "streetAddress": "645 AUTO CENTER DRIVE",
+      "addressLocality": "San Bernardino",
+      "streetAddress": "645 Auto Center Drive",
       "postalCode": "92408",
       "addressRegion": "CA"
     },
@@ -359,13 +359,13 @@
   },
   {
     "name": "Bertera Mitsubishi",
-    "url": "WWW.BERTERAMITSUBISHI.COM",
+    "url": "www.berteramitsubishi.com",
     "telephone": "(413)781-9047",
     "faxNumber": "(413)739-5380",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WEST SPRINGFIELD",
-      "streetAddress": "526 RIVERDALE STREET",
+      "addressLocality": "West Springfield",
+      "streetAddress": "526 Riverdale Street",
       "postalCode": "01089",
       "addressRegion": "MA"
     },
@@ -377,13 +377,13 @@
   },
   {
     "name": "Michaud Mitsubishi",
-    "url": "WWW.MICHAUDMITSUBISHI.COM",
+    "url": "www.michaudmitsubishi.com",
     "telephone": "(978)774-4040",
     "faxNumber": "(978)777-8739",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DANVERS",
-      "streetAddress": "80 ANDOVER STREET",
+      "addressLocality": "Danvers",
+      "streetAddress": "80 Andover Street",
       "postalCode": "01923",
       "addressRegion": "MA"
     },
@@ -395,13 +395,13 @@
   },
   {
     "name": "Longwood Mitsubishi",
-    "url": "WWW.LONGWOODMITSUBISHI.COM",
+    "url": "www.longwoodmitsubishi.com",
     "telephone": "(407)571-1234",
     "faxNumber": "(407)696-0443",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LONGWOOD",
-      "streetAddress": "615 N. HIGHWAY 17 92",
+      "addressLocality": "Longwood",
+      "streetAddress": "615 N. Highway 17 92",
       "postalCode": "32750-4421",
       "addressRegion": "FL"
     },
@@ -413,13 +413,13 @@
   },
   {
     "name": "Walker Mitsubishi-La",
-    "url": "WWW.WALKERAUTOMITSUBISHI.COM",
+    "url": "www.walkerautomitsubishi.com",
     "telephone": "(318)445-6421",
     "faxNumber": "(318)443-8170",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ALEXANDRIA",
-      "streetAddress": "1612 MACARTHUR DR.",
+      "addressLocality": "Alexandria",
+      "streetAddress": "1612 Macarthur Dr.",
       "postalCode": "71301-4026",
       "addressRegion": "LA"
     },
@@ -431,13 +431,13 @@
   },
   {
     "name": "Don Herring Mitsubishi",
-    "url": "WWW.DONHERRING.COM",
+    "url": "www.donherring.com",
     "telephone": "(214)372-7850",
     "faxNumber": "(214)372-7870",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DALLAS",
-      "streetAddress": "3520 MARVIN D. LOVE FREEWAY",
+      "addressLocality": "Dallas",
+      "streetAddress": "3520 Marvin D. Love Freeway",
       "postalCode": "75224",
       "addressRegion": "TX"
     },
@@ -449,13 +449,13 @@
   },
   {
     "name": "Motorworld Mitsubishi",
-    "url": "WWW.MOTORWORLDGROUPMITSUBISHI.COM/",
+    "url": "www.motorworldgroupmitsubishi.com/",
     "telephone": "(570)829-3500",
     "faxNumber": "(570)820-6999",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WILKES-BARRE",
-      "streetAddress": "150 MOTORWORLD DRIVE",
+      "addressLocality": "Wilkes-Barre",
+      "streetAddress": "150 Motorworld Drive",
       "postalCode": "18702",
       "addressRegion": "PA"
     },
@@ -471,8 +471,8 @@
     "faxNumber": "(319)364-6972",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CEDAR RAPIDS",
-      "streetAddress": "4045 FIRST AVENUE S.E.",
+      "addressLocality": "Cedar Rapids",
+      "streetAddress": "4045 First Avenue S.E.",
       "postalCode": "52402-3142",
       "addressRegion": "IA"
     },
@@ -484,13 +484,13 @@
   },
   {
     "name": "Prestige Mitsubishi-Wi",
-    "url": "WWW.MITSUBISHIOFEAUCLAIRE.COM",
+    "url": "www.mitsubishiofeauclaire.com",
     "telephone": "(715)833-0177",
     "faxNumber": "(715)833-1569",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EAU CLAIRE",
-      "streetAddress": "2809 GOLF ROAD",
+      "addressLocality": "Eau Claire",
+      "streetAddress": "2809 Golf Road",
       "postalCode": "54701-9698",
       "addressRegion": "WI"
     },
@@ -502,13 +502,13 @@
   },
   {
     "name": "Albany Mitsubishi",
-    "url": "WWW.MITSUBISHIOFALBANY.COM",
+    "url": "www.mitsubishiofalbany.com",
     "telephone": "(229)888-4101",
     "faxNumber": "(229)888-4112",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ALBANY",
-      "streetAddress": "1000 EAST OGLETHORPE BLVD.",
+      "addressLocality": "Albany",
+      "streetAddress": "1000 East Oglethorpe Blvd.",
       "postalCode": "31707",
       "addressRegion": "GA"
     },
@@ -524,8 +524,8 @@
     "faxNumber": "(262)886-8810",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RACINE",
-      "streetAddress": "6107 WASHINGTON AVENUE",
+      "addressLocality": "Racine",
+      "streetAddress": "6107 Washington Avenue",
       "postalCode": "53406",
       "addressRegion": "WI"
     },
@@ -537,13 +537,13 @@
   },
   {
     "name": "Hi Country Mitsubishi",
-    "url": "WWW.HICOUNTRYMITSUBISHI.COM",
+    "url": "www.hicountrymitsubishi.com",
     "telephone": "(505)327-3391",
     "faxNumber": "(505)325-2353",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FARMINGTON",
-      "streetAddress": "4004 E. MAIN STREET",
+      "addressLocality": "Farmington",
+      "streetAddress": "4004 E. Main Street",
       "postalCode": "87402",
       "addressRegion": "NM"
     },
@@ -559,8 +559,8 @@
     "faxNumber": "(575)935-9306",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CLOVIS",
-      "streetAddress": "3300 MABRY DRIVE",
+      "addressLocality": "Clovis",
+      "streetAddress": "3300 Mabry Drive",
       "postalCode": "88101",
       "addressRegion": "NM"
     },
@@ -572,13 +572,13 @@
   },
   {
     "name": "Fairfield Mitsubishi",
-    "url": "WWW.FAIRFIELDMITSUBISHICT.COM",
+    "url": "www.fairfieldmitsubishict.com",
     "telephone": "(203)384-0000",
     "faxNumber": "(203)336-5808",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FAIRFIELD",
-      "streetAddress": "421 TUNXIS HILL ROAD",
+      "addressLocality": "Fairfield",
+      "streetAddress": "421 Tunxis Hill Road",
       "postalCode": "06825",
       "addressRegion": "CT"
     },
@@ -590,13 +590,13 @@
   },
   {
     "name": "Mark Mitsubishi-Nm",
-    "url": "WWW.CASAMITSUBISHI.COM",
+    "url": "www.casamitsubishi.com",
     "telephone": "(877)468-5035",
     "faxNumber": "(505)883-2921",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ALBUQUERQUE",
-      "streetAddress": "7100 LOMAS BLVD. NE",
+      "addressLocality": "Albuquerque",
+      "streetAddress": "7100 Lomas Blvd. Ne",
       "postalCode": "87110",
       "addressRegion": "NM"
     },
@@ -608,13 +608,13 @@
   },
   {
     "name": "Kerry Mitsubishi",
-    "url": "WWW.KERRYMITSUBISHI.COM",
+    "url": "www.kerrymitsubishi.com",
     "telephone": "(513)671-6400",
     "faxNumber": "(513)671-6608",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CINCINNATI",
-      "streetAddress": "155 WEST KEMPER ROAD",
+      "addressLocality": "Cincinnati",
+      "streetAddress": "155 West Kemper Road",
       "postalCode": "45246",
       "addressRegion": "OH"
     },
@@ -626,13 +626,13 @@
   },
   {
     "name": "Ricart Mitsubishi",
-    "url": "WWW.RICARTMITSUBISHI.COM",
+    "url": "www.ricartmitsubishi.com",
     "telephone": "(614)836-5321",
     "faxNumber": "(614)836-6266",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GROVEPORT",
-      "streetAddress": "4255 SOUTH HAMILTON ROAD",
+      "addressLocality": "Groveport",
+      "streetAddress": "4255 South Hamilton Road",
       "postalCode": "43125-9332",
       "addressRegion": "OH"
     },
@@ -644,13 +644,13 @@
   },
   {
     "name": "Electric City Mitsubishi",
-    "url": "WWW.ELECTRICCITYMITSUBISHI.COM",
+    "url": "www.electriccitymitsubishi.com",
     "telephone": "(864)622-1595",
     "faxNumber": "(864)622-1600",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ANDERSON",
-      "streetAddress": "4008 CLEMSON BLVD.",
+      "addressLocality": "Anderson",
+      "streetAddress": "4008 Clemson Blvd.",
       "postalCode": "29621",
       "addressRegion": "SC"
     },
@@ -662,13 +662,13 @@
   },
   {
     "name": "Hyman Bros. Mitsubishi",
-    "url": "WWW.HYMANBROSMITSUBISHI.COM",
+    "url": "www.hymanbrosmitsubishi.com",
     "telephone": "(804)379-3510",
     "faxNumber": "(804)379-0440",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MIDLOTHIAN",
-      "streetAddress": "11650 MIDLOTHIAN TURNPIKE",
+      "addressLocality": "Midlothian",
+      "streetAddress": "11650 Midlothian Turnpike",
       "postalCode": "23113",
       "addressRegion": "VA"
     },
@@ -680,13 +680,13 @@
   },
   {
     "name": "Hertrich Mitsubishi",
-    "url": "WWW.HERTRICHMITSUBISHIOFNEWCASTLE.COM",
+    "url": "www.hertrichmitsubishiofnewcastle.com",
     "telephone": "(302)323-1100",
     "faxNumber": "(302)322-9870",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NEW CASTLE",
-      "streetAddress": "120 SOUTH DUPONT HIGHWAY",
+      "addressLocality": "New Castle",
+      "streetAddress": "120 South Dupont Highway",
       "postalCode": "19720",
       "addressRegion": "DE"
     },
@@ -698,13 +698,13 @@
   },
   {
     "name": "Maggi Mitsubishi",
-    "url": "WWW.JABCOMAGGI.COM",
+    "url": "www.jabcomaggi.com",
     "telephone": "(814)237-8895",
     "faxNumber": "(814)237-1992",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "STATE COLLEGE",
-      "streetAddress": "273 BENNER PIKE",
+      "addressLocality": "State College",
+      "streetAddress": "273 Benner Pike",
       "postalCode": "16801",
       "addressRegion": "PA"
     },
@@ -716,13 +716,13 @@
   },
   {
     "name": "Little Joe's Mitsubishi",
-    "url": "WWW.LITTLEJOESMITSUBISHI.COM",
+    "url": "www.littlejoesmitsubishi.com",
     "telephone": "(757)420-8214",
     "faxNumber": "(757)420-1598",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHESAPEAKE",
-      "streetAddress": "1601 SOUTH MILITARY HIGHWAY",
+      "addressLocality": "Chesapeake",
+      "streetAddress": "1601 South Military Highway",
       "postalCode": "23320",
       "addressRegion": "VA"
     },
@@ -734,13 +734,13 @@
   },
   {
     "name": "Livonia Mitsubishi",
-    "url": "WWW.LIVONIAMITSUBISHI.COM",
+    "url": "www.livoniamitsubishi.com",
     "telephone": "(734)525-5000",
     "faxNumber": "(734)838-1238",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LIVONIA",
-      "streetAddress": "30777 PLYMOUTH ROAD",
+      "addressLocality": "Livonia",
+      "streetAddress": "30777 Plymouth Road",
       "postalCode": "48150",
       "addressRegion": "MI"
     },
@@ -752,13 +752,13 @@
   },
   {
     "name": "Verhage Mitsubishi",
-    "url": "WWW.VERHAGEMITSUBISHI.COM",
+    "url": "www.verhagemitsubishi.com",
     "telephone": "(616)396-3589",
     "faxNumber": "(616)396-2596",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOLLAND",
-      "streetAddress": "343 EAST 8TH STREET",
+      "addressLocality": "Holland",
+      "streetAddress": "343 East 8Th Street",
       "postalCode": "49423",
       "addressRegion": "MI"
     },
@@ -770,13 +770,13 @@
   },
   {
     "name": "Don Herring North Mitsubishi",
-    "url": "WWW.DONHERRING.COM",
+    "url": "www.donherring.com",
     "telephone": "(972)387-8600",
     "faxNumber": "(469)443-1804",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PLANO",
-      "streetAddress": "4225 WEST PLANO PARKWAY",
+      "addressLocality": "Plano",
+      "streetAddress": "4225 West Plano Parkway",
       "postalCode": "75093-0000",
       "addressRegion": "TX"
     },
@@ -788,13 +788,13 @@
   },
   {
     "name": "Cliff Wall Mitsubishi",
-    "url": "WWW.CLIFFWALLMITSUBISHI.COM",
+    "url": "www.cliffwallmitsubishi.com",
     "telephone": "(920)468-8898",
     "faxNumber": "(920)468-1525",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GREEN BAY",
-      "streetAddress": "801 LIME KILN",
+      "addressLocality": "Green Bay",
+      "streetAddress": "801 Lime Kiln",
       "postalCode": "54302",
       "addressRegion": "WI"
     },
@@ -806,13 +806,13 @@
   },
   {
     "name": "Randall Mitsubishi",
-    "url": "WWW.RANDALLMITSUBISHI.COM",
+    "url": "www.randallmitsubishi.com",
     "telephone": "(325)655-5631",
     "faxNumber": "(325)643-3072",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN ANGELO",
-      "streetAddress": "802 W. AVENUE N",
+      "addressLocality": "San Angelo",
+      "streetAddress": "802 W. Avenue N",
       "postalCode": "76903-8358",
       "addressRegion": "TX"
     },
@@ -824,13 +824,13 @@
   },
   {
     "name": "Hub Mitsubishi",
-    "url": "WWW.HOUSTONHUBMITSUBISHI.COM",
+    "url": "www.houstonhubmitsubishi.com",
     "telephone": "(281)894-5200",
     "faxNumber": "(281)897-8240",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOUSTON",
-      "streetAddress": "19300 NORTHWEST FREEWAY",
+      "addressLocality": "Houston",
+      "streetAddress": "19300 Northwest Freeway",
       "postalCode": "77065",
       "addressRegion": "TX"
     },
@@ -842,13 +842,13 @@
   },
   {
     "name": "West Loop Mitsubishi-San Antonio",
-    "url": "WWW.WESTLOOPMITSUBISHI.NET",
+    "url": "www.westloopmitsubishi.net",
     "telephone": "(210)509-3777",
     "faxNumber": "(210)509-3002",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN ANTONIO",
-      "streetAddress": "7007 NW LOOP 410",
+      "addressLocality": "San Antonio",
+      "streetAddress": "7007 Nw Loop 410",
       "postalCode": "78238",
       "addressRegion": "TX"
     },
@@ -860,13 +860,13 @@
   },
   {
     "name": "Karmart Mitsubishi",
-    "url": "WWW.KARMARTMITSUBISHI.COM",
+    "url": "www.karmartmitsubishi.com",
     "telephone": "(360)755-3712",
     "faxNumber": "(360)757-2278",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BURLINGTON",
-      "streetAddress": "1751 BOUSLOG ROAD",
+      "addressLocality": "Burlington",
+      "streetAddress": "1751 Bouslog Road",
       "postalCode": "98233",
       "addressRegion": "WA"
     },
@@ -882,8 +882,8 @@
     "faxNumber": "(206)361-5482",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SEATTLE",
-      "streetAddress": "11577 LAKE CITY WAY NE",
+      "addressLocality": "Seattle",
+      "streetAddress": "11577 Lake City Way Ne",
       "postalCode": "98125",
       "addressRegion": "WA"
     },
@@ -895,13 +895,13 @@
   },
   {
     "name": "South Coast Mitsubishi",
-    "url": "WWW.SOUTHCOASTMITSUBISHI.COM",
+    "url": "www.southcoastmitsubishi.com",
     "telephone": "(714)545-1700",
     "faxNumber": "(714)435-9208",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COSTA MESA",
-      "streetAddress": "2860 HARBOR BOULEVARD",
+      "addressLocality": "Costa Mesa",
+      "streetAddress": "2860 Harbor Boulevard",
       "postalCode": "92626",
       "addressRegion": "CA"
     },
@@ -913,13 +913,13 @@
   },
   {
     "name": "Don Herring Irving Mitsubishi",
-    "url": "WWW.DONHERRING.COM",
+    "url": "www.donherring.com",
     "telephone": "(972)785-3100",
     "faxNumber": "(972)785-3082",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "IRVING",
-      "streetAddress": "2901 W. AIRPORT FREEWAY",
+      "addressLocality": "Irving",
+      "streetAddress": "2901 W. Airport Freeway",
       "postalCode": "75062",
       "addressRegion": "TX"
     },
@@ -931,13 +931,13 @@
   },
   {
     "name": "Cerritos Mitsubishi",
-    "url": "WWW.CERRITOSMITSUBISHI.COM",
+    "url": "www.cerritosmitsubishi.com",
     "telephone": "(562)494-0187",
     "faxNumber": "(562)494-8788",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CERRITOS",
-      "streetAddress": "10944 SOUTH STREET",
+      "addressLocality": "Cerritos",
+      "streetAddress": "10944 South Street",
       "postalCode": "90703",
       "addressRegion": "CA"
     },
@@ -949,13 +949,13 @@
   },
   {
     "name": "Pape Mitsubishi",
-    "url": "WWW.PAPEMITSUBISHI.COM",
+    "url": "www.papemitsubishi.com",
     "telephone": "(207)774-5105",
     "faxNumber": "(207)774-5556",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SOUTH PORTLAND",
-      "streetAddress": "2123 BROADWAY",
+      "addressLocality": "South Portland",
+      "streetAddress": "2123 Broadway",
       "postalCode": "04106-3224",
       "addressRegion": "ME"
     },
@@ -971,8 +971,8 @@
     "faxNumber": "(785)312-9463",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAWRENCE",
-      "streetAddress": "1013 W. 23RD STREET",
+      "addressLocality": "Lawrence",
+      "streetAddress": "1013 W. 23Rd Street",
       "postalCode": "66046-4157",
       "addressRegion": "KS"
     },
@@ -984,13 +984,13 @@
   },
   {
     "name": "Hartford Mitsubishi",
-    "url": "WWW.HARTFORDMITSUBISHI.COM",
+    "url": "www.hartfordmitsubishi.com",
     "telephone": "(860)527-9000",
     "faxNumber": "(860)728-4438",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HARTFORD",
-      "streetAddress": "77 LEIBERT ROAD",
+      "addressLocality": "Hartford",
+      "streetAddress": "77 Leibert Road",
       "postalCode": "06120",
       "addressRegion": "CT"
     },
@@ -1002,13 +1002,13 @@
   },
   {
     "name": "Olathe Mitsubishi",
-    "url": "WWW.OLATHEMITSUBISHI.COM",
+    "url": "www.olathemitsubishi.com",
     "telephone": "(913)648-8100",
     "faxNumber": "(913)393-2673",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OLATHE",
-      "streetAddress": "401 SOUTH FIR STREET",
+      "addressLocality": "Olathe",
+      "streetAddress": "401 South Fir Street",
       "postalCode": "66061",
       "addressRegion": "KS"
     },
@@ -1020,13 +1020,13 @@
   },
   {
     "name": "Ball Mitsubishi",
-    "url": "WWW.BALLMITSUBISHI.COM",
+    "url": "www.ballmitsubishi.com",
     "telephone": "(619)474-6431",
     "faxNumber": "(619)477-1517",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NATIONAL CITY",
-      "streetAddress": "1935 NATIONAL CITY BLVD.",
+      "addressLocality": "National City",
+      "streetAddress": "1935 National City Blvd.",
       "postalCode": "91950",
       "addressRegion": "CA"
     },
@@ -1038,13 +1038,13 @@
   },
   {
     "name": "Quirk Mitsubishi-Me",
-    "url": "WWW.QUIRKMITSUBISHIOFBANGOR.COM",
+    "url": "www.quirkmitsubishiofbangor.com",
     "telephone": "(207)945-9401",
     "faxNumber": "(207)947-5341",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BANGOR",
-      "streetAddress": "162 HASKELL ROAD",
+      "addressLocality": "Bangor",
+      "streetAddress": "162 Haskell Road",
       "postalCode": "04401-0000",
       "addressRegion": "ME"
     },
@@ -1056,13 +1056,13 @@
   },
   {
     "name": "Myrtle Beach Mitsubishi",
-    "url": "WWW.MITSUBISHIMYRTLEBEACH.COM",
+    "url": "www.mitsubishimyrtlebeach.com",
     "telephone": "(843)796-9155",
     "faxNumber": "(843)796-9158",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MYRTLE BEACH",
-      "streetAddress": "431 HOSPITALITY LANE",
+      "addressLocality": "Myrtle Beach",
+      "streetAddress": "431 Hospitality Lane",
       "postalCode": "29579",
       "addressRegion": "SC"
     },
@@ -1074,13 +1074,13 @@
   },
   {
     "name": "Serra Mitsubishi",
-    "url": "WWW.SERRAMITSUBISHI.COM",
+    "url": "www.serramitsubishi.com",
     "telephone": "(205)380-9285",
     "faxNumber": "(205)856-3945",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BIRMINGHAM",
-      "streetAddress": "1178 CENTER POINT PARKWAY",
+      "addressLocality": "Birmingham",
+      "streetAddress": "1178 Center Point Parkway",
       "postalCode": "35215",
       "addressRegion": "AL"
     },
@@ -1092,13 +1092,13 @@
   },
   {
     "name": "Bill Penney Mitsubishi",
-    "url": "WWW.BILLPENNEYMITSUBISHI.COM",
+    "url": "www.billpenneymitsubishi.com",
     "telephone": "(256)837-1111",
     "faxNumber": "(256)562-0146",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HUNTSVILLE",
-      "streetAddress": "4810 UNIVERSITY DRIVE NW",
+      "addressLocality": "Huntsville",
+      "streetAddress": "4810 University Drive Nw",
       "postalCode": "35816",
       "addressRegion": "AL"
     },
@@ -1110,13 +1110,13 @@
   },
   {
     "name": "Liberty Mitsubishi",
-    "url": "WWW.LIBERTYMITSUBISHI.COM",
+    "url": "www.libertymitsubishi.com",
     "telephone": "(605)721-6060",
     "faxNumber": "(605)342-9349",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RAPID CITY",
-      "streetAddress": "600 CAMBELL",
+      "addressLocality": "Rapid City",
+      "streetAddress": "600 Cambell",
       "postalCode": "57701",
       "addressRegion": "SD"
     },
@@ -1128,13 +1128,13 @@
   },
   {
     "name": "Des Moines Mitsubishi",
-    "url": "WWW.DSMMITSU.COM",
+    "url": "www.dsmmitsu.com",
     "telephone": "(515)270-8100",
     "faxNumber": "(515)270-5838",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DES MOINES",
-      "streetAddress": "4410 MERLE HAY ROAD",
+      "addressLocality": "Des Moines",
+      "streetAddress": "4410 Merle Hay Road",
       "postalCode": "50310-0000",
       "addressRegion": "IA"
     },
@@ -1146,13 +1146,13 @@
   },
   {
     "name": "Norman Mitsubishi",
-    "url": "WWW.NORMANMITSUBISHI.COM",
+    "url": "www.normanmitsubishi.com",
     "telephone": "(405)701-2700",
     "faxNumber": "(405)701-2717",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NORMAN",
-      "streetAddress": "2505 W. MAIN STREET",
+      "addressLocality": "Norman",
+      "streetAddress": "2505 W. Main Street",
       "postalCode": "73069",
       "addressRegion": "OK"
     },
@@ -1164,13 +1164,13 @@
   },
   {
     "name": "O'brien Mitsubishi-Urbana",
-    "url": "WWW.OBRIENMITSUBISHIURBANA.COM",
+    "url": "www.obrienmitsubishiurbana.com",
     "telephone": "(217)398-1222",
     "faxNumber": "(217)398-1299",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "URBANA",
-      "streetAddress": "1111 O'BRIEN DRIVE",
+      "addressLocality": "Urbana",
+      "streetAddress": "1111 O'Brien Drive",
       "postalCode": "61802-0000",
       "addressRegion": "IL"
     },
@@ -1182,13 +1182,13 @@
   },
   {
     "name": "John Deery Mitsubishi",
-    "url": "WWW.DEERYMITSUBISHI.COM",
+    "url": "www.deerymitsubishi.com",
     "telephone": "(319)277-6200",
     "faxNumber": "(319)277-0838",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CEDAR FALLS",
-      "streetAddress": "6823 UNIVERSITY AVENUE",
+      "addressLocality": "Cedar Falls",
+      "streetAddress": "6823 University Avenue",
       "postalCode": "50613",
       "addressRegion": "IA"
     },
@@ -1200,13 +1200,13 @@
   },
   {
     "name": "Southern Oregon Mitsubishi",
-    "url": "WWW.SOMITSUBISHI.COM",
+    "url": "www.somitsubishi.com",
     "telephone": "(541)245-2000",
     "faxNumber": "(541)773-9434",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MEDFORD",
-      "streetAddress": "3103 BIDDLE ROAD",
+      "addressLocality": "Medford",
+      "streetAddress": "3103 Biddle Road",
       "postalCode": "97504-4120",
       "addressRegion": "OR"
     },
@@ -1218,13 +1218,13 @@
   },
   {
     "name": "Riley Mitsubishi",
-    "url": "WWW.RILEYMITSUBISHI.COM",
+    "url": "www.rileymitsubishi.com",
     "telephone": "(563)588-2326",
     "faxNumber": "(563)588-9286",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DUBUQUE",
-      "streetAddress": "4455 DODGE STREET",
+      "addressLocality": "Dubuque",
+      "streetAddress": "4455 Dodge Street",
       "postalCode": "52003",
       "addressRegion": "IA"
     },
@@ -1236,13 +1236,13 @@
   },
   {
     "name": "Payne Mitsubishi",
-    "url": "WWW.PAYNEMISSIONMITSUBISHI.COM",
+    "url": "www.paynemissionmitsubishi.com",
     "telephone": "(956)584-6300",
     "faxNumber": "(956)581-7962",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MISSION",
-      "streetAddress": "2003 EAST EXPRESSWAY 83",
+      "addressLocality": "Mission",
+      "streetAddress": "2003 East Expressway 83",
       "postalCode": "78572-0000",
       "addressRegion": "TX"
     },
@@ -1254,13 +1254,13 @@
   },
   {
     "name": "Hallmark Mitsubishi",
-    "url": "WWW.HALLMARKMITSUBISHI.COM",
+    "url": "www.hallmarkmitsubishi.com",
     "telephone": "(615)859-3200",
     "faxNumber": "(615)859-3257",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MADISON",
-      "streetAddress": "2467 GALLATIN ROAD NORTH",
+      "addressLocality": "Madison",
+      "streetAddress": "2467 Gallatin Road North",
       "postalCode": "37115",
       "addressRegion": "TN"
     },
@@ -1272,13 +1272,13 @@
   },
   {
     "name": "Ted Russell Mitsubishi",
-    "url": "WWW.TEDRUSSELLMITSUBISHI.COM",
+    "url": "www.tedrussellmitsubishi.com",
     "telephone": "(865)691-7311",
     "faxNumber": "(865)539-9579",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KNOXVILLE",
-      "streetAddress": "8585 KINGSTON PIKE",
+      "addressLocality": "Knoxville",
+      "streetAddress": "8585 Kingston Pike",
       "postalCode": "37919",
       "addressRegion": "TN"
     },
@@ -1294,8 +1294,8 @@
     "faxNumber": "(254)699-8818",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KILLEEN",
-      "streetAddress": "3301 E. CENTRAL TEXAS EXPRSWAY",
+      "addressLocality": "Killeen",
+      "streetAddress": "3301 E. Central Texas Exprsway",
       "postalCode": "76543",
       "addressRegion": "TX"
     },
@@ -1311,8 +1311,8 @@
     "faxNumber": "(936)699-5219",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LUFKIN",
-      "streetAddress": "800 N. MEDFORD DRIVE",
+      "addressLocality": "Lufkin",
+      "streetAddress": "800 N. Medford Drive",
       "postalCode": "75901",
       "addressRegion": "TX"
     },
@@ -1324,13 +1324,13 @@
   },
   {
     "name": "Greenville Mitsubishi-Tx",
-    "url": "WWW.GREENVILLEMITSUBISHI.COM",
+    "url": "www.greenvillemitsubishi.com",
     "telephone": "(903)454-6800",
     "faxNumber": "(903)454-7193",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GREENVILLE",
-      "streetAddress": "711 E. JOE RAMSEY BLVD.",
+      "addressLocality": "Greenville",
+      "streetAddress": "711 E. Joe Ramsey Blvd.",
       "postalCode": "75402",
       "addressRegion": "TX"
     },
@@ -1342,13 +1342,13 @@
   },
   {
     "name": "Jim Marsh Mitsubishi",
-    "url": "WWW.JIMMARSHMITSUBISHI.COM",
+    "url": "www.jimmarshmitsubishi.com",
     "telephone": "(702)946-1000",
     "faxNumber": "(702)946-6930",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAS VEGAS",
-      "streetAddress": "8555 WEST CENTENNIAL PARKWAY",
+      "addressLocality": "Las Vegas",
+      "streetAddress": "8555 West Centennial Parkway",
       "postalCode": "89149",
       "addressRegion": "NV"
     },
@@ -1360,13 +1360,13 @@
   },
   {
     "name": "Woodhouse Mitsubishi-Sioux City",
-    "url": "WWW.WOODHOUSEMITSUBISHI.COM/",
+    "url": "www.woodhousemitsubishi.com/",
     "telephone": "(712)277-3221",
     "faxNumber": "(712)258-5466",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SIOUX CITY",
-      "streetAddress": "2201 E. 6TH STREET",
+      "addressLocality": "Sioux City",
+      "streetAddress": "2201 E. 6Th Street",
       "postalCode": "51101",
       "addressRegion": "IA"
     },
@@ -1378,13 +1378,13 @@
   },
   {
     "name": "Southwest Mitsubishi",
-    "url": "WWW.SOUTHWESTMITSUBISHI.COM",
+    "url": "www.southwestmitsubishi.com",
     "telephone": "(817)565-1100",
     "faxNumber": "(817)565-1101",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WEATHERFORD",
-      "streetAddress": "2951 FORT WORTH HIGHWAY",
+      "addressLocality": "Weatherford",
+      "streetAddress": "2951 Fort Worth Highway",
       "postalCode": "76087",
       "addressRegion": "TX"
     },
@@ -1396,13 +1396,13 @@
   },
   {
     "name": "Sarasota Mitsubishi",
-    "url": "WWW.SARASOTAMITSUBISHICARS.COM",
+    "url": "www.sarasotamitsubishicars.com",
     "telephone": "(941)922-0711",
     "faxNumber": "(941)924-3726",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SARASOTA",
-      "streetAddress": "6826 S. TAMIAMI TRAIL",
+      "addressLocality": "Sarasota",
+      "streetAddress": "6826 S. Tamiami Trail",
       "postalCode": "34231",
       "addressRegion": "FL"
     },
@@ -1414,13 +1414,13 @@
   },
   {
     "name": "Jeff D'ambrosio Mitsubishi",
-    "url": "WWW.GOJEFFMITSUBISHI.COM",
+    "url": "www.gojeffmitsubishi.com",
     "telephone": "(610)873-2400",
     "faxNumber": "(610)873-5400",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DOWNINGTOWN",
-      "streetAddress": "1223 EAST LANCASTER AVENUE",
+      "addressLocality": "Downingtown",
+      "streetAddress": "1223 East Lancaster Avenue",
       "postalCode": "19335-3357",
       "addressRegion": "PA"
     },
@@ -1432,13 +1432,13 @@
   },
   {
     "name": "Orange Park Mitsubishi",
-    "url": "WWW.MITSUBISHIJAX.COM",
+    "url": "www.mitsubishijax.com",
     "telephone": "(904)779-0708",
     "faxNumber": "(904)621-0621",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ORANGE PARK",
-      "streetAddress": "1481 WELLS ROAD",
+      "addressLocality": "Orange Park",
+      "streetAddress": "1481 Wells Road",
       "postalCode": "32073",
       "addressRegion": "FL"
     },
@@ -1450,13 +1450,13 @@
   },
   {
     "name": "Russ Darrow Mitsubishi",
-    "url": "WWW.MITSUBISHIWAUKESHA.COM",
+    "url": "www.mitsubishiwaukesha.com",
     "telephone": "(262)506-3150",
     "faxNumber": "(262)506-3155",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WAUKESHA",
-      "streetAddress": "W226S1700 HWY 164",
+      "addressLocality": "Waukesha",
+      "streetAddress": "W226S1700 Hwy 164",
       "postalCode": "53186",
       "addressRegion": "WI"
     },
@@ -1472,8 +1472,8 @@
     "faxNumber": "(920)749-3252",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "APPLETON",
-      "streetAddress": "3023 VICTORY LANE",
+      "addressLocality": "Appleton",
+      "streetAddress": "3023 Victory Lane",
       "postalCode": "54913-0000",
       "addressRegion": "WI"
     },
@@ -1485,13 +1485,13 @@
   },
   {
     "name": "Arrow Mitsubishi",
-    "url": "WWW.ARROWMITSUBISHI.COM",
+    "url": "www.arrowmitsubishi.com",
     "telephone": "(325)692-5303",
     "faxNumber": "(325)692-6271",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ABILENE",
-      "streetAddress": "3995 SOUTH FIRST STREET",
+      "addressLocality": "Abilene",
+      "streetAddress": "3995 South First Street",
       "postalCode": "79605-1309",
       "addressRegion": "TX"
     },
@@ -1503,13 +1503,13 @@
   },
   {
     "name": "Jeremy Franklin Mitsubishi",
-    "url": "WWW.JEREMYFRANKLIN.COM",
+    "url": "www.jeremyfranklin.com",
     "telephone": "(816)523-6900",
     "faxNumber": "(816)523-9271",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KANSAS CITY",
-      "streetAddress": "6300 E. 87TH STREET",
+      "addressLocality": "Kansas City",
+      "streetAddress": "6300 E. 87Th Street",
       "postalCode": "64138",
       "addressRegion": "MO"
     },
@@ -1521,13 +1521,13 @@
   },
   {
     "name": "Anderson Mitsubishi-Mo",
-    "url": "WWW.AAGMITSUBISHI.COM",
+    "url": "www.aagmitsubishi.com",
     "telephone": "(816)233-2900",
     "faxNumber": "(816)390-8745",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ST. JOSEPH",
-      "streetAddress": "806 S. BELT HIGHWAY",
+      "addressLocality": "St. Joseph",
+      "streetAddress": "806 S. Belt Highway",
       "postalCode": "64507",
       "addressRegion": "MO"
     },
@@ -1539,13 +1539,13 @@
   },
   {
     "name": "O'brien Mitsubishi-Ft. Myers",
-    "url": "WWW.OBRIENMITSUBISHI.NET",
+    "url": "www.obrienmitsubishi.net",
     "telephone": "(239)277-1222",
     "faxNumber": "(239)931-3343",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FORT MYERS",
-      "streetAddress": "2850 COLONIAL BLVD.",
+      "addressLocality": "Fort Myers",
+      "streetAddress": "2850 Colonial Blvd.",
       "postalCode": "33912",
       "addressRegion": "FL"
     },
@@ -1557,13 +1557,13 @@
   },
   {
     "name": "Joe Machens Mitsubishi",
-    "url": "WWW.JOEMACHENSMITSUBISHI.COM",
+    "url": "www.joemachensmitsubishi.com",
     "telephone": "(573)875-5000",
     "faxNumber": "(573)499-1308",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COLUMBIA",
-      "streetAddress": "500 VANDIVER DRIVE",
+      "addressLocality": "Columbia",
+      "streetAddress": "500 Vandiver Drive",
       "postalCode": "65202",
       "addressRegion": "MO"
     },
@@ -1575,13 +1575,13 @@
   },
   {
     "name": "Carriage Mitsubishi-Ga",
-    "url": "WWW.CARRIAGEMITSUBISHI.COM",
+    "url": "www.carriagemitsubishi.com",
     "telephone": "(770)536-4434",
     "faxNumber": "(678)207-0009",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GAINESVILLE",
-      "streetAddress": "2801 BROWNS BRIDGE ROAD",
+      "addressLocality": "Gainesville",
+      "streetAddress": "2801 Browns Bridge Road",
       "postalCode": "30504",
       "addressRegion": "GA"
     },
@@ -1593,13 +1593,13 @@
   },
   {
     "name": "Heritage Mitsubishi-Morrow",
-    "url": "WWW.HERITAGEMITSUBISHI.NET",
+    "url": "www.heritagemitsubishi.net",
     "telephone": "(770)960-0060",
     "faxNumber": "(770)960-3993",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MORROW",
-      "streetAddress": "7134 JONESBORO RD.",
+      "addressLocality": "Morrow",
+      "streetAddress": "7134 Jonesboro Rd.",
       "postalCode": "30260-2907",
       "addressRegion": "GA"
     },
@@ -1611,13 +1611,13 @@
   },
   {
     "name": "Leskovar Mitsubishi",
-    "url": "WWW.LESKOVARMITSUBISHI.COM",
+    "url": "www.leskovarmitsubishi.com",
     "telephone": "(509)783-6141",
     "faxNumber": "(509)783-9085",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KENNEWICK",
-      "streetAddress": "3020 W. CLEARWATER AVENUE",
+      "addressLocality": "Kennewick",
+      "streetAddress": "3020 W. Clearwater Avenue",
       "postalCode": "99336",
       "addressRegion": "WA"
     },
@@ -1629,13 +1629,13 @@
   },
   {
     "name": "Riverside Mitsubishi-Ca",
-    "url": "WWW.RIVERSIDEMITSUBISHI.COM",
+    "url": "www.riversidemitsubishi.com",
     "telephone": "(951)509-1000",
     "faxNumber": "(951)343-0804",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RIVERSIDE",
-      "streetAddress": "8177 INDIANA AVENUE",
+      "addressLocality": "Riverside",
+      "streetAddress": "8177 Indiana Avenue",
       "postalCode": "92504",
       "addressRegion": "CA"
     },
@@ -1647,13 +1647,13 @@
   },
   {
     "name": "Larson Mitsubishi",
-    "url": "WWW.LARSONMITSUBISHI.COM",
+    "url": "www.larsonmitsubishi.com",
     "telephone": "(253)671-6522",
     "faxNumber": "(253)671-6427",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TACOMA",
-      "streetAddress": "7629 S. TACOMA WAY",
+      "addressLocality": "Tacoma",
+      "streetAddress": "7629 S. Tacoma Way",
       "postalCode": "98409",
       "addressRegion": "WA"
     },
@@ -1665,13 +1665,13 @@
   },
   {
     "name": "Harris Mitsubishi-Wa",
-    "url": "WWW.HARRISMITSUBISHINW.COM",
+    "url": "www.harrismitsubishinw.com",
     "telephone": "(425)290-5186",
     "faxNumber": "(425)355-6096",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EVERETT",
-      "streetAddress": "12620 HWY. 99",
+      "addressLocality": "Everett",
+      "streetAddress": "12620 Hwy. 99",
       "postalCode": "98204",
       "addressRegion": "WA"
     },
@@ -1683,13 +1683,13 @@
   },
   {
     "name": "Peninsula Mitsubishi",
-    "url": "WWW.PENINSULAMITSUBISHI.COM",
+    "url": "www.peninsulamitsubishi.com",
     "telephone": "(360)917-0088",
     "faxNumber": "(360)917-0092",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PORT ORCHARD",
-      "streetAddress": "3550 SW STATE HIGHWAY 16",
+      "addressLocality": "Port Orchard",
+      "streetAddress": "3550 Sw State Highway 16",
       "postalCode": "98367",
       "addressRegion": "WA"
     },
@@ -1701,13 +1701,13 @@
   },
   {
     "name": "Cold Brook Mitsubishi",
-    "url": "WWW.COLDBROOKMITSUBISHI.COM",
+    "url": "www.coldbrookmitsubishi.com",
     "telephone": "(207)474-9881",
     "faxNumber": "(207)474-6333",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SKOWHEGAN",
-      "streetAddress": "337 MADISON AVENUE",
+      "addressLocality": "Skowhegan",
+      "streetAddress": "337 Madison Avenue",
       "postalCode": "04976",
       "addressRegion": "ME"
     },
@@ -1719,13 +1719,13 @@
   },
   {
     "name": "Younker Mitsubishi",
-    "url": "WWW.YOUNKERMITSUBISHI.COM",
+    "url": "www.younkermitsubishi.com",
     "telephone": "(425)251-8102",
     "faxNumber": "(425)251-9672",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RENTON",
-      "streetAddress": "3820 E. VALLEY ROAD",
+      "addressLocality": "Renton",
+      "streetAddress": "3820 E. Valley Road",
       "postalCode": "98057",
       "addressRegion": "WA"
     },
@@ -1737,13 +1737,13 @@
   },
   {
     "name": "Charlie's Mitsubishi-Me",
-    "url": "WWW.CHARLIESMITSUBISHI.COM",
+    "url": "www.charliesmitsubishi.com",
     "telephone": "(207)622-7327",
     "faxNumber": "(207)623-2836",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AUGUSTA",
-      "streetAddress": "475 WESTERN AVENUE",
+      "addressLocality": "Augusta",
+      "streetAddress": "475 Western Avenue",
       "postalCode": "04330",
       "addressRegion": "ME"
     },
@@ -1755,13 +1755,13 @@
   },
   {
     "name": "Alan Webb Mitsubishi",
-    "url": "WWW.ALANWEBBMITSUBISHI.COM",
+    "url": "www.alanwebbmitsubishi.com",
     "telephone": "(360)256-0506",
     "faxNumber": "(360)256-0455",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "VANCOUVER",
-      "streetAddress": "3608A NE AUTO MALL DRIVE",
+      "addressLocality": "Vancouver",
+      "streetAddress": "3608A Ne Auto Mall Drive",
       "postalCode": "98662",
       "addressRegion": "WA"
     },
@@ -1773,13 +1773,13 @@
   },
   {
     "name": "Luther Brookdale Mitsubishi",
-    "url": "WWW.BROOKDALE-MITSUBISHI.COM",
+    "url": "www.brookdale-mitsubishi.com",
     "telephone": "(763)566-5600",
     "faxNumber": "(763)566-6161",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BROOKLYN CENTER",
-      "streetAddress": "7235 BROOKLYN BLVD.",
+      "addressLocality": "Brooklyn Center",
+      "streetAddress": "7235 Brooklyn Blvd.",
       "postalCode": "55429-1243",
       "addressRegion": "MN"
     },
@@ -1791,13 +1791,13 @@
   },
   {
     "name": "Joe Pecheles Mitsubishi",
-    "url": "WWW.JOEPECHELESMITSUBISHI.COM",
+    "url": "www.joepechelesmitsubishi.com",
     "telephone": "(252)756-1135",
     "faxNumber": "(252)756-8051",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GREENVILLE",
-      "streetAddress": "203 EAST GREENVILLE BLVD",
+      "addressLocality": "Greenville",
+      "streetAddress": "203 East Greenville Blvd",
       "postalCode": "27858",
       "addressRegion": "NC"
     },
@@ -1809,13 +1809,13 @@
   },
   {
     "name": "Poway Mitsubishi",
-    "url": "WWW.POWAYMITSUBISHI.COM",
+    "url": "www.powaymitsubishi.com",
     "telephone": "(858)486-6560",
     "faxNumber": "(858)486-4985",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "POWAY",
-      "streetAddress": "13910 POWAY ROAD",
+      "addressLocality": "Poway",
+      "streetAddress": "13910 Poway Road",
       "postalCode": "92064",
       "addressRegion": "CA"
     },
@@ -1827,13 +1827,13 @@
   },
   {
     "name": "Skyline Mitsubishi",
-    "url": "WWW.SKYLINEMITSUBISHI.COM",
+    "url": "www.skylinemitsubishi.com",
     "telephone": "(303)465-5512",
     "faxNumber": "(303)410-1018",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "THORNTON",
-      "streetAddress": "2040 W. 104TH AVE.",
+      "addressLocality": "Thornton",
+      "streetAddress": "2040 W. 104Th Ave.",
       "postalCode": "80234",
       "addressRegion": "CO"
     },
@@ -1845,13 +1845,13 @@
   },
   {
     "name": "White Bear Mitsubishi",
-    "url": "WWW.WHITEBEARMITSU.COM",
+    "url": "www.whitebearmitsu.com",
     "telephone": "(651)483-9106",
     "faxNumber": "(651)483-8649",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WHITE BEAR LAKE",
-      "streetAddress": "3400 HIGHWAY 61 NORTH",
+      "addressLocality": "White Bear Lake",
+      "streetAddress": "3400 Highway 61 North",
       "postalCode": "55110",
       "addressRegion": "MN"
     },
@@ -1863,13 +1863,13 @@
   },
   {
     "name": "Jerry's Mitsubishi",
-    "url": "WWW.JERRYSMITSUBISHI.COM",
+    "url": "www.jerrysmitsubishi.com",
     "telephone": "(410)668-4200",
     "faxNumber": "(410)661-1182",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BALTIMORE",
-      "streetAddress": "1906 E. JOPPA ROAD",
+      "addressLocality": "Baltimore",
+      "streetAddress": "1906 E. Joppa Road",
       "postalCode": "21234-2730",
       "addressRegion": "MD"
     },
@@ -1881,13 +1881,13 @@
   },
   {
     "name": "Alan Vines Mitsubishi",
-    "url": "WWW.ALANVINESMITSUBISHI.COM",
+    "url": "www.alanvinesmitsubishi.com",
     "telephone": "(731)664-8500",
     "faxNumber": "(731)664-3096",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "JACKSON",
-      "streetAddress": "1607 U.S. HIGHWAY 45 BYPASS",
+      "addressLocality": "Jackson",
+      "streetAddress": "1607 U.S. Highway 45 Bypass",
       "postalCode": "38305",
       "addressRegion": "TN"
     },
@@ -1899,13 +1899,13 @@
   },
   {
     "name": "Roger Beasley Mitsubishi South",
-    "url": "WWW.BEASLEYMITSUBISHISOUTH.COM",
+    "url": "www.beasleymitsubishisouth.com",
     "telephone": "(512)949-5999",
     "faxNumber": "(512)912-2165",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AUSTIN",
-      "streetAddress": "1120 SHELBY LANE",
+      "addressLocality": "Austin",
+      "streetAddress": "1120 Shelby Lane",
       "postalCode": "78745",
       "addressRegion": "TX"
     },
@@ -1917,13 +1917,13 @@
   },
   {
     "name": "San Rafael Mitsubishi",
-    "url": "WWW.SANRAFAELMITSUBISHI.COM",
+    "url": "www.sanrafaelmitsubishi.com",
     "telephone": "(415)454-7000",
     "faxNumber": "(415)454-4378",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN RAFAEL",
-      "streetAddress": "807 EAST FRANCISCO BLVD.",
+      "addressLocality": "San Rafael",
+      "streetAddress": "807 East Francisco Blvd.",
       "postalCode": "94901",
       "addressRegion": "CA"
     },
@@ -1935,13 +1935,13 @@
   },
   {
     "name": "Victorville Mitsubishi",
-    "url": "WWW.VICTORVILLEMITSUBISHI.COM",
+    "url": "www.victorvillemitsubishi.com",
     "telephone": "(760)955-2700",
     "faxNumber": "(760)241-5050",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "VICTORVILLE",
-      "streetAddress": "15529 RAMONA AVE",
+      "addressLocality": "Victorville",
+      "streetAddress": "15529 Ramona Ave",
       "postalCode": "92392",
       "addressRegion": "CA"
     },
@@ -1953,13 +1953,13 @@
   },
   {
     "name": "Walker Mitsubishi-Oh",
-    "url": "WWW.WALKERMITSUBISHI.COM",
+    "url": "www.walkermitsubishi.com",
     "telephone": "(937)433-4950",
     "faxNumber": "(937)433-8851",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MIAMISBURG",
-      "streetAddress": "8457 SPRINGBORO PIKE",
+      "addressLocality": "Miamisburg",
+      "streetAddress": "8457 Springboro Pike",
       "postalCode": "45342-4403",
       "addressRegion": "OH"
     },
@@ -1971,13 +1971,13 @@
   },
   {
     "name": "Courtesy Mitsubishi-Nv",
-    "url": "WWW.HENDERSONMITSUBISHI.COM/",
+    "url": "www.hendersonmitsubishi.com/",
     "telephone": "(702)567-8000",
     "faxNumber": "(702)564-8349",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HENDERSON",
-      "streetAddress": "260 N. GIBSON",
+      "addressLocality": "Henderson",
+      "streetAddress": "260 N. Gibson",
       "postalCode": "89014-6700",
       "addressRegion": "NV"
     },
@@ -1989,13 +1989,13 @@
   },
   {
     "name": "Parkway Mitsubishi-Ga",
-    "url": "WWW.PARKWAYMITSU.COM",
+    "url": "www.parkwaymitsu.com",
     "telephone": "(706)882-2990",
     "faxNumber": "(706)845-8511",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LA GRANGE",
-      "streetAddress": "1327 LAFAYETTE PARKWAY",
+      "addressLocality": "La Grange",
+      "streetAddress": "1327 Lafayette Parkway",
       "postalCode": "30241",
       "addressRegion": "GA"
     },
@@ -2007,13 +2007,13 @@
   },
   {
     "name": "Jubilee Mitsubishi",
-    "url": "WWW.JUBILEEMITSUBISHI.COM",
+    "url": "www.jubileemitsubishi.com",
     "telephone": "(254)752-2886",
     "faxNumber": "(254)752-0171",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WACO",
-      "streetAddress": "4717 W. WACO DRIVE",
+      "addressLocality": "Waco",
+      "streetAddress": "4717 W. Waco Drive",
       "postalCode": "76710",
       "addressRegion": "TX"
     },
@@ -2025,13 +2025,13 @@
   },
   {
     "name": "Lasorsa Mitsubishi",
-    "url": "WWW.LASORSAMITSUBISHI.COM",
+    "url": "www.lasorsamitsubishi.com",
     "telephone": "(718)654-7200",
     "faxNumber": "(718)475-5376",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BRONX",
-      "streetAddress": "3522 WEBSTER AVENUE",
+      "addressLocality": "Bronx",
+      "streetAddress": "3522 Webster Avenue",
       "postalCode": "10467",
       "addressRegion": "NY"
     },
@@ -2043,13 +2043,13 @@
   },
   {
     "name": "Mission Mitsubishi",
-    "url": "WWW.MISSIONMITSUBISHI.COM",
+    "url": "www.missionmitsubishi.com",
     "telephone": "(210)342-2886",
     "faxNumber": "(210)967-2026",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN ANTONIO",
-      "streetAddress": "9800 SAN PEDRO AVENUE",
+      "addressLocality": "San Antonio",
+      "streetAddress": "9800 San Pedro Avenue",
       "postalCode": "78216",
       "addressRegion": "TX"
     },
@@ -2061,13 +2061,13 @@
   },
   {
     "name": "Northtowne Mitsubishi",
-    "url": "WWW.NORTHTOWNEMITSUBISHI.COM",
+    "url": "www.northtownemitsubishi.com",
     "telephone": "(816)453-3710",
     "faxNumber": "(816)459-7138",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KANSAS CITY",
-      "streetAddress": "101 NORTH EAST VIVION ROAD",
+      "addressLocality": "Kansas City",
+      "streetAddress": "101 North East Vivion Road",
       "postalCode": "64118-4506",
       "addressRegion": "MO"
     },
@@ -2079,13 +2079,13 @@
   },
   {
     "name": "All Star Mitsubishi-Tx",
-    "url": "WWW.ALLSTARMITSUBISHI.NET",
+    "url": "www.allstarmitsubishi.net",
     "telephone": "(361)814-1000",
     "faxNumber": "(361)852-1000",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CORPUS CHRISTI",
-      "streetAddress": "2440 SOUTH PADRE ISLAND DRIVE",
+      "addressLocality": "Corpus Christi",
+      "streetAddress": "2440 South Padre Island Drive",
       "postalCode": "78415",
       "addressRegion": "TX"
     },
@@ -2097,13 +2097,13 @@
   },
   {
     "name": "Clay Cooley Mitsubishi Arlington",
-    "url": "ARLINGTONMITSUBISHI.CLAYCOOLEY.COM",
+    "url": "arlingtonmitsubishi.claycooley.com",
     "telephone": "(817)465-1212",
     "faxNumber": "(817)375-4590",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ARLINGTON",
-      "streetAddress": "1500 INTERSTATE HWY 20 WEST",
+      "addressLocality": "Arlington",
+      "streetAddress": "1500 Interstate Hwy 20 West",
       "postalCode": "76017",
       "addressRegion": "TX"
     },
@@ -2115,13 +2115,13 @@
   },
   {
     "name": "Hub Mitsubishi Katy",
-    "url": "WWW.KATYHUBMITSUBISHI.COM",
+    "url": "www.katyhubmitsubishi.com",
     "telephone": "(281)664-6260",
     "faxNumber": "(281)829-5422",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOUSTON",
-      "streetAddress": "17007 KATY FREEWAY",
+      "addressLocality": "Houston",
+      "streetAddress": "17007 Katy Freeway",
       "postalCode": "77094",
       "addressRegion": "TX"
     },
@@ -2133,13 +2133,13 @@
   },
   {
     "name": "Gainesville Mitsubishi",
-    "url": "WWW.GAINESVILLEMITSUBISHI.COM",
+    "url": "www.gainesvillemitsubishi.com",
     "telephone": "(352)642-1355",
     "faxNumber": "(352)380-0806",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GAINESVILLE",
-      "streetAddress": "2110 N. MAIN STREET",
+      "addressLocality": "Gainesville",
+      "streetAddress": "2110 N. Main Street",
       "postalCode": "32609",
       "addressRegion": "FL"
     },
@@ -2151,13 +2151,13 @@
   },
   {
     "name": "Springfield Mitsubishi Mo",
-    "url": "WWW.SPRINGFIELDMITSUBISHI.COM",
+    "url": "www.springfieldmitsubishi.com",
     "telephone": "(417)886-6000",
     "faxNumber": "(417)877-9104",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SPRINGFIELD",
-      "streetAddress": "3145 S. CAMPBELL",
+      "addressLocality": "Springfield",
+      "streetAddress": "3145 S. Campbell",
       "postalCode": "65807",
       "addressRegion": "MO"
     },
@@ -2169,13 +2169,13 @@
   },
   {
     "name": "Port Richey Mitsubishi",
-    "url": "WWW.PORTRICHEYMITSUBISHI.COM",
+    "url": "www.portricheymitsubishi.com",
     "telephone": "(727)245-1100",
     "faxNumber": "(727)226-1055",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PORT RICHEY",
-      "streetAddress": "10821 U.S. HIGHWAY 19",
+      "addressLocality": "Port Richey",
+      "streetAddress": "10821 U.S. Highway 19",
       "postalCode": "34668",
       "addressRegion": "FL"
     },
@@ -2187,13 +2187,13 @@
   },
   {
     "name": "Schaller Mitsubishi",
-    "url": "WWW.SCHALLERMITSUBISHI.COM",
+    "url": "www.schallermitsubishi.com",
     "telephone": "(860)826-2066",
     "faxNumber": "(860)826-2039",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NEW BRITAIN",
-      "streetAddress": "25 VETERANS DRIVE",
+      "addressLocality": "New Britain",
+      "streetAddress": "25 Veterans Drive",
       "postalCode": "06051-4005",
       "addressRegion": "CT"
     },
@@ -2205,13 +2205,13 @@
   },
   {
     "name": "Burdick Mitsubishi",
-    "url": "MITSUBISHI.DRIVERSVILLAGE.COM",
+    "url": "mitsubishi.driversvillage.com",
     "telephone": "(315)453-9901",
     "faxNumber": "(315)453-9904",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CICERO",
-      "streetAddress": "5885 E. CIRCLE DRIVE",
+      "addressLocality": "Cicero",
+      "streetAddress": "5885 E. Circle Drive",
       "postalCode": "13039-0000",
       "addressRegion": "NY"
     },
@@ -2223,13 +2223,13 @@
   },
   {
     "name": "Hoover Mitsubishi Charleston",
-    "url": "WWW.HOOVERMITSUBISHI.COM",
+    "url": "www.hoovermitsubishi.com",
     "telephone": "(843)763-0040",
     "faxNumber": "(843)769-2681",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHARLESTON",
-      "streetAddress": "2250 SAVANNAH HIGHWAY",
+      "addressLocality": "Charleston",
+      "streetAddress": "2250 Savannah Highway",
       "postalCode": "29414",
       "addressRegion": "SC"
     },
@@ -2241,13 +2241,13 @@
   },
   {
     "name": "Nashua Mitsubishi",
-    "url": "WWW.NASHUAMITSUBISHI.COM",
+    "url": "www.nashuamitsubishi.com",
     "telephone": "(603)888-8080",
     "faxNumber": "(603)891-3512",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NASHUA",
-      "streetAddress": "5 ROCKNE DRIVE",
+      "addressLocality": "Nashua",
+      "streetAddress": "5 Rockne Drive",
       "postalCode": "03060-5236",
       "addressRegion": "NH"
     },
@@ -2259,13 +2259,13 @@
   },
   {
     "name": "Ft. Walton Mitsubishi",
-    "url": "WWW.FWBMITSUBISHI.COM",
+    "url": "www.fwbmitsubishi.com",
     "telephone": "(850)863-9900",
     "faxNumber": "(850)863-9911",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FT. WALTON BEACH",
-      "streetAddress": "350 BEAL PARKWAY",
+      "addressLocality": "Ft. Walton Beach",
+      "streetAddress": "350 Beal Parkway",
       "postalCode": "32547",
       "addressRegion": "FL"
     },
@@ -2277,13 +2277,13 @@
   },
   {
     "name": "Moses Mitsubishi",
-    "url": "WWW.MOSESMITSUBISHI.COM",
+    "url": "www.mosesmitsubishi.com",
     "telephone": "(304)736-5291",
     "faxNumber": "(304)736-4901",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HUNTINGTON",
-      "streetAddress": "5200 ROUTE 60 EAST",
+      "addressLocality": "Huntington",
+      "streetAddress": "5200 Route 60 East",
       "postalCode": "25702-2023",
       "addressRegion": "WV"
     },
@@ -2295,13 +2295,13 @@
   },
   {
     "name": "Precision Mitsubishi",
-    "url": "WWW.PRECISIONMITSUBISHI.COM",
+    "url": "www.precisionmitsubishi.com",
     "telephone": "(813)397-5200",
     "faxNumber": "(813)397-5205",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TAMPA",
-      "streetAddress": "4636 N. DALE MABRY HIGHWAY",
+      "addressLocality": "Tampa",
+      "streetAddress": "4636 N. Dale Mabry Highway",
       "postalCode": "33614",
       "addressRegion": "FL"
     },
@@ -2313,13 +2313,13 @@
   },
   {
     "name": "Huntington Beach Mitsubishi",
-    "url": "WWW.HBMITSU.COM",
+    "url": "www.hbmitsu.com",
     "telephone": "(714)375-9493",
     "faxNumber": "(714)500-1232",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HUNTINGTON BEACH",
-      "streetAddress": "16751 BEACH BLVD.",
+      "addressLocality": "Huntington Beach",
+      "streetAddress": "16751 Beach Blvd.",
       "postalCode": "92647",
       "addressRegion": "CA"
     },
@@ -2331,13 +2331,13 @@
   },
   {
     "name": "Mark Mitsubishi-Az",
-    "url": "WWW.MARKMITSUBISHIPHOENIX.COM",
+    "url": "www.markmitsubishiphoenix.com",
     "telephone": "(602)283-5100",
     "faxNumber": "(623)934-1113",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PHOENIX",
-      "streetAddress": "1901 E. BELL ROAD",
+      "addressLocality": "Phoenix",
+      "streetAddress": "1901 E. Bell Road",
       "postalCode": "85022",
       "addressRegion": "AZ"
     },
@@ -2349,13 +2349,13 @@
   },
   {
     "name": "Mcclinton Mitsubishi",
-    "url": "WWW.MCCLINTONMITSU.COM",
+    "url": "www.mcclintonmitsu.com",
     "telephone": "(304)422-6501",
     "faxNumber": "(304)485-8197",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PARKERSBURG",
-      "streetAddress": "1429 SEVENTH STREET",
+      "addressLocality": "Parkersburg",
+      "streetAddress": "1429 Seventh Street",
       "postalCode": "26101-5060",
       "addressRegion": "WV"
     },
@@ -2367,13 +2367,13 @@
   },
   {
     "name": "Barberino Mitsubishi",
-    "url": "WWW.BARBERINOMITSUBISHI.COM",
+    "url": "www.barberinomitsubishi.com",
     "telephone": "(860)631-7111",
     "faxNumber": "(203)774-0366",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WATERTOWN",
-      "streetAddress": "702-724 STRAITS TURNPIKE",
+      "addressLocality": "Watertown",
+      "streetAddress": "702-724 Straits Turnpike",
       "postalCode": "06795",
       "addressRegion": "CT"
     },
@@ -2385,13 +2385,13 @@
   },
   {
     "name": "Sunnyside Mitsubishi",
-    "url": "WWW.SUNNYSIDEMITSUBISHI.COM",
+    "url": "www.sunnysidemitsubishi.com",
     "telephone": "(440)243-7711",
     "faxNumber": "(440)243-8576",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MIDDLEBURG HEIGHTS",
-      "streetAddress": "7629 PEARL ROAD",
+      "addressLocality": "Middleburg Heights",
+      "streetAddress": "7629 Pearl Road",
       "postalCode": "44130",
       "addressRegion": "OH"
     },
@@ -2403,13 +2403,13 @@
   },
   {
     "name": "Kelly Mitsubishi-Tn",
-    "url": "WWW.KELLY-MITSUBISHI.COM",
+    "url": "www.kelly-mitsubishi.com",
     "telephone": "(423)490-0181",
     "faxNumber": "(423)265-6938",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHATTANOOGA",
-      "streetAddress": "900 RIVERFRONT PARKWAY",
+      "addressLocality": "Chattanooga",
+      "streetAddress": "900 Riverfront Parkway",
       "postalCode": "37402",
       "addressRegion": "TN"
     },
@@ -2421,13 +2421,13 @@
   },
   {
     "name": "Auburn Valley Mitsubishi",
-    "url": "WWW.AUBURNVALLEYMITSUBISHI.COM",
+    "url": "www.auburnvalleymitsubishi.com",
     "telephone": "(866)289-3095",
     "faxNumber": "(253)939-1360",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AUBURN",
-      "streetAddress": "3317 AUBURN WAY NORTH",
+      "addressLocality": "Auburn",
+      "streetAddress": "3317 Auburn Way North",
       "postalCode": "98002-1804",
       "addressRegion": "WA"
     },
@@ -2439,13 +2439,13 @@
   },
   {
     "name": "City Mitsubishi-Fl",
-    "url": "WWW.CITYMITSUBISHI.COM",
+    "url": "www.citymitsubishi.com",
     "telephone": "(904)565-2489",
     "faxNumber": "(904)620-8035",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "JACKSONVILLE",
-      "streetAddress": "10575 ATLANTIC BOULEVARD",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "10575 Atlantic Boulevard",
       "postalCode": "32225",
       "addressRegion": "FL"
     },
@@ -2457,13 +2457,13 @@
   },
   {
     "name": "Moran Mitsubishi",
-    "url": "WWW.MORANMITSUBISHI.COM",
+    "url": "www.moranmitsubishi.com",
     "telephone": "(248)353-0910",
     "faxNumber": "(248)355-7654",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SOUTHFIELD",
-      "streetAddress": "29310 TELEGRAPH ROAD",
+      "addressLocality": "Southfield",
+      "streetAddress": "29310 Telegraph Road",
       "postalCode": "48034-1341",
       "addressRegion": "MI"
     },
@@ -2475,13 +2475,13 @@
   },
   {
     "name": "Tony Mangino Mitsubishi",
-    "url": "WWW.TONYMANGINO.COM",
+    "url": "www.tonymangino.com",
     "telephone": "(518)373-4100",
     "faxNumber": "(518)373-9345",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CLIFTON PARK",
-      "streetAddress": "1658 ROUTE 9",
+      "addressLocality": "Clifton Park",
+      "streetAddress": "1658 Route 9",
       "postalCode": "12065",
       "addressRegion": "NY"
     },
@@ -2493,13 +2493,13 @@
   },
   {
     "name": "Steven Mitsubishi",
-    "url": "WWW.STEVENMITSUBISHI.COM",
+    "url": "www.stevenmitsubishi.com",
     "telephone": "(316)652-2155",
     "faxNumber": "(316)652-2117",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WICHITA",
-      "streetAddress": "6601 E. KELLOGG",
+      "addressLocality": "Wichita",
+      "streetAddress": "6601 E. Kellogg",
       "postalCode": "67207-3010",
       "addressRegion": "KS"
     },
@@ -2511,13 +2511,13 @@
   },
   {
     "name": "York Mitsubishi",
-    "url": "WWW.YORKMITSUBISHI.COM",
+    "url": "www.yorkmitsubishi.com",
     "telephone": "(717)846-2222",
     "faxNumber": "(717)854-4564",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "YORK",
-      "streetAddress": "1301 ROOSEVELT AVENUE",
+      "addressLocality": "York",
+      "streetAddress": "1301 Roosevelt Avenue",
       "postalCode": "17404-2204",
       "addressRegion": "PA"
     },
@@ -2529,13 +2529,13 @@
   },
   {
     "name": "Don Robinson Mitsubishi",
-    "url": "WWW.DONROBINSONMOTORS.COM",
+    "url": "www.donrobinsonmotors.com",
     "telephone": "(320)654-1310",
     "faxNumber": "(320)654-0076",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ST. CLOUD",
-      "streetAddress": "3605 W. ST. GERMAIN STREET",
+      "addressLocality": "St. Cloud",
+      "streetAddress": "3605 W. St. Germain Street",
       "postalCode": "56301",
       "addressRegion": "MN"
     },
@@ -2547,13 +2547,13 @@
   },
   {
     "name": "Interstate Mitsubishi",
-    "url": "WWW.INTERSTATEMITSUBISHI.COM",
+    "url": "www.interstatemitsubishi.com",
     "telephone": "(814)866-7222",
     "faxNumber": "(814)864-3282",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ERIE",
-      "streetAddress": "6969 EDINBORO ROAD",
+      "addressLocality": "Erie",
+      "streetAddress": "6969 Edinboro Road",
       "postalCode": "16509",
       "addressRegion": "PA"
     },
@@ -2565,13 +2565,13 @@
   },
   {
     "name": "Richfield Bloomington Mitsubishi",
-    "url": "WWW.RICHFIELDBLOOMINGTONMITSUBISHI.COM",
+    "url": "www.richfieldbloomingtonmitsubishi.com",
     "telephone": "(952)567-7200",
     "faxNumber": "(952)224-5306",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RICHFIELD",
-      "streetAddress": "401 W. 77TH STREET",
+      "addressLocality": "Richfield",
+      "streetAddress": "401 W. 77Th Street",
       "postalCode": "55423",
       "addressRegion": "MN"
     },
@@ -2583,13 +2583,13 @@
   },
   {
     "name": "Leith Mitsubishi-Fayetteville",
-    "url": "WWW.MITSUBISHIFAYETTEVILLE.COM",
+    "url": "www.mitsubishifayetteville.com",
     "telephone": "(910)864-1449",
     "faxNumber": "(910)864-0223",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FAYETTEVILLE",
-      "streetAddress": "2012 SKIBO ROAD",
+      "addressLocality": "Fayetteville",
+      "streetAddress": "2012 Skibo Road",
       "postalCode": "28314",
       "addressRegion": "NC"
     },
@@ -2601,13 +2601,13 @@
   },
   {
     "name": "Leith Mitsubishi-Raleigh Nc",
-    "url": "WWW.LEITHMITSUBISHI.COM",
+    "url": "www.leithmitsubishi.com",
     "telephone": "(919)872-1011",
     "faxNumber": "(919)872-9728",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "RALEIGH",
-      "streetAddress": "5401 CAPITAL BOULEVARD",
+      "addressLocality": "Raleigh",
+      "streetAddress": "5401 Capital Boulevard",
       "postalCode": "27616-0000",
       "addressRegion": "NC"
     },
@@ -2619,13 +2619,13 @@
   },
   {
     "name": "Tony Domiano Mitsubishi",
-    "url": "WWW.TONYDOMIANOMITSUBISHI.COM",
+    "url": "www.tonydomianomitsubishi.com",
     "telephone": "(570)876-6000",
     "faxNumber": "(570)876-6012",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EYNON",
-      "streetAddress": "RT 6, SCRANTON-CARBONDALE HWY.",
+      "addressLocality": "Eynon",
+      "streetAddress": "Rt 6, Scranton-Carbondale Hwy.",
       "postalCode": "18403",
       "addressRegion": "PA"
     },
@@ -2637,13 +2637,13 @@
   },
   {
     "name": "Green Country Mitsubishi",
-    "url": "WWW.GCMITSUBISHI.COM",
+    "url": "www.gcmitsubishi.com",
     "telephone": "(918)364-7283",
     "faxNumber": "(918)943-3256",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BIXBY",
-      "streetAddress": "15309 S MEMORIAL DRIVE",
+      "addressLocality": "Bixby",
+      "streetAddress": "15309 S Memorial Drive",
       "postalCode": "74008",
       "addressRegion": "OK"
     },
@@ -2655,13 +2655,13 @@
   },
   {
     "name": "Gary Lang Mitsubishi",
-    "url": "WWW.GARYLANGMITSUBISHI.COM",
+    "url": "www.garylangmitsubishi.com",
     "telephone": "(815)385-2100",
     "faxNumber": "(815)385-0849",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MC HENRY",
-      "streetAddress": "1107 SOUTH RT. 31",
+      "addressLocality": "Mc Henry",
+      "streetAddress": "1107 South Rt. 31",
       "postalCode": "60050",
       "addressRegion": "IL"
     },
@@ -2677,8 +2677,8 @@
     "faxNumber": "(985)892-0509",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COVINGTON",
-      "streetAddress": "1801 N. HIGHWAY 190",
+      "addressLocality": "Covington",
+      "streetAddress": "1801 N. Highway 190",
       "postalCode": "70433",
       "addressRegion": "LA"
     },
@@ -2690,13 +2690,13 @@
   },
   {
     "name": "Gerry Lane Mitsubishi",
-    "url": "WWW.GERRYLANEMITSUBISHI.COM",
+    "url": "www.gerrylanemitsubishi.com",
     "telephone": "(225)923-6300",
     "faxNumber": "(225)923-6304",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BATON ROUGE",
-      "streetAddress": "4917 FLORIDA BLVD",
+      "addressLocality": "Baton Rouge",
+      "streetAddress": "4917 Florida Blvd",
       "postalCode": "70806",
       "addressRegion": "LA"
     },
@@ -2708,13 +2708,13 @@
   },
   {
     "name": "Tom Masano Mitsubishi",
-    "url": "WWW.TOMMASANOMITSUBISHI.COM",
+    "url": "www.tommasanomitsubishi.com",
     "telephone": "(610)921-1500",
     "faxNumber": "(610)921-1968",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "READING",
-      "streetAddress": "3814 POTTSVILLE PIKE",
+      "addressLocality": "Reading",
+      "streetAddress": "3814 Pottsville Pike",
       "postalCode": "19605-1724",
       "addressRegion": "PA"
     },
@@ -2726,13 +2726,13 @@
   },
   {
     "name": "Signature Mitsubishi",
-    "url": "WWW.SIGNATUREMITSUBISHI.COM",
+    "url": "www.signaturemitsubishi.com",
     "telephone": "(269)926-0031",
     "faxNumber": "(269)926-4836",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BENTON HARBOR",
-      "streetAddress": "680 E. NAPIER AVENUE",
+      "addressLocality": "Benton Harbor",
+      "streetAddress": "680 E. Napier Avenue",
       "postalCode": "49022",
       "addressRegion": "MI"
     },
@@ -2744,13 +2744,13 @@
   },
   {
     "name": "Wallace Mitsubishi-Kingsport",
-    "url": "WWW.WALLACEMITSUBISHICARS.COM",
+    "url": "www.wallacemitsubishicars.com",
     "telephone": "(423)288-5500",
     "faxNumber": "(423)288-2657",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KINGSPORT",
-      "streetAddress": "2733 EAST STONE DRIVE",
+      "addressLocality": "Kingsport",
+      "streetAddress": "2733 East Stone Drive",
       "postalCode": "37660",
       "addressRegion": "TN"
     },
@@ -2766,8 +2766,8 @@
     "faxNumber": "(812)331-2277",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BLOOMINGTON",
-      "streetAddress": "2200 SOUTH WALNUT",
+      "addressLocality": "Bloomington",
+      "streetAddress": "2200 South Walnut",
       "postalCode": "47401-6592",
       "addressRegion": "IN"
     },
@@ -2779,13 +2779,13 @@
   },
   {
     "name": "Mentor Mitsubishi",
-    "url": "WWW.MENTORMITSUBISHI.COM",
+    "url": "www.mentormitsubishi.com",
     "telephone": "(440)534-5000",
     "faxNumber": "(440)255-3979",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MENTOR",
-      "streetAddress": "8505 MENTOR AVENUE",
+      "addressLocality": "Mentor",
+      "streetAddress": "8505 Mentor Avenue",
       "postalCode": "44060-5818",
       "addressRegion": "OH"
     },
@@ -2797,13 +2797,13 @@
   },
   {
     "name": "Ron Marhofer Mitsubishi",
-    "url": "WWW.AKRONMITSUBISHI.COM",
+    "url": "www.akronmitsubishi.com",
     "telephone": "(330)929-7000",
     "faxNumber": "(330)923-1301",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CUYAHOGA FALLS",
-      "streetAddress": "1260 MAIN STREET",
+      "addressLocality": "Cuyahoga Falls",
+      "streetAddress": "1260 Main Street",
       "postalCode": "44221-4923",
       "addressRegion": "OH"
     },
@@ -2815,13 +2815,13 @@
   },
   {
     "name": "Della Mitsubishi",
-    "url": "WWW.DELLAMITSU.COM",
+    "url": "www.dellamitsu.com",
     "telephone": "(518)324-3323",
     "faxNumber": "(518)324-3319",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PLATTSBURGH",
-      "streetAddress": "7 DELLA DRIVE",
+      "addressLocality": "Plattsburgh",
+      "streetAddress": "7 Della Drive",
       "postalCode": "12901",
       "addressRegion": "NY"
     },
@@ -2833,13 +2833,13 @@
   },
   {
     "name": "Spitzer Mitsubishi-Sheffield",
-    "url": "WWW.SPITZERSHEFFIELD.COM",
+    "url": "www.spitzersheffield.com",
     "telephone": "(440)385-9000",
     "faxNumber": "(440)934-9310",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SHEFFIELD VILLAGE",
-      "streetAddress": "4840 TRANSPORTATION DRIVE",
+      "addressLocality": "Sheffield Village",
+      "streetAddress": "4840 Transportation Drive",
       "postalCode": "44054-0000",
       "addressRegion": "OH"
     },
@@ -2851,13 +2851,13 @@
   },
   {
     "name": "Hickory Mitsubishi",
-    "url": "WWW.HICKORYMITSUBISHI.COM",
+    "url": "www.hickorymitsubishi.com",
     "telephone": "(828)304-5500",
     "faxNumber": "(704)566-4298",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HICKORY",
-      "streetAddress": "1775 CATAWBA VALLEY BLVD., SE",
+      "addressLocality": "Hickory",
+      "streetAddress": "1775 Catawba Valley Blvd., Se",
       "postalCode": "28602",
       "addressRegion": "NC"
     },
@@ -2869,13 +2869,13 @@
   },
   {
     "name": "D & E Mitsubishi",
-    "url": "WWW.DEMITSUBISHI.COM",
+    "url": "www.demitsubishi.com",
     "telephone": "(910)799-4210",
     "faxNumber": "(910)350-1442",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WILMINGTON",
-      "streetAddress": "6220 MARKET STREET",
+      "addressLocality": "Wilmington",
+      "streetAddress": "6220 Market Street",
       "postalCode": "28405",
       "addressRegion": "NC"
     },
@@ -2887,13 +2887,13 @@
   },
   {
     "name": "Omaha Mitsubishi",
-    "url": "WWW.OMAHAMITSUBISHI.COM",
+    "url": "www.omahamitsubishi.com",
     "telephone": "(402)738-3800",
     "faxNumber": "(402)315-9418",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ELKHORN",
-      "streetAddress": "18201 BURT STREET",
+      "addressLocality": "Elkhorn",
+      "streetAddress": "18201 Burt Street",
       "postalCode": "68022",
       "addressRegion": "NE"
     },
@@ -2905,13 +2905,13 @@
   },
   {
     "name": "Lincoln Mitsubishi",
-    "url": "WWW.LINCOLNMITSUBISHI.NET",
+    "url": "www.lincolnmitsubishi.net",
     "telephone": "(402)435-3000",
     "faxNumber": "(402)435-1390",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LINCOLN",
-      "streetAddress": "3330 SUPERIOR STREET",
+      "addressLocality": "Lincoln",
+      "streetAddress": "3330 Superior Street",
       "postalCode": "68504",
       "addressRegion": "NE"
     },
@@ -2927,8 +2927,8 @@
     "faxNumber": "(607)562-8586",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ELMIRA",
-      "streetAddress": "784 COUNTRY ROUTE 64",
+      "addressLocality": "Elmira",
+      "streetAddress": "784 Country Route 64",
       "postalCode": "14903",
       "addressRegion": "NY"
     },
@@ -2940,13 +2940,13 @@
   },
   {
     "name": "Edwards Mitsubishi",
-    "url": "WWW.EDWARDSMITSUBISHI.COM/",
+    "url": "www.edwardsmitsubishi.com/",
     "telephone": "(712)366-9411",
     "faxNumber": "(712)366-7987",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COUNCIL BLUFFS",
-      "streetAddress": "1011 34TH AVENUE",
+      "addressLocality": "Council Bluffs",
+      "streetAddress": "1011 34Th Avenue",
       "postalCode": "51501",
       "addressRegion": "IA"
     },
@@ -2958,13 +2958,13 @@
   },
   {
     "name": "Lovering Mitsubishi",
-    "url": "WWW.LOVERINGMITSUBISHI.COM",
+    "url": "www.loveringmitsubishi.com",
     "telephone": "(603)225-6681",
     "faxNumber": "(603)225-3467",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CONCORD",
-      "streetAddress": "95 MANCHESTER STREET",
+      "addressLocality": "Concord",
+      "streetAddress": "95 Manchester Street",
       "postalCode": "03301",
       "addressRegion": "NH"
     },
@@ -2980,8 +2980,8 @@
     "faxNumber": "(815)229-3391",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ROCKFORD",
-      "streetAddress": "204 NORTH ALPINE ROAD",
+      "addressLocality": "Rockford",
+      "streetAddress": "204 North Alpine Road",
       "postalCode": "61107-0000",
       "addressRegion": "IL"
     },
@@ -2993,13 +2993,13 @@
   },
   {
     "name": "Keene Mitsubishi",
-    "url": "WWW.KEENEMITSU.COM",
+    "url": "www.keenemitsu.com",
     "telephone": "(603)352-7750",
     "faxNumber": "(603)357-3799",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KEENE",
-      "streetAddress": "440 WINCHESTER STREET",
+      "addressLocality": "Keene",
+      "streetAddress": "440 Winchester Street",
       "postalCode": "03431-3912",
       "addressRegion": "NH"
     },
@@ -3011,13 +3011,13 @@
   },
   {
     "name": "Bob Brady Mitsubishi",
-    "url": "WWW.BOBBRADYMITSUBISHI.COM",
+    "url": "www.bobbradymitsubishi.com",
     "telephone": "(217)876-3800",
     "faxNumber": "(217)876-3801",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DECATUR",
-      "streetAddress": "3855 E. BOYD ROAD",
+      "addressLocality": "Decatur",
+      "streetAddress": "3855 E. Boyd Road",
       "postalCode": "62521-0000",
       "addressRegion": "IL"
     },
@@ -3029,13 +3029,13 @@
   },
   {
     "name": "Autonation Mitsubishi",
-    "url": "WWW.AUTONATIONMITSUBISHI.COM",
+    "url": "www.autonationmitsubishi.com",
     "telephone": "(713)371-4444",
     "faxNumber": "(713)371-4445",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOUSTON",
-      "streetAddress": "7200 GULF FREEWAY",
+      "addressLocality": "Houston",
+      "streetAddress": "7200 Gulf Freeway",
       "postalCode": "77017",
       "addressRegion": "TX"
     },
@@ -3047,13 +3047,13 @@
   },
   {
     "name": "Big Two Mitsubishi",
-    "url": "WWW.BIGTWOMITSUBISHI.COM",
+    "url": "www.bigtwomitsubishi.com",
     "telephone": "(480)218-2000",
     "faxNumber": "(480)218-2003",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MESA",
-      "streetAddress": "6222 E. AUTOPARK DRIVE",
+      "addressLocality": "Mesa",
+      "streetAddress": "6222 E. Autopark Drive",
       "postalCode": "85206",
       "addressRegion": "AZ"
     },
@@ -3065,13 +3065,13 @@
   },
   {
     "name": "Capitol Mitsubishi",
-    "url": "WWW.CAPITOLMITSUBISHI.COM/",
+    "url": "www.capitolmitsubishi.com/",
     "telephone": "(408)264-9999",
     "faxNumber": "(408)264-9988",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN JOSE",
-      "streetAddress": "750 W. CAPITOL EXPRESSWAY",
+      "addressLocality": "San Jose",
+      "streetAddress": "750 W. Capitol Expressway",
       "postalCode": "95136",
       "addressRegion": "CA"
     },
@@ -3083,13 +3083,13 @@
   },
   {
     "name": "Quality Mitsubishi-Vt",
-    "url": "WWW.QUALITYMITSUBISHIVT.COM",
+    "url": "www.qualitymitsubishivt.com",
     "telephone": "(802)748-2209",
     "faxNumber": "(802)748-5725",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ST. JOHNSBURY",
-      "streetAddress": "36 MEMORIAL DRIVE",
+      "addressLocality": "St. Johnsbury",
+      "streetAddress": "36 Memorial Drive",
       "postalCode": "05819",
       "addressRegion": "VT"
     },
@@ -3101,13 +3101,13 @@
   },
   {
     "name": "Lou Fusz Mitsubishi-St. Peters",
-    "url": "MITSUBISHISTPETERS.FUSZ.COM",
+    "url": "mitsubishistpeters.fusz.com",
     "telephone": "(636)928-2345",
     "faxNumber": "(636)441-3432",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAINT PETERS",
-      "streetAddress": "4440 N. SERVICE ROAD",
+      "addressLocality": "Saint Peters",
+      "streetAddress": "4440 N. Service Road",
       "postalCode": "63376",
       "addressRegion": "MO"
     },
@@ -3119,13 +3119,13 @@
   },
   {
     "name": "Mark Mitsubishi-Scottsdale",
-    "url": "WWW.MARKCARS.COM",
+    "url": "www.markcars.com",
     "telephone": "(480)425-5300",
     "faxNumber": "(480)429-5858",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SCOTTSDALE",
-      "streetAddress": "6910 E. MCDOWELL ROAD",
+      "addressLocality": "Scottsdale",
+      "streetAddress": "6910 E. Mcdowell Road",
       "postalCode": "85257-0000",
       "addressRegion": "AZ"
     },
@@ -3137,13 +3137,13 @@
   },
   {
     "name": "Brandon Mitsubishi",
-    "url": "WWW.BRANDONMITSUBISHI.COM",
+    "url": "www.brandonmitsubishi.com",
     "telephone": "(813)628-4444",
     "faxNumber": "(813)628-4402",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TAMPA",
-      "streetAddress": "9915 ADAMO DRIVE EAST",
+      "addressLocality": "Tampa",
+      "streetAddress": "9915 Adamo Drive East",
       "postalCode": "33619",
       "addressRegion": "FL"
     },
@@ -3155,13 +3155,13 @@
   },
   {
     "name": "Burlington Mitsubishi",
-    "url": "WWW.MITSUBISHIVT.COM",
+    "url": "www.mitsubishivt.com",
     "telephone": "(802)865-4400",
     "faxNumber": "(802)865-1200",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SOUTH BURLINGTON",
-      "streetAddress": "1835 SHELBURNE ROAD",
+      "addressLocality": "South Burlington",
+      "streetAddress": "1835 Shelburne Road",
       "postalCode": "05403",
       "addressRegion": "VT"
     },
@@ -3173,13 +3173,13 @@
   },
   {
     "name": "El Cajon Mitsubishi",
-    "url": "WWW.ELCAJONMITSUBISHI.COM",
+    "url": "www.elcajonmitsubishi.com",
     "telephone": "(619)588-2922",
     "faxNumber": "(619)579-2409",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EL CAJON",
-      "streetAddress": "247 EL CAJON BLVD.",
+      "addressLocality": "El Cajon",
+      "streetAddress": "247 El Cajon Blvd.",
       "postalCode": "92020",
       "addressRegion": "CA"
     },
@@ -3191,13 +3191,13 @@
   },
   {
     "name": "Columbus Mitsubishi",
-    "url": "WWW.COLUMBUSGAMITSUBISHI.COM",
+    "url": "www.columbusgamitsubishi.com",
     "telephone": "(706)562-0400",
     "faxNumber": "(706)562-0419",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COLUMBUS",
-      "streetAddress": "1801 BOX ROAD",
+      "addressLocality": "Columbus",
+      "streetAddress": "1801 Box Road",
       "postalCode": "31907",
       "addressRegion": "GA"
     },
@@ -3209,13 +3209,13 @@
   },
   {
     "name": "Roswell Mitsubishi",
-    "url": "WWW.ROSWELLMITSUBISHI.COM",
+    "url": "www.roswellmitsubishi.com",
     "telephone": "(678)349-2900",
     "faxNumber": "(800)774-1356",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ROSWELL",
-      "streetAddress": "11170 ALPHARETTA HIGHWAY",
+      "addressLocality": "Roswell",
+      "streetAddress": "11170 Alpharetta Highway",
       "postalCode": "30076",
       "addressRegion": "GA"
     },
@@ -3227,13 +3227,13 @@
   },
   {
     "name": "Lewisville Mitsubishi",
-    "url": "WWW.LEWISVILLEMITSU.COM",
+    "url": "www.lewisvillemitsu.com",
     "telephone": "(972)353-9300",
     "faxNumber": "(972)219-6984",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LEWISVILLE",
-      "streetAddress": "1651 S. STEMMONS FREEWAY",
+      "addressLocality": "Lewisville",
+      "streetAddress": "1651 S. Stemmons Freeway",
       "postalCode": "75067",
       "addressRegion": "TX"
     },
@@ -3245,13 +3245,13 @@
   },
   {
     "name": "Gerald Jones Mitsubishi",
-    "url": "WWW.GERALDJONESMITSUBISHI.COM",
+    "url": "www.geraldjonesmitsubishi.com",
     "telephone": "(706)733-4140",
     "faxNumber": "(706)733-8355",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AUGUSTA",
-      "streetAddress": "2003 GORDON HIGHWAY",
+      "addressLocality": "Augusta",
+      "streetAddress": "2003 Gordon Highway",
       "postalCode": "30909",
       "addressRegion": "GA"
     },
@@ -3263,13 +3263,13 @@
   },
   {
     "name": "Schlossmann City Mitsubishi",
-    "url": "WWW.MITSUBISHIOFMILWAUKEE.COM",
+    "url": "www.mitsubishiofmilwaukee.com",
     "telephone": "(414)281-9100",
     "faxNumber": "(414)281-9130",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MILWAUKEE",
-      "streetAddress": "4640 S. 27TH STREET",
+      "addressLocality": "Milwaukee",
+      "streetAddress": "4640 S. 27Th Street",
       "postalCode": "53221",
       "addressRegion": "WI"
     },
@@ -3285,8 +3285,8 @@
     "faxNumber": "(406)656-0400",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BILLINGS",
-      "streetAddress": "2244 CENTRAL AVENUE",
+      "addressLocality": "Billings",
+      "streetAddress": "2244 Central Avenue",
       "postalCode": "59102",
       "addressRegion": "MT"
     },
@@ -3298,13 +3298,13 @@
   },
   {
     "name": "Gwinnett Mitsubishi",
-    "url": "WWW.GWINNETTMITSUBISHI.COM",
+    "url": "www.gwinnettmitsubishi.com",
     "telephone": "(678)417-2277",
     "faxNumber": "(678)957-0333",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DULUTH",
-      "streetAddress": "3285 COMMERCE AVENUE",
+      "addressLocality": "Duluth",
+      "streetAddress": "3285 Commerce Avenue",
       "postalCode": "30096",
       "addressRegion": "GA"
     },
@@ -3316,13 +3316,13 @@
   },
   {
     "name": "Fuccillo Mitsubishi",
-    "url": "WWW.FUCCILLOMITSU.COM",
+    "url": "www.fuccillomitsu.com",
     "telephone": "(315)785-0405",
     "faxNumber": "(315)788-0218",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WATERTOWN",
-      "streetAddress": "18352 U.S. ROUTE 11",
+      "addressLocality": "Watertown",
+      "streetAddress": "18352 U.S. Route 11",
       "postalCode": "13601-0029",
       "addressRegion": "NY"
     },
@@ -3334,13 +3334,13 @@
   },
   {
     "name": "Riverside Mitsubishi-Nc",
-    "url": "WWW.RIVERSIDEMITSUBISHINC.COM",
+    "url": "www.riversidemitsubishinc.com",
     "telephone": "(252)633-4411",
     "faxNumber": "(252)633-5225",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NEW BERN",
-      "streetAddress": "1307 U.S. HIGHWAY 70 E",
+      "addressLocality": "New Bern",
+      "streetAddress": "1307 U.S. Highway 70 E",
       "postalCode": "28560",
       "addressRegion": "NC"
     },
@@ -3352,13 +3352,13 @@
   },
   {
     "name": "Cbs Mitsubishi-Durham",
-    "url": "WWW.CBSQUALITYCARS.COM",
+    "url": "www.cbsqualitycars.com",
     "telephone": "(919)596-0034",
     "faxNumber": "(919)226-3378",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "DURHAM",
-      "streetAddress": "1331 S. MIAMI BLVD.",
+      "addressLocality": "Durham",
+      "streetAddress": "1331 S. Miami Blvd.",
       "postalCode": "27703",
       "addressRegion": "NC"
     },
@@ -3370,13 +3370,13 @@
   },
   {
     "name": "Bob Rohrman Mitsubishi",
-    "url": "WWW.ROHRMANMITSUBISHI.COM",
+    "url": "www.rohrmanmitsubishi.com",
     "telephone": "(765)448-1000",
     "faxNumber": "(765)448-3798",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAFAYETTE",
-      "streetAddress": "815 SAGAMORE PARKWAY SOUTH",
+      "addressLocality": "Lafayette",
+      "streetAddress": "815 Sagamore Parkway South",
       "postalCode": "47905-4730",
       "addressRegion": "IN"
     },
@@ -3388,13 +3388,13 @@
   },
   {
     "name": "Ray Skillman Mitsubishi",
-    "url": "WWW.RAYSKILLMANSOUTHSIDEMITSUBISHI.COM",
+    "url": "www.rayskillmansouthsidemitsubishi.com",
     "telephone": "(317)885-2700",
     "faxNumber": "(317)887-5180",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "INDIANAPOLIS",
-      "streetAddress": "8420 U.S. 31 SOUTH",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "8420 U.S. 31 South",
       "postalCode": "46227-6230",
       "addressRegion": "IN"
     },
@@ -3406,13 +3406,13 @@
   },
   {
     "name": "112 Mitsubishi",
-    "url": "WWW.112MITSUBISHI.COM",
+    "url": "www.112mitsubishi.com",
     "telephone": "(631)758-2277",
     "faxNumber": "(631)730-7636",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MEDFORD",
-      "streetAddress": "2004 ROUTE 112",
+      "addressLocality": "Medford",
+      "streetAddress": "2004 Route 112",
       "postalCode": "11763",
       "addressRegion": "NY"
     },
@@ -3424,13 +3424,13 @@
   },
   {
     "name": "Cortese Mitsubishi",
-    "url": "WWW.CORTESEMITSUBISHI.COM",
+    "url": "www.cortesemitsubishi.com",
     "telephone": "(585)272-1000",
     "faxNumber": "(585)272-0317",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ROCHESTER",
-      "streetAddress": "2400 W. HENRIETTA ROAD",
+      "addressLocality": "Rochester",
+      "streetAddress": "2400 W. Henrietta Road",
       "postalCode": "14623-3703",
       "addressRegion": "NY"
     },
@@ -3442,13 +3442,13 @@
   },
   {
     "name": "Sendell Mitsubishi",
-    "url": "WWW.SENDELLMITSUBISHI.COM",
+    "url": "www.sendellmitsubishi.com",
     "telephone": "(724)837-1600",
     "faxNumber": "(724)837-7240",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GREENSBURG",
-      "streetAddress": "5079 STATE ROUTE 30",
+      "addressLocality": "Greensburg",
+      "streetAddress": "5079 State Route 30",
       "postalCode": "15601",
       "addressRegion": "PA"
     },
@@ -3460,13 +3460,13 @@
   },
   {
     "name": "Waikem Mitsubishi",
-    "url": "WWW.WAIKEMMITSUBISHI.COM",
+    "url": "www.waikemmitsubishi.com",
     "telephone": "(330)478-0281",
     "faxNumber": "(330)478-1838",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MASSILLON",
-      "streetAddress": "3710 LINCOLN WAY EAST",
+      "addressLocality": "Massillon",
+      "streetAddress": "3710 Lincoln Way East",
       "postalCode": "44646-3721",
       "addressRegion": "OH"
     },
@@ -3478,13 +3478,13 @@
   },
   {
     "name": "Superior Mitsubishi-Ar",
-    "url": "WWW.SUPERIORMITSUBISHI.COM",
+    "url": "www.superiormitsubishi.com",
     "telephone": "(479)442-7800",
     "faxNumber": "(479)443-1647",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FAYETTEVILLE",
-      "streetAddress": "3195 N. COLLEGE",
+      "addressLocality": "Fayetteville",
+      "streetAddress": "3195 N. College",
       "postalCode": "72703-3506",
       "addressRegion": "AR"
     },
@@ -3496,13 +3496,13 @@
   },
   {
     "name": "Ken Garff Mitsubishi",
-    "url": "WWW.KENGARFFMITSUBISHIDOWNTOWN.COM",
+    "url": "www.kengarffmitsubishidowntown.com",
     "telephone": "(801)257-3300",
     "faxNumber": "(801)355-1332",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SALT LAKE CITY",
-      "streetAddress": "150 EAST 500 SOUTH",
+      "addressLocality": "Salt Lake City",
+      "streetAddress": "150 East 500 South",
       "postalCode": "84111-3109",
       "addressRegion": "UT"
     },
@@ -3514,13 +3514,13 @@
   },
   {
     "name": "Planet Mitsubishi-Ny",
-    "url": "WWW.PLANETMITSUBISHICARS.COM",
+    "url": "www.planetmitsubishicars.com",
     "telephone": "(516)565-2400",
     "faxNumber": "(516)565-1837",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HEMPSTEAD",
-      "streetAddress": "265 N. FRANKLIN STREET",
+      "addressLocality": "Hempstead",
+      "streetAddress": "265 N. Franklin Street",
       "postalCode": "11550",
       "addressRegion": "NY"
     },
@@ -3532,13 +3532,13 @@
   },
   {
     "name": "Matthews Mitsubishi",
-    "url": "WWW.MATTHEWSMITSUBISHI.COM",
+    "url": "www.matthewsmitsubishi.com",
     "telephone": "(607)754-2050",
     "faxNumber": "(607)754-4048",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "VESTAL",
-      "streetAddress": "2100 VESTAL PARKWAY EAST",
+      "addressLocality": "Vestal",
+      "streetAddress": "2100 Vestal Parkway East",
       "postalCode": "13850",
       "addressRegion": "NY"
     },
@@ -3550,13 +3550,13 @@
   },
   {
     "name": "Savannah Mitsubishi",
-    "url": "WWW.SAVANNAHMITSUBISHI.COM",
+    "url": "www.savannahmitsubishi.com",
     "telephone": "(912)927-4741",
     "faxNumber": "(912)925-6343",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAVANNAH",
-      "streetAddress": "8203 WHITE BLUFF ROAD",
+      "addressLocality": "Savannah",
+      "streetAddress": "8203 White Bluff Road",
       "postalCode": "31406",
       "addressRegion": "GA"
     },
@@ -3568,13 +3568,13 @@
   },
   {
     "name": "Hamburg Mitsubishi",
-    "url": "WWW.HAMBURGMITSUBISHI.COM",
+    "url": "www.hamburgmitsubishi.com",
     "telephone": "(716)646-6000",
     "faxNumber": "(716)646-1040",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HAMBURG",
-      "streetAddress": "5160 CAMP ROAD",
+      "addressLocality": "Hamburg",
+      "streetAddress": "5160 Camp Road",
       "postalCode": "14075",
       "addressRegion": "NY"
     },
@@ -3586,13 +3586,13 @@
   },
   {
     "name": "Stratham Mitsubishi",
-    "url": "WWW.STRATHAMMITSUBISHI.COM",
+    "url": "www.strathammitsubishi.com",
     "telephone": "(603)772-9378",
     "faxNumber": "(603)772-5565",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "STRATHAM",
-      "streetAddress": "50 PORTSMOUTH AVENUE",
+      "addressLocality": "Stratham",
+      "streetAddress": "50 Portsmouth Avenue",
       "postalCode": "03885",
       "addressRegion": "NH"
     },
@@ -3604,13 +3604,13 @@
   },
   {
     "name": "Jeff Schmitt Mitsubishi",
-    "url": "WWW.JEFFSCHMITTMITSUBISHI.COM",
+    "url": "www.jeffschmittmitsubishi.com",
     "telephone": "(937)878-3471",
     "faxNumber": "(937)879-1549",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FAIRBORN",
-      "streetAddress": "1045 N. CENTRAL AVENUE",
+      "addressLocality": "Fairborn",
+      "streetAddress": "1045 N. Central Avenue",
       "postalCode": "45324",
       "addressRegion": "OH"
     },
@@ -3622,13 +3622,13 @@
   },
   {
     "name": "Gillman Mitsubishi North",
-    "url": "WWW.GILLMANMITSUBISHINORTHHOUSTON.COM",
+    "url": "www.gillmanmitsubishinorthhouston.com",
     "telephone": "(281)821-2600",
     "faxNumber": "(281)209-4435",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HOUSTON",
-      "streetAddress": "18018 I-45 NORTH",
+      "addressLocality": "Houston",
+      "streetAddress": "18018 I-45 North",
       "postalCode": "77090",
       "addressRegion": "TX"
     },
@@ -3640,13 +3640,13 @@
   },
   {
     "name": "Brown Mitsubishi",
-    "url": "WWW.BROWNMITSUBISHI.COM",
+    "url": "www.brownmitsubishi.com",
     "telephone": "(419)531-0151",
     "faxNumber": "(419)578-0109",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TOLEDO",
-      "streetAddress": "5625 WEST CENTRAL AVENUE",
+      "addressLocality": "Toledo",
+      "streetAddress": "5625 West Central Avenue",
       "postalCode": "43615",
       "addressRegion": "OH"
     },
@@ -3658,13 +3658,13 @@
   },
   {
     "name": "Green Mitsubishi",
-    "url": "WWW.GREENMITSUBISHI.COM",
+    "url": "www.greenmitsubishi.com",
     "telephone": "(217)525-1222",
     "faxNumber": "(217)535-2387",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SPRINGFIELD",
-      "streetAddress": "3861 W. WABASH AVENUE",
+      "addressLocality": "Springfield",
+      "streetAddress": "3861 W. Wabash Avenue",
       "postalCode": "62707",
       "addressRegion": "IL"
     },
@@ -3676,13 +3676,13 @@
   },
   {
     "name": "South Suburban Mitsubishi Monee",
-    "url": "WWW.MONEEMITSUBISHI.COM",
+    "url": "www.moneemitsubishi.com",
     "telephone": "(708)534-0611",
     "faxNumber": "(708)534-0638",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MONEE",
-      "streetAddress": "25963 S. GOVERNOR'S HIGHWAY",
+      "addressLocality": "Monee",
+      "streetAddress": "25963 S. Governor'S Highway",
       "postalCode": "60449",
       "addressRegion": "IL"
     },
@@ -3694,13 +3694,13 @@
   },
   {
     "name": "O'brien Mitsubishi-Normal",
-    "url": "WWW.OBRIENTEAMNORMAL.COM",
+    "url": "www.obrienteamnormal.com",
     "telephone": "(309)454-1222",
     "faxNumber": "(309)454-6720",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NORMAL",
-      "streetAddress": "1601 FT. JESSE ROAD",
+      "addressLocality": "Normal",
+      "streetAddress": "1601 Ft. Jesse Road",
       "postalCode": "61761-0899",
       "addressRegion": "IL"
     },
@@ -3712,13 +3712,13 @@
   },
   {
     "name": "Atzenhoffer Mitsubishi",
-    "url": "WWW.ATZENHOFFERMITSUBISHI.COM",
+    "url": "www.atzenhoffermitsubishi.com",
     "telephone": "(361)578-0181",
     "faxNumber": "(361)578-2841",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "VICTORIA",
-      "streetAddress": "3211 N. NAVARRO",
+      "addressLocality": "Victoria",
+      "streetAddress": "3211 N. Navarro",
       "postalCode": "77901-3346",
       "addressRegion": "TX"
     },
@@ -3730,13 +3730,13 @@
   },
   {
     "name": "Mike Miller Mitsubishi",
-    "url": "WWW.MIKEMILLERMITSUBISHI.COM",
+    "url": "www.mikemillermitsubishi.com",
     "telephone": "(309)693-1222",
     "faxNumber": "(309)693-0322",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PEORIA",
-      "streetAddress": "2007 WEST PIONEER PARKWAY",
+      "addressLocality": "Peoria",
+      "streetAddress": "2007 West Pioneer Parkway",
       "postalCode": "61615-1840",
       "addressRegion": "IL"
     },
@@ -3748,13 +3748,13 @@
   },
   {
     "name": "Roseville Mitsubishi",
-    "url": "WWW.ROSEVILLEMITSUBISHI.COM",
+    "url": "www.rosevillemitsubishi.com",
     "telephone": "(916)783-1000",
     "faxNumber": "(916)783-1030",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ROSEVILLE",
-      "streetAddress": "780 AUTOMALL DRIVE",
+      "addressLocality": "Roseville",
+      "streetAddress": "780 Automall Drive",
       "postalCode": "95661",
       "addressRegion": "CA"
     },
@@ -3766,13 +3766,13 @@
   },
   {
     "name": "Avondale Mitsubishi",
-    "url": "WWW.AVONDALEMITSUBISHI.COM",
+    "url": "www.avondalemitsubishi.com",
     "telephone": "(623)299-8833",
     "faxNumber": "(877)753-7874",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AVONDALE",
-      "streetAddress": "10555 W PAPAGO FREEWAY",
+      "addressLocality": "Avondale",
+      "streetAddress": "10555 W Papago Freeway",
       "postalCode": "85323",
       "addressRegion": "AZ"
     },
@@ -3784,13 +3784,13 @@
   },
   {
     "name": "Bill Alexander Flightlne Mitsubishi",
-    "url": "WWW.FLIGHTLINEMITSUBISHI.COM",
+    "url": "www.flightlinemitsubishi.com",
     "telephone": "(928)314-3400",
     "faxNumber": "(928)317-3850",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "YUMA",
-      "streetAddress": "1350 E. 32ND STREET",
+      "addressLocality": "Yuma",
+      "streetAddress": "1350 E. 32Nd Street",
       "postalCode": "85365",
       "addressRegion": "AZ"
     },
@@ -3802,13 +3802,13 @@
   },
   {
     "name": "Cutter Mitsubishi-Aiea",
-    "url": "WWW.CUTTERMITSUBISHI.COM",
+    "url": "www.cuttermitsubishi.com",
     "telephone": "(808)564-9777",
     "faxNumber": "(808)564-9212",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AIEA",
-      "streetAddress": "98-015 KAMEHAMEHA HWY",
+      "addressLocality": "Aiea",
+      "streetAddress": "98-015 Kamehameha Hwy",
       "postalCode": "96701",
       "addressRegion": "HI"
     },
@@ -3820,13 +3820,13 @@
   },
   {
     "name": "Fountain Mitsubishi",
-    "url": "WWW.FOUNTAINMITSUBISHI.COM",
+    "url": "www.fountainmitsubishi.com",
     "telephone": "(407)240-3800",
     "faxNumber": "(407)888-1442",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ORLANDO",
-      "streetAddress": "8701 SO. ORANGE BLOSSOM TRAIL",
+      "addressLocality": "Orlando",
+      "streetAddress": "8701 So. Orange Blossom Trail",
       "postalCode": "32809-7980",
       "addressRegion": "FL"
     },
@@ -3838,13 +3838,13 @@
   },
   {
     "name": "Thornhill Mitsubishi",
-    "url": "THORNHILLMITSUBISHI.COM",
+    "url": "thornhillmitsubishi.com",
     "telephone": "(304)855-4092",
     "faxNumber": "(304)855-4013",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHAPMANVILLE",
-      "streetAddress": "U.S. RTE 119 AT TRACE FORK RD",
+      "addressLocality": "Chapmanville",
+      "streetAddress": "U.S. Rte 119 At Trace Fork Rd",
       "postalCode": "25508",
       "addressRegion": "WV"
     },
@@ -3856,13 +3856,13 @@
   },
   {
     "name": "Gillman Mitsubishi-Selma",
-    "url": "WWW.GILLMANMITSUBISHISANANTONIO.COM/",
+    "url": "www.gillmanmitsubishisanantonio.com/",
     "telephone": "(210)651-9345",
     "faxNumber": "(210)564-2802",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SELMA",
-      "streetAddress": "16040 INTERSTATE HWY 35 N.",
+      "addressLocality": "Selma",
+      "streetAddress": "16040 Interstate Hwy 35 N.",
       "postalCode": "78154",
       "addressRegion": "TX"
     },
@@ -3874,13 +3874,13 @@
   },
   {
     "name": "Cherry Hill Mitsubishi",
-    "url": "WWW.CHERRYHILLMITSUBISHI.COM",
+    "url": "www.cherryhillmitsubishi.com",
     "telephone": "(856)665-6799",
     "faxNumber": "(856)382-3426",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHERRY HILL",
-      "streetAddress": "1805 WEST MARLTON PIKE",
+      "addressLocality": "Cherry Hill",
+      "streetAddress": "1805 West Marlton Pike",
       "postalCode": "08002",
       "addressRegion": "NJ"
     },
@@ -3892,13 +3892,13 @@
   },
   {
     "name": "Fresno Mitsubishi",
-    "url": "WWW.FRESNOMITSUBISHI.COM",
+    "url": "www.fresnomitsubishi.com",
     "telephone": "(559)348-5600",
     "faxNumber": "(559)348-5639",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FRESNO",
-      "streetAddress": "5505 N. BLACKSTONE AVENUE",
+      "addressLocality": "Fresno",
+      "streetAddress": "5505 N. Blackstone Avenue",
       "postalCode": "93710",
       "addressRegion": "CA"
     },
@@ -3910,13 +3910,13 @@
   },
   {
     "name": "Lutes Mitsubishi",
-    "url": "WWW.LUTESMITSUBISHI.COM",
+    "url": "www.lutesmitsubishi.com",
     "telephone": "(916)266-6250",
     "faxNumber": "(916)266-7476",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SACRAMENTO",
-      "streetAddress": "2820 FULTON AVE",
+      "addressLocality": "Sacramento",
+      "streetAddress": "2820 Fulton Ave",
       "postalCode": "95821",
       "addressRegion": "CA"
     },
@@ -3928,13 +3928,13 @@
   },
   {
     "name": "Prestige Mitsubishi",
-    "url": "WWW.PRESTIGEMITSUBISHI.COM",
+    "url": "www.prestigemitsubishi.com",
     "telephone": "(856)629-9200",
     "faxNumber": "(856)629-1682",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TURNERSVILLE",
-      "streetAddress": "4271 BLACK HORSE PIKE",
+      "addressLocality": "Turnersville",
+      "streetAddress": "4271 Black Horse Pike",
       "postalCode": "08012-8204",
       "addressRegion": "NJ"
     },
@@ -3946,13 +3946,13 @@
   },
   {
     "name": "Fort Collins Mitsubishi",
-    "url": "WWW.FORTCOLLINSMITSUBISHI.COM",
+    "url": "www.fortcollinsmitsubishi.com",
     "telephone": "(970)286-2200",
     "faxNumber": "(970)573-3192",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FORT COLLINS",
-      "streetAddress": "2712 SOUTH COLLEGE AVENUE",
+      "addressLocality": "Fort Collins",
+      "streetAddress": "2712 South College Avenue",
       "postalCode": "80525",
       "addressRegion": "CO"
     },
@@ -3964,13 +3964,13 @@
   },
   {
     "name": "Valley Imports Mitsubishi",
-    "url": "WWW.VALLEYIMPORTSMITSUBISHI.COM",
+    "url": "www.valleyimportsmitsubishi.com",
     "telephone": "(701)277-1777",
     "faxNumber": "(701)356-8666",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FARGO",
-      "streetAddress": "402 40TH STREET, S.W.",
+      "addressLocality": "Fargo",
+      "streetAddress": "402 40Th Street, S.W.",
       "postalCode": "58103",
       "addressRegion": "ND"
     },
@@ -3982,13 +3982,13 @@
   },
   {
     "name": "Bob Penkhus Mitsubishi",
-    "url": "BOBPENKHUSMITSUBISHICOLORADOSPRINGS.CMS.DEALER.COM",
+    "url": "bobpenkhusmitsubishicoloradosprings.cms.dealer.com",
     "telephone": "(719)955-5000",
     "faxNumber": "(719)457-7232",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COLORADO SPRINGS",
-      "streetAddress": "4391 AUSTIN BLUFFS PARKWAY",
+      "addressLocality": "Colorado Springs",
+      "streetAddress": "4391 Austin Bluffs Parkway",
       "postalCode": "80918",
       "addressRegion": "CO"
     },
@@ -4000,13 +4000,13 @@
   },
   {
     "name": "Christopher's Mitsubishi",
-    "url": "WWW.CHRISTOPHERSMITSUBISHI.COM",
+    "url": "www.christophersmitsubishi.com",
     "telephone": "(303)238-7311",
     "faxNumber": "(303)238-3314",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GOLDEN",
-      "streetAddress": "16655 W. COLFAX AVENUE",
+      "addressLocality": "Golden",
+      "streetAddress": "16655 W. Colfax Avenue",
       "postalCode": "80401",
       "addressRegion": "CO"
     },
@@ -4018,13 +4018,13 @@
   },
   {
     "name": "Motor Mile Mitsubishi",
-    "url": "WWW.CHRISTIANSBURGMITSUBISHI.COM",
+    "url": "www.christiansburgmitsubishi.com",
     "telephone": "(540)381-8417",
     "faxNumber": "(540)381-8644",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CHRISTIANSBURG",
-      "streetAddress": "240 JARRETT DRIVE",
+      "addressLocality": "Christiansburg",
+      "streetAddress": "240 Jarrett Drive",
       "postalCode": "24073",
       "addressRegion": "VA"
     },
@@ -4036,13 +4036,13 @@
   },
   {
     "name": "Shirlie Slack Mitsubishi",
-    "url": "WWW.SLACKMITSUBISHI.COM",
+    "url": "www.slackmitsubishi.com",
     "telephone": "(540)898-8230",
     "faxNumber": "(540)898-0047",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FREDERICKSBURG",
-      "streetAddress": "3475 JEFFERSON DAVIS HWY",
+      "addressLocality": "Fredericksburg",
+      "streetAddress": "3475 Jefferson Davis Hwy",
       "postalCode": "22408",
       "addressRegion": "VA"
     },
@@ -4054,13 +4054,13 @@
   },
   {
     "name": "Vern Eide Mitsubishi",
-    "url": "WWW.VERNEIDEMITSUBISHI.COM",
+    "url": "www.verneidemitsubishi.com",
     "telephone": "(605)373-8111",
     "faxNumber": "(605)373-8105",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SIOUX FALLS",
-      "streetAddress": "1500 SOUTH MINNESOTA AVENUE",
+      "addressLocality": "Sioux Falls",
+      "streetAddress": "1500 South Minnesota Avenue",
       "postalCode": "57105",
       "addressRegion": "SD"
     },
@@ -4072,13 +4072,13 @@
   },
   {
     "name": "Pomoco Mitsubishi Hampton",
-    "url": "WWW.POMOCOMITSUBISHI.COM",
+    "url": "www.pomocomitsubishi.com",
     "telephone": "(757)890-8800",
     "faxNumber": "(757)825-7201",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HAMPTON",
-      "streetAddress": "4206 W. MERCURY BLVD.",
+      "addressLocality": "Hampton",
+      "streetAddress": "4206 W. Mercury Blvd.",
       "postalCode": "23666",
       "addressRegion": "VA"
     },
@@ -4090,13 +4090,13 @@
   },
   {
     "name": "Mcdonald Mitsubishi",
-    "url": "WWW.MCDONALDMITSUBISHI.COM",
+    "url": "www.mcdonaldmitsubishi.com",
     "telephone": "(303)795-1100",
     "faxNumber": "(720)420-1801",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LITTLETON",
-      "streetAddress": "6120 S BROADWAY",
+      "addressLocality": "Littleton",
+      "streetAddress": "6120 S Broadway",
       "postalCode": "80121",
       "addressRegion": "CO"
     },
@@ -4108,13 +4108,13 @@
   },
   {
     "name": "Shad Mitsubishi-Buford",
-    "url": "WWW.SHADMITSUBISHIMALLOFGEORGIA.COM",
+    "url": "www.shadmitsubishimallofgeorgia.com",
     "telephone": "(678)482-2277",
     "faxNumber": "(678)546-9200",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BUFORD",
-      "streetAddress": "3741 BUFORD DRIVE",
+      "addressLocality": "Buford",
+      "streetAddress": "3741 Buford Drive",
       "postalCode": "30519",
       "addressRegion": "GA"
     },
@@ -4126,13 +4126,13 @@
   },
   {
     "name": "Heritage Mitsubishi-Longview",
-    "url": "WWW.HERITAGEMITSUBISHI.COM",
+    "url": "www.heritagemitsubishi.com",
     "telephone": "(903)295-9200",
     "faxNumber": "(903)759-6574",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LONGVIEW",
-      "streetAddress": "912 W. LOOP 281",
+      "addressLocality": "Longview",
+      "streetAddress": "912 W. Loop 281",
       "postalCode": "75604-5016",
       "addressRegion": "TX"
     },
@@ -4144,13 +4144,13 @@
   },
   {
     "name": "Gezon Mitsubishi",
-    "url": "WWW.GEZONMITSUBISHI.COM",
+    "url": "www.gezonmitsubishi.com",
     "telephone": "(616)361-7361",
     "faxNumber": "(616)361-6634",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GRAND RAPIDS",
-      "streetAddress": "3985 PLAINFIELD N.E.",
+      "addressLocality": "Grand Rapids",
+      "streetAddress": "3985 Plainfield N.E.",
       "postalCode": "49525-1627",
       "addressRegion": "MI"
     },
@@ -4162,13 +4162,13 @@
   },
   {
     "name": "South Park Mitsubishi",
-    "url": "WWW.SOUTHPARKMITSUBISHI.COM",
+    "url": "www.southparkmitsubishi.com",
     "telephone": "(412)831-0700",
     "faxNumber": "(412)831-0886",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BETHEL PARK",
-      "streetAddress": "5172 LIBRARY ROAD ROUTE 88",
+      "addressLocality": "Bethel Park",
+      "streetAddress": "5172 Library Road Route 88",
       "postalCode": "15102-2771",
       "addressRegion": "PA"
     },
@@ -4180,13 +4180,13 @@
   },
   {
     "name": "Hampton Mitsubishi",
-    "url": "WWW.HAMPTONMITSUBISHI.COM",
+    "url": "www.hamptonmitsubishi.com",
     "telephone": "(337)988-2995",
     "faxNumber": "(337)769-7607",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAFAYETTE",
-      "streetAddress": "6171 JOHNSTON STREET",
+      "addressLocality": "Lafayette",
+      "streetAddress": "6171 Johnston Street",
       "postalCode": "70503",
       "addressRegion": "LA"
     },
@@ -4198,13 +4198,13 @@
   },
   {
     "name": "Dorsett Mitsubishi",
-    "url": "WWW.DORSETTSMITSUBISHI.COM",
+    "url": "www.dorsettsmitsubishi.com",
     "telephone": "(812)232-5500",
     "faxNumber": "(812)478-5078",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "TERRE HAUTE",
-      "streetAddress": "74 EAST SPRINGHILL DRIVE",
+      "addressLocality": "Terre Haute",
+      "streetAddress": "74 East Springhill Drive",
       "postalCode": "47802",
       "addressRegion": "IN"
     },
@@ -4216,13 +4216,13 @@
   },
   {
     "name": "Nielsen Mitsubishi",
-    "url": "WWW.NIELSENMITSUBISHI.COM",
+    "url": "www.nielsenmitsubishi.com",
     "telephone": "(219)764-5020",
     "faxNumber": "(219)764-5021",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PORTAGE",
-      "streetAddress": "5020 U.S. HIGHWAY 6",
+      "addressLocality": "Portage",
+      "streetAddress": "5020 U.S. Highway 6",
       "postalCode": "46368",
       "addressRegion": "IN"
     },
@@ -4234,13 +4234,13 @@
   },
   {
     "name": "O'daniel Mitsubishi-In",
-    "url": "WWW.ODANIELMITSU.COM",
+    "url": "www.odanielmitsu.com",
     "telephone": "(260)748-6200",
     "faxNumber": "(260)748-6373",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NEW HAVEN",
-      "streetAddress": "631 LINCOLN HIGHWAY WEST",
+      "addressLocality": "New Haven",
+      "streetAddress": "631 Lincoln Highway West",
       "postalCode": "46774-1319",
       "addressRegion": "IN"
     },
@@ -4252,13 +4252,13 @@
   },
   {
     "name": "Bob King Mitsubishi",
-    "url": "WWW.BOBKINGMITSUBISHI.COM",
+    "url": "www.bobkingmitsubishi.com",
     "telephone": "(336)397-2700",
     "faxNumber": "(336)631-3137",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WINSTON SALEM",
-      "streetAddress": "1635 SILAS CREEK PARKWAY",
+      "addressLocality": "Winston Salem",
+      "streetAddress": "1635 Silas Creek Parkway",
       "postalCode": "27127",
       "addressRegion": "NC"
     },
@@ -4274,8 +4274,8 @@
     "faxNumber": "(209)722-0049",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MERCED",
-      "streetAddress": "810 WEST MAIN STREET",
+      "addressLocality": "Merced",
+      "streetAddress": "810 West Main Street",
       "postalCode": "95340",
       "addressRegion": "CA"
     },
@@ -4287,13 +4287,13 @@
   },
   {
     "name": "Crown Mitsubishi-Fl",
-    "url": "WWW.CROWNMITSUBISHI.COM",
+    "url": "www.crownmitsubishi.com",
     "telephone": "(727)525-4990",
     "faxNumber": "(727)528-4257",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAINT PETERSBURG",
-      "streetAddress": "5400 34TH STREET NORTH",
+      "addressLocality": "Saint Petersburg",
+      "streetAddress": "5400 34Th Street North",
       "postalCode": "33714",
       "addressRegion": "FL"
     },
@@ -4309,8 +4309,8 @@
     "faxNumber": "(803)469-2606",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SUMTER",
-      "streetAddress": "2700 BROAD STREET EXTENSION",
+      "addressLocality": "Sumter",
+      "streetAddress": "2700 Broad Street Extension",
       "postalCode": "29150-1847",
       "addressRegion": "SC"
     },
@@ -4322,13 +4322,13 @@
   },
   {
     "name": "Transitowne Mitsubishi",
-    "url": "WWW.TRANSITOWNEMITSUBISHI.COM",
+    "url": "www.transitownemitsubishi.com",
     "telephone": "(716)634-3000",
     "faxNumber": "(716)632-6901",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WILLIAMSVILLE",
-      "streetAddress": "7428 TRANSIT ROAD",
+      "addressLocality": "Williamsville",
+      "streetAddress": "7428 Transit Road",
       "postalCode": "14221",
       "addressRegion": "NY"
     },
@@ -4340,13 +4340,13 @@
   },
   {
     "name": "Smith Haven Mitsubishi",
-    "url": "WWW.SMITHHAVENMITSUBISHI.COM/",
+    "url": "www.smithhavenmitsubishi.com/",
     "telephone": "(631)724-4070",
     "faxNumber": "(631)724-4077",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAINT JAMES",
-      "streetAddress": "827 JERICHO TURNPIKE",
+      "addressLocality": "Saint James",
+      "streetAddress": "827 Jericho Turnpike",
       "postalCode": "11780",
       "addressRegion": "NY"
     },
@@ -4358,13 +4358,13 @@
   },
   {
     "name": "Autonation Mitsubishi-Spokane",
-    "url": "WWW.SPOKANEVALLEYMITSUBISHI.COM",
+    "url": "www.spokanevalleymitsubishi.com",
     "telephone": "(509)927-3850",
     "faxNumber": "(509)688-8469",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SPOKANE",
-      "streetAddress": "8412 EAST SPRAGUE AVENUE",
+      "addressLocality": "Spokane",
+      "streetAddress": "8412 East Sprague Avenue",
       "postalCode": "99212-2918",
       "addressRegion": "WA"
     },
@@ -4376,13 +4376,13 @@
   },
   {
     "name": "Columbus Mitsubishi West",
-    "url": "WWW.COLUMBUSMITSU.COM",
+    "url": "www.columbusmitsu.com",
     "telephone": "(614)771-9700",
     "faxNumber": "(614)529-7316",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HILLIARD",
-      "streetAddress": "3880 FISHINGER BLVD.",
+      "addressLocality": "Hilliard",
+      "streetAddress": "3880 Fishinger Blvd.",
       "postalCode": "43026",
       "addressRegion": "OH"
     },
@@ -4394,13 +4394,13 @@
   },
   {
     "name": "Love Mitsubishi",
-    "url": "WWW.ILOVEMITSU.COM",
+    "url": "www.ilovemitsu.com",
     "telephone": "(803)407-4800",
     "faxNumber": "(803)926-7376",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CAYCE",
-      "streetAddress": "1255 KNOX ABBOTT DRIVE",
+      "addressLocality": "Cayce",
+      "streetAddress": "1255 Knox Abbott Drive",
       "postalCode": "29033",
       "addressRegion": "SC"
     },
@@ -4412,13 +4412,13 @@
   },
   {
     "name": "Concord Mitsubishi",
-    "url": "WWW.CONCORDMITSUBISHI.COM",
+    "url": "www.concordmitsubishi.com",
     "telephone": "(925)682-7100",
     "faxNumber": "(925)685-2914",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CONCORD",
-      "streetAddress": "2199 MERIDIAN PARK BLVD",
+      "addressLocality": "Concord",
+      "streetAddress": "2199 Meridian Park Blvd",
       "postalCode": "94520",
       "addressRegion": "CA"
     },
@@ -4430,13 +4430,13 @@
   },
   {
     "name": "Bronco Motors Mitsubishi",
-    "url": "WWW.BRONCOMOTORSMITSUBISHI.COM",
+    "url": "www.broncomotorsmitsubishi.com",
     "telephone": "(208)376-8510",
     "faxNumber": "(208)489-1465",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NAMPA",
-      "streetAddress": "16295 IDAHO CENTER BLVD.",
+      "addressLocality": "Nampa",
+      "streetAddress": "16295 Idaho Center Blvd.",
       "postalCode": "83687",
       "addressRegion": "ID"
     },
@@ -4448,13 +4448,13 @@
   },
   {
     "name": "Pete Moore Mitsubishi",
-    "url": "WWW.PETEMOOREMITSUBISHI.COM",
+    "url": "www.petemooremitsubishi.com",
     "telephone": "(850)457-1000",
     "faxNumber": "(850)453-3690",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PENSACOLA",
-      "streetAddress": "106 NEW WARRINGTON ROAD",
+      "addressLocality": "Pensacola",
+      "streetAddress": "106 New Warrington Road",
       "postalCode": "32506",
       "addressRegion": "FL"
     },
@@ -4466,13 +4466,13 @@
   },
   {
     "name": "Glendale Mitsubishi-Ca",
-    "url": "WWW.GLENDALEMITSUBISHI.COM",
+    "url": "www.glendalemitsubishi.com",
     "telephone": "(818)550-1500",
     "faxNumber": "(818)549-3888",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "GLENDALE",
-      "streetAddress": "1231-1235 SOUTH BRAND BLVD.",
+      "addressLocality": "Glendale",
+      "streetAddress": "1231-1235 South Brand Blvd.",
       "postalCode": "91204",
       "addressRegion": "CA"
     },
@@ -4484,13 +4484,13 @@
   },
   {
     "name": "Long Lewis Mitsubishi",
-    "url": "WWW.LONGLEWISMITSUBISHI.COM",
+    "url": "www.longlewismitsubishi.com",
     "telephone": "(256)764-3351",
     "faxNumber": "(256)768-7064",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FLORENCE",
-      "streetAddress": "1602 FLORENCE BLVD.",
+      "addressLocality": "Florence",
+      "streetAddress": "1602 Florence Blvd.",
       "postalCode": "35630",
       "addressRegion": "AL"
     },
@@ -4502,13 +4502,13 @@
   },
   {
     "name": "Koby Mitsubishi",
-    "url": "WWW.KOBYMITSUBISHI.COM",
+    "url": "www.kobymitsubishi.com",
     "telephone": "(251)478-5000",
     "faxNumber": "(251)471-9987",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MOBILE",
-      "streetAddress": "1431 E. I-65 SERVICE RD. SOUTH",
+      "addressLocality": "Mobile",
+      "streetAddress": "1431 E. I-65 Service Rd. South",
       "postalCode": "36606",
       "addressRegion": "AL"
     },
@@ -4520,13 +4520,13 @@
   },
   {
     "name": "Montgomery Mitsubishi",
-    "url": "WWW.MONTGOMERYMITSUBISHI.COM",
+    "url": "www.montgomerymitsubishi.com",
     "telephone": "(334)260-2064",
     "faxNumber": "(334)396-8692",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MONTGOMERY",
-      "streetAddress": "3000 EASTERN BYPASS",
+      "addressLocality": "Montgomery",
+      "streetAddress": "3000 Eastern Bypass",
       "postalCode": "36116",
       "addressRegion": "AL"
     },
@@ -4538,13 +4538,13 @@
   },
   {
     "name": "Quakertown Mitsubishi",
-    "url": "WWW.PERUZZIOFQUAKERTOWN.COM",
+    "url": "www.peruzziofquakertown.com",
     "telephone": "(215)536-1009",
     "faxNumber": "(215)536-6908",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "QUAKERTOWN",
-      "streetAddress": "840 S. WEST END",
+      "addressLocality": "Quakertown",
+      "streetAddress": "840 S. West End",
       "postalCode": "18951",
       "addressRegion": "PA"
     },
@@ -4556,13 +4556,13 @@
   },
   {
     "name": "Smith Mitsubishi",
-    "url": "WWW.SMITHMITSUBISHI.COM",
+    "url": "www.smithmitsubishi.com",
     "telephone": "(805)543-0832",
     "faxNumber": "(805)543-7962",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN LUIS OBISPO",
-      "streetAddress": "1219 MONTEREY STREET",
+      "addressLocality": "San Luis Obispo",
+      "streetAddress": "1219 Monterey Street",
       "postalCode": "93401",
       "addressRegion": "CA"
     },
@@ -4574,13 +4574,13 @@
   },
   {
     "name": "Salinas Mitsubishi",
-    "url": "WWW.SALINASMITSUBISHI.COM",
+    "url": "www.salinasmitsubishi.com",
     "telephone": "(831)444-9400",
     "faxNumber": "(831)444-8900",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SALINAS",
-      "streetAddress": "151 AUTO CENTER CIRCLE",
+      "addressLocality": "Salinas",
+      "streetAddress": "151 Auto Center Circle",
       "postalCode": "93907",
       "addressRegion": "CA"
     },
@@ -4592,13 +4592,13 @@
   },
   {
     "name": "Jeff Smith Mitsubishi",
-    "url": "WWW.JEFFSMITHMITSUBISHI.COM",
+    "url": "www.jeffsmithmitsubishi.com",
     "telephone": "(478)956-5000",
     "faxNumber": "(478)956-4057",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BYRON",
-      "streetAddress": "233 CHAPMAN ROAD",
+      "addressLocality": "Byron",
+      "streetAddress": "233 Chapman Road",
       "postalCode": "31008",
       "addressRegion": "GA"
     },
@@ -4610,13 +4610,13 @@
   },
   {
     "name": "Walpole Mitsubishi",
-    "url": "WWW.WALPOLEMITSUBISHI.COM",
+    "url": "www.walpolemitsubishi.com",
     "telephone": "(508)660-7000",
     "faxNumber": "(508)660-7702",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WALPOLE",
-      "streetAddress": "575 BOSTON PROVIDENCE HWY.",
+      "addressLocality": "Walpole",
+      "streetAddress": "575 Boston Providence Hwy.",
       "postalCode": "02081",
       "addressRegion": "MA"
     },
@@ -4628,13 +4628,13 @@
   },
   {
     "name": "Don Jackson Mitsubishi",
-    "url": "WWW.DONJACKSONMITSUBISHI.COM",
+    "url": "www.donjacksonmitsubishi.com",
     "telephone": "(770)969-8003",
     "faxNumber": "(770)969-8073",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "UNION CITY",
-      "streetAddress": "4000 JONESBORO ROAD",
+      "addressLocality": "Union City",
+      "streetAddress": "4000 Jonesboro Road",
       "postalCode": "30291",
       "addressRegion": "GA"
     },
@@ -4646,13 +4646,13 @@
   },
   {
     "name": "Viva Mitsubishi",
-    "url": "WWW.VIVAMITSUBISHI.COM",
+    "url": "www.vivamitsubishi.com",
     "telephone": "(915)782-1600",
     "faxNumber": "(915)782-1639",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EL PASO",
-      "streetAddress": "1145 MAGRUDER",
+      "addressLocality": "El Paso",
+      "streetAddress": "1145 Magruder",
       "postalCode": "79925",
       "addressRegion": "TX"
     },
@@ -4664,13 +4664,13 @@
   },
   {
     "name": "Marion Mitsubishi",
-    "url": "WWW.MARIONMITSUBISHI.COM",
+    "url": "www.marionmitsubishi.com",
     "telephone": "(618)969-8692",
     "faxNumber": "(618)997-6303",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MARION",
-      "streetAddress": "3209 WEST DEYOUNG",
+      "addressLocality": "Marion",
+      "streetAddress": "3209 West Deyoung",
       "postalCode": "62959-7528",
       "addressRegion": "IL"
     },
@@ -4682,13 +4682,13 @@
   },
   {
     "name": "Columbus Mitsubishi North",
-    "url": "WWW.COLUMBUSMITSU.COM",
+    "url": "www.columbusmitsu.com",
     "telephone": "(614)436-2001",
     "faxNumber": "(614)842-4116",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "COLUMBUS",
-      "streetAddress": "8600 N. HIGH STREET",
+      "addressLocality": "Columbus",
+      "streetAddress": "8600 N. High Street",
       "postalCode": "43235",
       "addressRegion": "OH"
     },
@@ -4700,13 +4700,13 @@
   },
   {
     "name": "Gladstone Mitsubishi",
-    "url": "WWW.GLADSTONEMITSUBISHI.COM",
+    "url": "www.gladstonemitsubishi.com",
     "telephone": "(503)513-6600",
     "faxNumber": "(503)513-4832",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MILWAUKIE",
-      "streetAddress": "18500 SE MCLOUGHLIN BLVD",
+      "addressLocality": "Milwaukie",
+      "streetAddress": "18500 Se Mcloughlin Blvd",
       "postalCode": "97267",
       "addressRegion": "OR"
     },
@@ -4718,13 +4718,13 @@
   },
   {
     "name": "Hurst Autoplex Mitsubishi",
-    "url": "WWW.HURSTAUTOPLEX.COM",
+    "url": "www.hurstautoplex.com",
     "telephone": "(817)595-7332",
     "faxNumber": "(817)590-9472",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HURST",
-      "streetAddress": "240 NE LOOP 820",
+      "addressLocality": "Hurst",
+      "streetAddress": "240 Ne Loop 820",
       "postalCode": "76053",
       "addressRegion": "TX"
     },
@@ -4736,13 +4736,13 @@
   },
   {
     "name": "Coastal Mitsubishi-Fl",
-    "url": "WWW.COASTALMITSU.COM",
+    "url": "www.coastalmitsu.com",
     "telephone": "(321)727-2400",
     "faxNumber": "(321)724-0902",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MELBOURNE",
-      "streetAddress": "821 W. NEW HAVEN AVENUE",
+      "addressLocality": "Melbourne",
+      "streetAddress": "821 W. New Haven Avenue",
       "postalCode": "32901-4214",
       "addressRegion": "FL"
     },
@@ -4754,13 +4754,13 @@
   },
   {
     "name": "Shaffer Mitsubishi",
-    "url": "WWW.SHAFFERMITSUBISHI.COM/",
+    "url": "www.shaffermitsubishi.com/",
     "telephone": "(219)736-2277",
     "faxNumber": "(219)738-3784",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MERRILLVILLE",
-      "streetAddress": "1000 W. U.S. HWY 30",
+      "addressLocality": "Merrillville",
+      "streetAddress": "1000 W. U.S. Hwy 30",
       "postalCode": "46410-0000",
       "addressRegion": "IN"
     },
@@ -4772,13 +4772,13 @@
   },
   {
     "name": "Palm Mitsubishi",
-    "url": "WWW.PALMMITSUBISHI.COM",
+    "url": "www.palmmitsubishi.com",
     "telephone": "(941)639-1155",
     "faxNumber": "(941)575-6718",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PUNTA GORDA",
-      "streetAddress": "1603 TAMIAMI TRAIL",
+      "addressLocality": "Punta Gorda",
+      "streetAddress": "1603 Tamiami Trail",
       "postalCode": "33950",
       "addressRegion": "FL"
     },
@@ -4790,13 +4790,13 @@
   },
   {
     "name": "Springfield Mitsubishi Pa",
-    "url": "WWW.PHILLYDRIVE.COM",
+    "url": "www.phillydrive.com",
     "telephone": "(484)574-8434",
     "faxNumber": "(484)842-1131",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SPRINGFIELD",
-      "streetAddress": "313 BALTIMORE PIKE",
+      "addressLocality": "Springfield",
+      "streetAddress": "313 Baltimore Pike",
       "postalCode": "19064",
       "addressRegion": "PA"
     },
@@ -4808,13 +4808,13 @@
   },
   {
     "name": "Lancaster Mitsubishi",
-    "url": "WWW.LANCASTERMITSUBISHI.NET/",
+    "url": "www.lancastermitsubishi.net/",
     "telephone": "(717)295-5000",
     "faxNumber": "(717)392-5727",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LANCASTER",
-      "streetAddress": "1009 N. PRINCE STREET",
+      "addressLocality": "Lancaster",
+      "streetAddress": "1009 N. Prince Street",
       "postalCode": "17603",
       "addressRegion": "PA"
     },
@@ -4826,13 +4826,13 @@
   },
   {
     "name": "Jeff D'ambrosio Of Oxfrd Mitsubishi",
-    "url": "WWW.MITSUBISHIOFOXFORD.COM",
+    "url": "www.mitsubishiofoxford.com",
     "telephone": "(610)932-4646",
     "faxNumber": "(610)932-4944",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "OXFORD",
-      "streetAddress": "2158 BALTIMORE PIKE",
+      "addressLocality": "Oxford",
+      "streetAddress": "2158 Baltimore Pike",
       "postalCode": "19363",
       "addressRegion": "PA"
     },
@@ -4844,13 +4844,13 @@
   },
   {
     "name": "Haltermans Mitsubishi",
-    "url": "WWW.HALTERMANSMITSUBISHI.COM",
+    "url": "www.haltermansmitsubishi.com",
     "telephone": "(570)421-5678",
     "faxNumber": "(570)421-8150",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EAST STROUDSBURG",
-      "streetAddress": "1752 PARADISE TRL",
+      "addressLocality": "East Stroudsburg",
+      "streetAddress": "1752 Paradise Trl",
       "postalCode": "18301",
       "addressRegion": "PA"
     },
@@ -4862,13 +4862,13 @@
   },
   {
     "name": "Orr Shreveport Mitsubishi",
-    "url": "WWW.ORRMITSUBISHI.COM",
+    "url": "www.orrmitsubishi.com",
     "telephone": "(318)798-7350",
     "faxNumber": "(318)524-3268",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SHREVEPORT",
-      "streetAddress": "8748 QUIMPER PLACE",
+      "addressLocality": "Shreveport",
+      "streetAddress": "8748 Quimper Place",
       "postalCode": "71105",
       "addressRegion": "LA"
     },
@@ -4884,8 +4884,8 @@
     "faxNumber": "(504)293-3164",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "HARVEY",
-      "streetAddress": "1712 WESTBANK EXPRESSWAY",
+      "addressLocality": "Harvey",
+      "streetAddress": "1712 Westbank Expressway",
       "postalCode": "70058",
       "addressRegion": "LA"
     },
@@ -4897,13 +4897,13 @@
   },
   {
     "name": "Casa Mitsubishi",
-    "url": "WWW.CASAWESTMITSUBISHI.COM",
+    "url": "www.casawestmitsubishi.com",
     "telephone": "(505)897-8400",
     "faxNumber": "(970)692-5484",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ALBUQUERQUE",
-      "streetAddress": "9733 COORS BLVD.",
+      "addressLocality": "Albuquerque",
+      "streetAddress": "9733 Coors Blvd.",
       "postalCode": "87114",
       "addressRegion": "NM"
     },
@@ -4915,13 +4915,13 @@
   },
   {
     "name": "Victory Mitsubishi",
-    "url": "WWW.VICTORYMITSUBISHICARS.COM",
+    "url": "www.victorymitsubishicars.com",
     "telephone": "(914)315-1550",
     "faxNumber": "(914)341-1640",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LARCHMONT",
-      "streetAddress": "2020 BOSTON POST ROAD",
+      "addressLocality": "Larchmont",
+      "streetAddress": "2020 Boston Post Road",
       "postalCode": "10538",
       "addressRegion": "NY"
     },
@@ -4933,13 +4933,13 @@
   },
   {
     "name": "Griffeth Mitsubishi",
-    "url": "WWW.GRIFFETHMITSUBISHI.COM",
+    "url": "www.griffethmitsubishi.com",
     "telephone": "(207)496-3111",
     "faxNumber": "(207)498-6510",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CARIBOU",
-      "streetAddress": "16 ACCESS HIGHWAY",
+      "addressLocality": "Caribou",
+      "streetAddress": "16 Access Highway",
       "postalCode": "04736",
       "addressRegion": "ME"
     },
@@ -4951,13 +4951,13 @@
   },
   {
     "name": "Firkins Mitsubishi",
-    "url": "WWW.FIRKINSMITSUBISHI.COM",
+    "url": "www.firkinsmitsubishi.com",
     "telephone": "(941)748-6510",
     "faxNumber": "(941)748-0893",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BRADENTON",
-      "streetAddress": "2600 FIRST STREET",
+      "addressLocality": "Bradenton",
+      "streetAddress": "2600 First Street",
       "postalCode": "34208",
       "addressRegion": "FL"
     },
@@ -4969,13 +4969,13 @@
   },
   {
     "name": "Momentum Mitsubishi",
-    "url": "WWW.MOMENTUMMITSUBISHI.COM",
+    "url": "www.momentummitsubishi.com",
     "telephone": "(707)402-5700",
     "faxNumber": "(707)402-5766",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FAIRFIELD",
-      "streetAddress": "2775 AUTO MALL PARKWAY",
+      "addressLocality": "Fairfield",
+      "streetAddress": "2775 Auto Mall Parkway",
       "postalCode": "94533",
       "addressRegion": "CA"
     },
@@ -4987,13 +4987,13 @@
   },
   {
     "name": "Jim Shorkey Mitsubishi-N.huntingdon",
-    "url": "WWW.JIMSHORKEYMITSUBISHI.COM",
+    "url": "www.jimshorkeymitsubishi.com",
     "telephone": "(724)863-0600",
     "faxNumber": "(724)861-5180",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NORTH HUNTINGDON",
-      "streetAddress": "13339 ROUTE 30",
+      "addressLocality": "North Huntingdon",
+      "streetAddress": "13339 Route 30",
       "postalCode": "15642",
       "addressRegion": "PA"
     },
@@ -5005,13 +5005,13 @@
   },
   {
     "name": "Colonial Mitsubishi-Pa",
-    "url": "WWW.COLONIALCARSMITSUBISHI.COM",
+    "url": "www.colonialcarsmitsubishi.com",
     "telephone": "(724)349-5600",
     "faxNumber": "(724)349-0660",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "INDIANA",
-      "streetAddress": "363 NORTH 4TH STREET",
+      "addressLocality": "Indiana",
+      "streetAddress": "363 North 4Th Street",
       "postalCode": "15701-2061",
       "addressRegion": "PA"
     },
@@ -5023,13 +5023,13 @@
   },
   {
     "name": "Bakersfield Mitsubishi",
-    "url": "WWW.BAKERSFIELDMITSUBISHI.COM",
+    "url": "www.bakersfieldmitsubishi.com",
     "telephone": "(661)398-9422",
     "faxNumber": "(661)617-2308",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BAKERSFIELD",
-      "streetAddress": "4600 WIBLE ROAD",
+      "addressLocality": "Bakersfield",
+      "streetAddress": "4600 Wible Road",
       "postalCode": "93313",
       "addressRegion": "CA"
     },
@@ -5041,13 +5041,13 @@
   },
   {
     "name": "Marina Mitsubishi",
-    "url": "WWW.MARINAMITSUBISHI.COM",
+    "url": "www.marinamitsubishi.com",
     "telephone": "(585)671-3000",
     "faxNumber": "(585)671-3368",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WEBSTER",
-      "streetAddress": "765 RIDGE ROAD",
+      "addressLocality": "Webster",
+      "streetAddress": "765 Ridge Road",
       "postalCode": "14580",
       "addressRegion": "NY"
     },
@@ -5059,13 +5059,13 @@
   },
   {
     "name": "Chris Auffenberg Krkwd Mitsubishi",
-    "url": "WWW.KIRKWOODMITSUBISHI.COM",
+    "url": "www.kirkwoodmitsubishi.com",
     "telephone": "(314)965-5111",
     "faxNumber": "(314)965-2028",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KIRKWOOD",
-      "streetAddress": "10760 MANCHESTER",
+      "addressLocality": "Kirkwood",
+      "streetAddress": "10760 Manchester",
       "postalCode": "63122-1309",
       "addressRegion": "MO"
     },
@@ -5077,13 +5077,13 @@
   },
   {
     "name": "Andy Mohr Mitsubishi",
-    "url": "WWW.ANDYMOHRMITSUBISHI.COM",
+    "url": "www.andymohrmitsubishi.com",
     "telephone": "(317)774-2400",
     "faxNumber": "(317)774-2388",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FISHERS",
-      "streetAddress": "13927 TRADE CENTER DR",
+      "addressLocality": "Fishers",
+      "streetAddress": "13927 Trade Center Dr",
       "postalCode": "46038",
       "addressRegion": "IN"
     },
@@ -5095,13 +5095,13 @@
   },
   {
     "name": "Ray Skillman Shadeland Mitsubishi",
-    "url": "WWW.RAYSKILLMANSHADELANDMITSUBISHI.COM",
+    "url": "www.rayskillmanshadelandmitsubishi.com",
     "telephone": "(317)352-9500",
     "faxNumber": "(317)354-2259",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "INDIANAPOLIS",
-      "streetAddress": "1300 N. SHADELAND AVENUE",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "1300 N. Shadeland Avenue",
       "postalCode": "46219",
       "addressRegion": "IN"
     },
@@ -5113,13 +5113,13 @@
   },
   {
     "name": "Showcase Mitsubishi",
-    "url": "WWW.SHOWCASEMITSUBISHI.COM",
+    "url": "www.showcasemitsubishi.com",
     "telephone": "(866)648-7848",
     "faxNumber": "(989)684-5113",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BAY CITY",
-      "streetAddress": "1242 SOUTH EUCLID AVENUE",
+      "addressLocality": "Bay City",
+      "streetAddress": "1242 South Euclid Avenue",
       "postalCode": "48706-3395",
       "addressRegion": "MI"
     },
@@ -5131,13 +5131,13 @@
   },
   {
     "name": "Ann Arbor Mitsubishi",
-    "url": "WWW.ANNARBORMITSUBISHI.COM",
+    "url": "www.annarbormitsubishi.com",
     "telephone": "(734)663-7770",
     "faxNumber": "(734)663-5460",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ANN ARBOR",
-      "streetAddress": "3975 JACKSON ROAD",
+      "addressLocality": "Ann Arbor",
+      "streetAddress": "3975 Jackson Road",
       "postalCode": "48106",
       "addressRegion": "MI"
     },
@@ -5149,13 +5149,13 @@
   },
   {
     "name": "Ray Skillman Westside Mitsubishi",
-    "url": "WWW.RAYSKILLMANMITSUBISHI.COM",
+    "url": "www.rayskillmanmitsubishi.com",
     "telephone": "(317)293-8060",
     "faxNumber": "(317)298-6357",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "INDIANAPOLIS",
-      "streetAddress": "5155 PIKE PLAZA ROAD",
+      "addressLocality": "Indianapolis",
+      "streetAddress": "5155 Pike Plaza Road",
       "postalCode": "46254-0017",
       "addressRegion": "IN"
     },
@@ -5167,13 +5167,13 @@
   },
   {
     "name": "Expressway Mitsubishi",
-    "url": "WWW.EXPRESSWAYMITSUBISHI.COM",
+    "url": "www.expresswaymitsubishi.com",
     "telephone": "(812)437-9700",
     "faxNumber": "(812)437-6938",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EVANSVILLE",
-      "streetAddress": "5511 EAST INDIANA STREET",
+      "addressLocality": "Evansville",
+      "streetAddress": "5511 East Indiana Street",
       "postalCode": "47715",
       "addressRegion": "IN"
     },
@@ -5185,13 +5185,13 @@
   },
   {
     "name": "Bryan Mitsubishi",
-    "url": "WWW.BRYANMITSUBISHI.COM",
+    "url": "www.bryanmitsubishi.com",
     "telephone": "(504)466-6100",
     "faxNumber": "(504)464-7592",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "METAIRIE",
-      "streetAddress": "8213-8701 AIRLINE DRIVE",
+      "addressLocality": "Metairie",
+      "streetAddress": "8213-8701 Airline Drive",
       "postalCode": "70003-6852",
       "addressRegion": "LA"
     },
@@ -5203,13 +5203,13 @@
   },
   {
     "name": "Bowling Green Mitsubishi",
-    "url": "WWW.BOWLINGGREENMITSUBISHI.COM",
+    "url": "www.bowlinggreenmitsubishi.com",
     "telephone": "(270)842-6323",
     "faxNumber": "(270)796-8910",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BOWLING GREEN",
-      "streetAddress": "2201 SCOTTSVILLE ROAD",
+      "addressLocality": "Bowling Green",
+      "streetAddress": "2201 Scottsville Road",
       "postalCode": "42104",
       "addressRegion": "KY"
     },
@@ -5221,13 +5221,13 @@
   },
   {
     "name": "Wantagh Mitsubishi",
-    "url": "WWW.WANTAGHMITSU.COM",
+    "url": "www.wantaghmitsu.com",
     "telephone": "(516)785-4300",
     "faxNumber": "(516)785-4827",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WANTAGH",
-      "streetAddress": "3460 SUNRISE HIGHWAY",
+      "addressLocality": "Wantagh",
+      "streetAddress": "3460 Sunrise Highway",
       "postalCode": "11793",
       "addressRegion": "NY"
     },
@@ -5239,13 +5239,13 @@
   },
   {
     "name": "Mike Smith Mitsubishi-Ky",
-    "url": "WWW.MIKESMITHMITSUBISHI.COM",
+    "url": "www.mikesmithmitsubishi.com",
     "telephone": "(270)442-5461",
     "faxNumber": "(270)408-6490",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PADUCAH",
-      "streetAddress": "2121 IRVIN COBB DRIVE",
+      "addressLocality": "Paducah",
+      "streetAddress": "2121 Irvin Cobb Drive",
       "postalCode": "42003-2143",
       "addressRegion": "KY"
     },
@@ -5257,13 +5257,13 @@
   },
   {
     "name": "Goldstein Mitsubishi Albany",
-    "url": "WWW.GOLDSTEINMITSUBISHIALBANY.COM",
+    "url": "www.goldsteinmitsubishialbany.com",
     "telephone": "(518)690-2500",
     "faxNumber": "(518)690-2110",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ALBANY",
-      "streetAddress": "1673 CENTRAL AVENUE",
+      "addressLocality": "Albany",
+      "streetAddress": "1673 Central Avenue",
       "postalCode": "12205",
       "addressRegion": "NY"
     },
@@ -5275,13 +5275,13 @@
   },
   {
     "name": "Puente Hills Mitsubishi",
-    "url": "WWW.PUENTEHILLSMITSUBISHI.COM",
+    "url": "www.puentehillsmitsubishi.com",
     "telephone": "(626)964-5111",
     "faxNumber": "(626)964-4141",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "CITY OF INDUSTRY",
-      "streetAddress": "17665 CASTLETON STREET",
+      "addressLocality": "City Of Industry",
+      "streetAddress": "17665 Castleton Street",
       "postalCode": "91748",
       "addressRegion": "CA"
     },
@@ -5293,13 +5293,13 @@
   },
   {
     "name": "Eugene Mitsubishi",
-    "url": "WWW.EUGENEMITSUBISHI.COM",
+    "url": "www.eugenemitsubishi.com",
     "telephone": "(541)342-6161",
     "faxNumber": "(541)342-5549",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "EUGENE",
-      "streetAddress": "380 GOODPASTURE ISLAND ROAD",
+      "addressLocality": "Eugene",
+      "streetAddress": "380 Goodpasture Island Road",
       "postalCode": "97401",
       "addressRegion": "OR"
     },
@@ -5311,13 +5311,13 @@
   },
   {
     "name": "Anaheim Mitsubishi",
-    "url": "WWW.ANAHEIMMITSUBISHI.COM",
+    "url": "www.anaheimmitsubishi.com",
     "telephone": "(714)533-2200",
     "faxNumber": "(714)533-2364",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ANAHEIM",
-      "streetAddress": "1300 SOUTH AUTO CENTER DRIVE",
+      "addressLocality": "Anaheim",
+      "streetAddress": "1300 South Auto Center Drive",
       "postalCode": "92806",
       "addressRegion": "CA"
     },
@@ -5329,13 +5329,13 @@
   },
   {
     "name": "Mountaineer Mitsubishi",
-    "url": "WWW.MOUNTAINEERMITSUBISHIWV.COM",
+    "url": "www.mountaineermitsubishiwv.com",
     "telephone": "(304)256-7400",
     "faxNumber": "(304)256-7421",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BECKLEY",
-      "streetAddress": "615 NORTH EISENHOWER DRIVE",
+      "addressLocality": "Beckley",
+      "streetAddress": "615 North Eisenhower Drive",
       "postalCode": "25801",
       "addressRegion": "WV"
     },
@@ -5347,13 +5347,13 @@
   },
   {
     "name": "Charleston Mitsubishi",
-    "url": "WWW.CHARLESTONMITSUBISHI.NET",
+    "url": "www.charlestonmitsubishi.net",
     "telephone": "(304)721-8316",
     "faxNumber": "(304)721-8332",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "ST. ALBANS",
-      "streetAddress": "7010 MACCORKLE AVE. S.W.",
+      "addressLocality": "St. Albans",
+      "streetAddress": "7010 Maccorkle Ave. S.W.",
       "postalCode": "25177",
       "addressRegion": "WV"
     },
@@ -5365,13 +5365,13 @@
   },
   {
     "name": "Pantili Mitsubishi",
-    "url": "WWW.PANTILIMITSUBISHI.COM/",
+    "url": "www.pantilimitsubishi.com/",
     "telephone": "(304)431-2886",
     "faxNumber": "(304)425-4437",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PRINCETON",
-      "streetAddress": "690 OAKVALE ROAD",
+      "addressLocality": "Princeton",
+      "streetAddress": "690 Oakvale Road",
       "postalCode": "24740",
       "addressRegion": "WV"
     },
@@ -5383,13 +5383,13 @@
   },
   {
     "name": "Gossett Mitsubishi",
-    "url": "WWW.MEMPHISMITSUBISHI.COM",
+    "url": "www.memphismitsubishi.com",
     "telephone": "(901)388-8989",
     "faxNumber": "(901)373-2024",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MEMPHIS",
-      "streetAddress": "1870 COVINGTON PIKE",
+      "addressLocality": "Memphis",
+      "streetAddress": "1870 Covington Pike",
       "postalCode": "38128",
       "addressRegion": "TN"
     },
@@ -5401,13 +5401,13 @@
   },
   {
     "name": "Wallace Mitsubishi Johnson City",
-    "url": "WWW.WALLACEMITSUBISHIJOHNSONCITY.COM",
+    "url": "www.wallacemitsubishijohnsoncity.com",
     "telephone": "(423)952-0888",
     "faxNumber": "(423)952-0220",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "JOHNSON CITY",
-      "streetAddress": "3101 E. OAKLAND AVENUE",
+      "addressLocality": "Johnson City",
+      "streetAddress": "3101 E. Oakland Avenue",
       "postalCode": "37601",
       "addressRegion": "TN"
     },
@@ -5419,13 +5419,13 @@
   },
   {
     "name": "Cornerstone Mitsubishi",
-    "url": "WWW.CORNERSTONEMITSUBISHI.COM/",
+    "url": "www.cornerstonemitsubishi.com/",
     "telephone": "(978)657-3939",
     "faxNumber": "(978)657-0649",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "WILMINGTON",
-      "streetAddress": "580 MAIN STREET",
+      "addressLocality": "Wilmington",
+      "streetAddress": "580 Main Street",
       "postalCode": "01887",
       "addressRegion": "MA"
     },
@@ -5437,13 +5437,13 @@
   },
   {
     "name": "Libertyville Mitsubishi",
-    "url": "WWW.LIBERTYVILLEMITSUBISHI.COM",
+    "url": "www.libertyvillemitsubishi.com",
     "telephone": "(847)816-6660",
     "faxNumber": "(847)816-6662",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LIBERTYVILLE",
-      "streetAddress": "1119 S. MILWAUKEE AVENUE",
+      "addressLocality": "Libertyville",
+      "streetAddress": "1119 S. Milwaukee Avenue",
       "postalCode": "60048-3716",
       "addressRegion": "IL"
     },
@@ -5455,13 +5455,13 @@
   },
   {
     "name": "Lone Star Mitsubishi",
-    "url": "WWW.LONESTARMITSUBISHI.NET",
+    "url": "www.lonestarmitsubishi.net",
     "telephone": "(210)821-1600",
     "faxNumber": "(210)821-1601",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "SAN ANTONIO",
-      "streetAddress": "8821 I.H. 35 SOUTH",
+      "addressLocality": "San Antonio",
+      "streetAddress": "8821 I.H. 35 South",
       "postalCode": "78211",
       "addressRegion": "TX"
     },
@@ -5477,8 +5477,8 @@
     "faxNumber": "(269)375-2058",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "KALAMAZOO",
-      "streetAddress": "4201 STADIUM DRIVE",
+      "addressLocality": "Kalamazoo",
+      "streetAddress": "4201 Stadium Drive",
       "postalCode": "49008-1427",
       "addressRegion": "MI"
     },
@@ -5490,13 +5490,13 @@
   },
   {
     "name": "Bedford Mitsubishi",
-    "url": "WWW.BEDFORDMITSUBISHI.COM",
+    "url": "www.bedfordmitsubishi.com",
     "telephone": "(440)439-0700",
     "faxNumber": "(440)703-1204",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BEDFORD",
-      "streetAddress": "18300 ROCKSIDE ROAD",
+      "addressLocality": "Bedford",
+      "streetAddress": "18300 Rockside Road",
       "postalCode": "44146",
       "addressRegion": "OH"
     },
@@ -5508,13 +5508,13 @@
   },
   {
     "name": "Secor Mitsubishi",
-    "url": "WWW.SECORMITSUBISHI.COM",
+    "url": "www.secormitsubishi.com",
     "telephone": "(860)442-3232",
     "faxNumber": "(860)442-1955",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "NEW LONDON",
-      "streetAddress": "545 BROAD STREET",
+      "addressLocality": "New London",
+      "streetAddress": "545 Broad Street",
       "postalCode": "06320",
       "addressRegion": "CT"
     },
@@ -5526,13 +5526,13 @@
   },
   {
     "name": "Basin Mitsubishi",
-    "url": "WWW.MIDLANDMITSUBISHI.COM",
+    "url": "www.midlandmitsubishi.com",
     "telephone": "(432)218-7853",
     "faxNumber": "(432)617-3218",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "MIDLAND",
-      "streetAddress": "3915 W. WALL STREET",
+      "addressLocality": "Midland",
+      "streetAddress": "3915 W. Wall Street",
       "postalCode": "79703",
       "addressRegion": "TX"
     },
@@ -5544,13 +5544,13 @@
   },
   {
     "name": "Reagor-Dykes Mitsubishi Lubbock",
-    "url": "WWW.REAGORDYKESMITSUBISHILUBBOCK.COM",
+    "url": "www.reagordykesmitsubishilubbock.com",
     "telephone": "(806)794-4040",
     "faxNumber": "(806)771-5728",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LUBBOCK",
-      "streetAddress": "6540 82ND STREET",
+      "addressLocality": "Lubbock",
+      "streetAddress": "6540 82Nd Street",
       "postalCode": "79424",
       "addressRegion": "TX"
     },
@@ -5562,13 +5562,13 @@
   },
   {
     "name": "Kinsel Mitsubishi",
-    "url": "WWW.KINSELMITSUBISHI.COM",
+    "url": "www.kinselmitsubishi.com",
     "telephone": "(409)899-4000",
     "faxNumber": "(409)924-6294",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BEAUMONT",
-      "streetAddress": "3355 EASTEX FREEWAY",
+      "addressLocality": "Beaumont",
+      "streetAddress": "3355 Eastex Freeway",
       "postalCode": "77706",
       "addressRegion": "TX"
     },
@@ -5580,13 +5580,13 @@
   },
   {
     "name": "Reagor-Dykes Mitsubishi Amarillo",
-    "url": "WWW.REAGORDYKESMITSUBISHIAMARILLO.COM",
+    "url": "www.reagordykesmitsubishiamarillo.com",
     "telephone": "(806)418-8893",
     "faxNumber": "(806)418-8896",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "AMARILLO",
-      "streetAddress": "4710 CANYON DRIVE",
+      "addressLocality": "Amarillo",
+      "streetAddress": "4710 Canyon Drive",
       "postalCode": "79109",
       "addressRegion": "TX"
     },
@@ -5598,13 +5598,13 @@
   },
   {
     "name": "Dick Shirley Mitsubishi",
-    "url": "WWW.DICKSHIRLEYMITSUBISHI.COM",
+    "url": "www.dickshirleymitsubishi.com",
     "telephone": "(336)228-0211",
     "faxNumber": "(336)222-5936",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BURLINGTON",
-      "streetAddress": "2616 ALAMANCE ROAD",
+      "addressLocality": "Burlington",
+      "streetAddress": "2616 Alamance Road",
       "postalCode": "27215",
       "addressRegion": "NC"
     },
@@ -5616,13 +5616,13 @@
   },
   {
     "name": "Clay Cooley Mitsubishi Ft. Worth",
-    "url": "WWW.FTWORTHMITSUBISHI.CLAYCOOLEY.COM",
+    "url": "www.ftworthmitsubishi.claycooley.com",
     "telephone": "(817)244-0000",
     "faxNumber": "(817)244-0007",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "FORT WORTH",
-      "streetAddress": "8900 CAMP BOWIE WEST",
+      "addressLocality": "Fort Worth",
+      "streetAddress": "8900 Camp Bowie West",
       "postalCode": "76116",
       "addressRegion": "TX"
     },
@@ -5634,13 +5634,13 @@
   },
   {
     "name": "Boardman Mitsubishi",
-    "url": "WWW.BOARDMANMITSUBISHI.COM",
+    "url": "www.boardmanmitsubishi.com",
     "telephone": "(330)726-2668",
     "faxNumber": "(330)726-0681",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "BOARDMAN",
-      "streetAddress": "883 BOARDMAN CANFIELD RD.",
+      "addressLocality": "Boardman",
+      "streetAddress": "883 Boardman Canfield Rd.",
       "postalCode": "44512",
       "addressRegion": "OH"
     },
@@ -5652,13 +5652,13 @@
   },
   {
     "name": "Desimone Mitsubishi",
-    "url": "WWW.DESIMONEMITSUBISHI.COM",
+    "url": "www.desimonemitsubishi.com",
     "telephone": "(215)744-6400",
     "faxNumber": "(215)533-0945",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "PHILADELPHIA",
-      "streetAddress": "6101 FRANKFORD AVENUE",
+      "addressLocality": "Philadelphia",
+      "streetAddress": "6101 Frankford Avenue",
       "postalCode": "19135",
       "addressRegion": "PA"
     },
@@ -5670,13 +5670,13 @@
   },
   {
     "name": "Sisbarro Mitsubishi",
-    "url": "WWW.SISBARRO-MITSUBISHI.COM",
+    "url": "www.sisbarro-mitsubishi.com",
     "telephone": "(575)524-3561",
     "faxNumber": "(575)527-3468",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "LAS CRUCES",
-      "streetAddress": "1115 S. VALLEY DRIVE",
+      "addressLocality": "Las Cruces",
+      "streetAddress": "1115 S. Valley Drive",
       "postalCode": "88005",
       "addressRegion": "NM"
     },
@@ -5688,13 +5688,13 @@
   },
   {
     "name": "Don Williamson Mitsubishi",
-    "url": "WWW.DWMITSUBISHI.COM",
+    "url": "www.dwmitsubishi.com",
     "telephone": "(910)353-7700",
     "faxNumber": "(910)577-7083",
     "address": {
       "addressCountry": "United States",
-      "addressLocality": "JACKSONVILLE",
-      "streetAddress": "312 WESTERN BLVD.",
+      "addressLocality": "Jacksonville",
+      "streetAddress": "312 Western Blvd.",
       "postalCode": "28546-0000",
       "addressRegion": "NC"
     },

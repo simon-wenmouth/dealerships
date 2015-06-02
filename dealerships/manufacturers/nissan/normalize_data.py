@@ -82,10 +82,10 @@ with open(input_name, 'r') as fd:
     dealers = json.load(fd)
     for dealer in dealers:
         address = Address(
-            streetAddress   = dealer['addressLine1'],
+            streetAddress   = dealer['addressLine1'].title(),
             addressRegion   = dealer['state'],
             postalCode      = dealer['zipCode'],
-            addressLocality = dealer['city'],
+            addressLocality = dealer['city'].title(),
             addressCountry  = 'US'
         )
         geo = GeoCoordinates(
@@ -123,7 +123,7 @@ with open(input_name, 'r') as fd:
             telephone    = dealer['phoneNumber'],
             faxNumber    = faxNumber,
             email        = email,
-            name         = dealer['name'],
+            name         = dealer['name'].title(),
             url          = url,
             department   = departments,
             address      = address,

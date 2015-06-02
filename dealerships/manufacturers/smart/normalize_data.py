@@ -36,10 +36,10 @@ with open(input_name, 'r') as fd:
     results = json.load(fd)
     for dealer in results['Result']['Dealers']:
         address = Address(
-            streetAddress   = dealer['Address'],
+            streetAddress   = dealer['Address'].title(),
             addressRegion   = dealer['State'],
             postalCode      = dealer['Zipcode'],
-            addressLocality = dealer['City'],
+            addressLocality = dealer['City'].title(),
             addressCountry  = 'US'
         )
         geo = GeoCoordinates(
@@ -52,8 +52,8 @@ with open(input_name, 'r') as fd:
         business = LocalBusiness(
             id           = dealer['DealerCode'],
             telephone    = dealer['Phone'],
-            name         = dealer['DealerName'],
-            url          = dealer['DealerWebsite'],
+            name         = dealer['DealerName'].title(),
+            url          = dealer['DealerWebsite'].lower(),
             address      = address,
             geo          = geo
         )

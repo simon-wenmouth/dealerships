@@ -34,10 +34,10 @@ with open(input_name, 'r') as fd:
     dealers = json.load(fd)
     for dealer in dealers['GetDealerLocationNewJSONResult']:
         address = Address(
-            streetAddress   = dealer['Address1'],
+            streetAddress   = dealer['Address1'].title(),
             addressRegion   = dealer['State'],
             postalCode      = dealer['Zip'],
-            addressLocality = dealer['City'],
+            addressLocality = dealer['City'].title(),
             addressCountry  = 'US'
         )
         geo = GeoCoordinates(
@@ -54,7 +54,7 @@ with open(input_name, 'r') as fd:
             id           = dealer['DealerCode'],
             telephone    = dealer['SalesPhone'],
             faxNumber    = dealer['SalesFax'],
-            name         = dealer['DealerName'],
+            name         = dealer['DealerName'].title(),
             url          = url,
             email        = email,
             address      = address,
