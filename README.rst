@@ -119,3 +119,12 @@ Changelog
 * 2015-05-31
   Created normalized JSON files.
 
+* 2015-06-01
+  Created normalized CSV files.
+
+* 2015-06-03
+  Added CSV files containing
+  - DNS record data
+  - Web sites meta-data
+  for various dealer sites I was able to identify through the DNS system.
+
