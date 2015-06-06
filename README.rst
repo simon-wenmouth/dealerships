@@ -128,3 +128,6 @@ Changelog
   - Web sites meta-data
   for various dealer sites I was able to identify through the DNS system.
 
+* 2015-06-05
+  Initial revision of dealership list that are hosted by Cobalt Nitra (4721 sites).
+
