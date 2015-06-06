@@ -63,6 +63,8 @@ for url in urls:
             print ("HTTP Error: %s [%d]" % (map_html, e.response.status_code))
         except requests.exceptions.ConnectionError:
             print ("Connect Error: %s" % map_html)
+        except Exception, e:
+            print e
 
 # combine HTML files
 
