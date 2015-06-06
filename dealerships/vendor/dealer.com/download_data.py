@@ -27,20 +27,13 @@ sites=os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..',  '..',
 
 urls = []
 
-last='www.myersvw.ca'
-
-okay=False
-
 with open(sites) as fd:
     reader = csv.DictReader(fd)
     for row in reader:
         if row['site_vendor'] == 'dealer.com' and int(row['status_code']) == 200:
             url = row['url']
             uri = urlparse(url)
-            if uri.hostname == last:
-                okay = True
-            elif okay:
-                urls.append(uri.hostname)
+            urls.append(uri.hostname)
 
 # download the data
 
