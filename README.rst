@@ -132,5 +132,6 @@ Changelog
   Initial revision of dealership list that are hosted by Cobalt Nitra (4721 sites).
 
 * 2015-06-06
-  Initial revision of dealership list that are hosted by Clickmotive (2471 sites).
+  - Initial revision of dealership list that are hosted by Clickmotive (2471 sites).
+  - Initial revision of dealership list that are hosted by Dealer.com (9731 sites).
 
