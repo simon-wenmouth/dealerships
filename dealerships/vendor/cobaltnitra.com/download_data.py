@@ -73,7 +73,8 @@ def explode(element):
         if len(text) > 0:
             data['@text'] = element.text
     for name, value in element.attrib.iteritems():
-        data[name] = value
+        if len(value) > 0:
+            data[name] = value
     for child in element.iterchildren():
         rest = explode(child)
         if child.tag in data:
