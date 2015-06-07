@@ -134,4 +134,5 @@ Changelog
 * 2015-06-06
   - Initial revision of dealership list that are hosted by Clickmotive (2471 sites).
   - Initial revision of dealership list that are hosted by Dealer.com (9731 sites).
+  - Initial revision of dealership list that are hosted by DealerFire.com (199 of 351 sites).
 
