@@ -7,7 +7,7 @@ import json
 import glob
 import errno
 import requests
-from urlparse import urlparse
+from urlparse import urlparse, parse_qs
 import lxml.html
 
 # create data directory (when missing)
@@ -104,12 +104,14 @@ for file_name in file_names:
         try:
             html = lxml.html.document_fromstring(text)
             data = {'url': url, 'address': {}, 'geo': {}, 'departments': []}
+            suck = True
             for info in html.find_class('dealer-info'):
+                suck = False
                 fail = True
                 for meta in info.iter('meta'):
                     itemprop = meta.get('itemprop')
                     content  = meta.get('content')
-                    if itemprop is not None and len(itemprop) > 0:
+                    if itemprop is not None and len(itemprop) > 0 and len(content) > 0:
                         fail = False
                         if itemprop == 'name':
                             if itemprop not in data:
@@ -138,20 +140,22 @@ for file_name in file_names:
                         city_state_zip = get_text(dept, 'dealer-city')
                         city, state_zip = city_state_zip.split(',')
                         state, zip_code = state_zip.strip().split(' ')
-                        data['address'] = {}
-                        data['address']['street_address'] = get_text(dept, 'dealer-location')
-                        data['address']['locality']       = city
-                        data['address']['region']         = state
-                        data['address']['postal_code']    = zip_code
+                        data['address']['streetAddress']   = get_text(dept, 'dealer-location')
+                        data['address']['addressLocality'] = city
+                        data['address']['addressRegion']   = state
+                        data['address']['postalCode']      = zip_code
                         latlng = get_text(dept, 'dealer-latlng')
                         if latlng:
                             lat, lng = get_lat_lng(latlng)
-                            data['geo'] = {'latitude': lat, 'longitude': lng }
+                            if len(lat) > 0 and len(lng) > 0:
+                                data['geo'] = {'latitude': lat, 'longitude': lng }
                         break
                     for cat in info.find_class('cat'):
                         department = {}
                         department['name'] = get_text(cat, 'dealer-department-name')
-                        department['telephone'] = get_text(cat, 'dealer-phone')
+                        telephone = get_text(cat, 'dealer-phone')
+                        if len(telephone) > 0:
+                            department['telephone'] = telephone
                         for box in cat.find_class('hours-box'):
                             hours = []
                             department['hours'] = hours
@@ -181,6 +185,51 @@ for file_name in file_names:
                             department['hours'] = hours
                             data['departments'].append(department)
                 break
+            if suck:
+                for info in html.find_class('com-contact-us'): # was dealer
+                    for contact in info.find_class('contact-info'):
+                        vals = []
+                        for div in contact.iter('div'):
+                            val = div.text_content()
+                            val = val.strip()
+                            val = re.sub('\s+', ' ', val)
+                            if val.find('Get Directions') == -1:
+                                vals.append(val)
+                        if len(vals) == 3:
+                            name           = vals[0]
+                            streetAddress  = vals[1]
+                            city_state_zip = vals[2]
+                            city, state_zip = city_state_zip.split(',')
+                            state, zip_code = state_zip.strip().split(' ')
+                            data['name']                       = name
+                            data['address']['streetAddress']   = streetAddress
+                            data['address']['addressLocality'] = city
+                            data['address']['addressRegion']   = state
+                            data['address']['postalCode']      = zip_code
+                        break
+                    break
+                for anchor in html.find_class('get-directions-event-target'):
+                    href = anchor.get('href')
+                    if href:
+                        text = href[href.index('?q=')+3:]
+                        if len(text) >= 3:
+                            lat, lng = get_lat_lng(text)
+                            if len(lat) > 0 and len(lng) > 0:
+                                data['geo'] = {'latitude': lat, 'longitude': lng }
+                                break
+                    break
+            if len(data['geo']) == 0:
+                for iframe in html.iter('iframe'):
+                    src = iframe.get('src')
+                    uri = urlparse(src)
+                    if uri.hostname == 'maps.google.com':
+                        src = src.replace('&amp;', '&')
+                        val = parse_qs(uri.query)
+                        if 'll' in val:
+                            lat, lng = get_lat_lng(val['ll'][0])
+                            if len(lat) > 0 and len(lng) > 0:
+                                data['geo'] = {'latitude': lat, 'longitude': lng }
+                                break
             dealers.append(data)
         except ValueError, e:
             pass
