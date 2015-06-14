@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import glob
@@ -60,5 +60,5 @@ for file_name in file_names:
                         dealers[dealer['PACode']] = dealer
 
 with open(combined_name, 'wb') as fd:
-    json.dump(list(dealers.values()), fd)
+    json.dump(list(dealers.values()), fd, sort_keys=True, indent=2)
 

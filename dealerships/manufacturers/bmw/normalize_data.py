@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 from   collections import namedtuple
@@ -20,10 +20,10 @@ Address = namedtuple('Address', ['addressCountry', 'addressLocality', 'addressRe
 OpeningHoursSpecification = namedtuple('OpeningHoursSpecification', ['opens', 'closes', 'dayOfWeek'])
 
 def ToDictionary(obj):
-    if isinstance(obj, tuple) and hasattr(obj, '_asdict'):
-        return {k: ToDictionary(v) for k, v in obj._asdict().iteritems() if v is not None}
+    if isinstance(obj, tuple):
+        return {k: ToDictionary(v) for k, v in vars(obj).items()}
     if isinstance(obj, list):
-        return map(ToDictionary, obj)
+        return list(map(ToDictionary, obj))
     else:
         return obj;
 
@@ -47,7 +47,7 @@ def FormatOpeningHours(obj):
         days = '{0}-{1}'.format(day_from[0:2], day_upto[0:2])
     else:
         days = days[0:2]
-    opens, closes = map(lambda x: time.strftime('%H:%M', time.strptime(x, '%I:%M %p')), map(lambda x: x.strip(), hours.split('-', 2)))
+    opens, closes = list(map(lambda x: time.strftime('%H:%M', time.strptime(x, '%I:%M %p')), list(map(lambda x: x.strip(), hours.split('-', 2)))))
     return '{0} {1}-{2}'.format(days, opens, closes)
 
 businesses = []
@@ -66,7 +66,7 @@ with open(input_name, 'r') as fd:
             latitude  = dealer['DefaultService']['LonLat']['Lat'],
             longitude = dealer['DefaultService']['LonLat']['Lon']
         )
-        openingHours = map(FormatOpeningHours, dealer['DefaultService']['Hours'])
+        openingHours = list(map(FormatOpeningHours, dealer['DefaultService']['Hours']))
         departments = []
         for service in dealer['Services']:
             mappings = {
@@ -80,7 +80,7 @@ with open(input_name, 'r') as fd:
                 8: "BMW i Service",
             }
             name      = mappings[int(service['ServiceType'])]
-            hours     = map(FormatOpeningHours, service['Hours'])
+            hours     = list(map(FormatOpeningHours, service['Hours']))
             telephone = service['Phone']
             faxNumber = service['Fax']
             departments.append(Department(
@@ -103,5 +103,5 @@ with open(input_name, 'r') as fd:
         businesses.append(business)
 
 with open(output_name, 'w') as fd:
-    json.dump(list(map(ToDictionary, businesses)), fd)
+    json.dump(list(map(ToDictionary, businesses)), fd, sort_keys=True, indent=2)
 

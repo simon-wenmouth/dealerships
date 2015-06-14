@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 from   collections import namedtuple
@@ -19,10 +19,10 @@ Address = namedtuple('Address', ['addressCountry', 'addressLocality', 'addressRe
 OpeningHoursSpecification = namedtuple('OpeningHoursSpecification', ['opens', 'closes', 'dayOfWeek'])
 
 def ToDictionary(obj):
-    if isinstance(obj, tuple) and hasattr(obj, '_asdict'):
-        return {k: ToDictionary(v) for k, v in obj._asdict().iteritems()}
+    if isinstance(obj, tuple):
+        return {k: ToDictionary(v) for k, v in vars(obj).items()}
     if isinstance(obj, list):
-        return map(ToDictionary, obj)
+        return list(map(ToDictionary, obj))
     else:
         return obj;
 
@@ -129,5 +129,5 @@ with open(input_name, 'r') as fd:
         businesses.append(business)
 
 with open(output_name, 'w') as fd:
-    json.dump(list(map(ToDictionary, businesses)), fd)
+    json.dump(list(map(ToDictionary, businesses)), fd, sort_keys=True, indent=2)
 

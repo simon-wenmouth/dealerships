@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import json
@@ -41,5 +41,5 @@ with open(file_name, 'r') as fd:
         print 'not xml %s' % file_name
 
 with open(combined_name, 'wb') as fd:
-    json.dump(list(dealers.values()), fd)
+    json.dump(list(dealers.values()), fd, sort_keys=True, indent=2)
 

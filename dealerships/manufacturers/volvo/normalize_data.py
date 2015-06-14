@@ -1,6 +1,7 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
+import re
 from   collections import namedtuple
 import json
 
@@ -13,10 +14,10 @@ GeoCoordinates = namedtuple('GeoCoordinates', ['latitude', 'longitude'])
 Address = namedtuple('Address', ['addressCountry', 'addressLocality', 'addressRegion', 'postalCode', 'streetAddress'])
 
 def ToDictionary(obj):
-    if isinstance(obj, tuple) and hasattr(obj, '_asdict'):
-        return {k: ToDictionary(v) for k, v in obj._asdict().iteritems() if v is not None}
+    if isinstance(obj, tuple):
+        return {k: ToDictionary(v) for k, v in vars(obj).items()}
     if isinstance(obj, list):
-        return map(ToDictionary, obj)
+        return list(map(ToDictionary, obj))
     else:
         return obj;
 
@@ -35,11 +36,13 @@ businesses = []
 with open(input_name, 'r') as fd:
     dealers = json.load(fd)
     for dealer in dealers:
-        city_state_zip = dealer['AddressLine2']
+        city_state_zip = re.sub('\\s+', ' ', dealer['AddressLine2'])
+        city, state_zip = [s.strip() for s in city_state_zip.split(',')]
+        state, zip_code = state_zip.strip().split(' ')
         address = Address(
             streetAddress   = dealer['AddressLine1'],
-            addressRegion   = city_state_zip[-8:-6],
-            postalCode      = city_state_zip[-5:],
+            addressRegion   = state,
+            postalCode      = zip_code,
             addressLocality = dealer['City'],
             addressCountry  = dealer['Country'],
         )
@@ -59,5 +62,5 @@ with open(input_name, 'r') as fd:
         businesses.append(business)
 
 with open(output_name, 'w') as fd:
-    json.dump(list(map(ToDictionary, businesses)), fd)
+    json.dump(list(map(ToDictionary, businesses)), fd, sort_keys=True, indent=2)
 
