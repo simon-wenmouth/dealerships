@@ -1,2180 +1,2180 @@
 [
   {
-    "name": "MINI of Tinley Park",
-    "url": "www.minioftinleypark.com",
-    "telephone": "8558095678",
-    "faxNumber": "7084681209",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Tinley Park",
-      "streetAddress": "8301 W. 159th St",
+      "addressRegion": "IL",
       "postalCode": "60477",
-      "addressRegion": "IL"
+      "streetAddress": "8301 W. 159th St"
     },
+    "faxNumber": "7084681209",
     "geo": {
       "latitude": "41.601866",
       "longitude": "-87.821108"
     },
-    "id": "35745"
+    "id": "35745",
+    "name": "MINI of Tinley Park",
+    "telephone": "8558095678",
+    "url": "www.minioftinleypark.com"
   },
   {
-    "name": "MINI of Chicago",
-    "url": "www.miniofchicago.com",
-    "telephone": "8777930218",
-    "faxNumber": "7739695719",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Chicago",
-      "streetAddress": "1111 W Diversey Parkway",
+      "addressRegion": "IL",
       "postalCode": "60614",
-      "addressRegion": "IL"
+      "streetAddress": "1111 W Diversey Parkway"
     },
+    "faxNumber": "7739695719",
     "geo": {
       "latitude": "41.932599",
       "longitude": "-87.656605"
     },
-    "id": "34752"
+    "id": "34752",
+    "name": "MINI of Chicago",
+    "telephone": "8777930218",
+    "url": "www.miniofchicago.com"
   },
   {
-    "name": "MINI of Plano",
-    "url": "www.miniofplano.com",
-    "telephone": "8886074233",
-    "faxNumber": "9725887490",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Plano",
-      "streetAddress": "1645 Dallas Pkwy",
+      "addressRegion": "TX",
       "postalCode": "75093",
-      "addressRegion": "TX"
+      "streetAddress": "1645 Dallas Pkwy"
     },
+    "faxNumber": "9725887490",
     "geo": {
       "latitude": "33.021907",
       "longitude": "-96.830104"
     },
-    "id": "35682"
+    "id": "35682",
+    "name": "MINI of Plano",
+    "telephone": "8886074233",
+    "url": "www.miniofplano.com"
   },
   {
-    "name": "MINI of Mt. Laurel",
-    "url": "www.miniofmtlaurel.com",
-    "telephone": "8567783000",
-    "faxNumber": "8568134620",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Mount Laurel",
-      "streetAddress": "1311 Route 73",
+      "addressRegion": "NJ",
       "postalCode": "08054",
-      "addressRegion": "NJ"
+      "streetAddress": "1311 Route 73"
     },
+    "faxNumber": "8568134620",
     "geo": {
       "latitude": "39.916994",
       "longitude": "-74.943388"
     },
-    "id": "31638"
+    "id": "31638",
+    "name": "MINI of Mt. Laurel",
+    "telephone": "8567783000",
+    "url": "www.miniofmtlaurel.com"
   },
   {
-    "name": "MINI of Des Moines",
-    "url": "www.miniofdesmoines.com",
-    "telephone": "8007247365",
-    "faxNumber": "5152539813",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Des Moines",
-      "streetAddress": "9900 Hickman Road",
+      "addressRegion": "IA",
       "postalCode": "50325",
-      "addressRegion": "IA"
+      "streetAddress": "9900 Hickman Road"
     },
+    "faxNumber": "5152539813",
     "geo": {
       "latitude": "41.614023",
       "longitude": "-93.754331"
     },
-    "id": "35298"
+    "id": "35298",
+    "name": "MINI of Des Moines",
+    "telephone": "8007247365",
+    "url": "www.miniofdesmoines.com"
   },
   {
-    "name": "MINI of Monmouth",
-    "url": "www.miniofmonmouth.com",
-    "telephone": "7324935055",
-    "faxNumber": "7329189002",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Oakhurst",
-      "streetAddress": "2127 Highway 35",
+      "addressRegion": "NJ",
       "postalCode": "07755",
-      "addressRegion": "NJ"
+      "streetAddress": "2127 Highway 35"
     },
+    "faxNumber": "7329189002",
     "geo": {
       "latitude": "40.269768",
       "longitude": "-74.041849"
     },
-    "id": "35485"
+    "id": "35485",
+    "name": "MINI of Monmouth",
+    "telephone": "7324935055",
+    "url": "www.miniofmonmouth.com"
   },
   {
-    "name": "MINI of the Fox Valley",
-    "url": "www.miniofthefoxvalley.com",
-    "telephone": "9209686464",
-    "faxNumber": "9209681100",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Appleton",
-      "streetAddress": "2986 Victory Lane",
+      "addressRegion": "WI",
       "postalCode": "54913",
-      "addressRegion": "WI"
+      "streetAddress": "2986 Victory Lane"
     },
+    "faxNumber": "9209681100",
     "geo": {
       "latitude": "44.289755",
       "longitude": "-88.470148"
     },
-    "id": "35300"
+    "id": "35300",
+    "name": "MINI of the Fox Valley",
+    "telephone": "9209686464",
+    "url": "www.miniofthefoxvalley.com"
   },
   {
-    "name": "MINI of Clear Lake",
-    "url": "www.miniclearlake.com",
-    "telephone": "8882142562",
-    "faxNumber": "2815577188",
     "address": {
       "addressCountry": "US",
       "addressLocality": "League City",
-      "streetAddress": "300 Gulf Fwy South",
+      "addressRegion": "TX",
       "postalCode": "77573",
-      "addressRegion": "TX"
+      "streetAddress": "300 Gulf Fwy South"
     },
+    "faxNumber": "2815577188",
     "geo": {
       "latitude": "29.5002",
       "longitude": "-95.111175"
     },
-    "id": "28628"
+    "id": "28628",
+    "name": "MINI of Clear Lake",
+    "telephone": "8882142562",
+    "url": "www.miniclearlake.com"
   },
   {
-    "name": "Knauz MINI",
-    "url": "www.knauz-mini.com",
-    "telephone": "8772198237",
-    "faxNumber": "8476151369",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Lake Bluff",
-      "streetAddress": "409A Skokie Hwy",
+      "addressRegion": "IL",
       "postalCode": "60044",
-      "addressRegion": "IL"
+      "streetAddress": "409A Skokie Hwy"
     },
+    "faxNumber": "8476151369",
     "geo": {
       "latitude": "42.276817",
       "longitude": "-87.869033"
     },
-    "id": "52800"
+    "id": "52800",
+    "name": "Knauz MINI",
+    "telephone": "8772198237",
+    "url": "www.knauz-mini.com"
   },
   {
-    "name": "MINI of Murray",
-    "url": "www.miniofmurray.com",
-    "telephone": "8012629475",
-    "faxNumber": "8012669039",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Murray",
-      "streetAddress": "4767 South State Street",
+      "addressRegion": "UT",
       "postalCode": "84107",
-      "addressRegion": "UT"
+      "streetAddress": "4767 South State Street"
     },
+    "faxNumber": "8012669039",
     "geo": {
       "latitude": "40.6679649",
       "longitude": "-111.8879"
     },
-    "id": "55806"
+    "id": "55806",
+    "name": "MINI of Murray",
+    "telephone": "8012629475",
+    "url": "www.miniofmurray.com"
   },
   {
-    "name": "Roadshow MINI",
-    "url": "www.roadshowmini.com",
-    "telephone": "8772209129",
-    "faxNumber": "9013652531",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Cordova",
-      "streetAddress": "405 N Germantown Pkwy",
+      "addressRegion": "TN",
       "postalCode": "38018",
-      "addressRegion": "TN"
+      "streetAddress": "405 N Germantown Pkwy"
     },
+    "faxNumber": "9013652531",
     "geo": {
       "latitude": "35.135813",
       "longitude": "-89.79615"
     },
-    "id": "56802"
+    "id": "56802",
+    "name": "Roadshow MINI",
+    "telephone": "8772209129",
+    "url": "www.roadshowmini.com"
   },
   {
-    "name": "MINI of Manhattan",
-    "url": "www.mininyc.com",
-    "telephone": "8772098598",
-    "faxNumber": "2129747403",
     "address": {
       "addressCountry": "US",
       "addressLocality": "New York",
-      "streetAddress": "793 11th Ave",
+      "addressRegion": "NY",
       "postalCode": "10019",
-      "addressRegion": "NY"
+      "streetAddress": "793 11th Ave"
     },
+    "faxNumber": "2129747403",
     "geo": {
       "latitude": "40.769086",
       "longitude": "-73.99236"
     },
-    "id": "65775"
+    "id": "65775",
+    "name": "MINI of Manhattan",
+    "telephone": "8772098598",
+    "url": "www.mininyc.com"
   },
   {
-    "name": "Motorwerks MINI",
-    "url": "www.motorwerksmini.com",
-    "telephone": "8888665870",
-    "faxNumber": "9528304810",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Golden Valley",
-      "streetAddress": "705 Louisiana Avenue South",
+      "addressRegion": "MN",
       "postalCode": "55426",
-      "addressRegion": "MN"
+      "streetAddress": "705 Louisiana Avenue South"
     },
+    "faxNumber": "9528304810",
     "geo": {
       "latitude": "44.973995",
       "longitude": "-93.370442"
     },
-    "id": "30414"
+    "id": "30414",
+    "name": "Motorwerks MINI",
+    "telephone": "8888665870",
+    "url": "www.motorwerksmini.com"
   },
   {
-    "name": "Towne MINI",
-    "url": "www.townemini.com",
-    "telephone": "7165046464",
-    "faxNumber": "7165052110",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Williamsville",
-      "streetAddress": "8240 Main Street",
+      "addressRegion": "NY",
       "postalCode": "14221",
-      "addressRegion": "NY"
+      "streetAddress": "8240 Main Street"
     },
+    "faxNumber": "7165052110",
     "geo": {
       "latitude": "42.965388",
       "longitude": "-78.687021"
     },
-    "id": "66730"
+    "id": "66730",
+    "name": "Towne MINI",
+    "telephone": "7165046464",
+    "url": "www.townemini.com"
   },
   {
-    "name": "MINI of Bedford",
-    "url": "www.minibedford.com",
-    "telephone": "6036372900",
-    "faxNumber": "6036372911",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Bedford",
-      "streetAddress": "209 S. River Rd.",
+      "addressRegion": "NH",
       "postalCode": "03110",
-      "addressRegion": "NH"
+      "streetAddress": "209 S. River Rd."
     },
+    "faxNumber": "6036372911",
     "geo": {
       "latitude": "42.943707",
       "longitude": "-71.473587"
     },
-    "id": "35023"
+    "id": "35023",
+    "name": "MINI of Bedford",
+    "telephone": "6036372900",
+    "url": "www.minibedford.com"
   },
   {
-    "name": "Otto's MINI",
-    "url": "www.ottosmini.com",
-    "telephone": "8776885787",
-    "faxNumber": "6104552825",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Exton",
-      "streetAddress": "305 W Lincoln Hwy",
+      "addressRegion": "PA",
       "postalCode": "19341",
-      "addressRegion": "PA"
+      "streetAddress": "305 W Lincoln Hwy"
     },
+    "faxNumber": "6104552825",
     "geo": {
       "latitude": "40.026494",
       "longitude": "-75.63916"
     },
-    "id": "67600"
+    "id": "67600",
+    "name": "Otto's MINI",
+    "telephone": "8776885787",
+    "url": "www.ottosmini.com"
   },
   {
-    "name": "MINI of Charleston",
-    "url": "www.miniofcharleston.com",
-    "telephone": "8665403259",
-    "faxNumber": "8435564604",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Charleston",
-      "streetAddress": "1518 Savannah Hwy",
+      "addressRegion": "SC",
       "postalCode": "29407",
-      "addressRegion": "SC"
+      "streetAddress": "1518 Savannah Hwy"
     },
+    "faxNumber": "8435564604",
     "geo": {
       "latitude": "32.7858",
       "longitude": "-80.0081"
     },
-    "id": "46826"
+    "id": "46826",
+    "name": "MINI of Charleston",
+    "telephone": "8665403259",
+    "url": "www.miniofcharleston.com"
   },
   {
-    "name": "Tom Bush MINI",
-    "url": "www.tombushmini.com",
-    "telephone": "8775570033",
-    "faxNumber": "9043714865",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Jacksonville",
-      "streetAddress": "9881 Atlantic Blvd",
+      "addressRegion": "FL",
       "postalCode": "32225",
-      "addressRegion": "FL"
+      "streetAddress": "9881 Atlantic Blvd"
     },
+    "faxNumber": "9043714865",
     "geo": {
       "latitude": "30.32265",
       "longitude": "-81.54255"
     },
-    "id": "46778"
+    "id": "46778",
+    "name": "Tom Bush MINI",
+    "telephone": "8775570033",
+    "url": "www.tombushmini.com"
   },
   {
-    "name": "MINI of Annapolis",
-    "url": "www.myminiannapolis.com",
-    "telephone": "8665858975",
-    "faxNumber": "4103492146",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Annapolis",
-      "streetAddress": "31 Old Mill Bottom Rd N",
+      "addressRegion": "MD",
       "postalCode": "21409",
-      "addressRegion": "MD"
+      "streetAddress": "31 Old Mill Bottom Rd N"
     },
+    "faxNumber": "4103492146",
     "geo": {
       "latitude": "39.0237",
       "longitude": "-76.477462"
     },
-    "id": "32146"
+    "id": "32146",
+    "name": "MINI of Annapolis",
+    "telephone": "8665858975",
+    "url": "www.myminiannapolis.com"
   },
   {
-    "name": "Braman MINI of Palm Beach",
-    "url": "www.bramanmini.com",
-    "telephone": "8772788175",
-    "faxNumber": "5616975254",
     "address": {
       "addressCountry": "US",
       "addressLocality": "West Palm Beach",
-      "streetAddress": "2901 Okeechobee Blvd",
+      "addressRegion": "FL",
       "postalCode": "33409",
-      "addressRegion": "FL"
+      "streetAddress": "2901 Okeechobee Blvd"
     },
+    "faxNumber": "5616975254",
     "geo": {
       "latitude": "26.7072",
       "longitude": "-80.0968"
     },
-    "id": "46891"
+    "id": "46891",
+    "name": "Braman MINI of Palm Beach",
+    "telephone": "8772788175",
+    "url": "www.bramanmini.com"
   },
   {
-    "name": "MINI of San Antonio",
-    "url": "www.miniofsanantonio.com",
-    "telephone": "8772919332",
-    "faxNumber": "2107852811",
     "address": {
       "addressCountry": "US",
       "addressLocality": "San Antonio",
-      "streetAddress": "8434 Airport Blvd",
+      "addressRegion": "TX",
       "postalCode": "78216",
-      "addressRegion": "TX"
+      "streetAddress": "8434 Airport Blvd"
     },
+    "faxNumber": "2107852811",
     "geo": {
       "latitude": "29.5157276",
       "longitude": "-98.4764135"
     },
-    "id": "42164"
+    "id": "42164",
+    "name": "MINI of San Antonio",
+    "telephone": "8772919332",
+    "url": "www.miniofsanantonio.com"
   },
   {
-    "name": "Vista MINI",
-    "url": "www.vistamini.com",
-    "telephone": "8772132629",
-    "faxNumber": "9549352766",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Coconut Creek",
-      "streetAddress": "4401 W Sample Rd",
+      "addressRegion": "FL",
       "postalCode": "33073",
-      "addressRegion": "FL"
+      "streetAddress": "4401 W Sample Rd"
     },
+    "faxNumber": "9549352766",
     "geo": {
       "latitude": "26.274025",
       "longitude": "-80.184316"
     },
-    "id": "46697"
+    "id": "46697",
+    "name": "Vista MINI",
+    "telephone": "8772132629",
+    "url": "www.vistamini.com"
   },
   {
-    "name": "Northwest MINI",
-    "url": "www.northwestmini.com",
-    "telephone": "8772713180",
-    "faxNumber": "2535176464",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Tacoma",
-      "streetAddress": "3901 20th St E",
+      "addressRegion": "WA",
       "postalCode": "98424",
-      "addressRegion": "WA"
+      "streetAddress": "3901 20th St E"
     },
+    "faxNumber": "2535176464",
     "geo": {
       "latitude": "47.23933",
       "longitude": "-122.374589"
     },
-    "id": "46038"
+    "id": "46038",
+    "name": "Northwest MINI",
+    "telephone": "8772713180",
+    "url": "www.northwestmini.com"
   },
   {
-    "name": "Keeler MINI",
-    "url": "www.keelermini.com",
-    "telephone": "8772099386",
-    "faxNumber": "5187854573",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Latham",
-      "streetAddress": "1111 Troy Schenectady Road",
+      "addressRegion": "NY",
       "postalCode": "12110",
-      "addressRegion": "NY"
+      "streetAddress": "1111 Troy Schenectady Road"
     },
+    "faxNumber": "5187854573",
     "geo": {
       "latitude": "42.766723",
       "longitude": "-73.814696"
     },
-    "id": "51200"
+    "id": "51200",
+    "name": "Keeler MINI",
+    "telephone": "8772099386",
+    "url": "www.keelermini.com"
   },
   {
-    "name": "Ferman MINI of Tampa Bay",
-    "url": "www.minioftampabay.com",
-    "telephone": "8888662857",
-    "faxNumber": "7277847029",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Palm Harbor",
-      "streetAddress": "31480 US Highway 19 N",
+      "addressRegion": "FL",
       "postalCode": "34684",
-      "addressRegion": "FL"
+      "streetAddress": "31480 US Highway 19 N"
     },
+    "faxNumber": "7277847029",
     "geo": {
       "latitude": "28.057795",
       "longitude": "-82.739689"
     },
-    "id": "49134"
+    "id": "49134",
+    "name": "Ferman MINI of Tampa Bay",
+    "telephone": "8888662857",
+    "url": "www.minioftampabay.com"
   },
   {
-    "name": "MINI of Montgomery County",
-    "url": "www.miniofmontgomerycounty.com",
-    "telephone": "8889843354",
-    "faxNumber": "2402381491",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Gaithersburg",
-      "streetAddress": "621 N Frederick Ave",
+      "addressRegion": "MD",
       "postalCode": "20879",
-      "addressRegion": "MD"
+      "streetAddress": "621 N Frederick Ave"
     },
+    "faxNumber": "2402381491",
     "geo": {
       "latitude": "39.154828",
       "longitude": "-77.213442"
     },
-    "id": "35299"
+    "id": "35299",
+    "name": "MINI of Montgomery County",
+    "telephone": "8889843354",
+    "url": "www.miniofmontgomerycounty.com"
   },
   {
-    "name": "MINI of Marin",
-    "url": "www.miniofmarin.com",
-    "telephone": "4157370500",
-    "faxNumber": "4157370490",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Corte Madera",
-      "streetAddress": "5880 Paradise Drive",
+      "addressRegion": "CA",
       "postalCode": "94925",
-      "addressRegion": "CA"
+      "streetAddress": "5880 Paradise Drive"
     },
+    "faxNumber": "4157370490",
     "geo": {
       "latitude": "37.926014",
       "longitude": "-122.51207"
     },
-    "id": "35687"
+    "id": "35687",
+    "name": "MINI of Marin",
+    "telephone": "4157370500",
+    "url": "www.miniofmarin.com"
   },
   {
-    "name": "MINI of Burlington",
-    "url": "www.miniofburlington.com",
-    "telephone": "8029858484",
-    "faxNumber": "8029858485",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Shelburne",
-      "streetAddress": "74 Champlain Drive",
+      "addressRegion": "VT",
       "postalCode": "05482",
-      "addressRegion": "VT"
+      "streetAddress": "74 Champlain Drive"
     },
+    "faxNumber": "8029858485",
     "geo": {
       "latitude": "44.4089719",
       "longitude": "-73.217177"
     },
-    "id": "16718"
+    "id": "16718",
+    "name": "MINI of Burlington",
+    "telephone": "8029858484",
+    "url": "www.miniofburlington.com"
   },
   {
-    "name": "MINI of Wesley Chapel",
-    "url": "www.miniofwesleychapel.com",
-    "telephone": "8139073600",
-    "faxNumber": "8139942983",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Wesley Chapel",
-      "streetAddress": "26645 State Road 56",
+      "addressRegion": "FL",
       "postalCode": "33544",
-      "addressRegion": "FL"
+      "streetAddress": "26645 State Road 56"
     },
+    "faxNumber": "8139942983",
     "geo": {
       "latitude": "28.185671",
       "longitude": "-82.35572"
     },
-    "id": "36637"
+    "id": "36637",
+    "name": "MINI of Wesley Chapel",
+    "telephone": "8139073600",
+    "url": "www.miniofwesleychapel.com"
   },
   {
-    "name": "MINI of Dallas",
-    "url": "www.miniofdallas.com",
-    "telephone": "8772092816",
-    "faxNumber": "9722430517",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Dallas",
-      "streetAddress": "6250 Lemmon Ave",
+      "addressRegion": "TX",
       "postalCode": "75209",
-      "addressRegion": "TX"
+      "streetAddress": "6250 Lemmon Ave"
     },
+    "faxNumber": "9722430517",
     "geo": {
       "latitude": "32.834439",
       "longitude": "-96.829953"
     },
-    "id": "26731"
+    "id": "26731",
+    "name": "MINI of Dallas",
+    "telephone": "8772092816",
+    "url": "www.miniofdallas.com"
   },
   {
-    "name": "Momentum MINI",
-    "url": "www.momentummini.com",
-    "telephone": "8005575374",
-    "faxNumber": "7135963482",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Houston",
-      "streetAddress": "10000 Southwest Fwy",
+      "addressRegion": "TX",
       "postalCode": "77074",
-      "addressRegion": "TX"
+      "streetAddress": "10000 Southwest Fwy"
     },
+    "faxNumber": "7135963482",
     "geo": {
       "latitude": "29.670695",
       "longitude": "-95.548083"
     },
-    "id": "26747"
+    "id": "26747",
+    "name": "Momentum MINI",
+    "telephone": "8005575374",
+    "url": "www.momentummini.com"
   },
   {
-    "name": "MAG MINI of Dublin",
-    "url": "www.midwesternmini.com",
-    "telephone": "8774931060",
-    "faxNumber": "6148895727",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Dublin",
-      "streetAddress": "5825 Venture Drive",
+      "addressRegion": "OH",
       "postalCode": "43017",
-      "addressRegion": "OH"
+      "streetAddress": "5825 Venture Drive"
     },
+    "faxNumber": "6148895727",
     "geo": {
       "latitude": "40.1007228",
       "longitude": "-83.1491998"
     },
-    "id": "25803"
+    "id": "25803",
+    "name": "MAG MINI of Dublin",
+    "telephone": "8774931060",
+    "url": "www.midwesternmini.com"
   },
   {
-    "name": "MINI of the Main Line",
-    "url": "www.minimainline.com",
-    "telephone": "8772099298",
-    "faxNumber": "6106679823",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Bala Cynwyd",
-      "streetAddress": "130 Montgomery Ave",
+      "addressRegion": "PA",
       "postalCode": "19004",
-      "addressRegion": "PA"
+      "streetAddress": "130 Montgomery Ave"
     },
+    "faxNumber": "6106679823",
     "geo": {
       "latitude": "40.005161",
       "longitude": "-75.23968"
     },
-    "id": "36640"
+    "id": "36640",
+    "name": "MINI of the Main Line",
+    "telephone": "8772099298",
+    "url": "www.minimainline.com"
   },
   {
-    "name": "Herb Chambers MINI of Boston",
-    "url": "www.herbchambersmini.com",
-    "telephone": "8772058841",
-    "faxNumber": "6177314259",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Boston",
-      "streetAddress": "1168 Commonwealth Ave",
+      "addressRegion": "MA",
       "postalCode": "02134",
-      "addressRegion": "MA"
+      "streetAddress": "1168 Commonwealth Ave"
     },
+    "faxNumber": "6177314259",
     "geo": {
       "latitude": "42.350171",
       "longitude": "-71.128163"
     },
-    "id": "34400"
+    "id": "34400",
+    "name": "Herb Chambers MINI of Boston",
+    "telephone": "8772058841",
+    "url": "www.herbchambersmini.com"
   },
   {
-    "name": "Bill Jacobs MINI",
-    "url": "www.billjacobsmini.com",
-    "telephone": "8665168050",
-    "faxNumber": "6303579835",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Naperville",
-      "streetAddress": "2491 Aurora Avenue",
+      "addressRegion": "IL",
       "postalCode": "60540",
-      "addressRegion": "IL"
+      "streetAddress": "2491 Aurora Avenue"
     },
+    "faxNumber": "6303579835",
     "geo": {
       "latitude": "41.763488",
       "longitude": "-88.194604"
     },
-    "id": "26792"
+    "id": "26792",
+    "name": "Bill Jacobs MINI",
+    "telephone": "8665168050",
+    "url": "www.billjacobsmini.com"
   },
   {
-    "name": "Dreyer & Reinbold MINI",
-    "url": "www.dreyerreinboldmini.com",
-    "telephone": "8008752269",
-    "faxNumber": "3175730214",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Indianapolis",
-      "streetAddress": "9333 Haver Way",
+      "addressRegion": "IN",
       "postalCode": "46240",
-      "addressRegion": "IN"
+      "streetAddress": "9333 Haver Way"
     },
+    "faxNumber": "3175730214",
     "geo": {
       "latitude": "39.923882",
       "longitude": "-86.113526"
     },
-    "id": "27600"
+    "id": "27600",
+    "name": "Dreyer & Reinbold MINI",
+    "telephone": "8008752269",
+    "url": "www.dreyerreinboldmini.com"
   },
   {
-    "name": "Jackie Cooper MINI",
-    "url": "www.jackiecoopermini.com",
-    "telephone": "8663329140",
-    "faxNumber": "4057537010",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Edmond",
-      "streetAddress": "14145 Broadway Ext",
+      "addressRegion": "OK",
       "postalCode": "73013",
-      "addressRegion": "OK"
+      "streetAddress": "14145 Broadway Ext"
     },
+    "faxNumber": "4057537010",
     "geo": {
       "latitude": "35.61407",
       "longitude": "-97.49381"
     },
-    "id": "35071"
+    "id": "35071",
+    "name": "Jackie Cooper MINI",
+    "telephone": "8663329140",
+    "url": "www.jackiecoopermini.com"
   },
   {
-    "name": "MINI of Portland",
-    "url": "www.miniportland.com",
-    "telephone": "8887469315",
-    "faxNumber": "8887469315",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Portland",
-      "streetAddress": "9134 Southwest Canyon Road",
+      "addressRegion": "OR",
       "postalCode": "97225",
-      "addressRegion": "OR"
+      "streetAddress": "9134 Southwest Canyon Road"
     },
+    "faxNumber": "8887469315",
     "geo": {
       "latitude": "45.495695",
       "longitude": "-122.7714"
     },
-    "id": "39669"
+    "id": "39669",
+    "name": "MINI of Portland",
+    "telephone": "8887469315",
+    "url": "www.miniportland.com"
   },
   {
-    "name": "MINI of Camarillo",
-    "url": "www.miniofcamarillo.com",
-    "telephone": "8052992667",
-    "faxNumber": "8059143304",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Camarillo",
-      "streetAddress": "311 E. Daily Drive",
+      "addressRegion": "CA",
       "postalCode": "93010",
-      "addressRegion": "CA"
+      "streetAddress": "311 E. Daily Drive"
     },
+    "faxNumber": "8059143304",
     "geo": {
       "latitude": "34.2197647",
       "longitude": "-119.064468"
     },
-    "id": "17990"
+    "id": "17990",
+    "name": "MINI of Camarillo",
+    "telephone": "8052992667",
+    "url": "www.miniofcamarillo.com"
   },
   {
-    "name": "MINI of Tucson",
-    "url": "www.minioftucson.com",
-    "telephone": "5203256464",
-    "faxNumber": "5208785293",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Tucson",
-      "streetAddress": "4635 E. 22nd St.",
+      "addressRegion": "AZ",
       "postalCode": "85711",
-      "addressRegion": "AZ"
+      "streetAddress": "4635 E. 22nd St."
     },
+    "faxNumber": "5208785293",
     "geo": {
       "latitude": "32.207466",
       "longitude": "-110.893593"
     },
-    "id": "38425"
+    "id": "38425",
+    "name": "MINI of Tucson",
+    "telephone": "5203256464",
+    "url": "www.minioftucson.com"
   },
   {
-    "name": "MINI of Rochester",
-    "url": "www.miniofrochester.com",
-    "telephone": "5853346464",
-    "faxNumber": "5853341211",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Rochester",
-      "streetAddress": "3875 W Henrietta Rd",
+      "addressRegion": "NY",
       "postalCode": "14623",
-      "addressRegion": "NY"
+      "streetAddress": "3875 W Henrietta Rd"
     },
+    "faxNumber": "5853341211",
     "geo": {
       "latitude": "43.0755",
       "longitude": "-77.64385"
     },
-    "id": "36840"
+    "id": "36840",
+    "name": "MINI of Rochester",
+    "telephone": "5853346464",
+    "url": "www.miniofrochester.com"
   },
   {
-    "name": "MINI of Anchorage",
-    "url": "www.minianchorage.com",
-    "telephone": "9077437100",
-    "faxNumber": "9077437199",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Anchorage",
-      "streetAddress": "800 E. 5th Avenue",
+      "addressRegion": "AK",
       "postalCode": "99501",
-      "addressRegion": "AK"
+      "streetAddress": "800 E. 5th Avenue"
     },
+    "faxNumber": "9077437199",
     "geo": {
       "latitude": "61.217442",
       "longitude": "-149.868685"
     },
-    "id": "28786"
+    "id": "28786",
+    "name": "MINI of Anchorage",
+    "telephone": "9077437100",
+    "url": "www.minianchorage.com"
   },
   {
-    "name": "MINI of Ann Arbor",
-    "url": "www.miniofannarbor.com",
-    "telephone": "7349294601",
-    "faxNumber": "7348838464",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Ann Arbor",
-      "streetAddress": "3500 Jackson Rd",
+      "addressRegion": "MI",
       "postalCode": "48103",
-      "addressRegion": "MI"
+      "streetAddress": "3500 Jackson Rd"
     },
+    "faxNumber": "7348838464",
     "geo": {
       "latitude": "42.285631",
       "longitude": "-83.800642"
     },
-    "id": "35301"
+    "id": "35301",
+    "name": "MINI of Ann Arbor",
+    "telephone": "7349294601",
+    "url": "www.miniofannarbor.com"
   },
   {
-    "name": "MINI of Arlington",
-    "url": "www.miniofarlington.com",
-    "telephone": "8174365700",
-    "faxNumber": "8174365768",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Arlington",
-      "streetAddress": "2001 N Collins St",
+      "addressRegion": "TX",
       "postalCode": "76011",
-      "addressRegion": "TX"
+      "streetAddress": "2001 N Collins St"
     },
+    "faxNumber": "8174365768",
     "geo": {
       "latitude": "32.765715",
       "longitude": "-97.09631"
     },
-    "id": "40304"
+    "id": "40304",
+    "name": "MINI of Arlington",
+    "telephone": "8174365700",
+    "url": "www.miniofarlington.com"
   },
   {
-    "name": "MINI of Valencia",
-    "url": "www.miniofvalencia.com",
-    "telephone": "6612862600",
-    "faxNumber": "6612862699",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Valencia",
-      "streetAddress": "24135 Creekside Road",
+      "addressRegion": "CA",
       "postalCode": "91355",
-      "addressRegion": "CA"
+      "streetAddress": "24135 Creekside Road"
     },
+    "faxNumber": "6612862699",
     "geo": {
       "latitude": "34.4200888",
       "longitude": "-118.557423"
     },
-    "id": "39448"
+    "id": "39448",
+    "name": "MINI of Valencia",
+    "telephone": "6612862600",
+    "url": "www.miniofvalencia.com"
   },
   {
-    "name": "MINI of Little Rock",
-    "url": "www.minioflittlerock.com",
-    "telephone": "5012246464",
-    "faxNumber": "5012281060",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Little Rock",
-      "streetAddress": "12601 W. Markham St.",
+      "addressRegion": "AR",
       "postalCode": "72211",
-      "addressRegion": "AR"
+      "streetAddress": "12601 W. Markham St."
     },
+    "faxNumber": "5012281060",
     "geo": {
       "latitude": "34.752911",
       "longitude": "-92.414665"
     },
-    "id": "39313"
+    "id": "39313",
+    "name": "MINI of Little Rock",
+    "telephone": "5012246464",
+    "url": "www.minioflittlerock.com"
   },
   {
-    "name": "MINI of Pittsburgh",
-    "url": "www.miniofpittsburgh.com",
-    "telephone": "8772999045",
-    "faxNumber": "4126823706",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Pittsburgh",
-      "streetAddress": "4900 Baum Blvd.",
+      "addressRegion": "PA",
       "postalCode": "15213",
-      "addressRegion": "PA"
+      "streetAddress": "4900 Baum Blvd."
     },
+    "faxNumber": "4126823706",
     "geo": {
       "latitude": "40.454618",
       "longitude": "-79.94647"
     },
-    "id": "34910"
+    "id": "34910",
+    "name": "MINI of Pittsburgh",
+    "telephone": "8772999045",
+    "url": "www.miniofpittsburgh.com"
   },
   {
-    "name": "MINI of Monrovia",
-    "url": "www.miniofmonrovia.com",
-    "telephone": "8772780090",
-    "faxNumber": "6263582325",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Monrovia",
-      "streetAddress": "1451 South Mountain Avenue",
+      "addressRegion": "CA",
       "postalCode": "91016",
-      "addressRegion": "CA"
+      "streetAddress": "1451 South Mountain Avenue"
     },
+    "faxNumber": "6263582325",
     "geo": {
       "latitude": "34.136367",
       "longitude": "-117.986933"
     },
-    "id": "31642"
+    "id": "31642",
+    "name": "MINI of Monrovia",
+    "telephone": "8772780090",
+    "url": "www.miniofmonrovia.com"
   },
   {
-    "name": "Airport MINI of Cleveland",
-    "url": "www.airportmini.com",
-    "telephone": "2166766464",
-    "faxNumber": "4403482025",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Cleveland",
-      "streetAddress": "14070 Brookpark Road",
+      "addressRegion": "OH",
       "postalCode": "44135",
-      "addressRegion": "OH"
+      "streetAddress": "14070 Brookpark Road"
     },
+    "faxNumber": "4403482025",
     "geo": {
       "latitude": "41.419254",
       "longitude": "-81.793958"
     },
-    "id": "41195"
+    "id": "41195",
+    "name": "Airport MINI of Cleveland",
+    "telephone": "2166766464",
+    "url": "www.airportmini.com"
   },
   {
-    "name": "Checkered Flag MINI",
-    "url": "www.checkeredflagmini.com",
-    "telephone": "8772063944",
-    "faxNumber": "7576873433",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Virginia Beach",
-      "streetAddress": "5193 Virginia Beach Boulevard",
+      "addressRegion": "VA",
       "postalCode": "23462",
-      "addressRegion": "VA"
+      "streetAddress": "5193 Virginia Beach Boulevard"
     },
+    "faxNumber": "7576873433",
     "geo": {
       "latitude": "36.8466809",
       "longitude": "-76.1611007"
     },
-    "id": "25244"
+    "id": "25244",
+    "name": "Checkered Flag MINI",
+    "telephone": "8772063944",
+    "url": "www.checkeredflagmini.com"
   },
   {
-    "name": "MINI of St. Louis",
-    "url": "www.miniofstlouis.com",
-    "telephone": "3146446464",
-    "faxNumber": "3147279345",
     "address": {
       "addressCountry": "US",
       "addressLocality": "St. Louis",
-      "streetAddress": "40 Sunnen Dr.",
+      "addressRegion": "MO",
       "postalCode": "63143",
-      "addressRegion": "MO"
+      "streetAddress": "40 Sunnen Dr."
     },
+    "faxNumber": "3147279345",
     "geo": {
       "latitude": "38.6070319",
       "longitude": "-90.331609"
     },
-    "id": "24024"
+    "id": "24024",
+    "name": "MINI of St. Louis",
+    "telephone": "3146446464",
+    "url": "www.miniofstlouis.com"
   },
   {
-    "name": "MINI of Sterling",
-    "url": "www.miniofsterling.com",
-    "telephone": "5714341944",
-    "faxNumber": "5714347722",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Sterling",
-      "streetAddress": "21826 Pacific Blvd",
+      "addressRegion": "VA",
       "postalCode": "20166",
-      "addressRegion": "VA"
+      "streetAddress": "21826 Pacific Blvd"
     },
+    "faxNumber": "5714347722",
     "geo": {
       "latitude": "39.0124333",
       "longitude": "-77.4371"
     },
-    "id": "23276"
+    "id": "23276",
+    "name": "MINI of Sterling",
+    "telephone": "5714341944",
+    "url": "www.miniofsterling.com"
   },
   {
-    "name": "MINI of Fairfield County",
-    "url": "www.minifairfieldcounty.com",
-    "telephone": "8772205130",
-    "faxNumber": "2033484750",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Darien",
-      "streetAddress": "154 Post Rd.",
+      "addressRegion": "CT",
       "postalCode": "06820",
-      "addressRegion": "CT"
+      "streetAddress": "154 Post Rd."
     },
+    "faxNumber": "2033484750",
     "geo": {
       "latitude": "41.0891876",
       "longitude": "-73.4567413"
     },
-    "id": "23200"
+    "id": "23200",
+    "name": "MINI of Fairfield County",
+    "telephone": "8772205130",
+    "url": "www.minifairfieldcounty.com"
   },
   {
-    "name": "MINI of Baltimore County",
-    "url": "www.minibaltimore.com",
-    "telephone": "8664163545",
-    "faxNumber": "4436321198",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Owings Mills",
-      "streetAddress": "9804 Reistertown Rd",
+      "addressRegion": "MD",
       "postalCode": "21117",
-      "addressRegion": "MD"
+      "streetAddress": "9804 Reistertown Rd"
     },
+    "faxNumber": "4436321198",
     "geo": {
       "latitude": "39.408374",
       "longitude": "-76.764449"
     },
-    "id": "22817"
+    "id": "22817",
+    "name": "MINI of Baltimore County",
+    "telephone": "8664163545",
+    "url": "www.minibaltimore.com"
   },
   {
-    "name": "MINI of Kennesaw",
-    "url": "www.miniofkennesaw.com",
-    "telephone": "7704286464",
-    "faxNumber": "6784794685",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Kennesaw",
-      "streetAddress": "2275 Barrett Lakes Blvd NW",
+      "addressRegion": "GA",
       "postalCode": "30144",
-      "addressRegion": "GA"
+      "streetAddress": "2275 Barrett Lakes Blvd NW"
     },
+    "faxNumber": "6784794685",
     "geo": {
       "latitude": "34.009928",
       "longitude": "-84.577625"
     },
-    "id": "30955"
+    "id": "30955",
+    "name": "MINI of Kennesaw",
+    "telephone": "7704286464",
+    "url": "www.miniofkennesaw.com"
   },
   {
-    "name": "South Bay MINI",
-    "url": "www.southbaymini.com",
-    "telephone": "8773095393",
-    "faxNumber": "3109212675",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Torrance",
-      "streetAddress": "18900 Hawthorne Boulevard",
+      "addressRegion": "CA",
       "postalCode": "90504",
-      "addressRegion": "CA"
+      "streetAddress": "18900 Hawthorne Boulevard"
     },
+    "faxNumber": "3109212675",
     "geo": {
       "latitude": "33.858685",
       "longitude": "-118.351906"
     },
-    "id": "41903"
+    "id": "41903",
+    "name": "South Bay MINI",
+    "telephone": "8773095393",
+    "url": "www.southbaymini.com"
   },
   {
-    "name": "Global Imports MINI",
-    "url": "www.atlantamini.com",
-    "telephone": "6785697550",
-    "faxNumber": "7702344859",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Chamblee",
-      "streetAddress": "5925 Peachtree Industrial Blvd",
+      "addressRegion": "GA",
       "postalCode": "30341",
-      "addressRegion": "GA"
+      "streetAddress": "5925 Peachtree Industrial Blvd"
     },
+    "faxNumber": "7702344859",
     "geo": {
       "latitude": "33.9089",
       "longitude": "-84.29"
     },
-    "id": "21850"
+    "id": "21850",
+    "name": "Global Imports MINI",
+    "telephone": "6785697550",
+    "url": "www.atlantamini.com"
   },
   {
-    "name": "Prestige MINI",
-    "url": "www.prestigemini.com",
-    "telephone": "8774803670",
-    "faxNumber": "2017605070",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Ramsey",
-      "streetAddress": "925 Rt 17 S",
+      "addressRegion": "NJ",
       "postalCode": "07446",
-      "addressRegion": "NJ"
+      "streetAddress": "925 Rt 17 S"
     },
+    "faxNumber": "2017605070",
     "geo": {
       "latitude": "41.06488",
       "longitude": "-74.130057"
     },
-    "id": "25523"
+    "id": "25523",
+    "name": "Prestige MINI",
+    "telephone": "8774803670",
+    "url": "www.prestigemini.com"
   },
   {
-    "name": "Habberstad MINI",
-    "url": "www.habberstadmini.com",
-    "telephone": "8006910040",
-    "faxNumber": "6314215345",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Huntington Station",
-      "streetAddress": "959 Jericho Tpke",
+      "addressRegion": "NY",
       "postalCode": "11746",
-      "addressRegion": "NY"
+      "streetAddress": "959 Jericho Tpke"
     },
+    "faxNumber": "6314215345",
     "geo": {
       "latitude": "40.835559",
       "longitude": "-73.374004"
     },
-    "id": "25522"
+    "id": "25522",
+    "name": "Habberstad MINI",
+    "telephone": "8006910040",
+    "url": "www.habberstadmini.com"
   },
   {
-    "name": "Hendrick MINI",
-    "url": "www.hendrickmini.com",
-    "telephone": "8666320860",
-    "faxNumber": "7045662511",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Charlotte",
-      "streetAddress": "7036 E Independence Boulevard",
+      "addressRegion": "NC",
       "postalCode": "28227",
-      "addressRegion": "NC"
+      "streetAddress": "7036 E Independence Boulevard"
     },
+    "faxNumber": "7045662511",
     "geo": {
       "latitude": "35.1644592",
       "longitude": "-80.742493"
     },
-    "id": "66788"
+    "id": "66788",
+    "name": "Hendrick MINI",
+    "telephone": "8666320860",
+    "url": "www.hendrickmini.com"
   },
   {
-    "name": "MINI of Reno",
-    "url": "www.miniofreno.com",
-    "telephone": "7758516464",
-    "faxNumber": "7756892164",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Reno",
-      "streetAddress": "11505 South Virginia Street",
+      "addressRegion": "NV",
       "postalCode": "89511",
-      "addressRegion": "NV"
+      "streetAddress": "11505 South Virginia Street"
     },
+    "faxNumber": "7756892164",
     "geo": {
       "latitude": "39.426664",
       "longitude": "-119.762369"
     },
-    "id": "26419"
+    "id": "26419",
+    "name": "MINI of Reno",
+    "telephone": "7758516464",
+    "url": "www.miniofreno.com"
   },
   {
-    "name": "MINI of Nashville",
-    "url": "www.miniofnashville.com",
-    "telephone": "6156206464",
-    "faxNumber": "6156473178",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Brentwood",
-      "streetAddress": "1572 Mallory Lane",
+      "addressRegion": "TN",
       "postalCode": "37027",
-      "addressRegion": "TN"
+      "streetAddress": "1572 Mallory Lane"
     },
+    "faxNumber": "6156473178",
     "geo": {
       "latitude": "35.976451",
       "longitude": "-86.806445"
     },
-    "id": "21234"
+    "id": "21234",
+    "name": "MINI of Nashville",
+    "telephone": "6156206464",
+    "url": "www.miniofnashville.com"
   },
   {
-    "name": "MINI of Las Vegas",
-    "url": "www.desertminioflasvegas.com",
-    "telephone": "8772000193",
-    "faxNumber": "7029474436",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Las Vegas",
-      "streetAddress": "5750 West Sahara Ave",
+      "addressRegion": "NV",
       "postalCode": "89146",
-      "addressRegion": "NV"
+      "streetAddress": "5750 West Sahara Ave"
     },
+    "faxNumber": "7029474436",
     "geo": {
       "latitude": "36.144433",
       "longitude": "-115.219946"
     },
-    "id": "21294"
+    "id": "21294",
+    "name": "MINI of Las Vegas",
+    "telephone": "8772000193",
+    "url": "www.desertminioflasvegas.com"
   },
   {
-    "name": "Century MINI",
-    "url": "www.centurymini.com",
-    "telephone": "8642346437",
-    "faxNumber": "8642343373",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Greenville",
-      "streetAddress": "2930 Laurens Road",
+      "addressRegion": "SC",
       "postalCode": "29607",
-      "addressRegion": "SC"
+      "streetAddress": "2930 Laurens Road"
     },
+    "faxNumber": "8642343373",
     "geo": {
       "latitude": "34.809359",
       "longitude": "-82.332114"
     },
-    "id": "21470"
+    "id": "21470",
+    "name": "Century MINI",
+    "telephone": "8642346437",
+    "url": "www.centurymini.com"
   },
   {
-    "name": "MINI of The Woodlands",
-    "url": "www.miniofthewoodlands.com",
-    "telephone": "8772094635",
-    "faxNumber": "9362712909",
     "address": {
       "addressCountry": "US",
       "addressLocality": "The Woodlands",
-      "streetAddress": "17830 Interstate 45 S",
+      "addressRegion": "TX",
       "postalCode": "77384",
-      "addressRegion": "TX"
+      "streetAddress": "17830 Interstate 45 S"
     },
+    "faxNumber": "9362712909",
     "geo": {
       "latitude": "30.19841",
       "longitude": "-95.45524"
     },
-    "id": "21471"
+    "id": "21471",
+    "name": "MINI of The Woodlands",
+    "telephone": "8772094635",
+    "url": "www.miniofthewoodlands.com"
   },
   {
-    "name": "MINI of Universal City",
-    "url": "www.miniuniversalcity.com",
-    "telephone": "8772260692",
-    "faxNumber": "8185085016",
     "address": {
       "addressCountry": "US",
       "addressLocality": "North Hollywood",
-      "streetAddress": "4338 Lankershim Boulevard",
+      "addressRegion": "CA",
       "postalCode": "91602",
-      "addressRegion": "CA"
+      "streetAddress": "4338 Lankershim Boulevard"
     },
+    "faxNumber": "8185085016",
     "geo": {
       "latitude": "34.1490663",
       "longitude": "-118.36491"
     },
-    "id": "20268"
+    "id": "20268",
+    "name": "MINI of Universal City",
+    "telephone": "8772260692",
+    "url": "www.miniuniversalcity.com"
   },
   {
-    "name": "Braman MINI of Miami",
-    "url": "www.bramanminiofmiami.com",
-    "telephone": "8668787788",
-    "faxNumber": "3055711260",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Miami",
-      "streetAddress": "2060 NE 2nd Ave",
+      "addressRegion": "FL",
       "postalCode": "33137",
-      "addressRegion": "FL"
+      "streetAddress": "2060 NE 2nd Ave"
     },
+    "faxNumber": "3055711260",
     "geo": {
       "latitude": "25.796605",
       "longitude": "-80.19091"
     },
-    "id": "20626"
+    "id": "20626",
+    "name": "Braman MINI of Miami",
+    "telephone": "8668787788",
+    "url": "www.bramanminiofmiami.com"
   },
   {
-    "name": "MINI North Scottsdale",
-    "url": "www.mininorthscottsdale.com",
-    "telephone": "8777054108",
-    "faxNumber": "4805386465",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Phoenix",
-      "streetAddress": "7101 E Chauncey Ln",
+      "addressRegion": "AZ",
       "postalCode": "85054",
-      "addressRegion": "AZ"
+      "streetAddress": "7101 E Chauncey Ln"
     },
+    "faxNumber": "4805386465",
     "geo": {
       "latitude": "33.651537",
       "longitude": "-111.928379"
     },
-    "id": "20741"
+    "id": "20741",
+    "name": "MINI North Scottsdale",
+    "telephone": "8777054108",
+    "url": "www.mininorthscottsdale.com"
   },
   {
-    "name": "Irvine MINI",
-    "url": "www.irvinemini.com",
-    "telephone": "9493966464",
-    "faxNumber": "9493878360",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Irvine",
-      "streetAddress": "9829 Research Drive",
+      "addressRegion": "CA",
       "postalCode": "92618",
-      "addressRegion": "CA"
+      "streetAddress": "9829 Research Drive"
     },
+    "faxNumber": "9493878360",
     "geo": {
       "latitude": "33.63245",
       "longitude": "-117.72755"
     },
-    "id": "21188"
+    "id": "21188",
+    "name": "Irvine MINI",
+    "telephone": "9493966464",
+    "url": "www.irvinemini.com"
   },
   {
-    "name": "Crown MINI of Richmond",
-    "url": "www.crownmini.com",
-    "telephone": "8776008146",
-    "faxNumber": "8047475845",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Richmond",
-      "streetAddress": "8710 W Broad St",
+      "addressRegion": "VA",
       "postalCode": "23294",
-      "addressRegion": "VA"
+      "streetAddress": "8710 W Broad St"
     },
+    "faxNumber": "8047475845",
     "geo": {
       "latitude": "37.634",
       "longitude": "-77.5415"
     },
-    "id": "21608"
+    "id": "21608",
+    "name": "Crown MINI of Richmond",
+    "telephone": "8776008146",
+    "url": "www.crownmini.com"
   },
   {
-    "name": "MINI of Stevens Creek",
-    "url": "www.miniofstevenscreek.com",
-    "telephone": "4082604900",
-    "faxNumber": "4082604999",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Santa Clara",
-      "streetAddress": "4201 Stevens Creek Blvd.",
+      "addressRegion": "CA",
       "postalCode": "95051",
-      "addressRegion": "CA"
+      "streetAddress": "4201 Stevens Creek Blvd."
     },
+    "faxNumber": "4082604999",
     "geo": {
       "latitude": "37.323173",
       "longitude": "-121.974213"
     },
-    "id": "36269"
+    "id": "36269",
+    "name": "MINI of Stevens Creek",
+    "telephone": "4082604900",
+    "url": "www.miniofstevenscreek.com"
   },
   {
-    "name": "MINI of Knoxville",
-    "url": "www.miniofknoxville.com",
-    "telephone": "8887249503",
-    "faxNumber": "8656913917",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Knoxville",
-      "streetAddress": "10665 Parkside Dr.",
+      "addressRegion": "TN",
       "postalCode": "37922",
-      "addressRegion": "TN"
+      "streetAddress": "10665 Parkside Dr."
     },
+    "faxNumber": "8656913917",
     "geo": {
       "latitude": "35.901974",
       "longitude": "-84.138097"
     },
-    "id": "16694"
+    "id": "16694",
+    "name": "MINI of Knoxville",
+    "telephone": "8887249503",
+    "url": "www.miniofknoxville.com"
   },
   {
-    "name": "MINI of Allentown",
-    "url": "www.miniofallentown.com",
-    "telephone": "6108212500",
-    "faxNumber": "6103368142",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Allentown",
-      "streetAddress": "4600 Crackersport Rd.",
+      "addressRegion": "PA",
       "postalCode": "18104",
-      "addressRegion": "PA"
+      "streetAddress": "4600 Crackersport Rd."
     },
+    "faxNumber": "6103368142",
     "geo": {
       "latitude": "40.60024",
       "longitude": "-75.562136"
     },
-    "id": "26200"
+    "id": "26200",
+    "name": "MINI of Allentown",
+    "telephone": "6108212500",
+    "url": "www.miniofallentown.com"
   },
   {
-    "name": "MINI of Austin",
-    "url": "www.miniofaustin.com",
-    "telephone": "5124102734",
-    "faxNumber": "5123433539",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Austin",
-      "streetAddress": "7113 McNeil Drive",
+      "addressRegion": "TX",
       "postalCode": "78729",
-      "addressRegion": "TX"
+      "streetAddress": "7113 McNeil Drive"
     },
+    "faxNumber": "5123433539",
     "geo": {
       "latitude": "30.43614",
       "longitude": "-97.763139"
     },
-    "id": "26167"
+    "id": "26167",
+    "name": "MINI of Austin",
+    "telephone": "5124102734",
+    "url": "www.miniofaustin.com"
   },
   {
-    "name": "MINI of El Paso",
-    "url": "www.miniofelpaso.com",
-    "telephone": "9157789381",
-    "faxNumber": "9157798952",
     "address": {
       "addressCountry": "US",
       "addressLocality": "El Paso",
-      "streetAddress": "6318 Montana Ave.",
+      "addressRegion": "TX",
       "postalCode": "79925",
-      "addressRegion": "TX"
+      "streetAddress": "6318 Montana Ave."
     },
+    "faxNumber": "9157798952",
     "geo": {
       "latitude": "31.787",
       "longitude": "-106.4073"
     },
-    "id": "36270"
+    "id": "36270",
+    "name": "MINI of El Paso",
+    "telephone": "9157789381",
+    "url": "www.miniofelpaso.com"
   },
   {
-    "name": "MINI of Louisville",
-    "url": "www.minioflouisville.com",
-    "telephone": "5028937770",
-    "faxNumber": "5028934747",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Louisville",
-      "streetAddress": "4170 Shelbyville Road",
+      "addressRegion": "KY",
       "postalCode": "40207",
-      "addressRegion": "KY"
+      "streetAddress": "4170 Shelbyville Road"
     },
+    "faxNumber": "5028934747",
     "geo": {
       "latitude": "38.251308",
       "longitude": "-85.6404232"
     },
-    "id": "34750"
+    "id": "34750",
+    "name": "MINI of Louisville",
+    "telephone": "5028937770",
+    "url": "www.minioflouisville.com"
   },
   {
-    "name": "Flow MINI of Raleigh",
-    "url": "www.flowminiraleigh.com",
-    "telephone": "9198764580",
-    "faxNumber": "9198764790",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Raleigh",
-      "streetAddress": "5600 Capital Blvd",
+      "addressRegion": "NC",
       "postalCode": "27616",
-      "addressRegion": "NC"
+      "streetAddress": "5600 Capital Blvd"
     },
+    "faxNumber": "9198764790",
     "geo": {
       "latitude": "35.86175",
       "longitude": "-78.580734"
     },
-    "id": "34749"
+    "id": "34749",
+    "name": "Flow MINI of Raleigh",
+    "telephone": "9198764580",
+    "url": "www.flowminiraleigh.com"
   },
   {
-    "name": "MINI of Loveland",
-    "url": "www.miniofloveland.com",
-    "telephone": "9702925020",
-    "faxNumber": "9702925714",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Loveland",
-      "streetAddress": "4055 Byrd Drive",
+      "addressRegion": "CO",
       "postalCode": "80538",
-      "addressRegion": "CO"
+      "streetAddress": "4055 Byrd Drive"
     },
+    "faxNumber": "9702925714",
     "geo": {
       "latitude": "40.434585",
       "longitude": "-104.996681"
     },
-    "id": "05076"
+    "id": "05076",
+    "name": "MINI of Loveland",
+    "telephone": "9702925020",
+    "url": "www.miniofloveland.com"
   },
   {
-    "name": "MINI of Tempe",
-    "url": "www.minioftempe.com",
-    "telephone": "4804214700",
-    "faxNumber": "4804214705",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Tempe",
-      "streetAddress": "7855 South Test Drive",
+      "addressRegion": "AZ",
       "postalCode": "85284",
-      "addressRegion": "AZ"
+      "streetAddress": "7855 South Test Drive"
     },
+    "faxNumber": "4804214705",
     "geo": {
       "latitude": "33.3456321",
       "longitude": "-111.965801"
     },
-    "id": "34751"
+    "id": "34751",
+    "name": "MINI of Tempe",
+    "telephone": "4804214700",
+    "url": "www.minioftempe.com"
   },
   {
-    "name": "MINI of San Diego",
-    "url": "www.miniofsandiego.com",
-    "telephone": "8586166464",
-    "faxNumber": "8582683460",
     "address": {
       "addressCountry": "US",
       "addressLocality": "San Diego",
-      "streetAddress": "5202 Kearny Mesa Road",
+      "addressRegion": "CA",
       "postalCode": "92111",
-      "addressRegion": "CA"
+      "streetAddress": "5202 Kearny Mesa Road"
     },
+    "faxNumber": "8582683460",
     "geo": {
       "latitude": "32.830772",
       "longitude": "-117.143086"
     },
-    "id": "24335"
+    "id": "24335",
+    "name": "MINI of San Diego",
+    "telephone": "8586166464",
+    "url": "www.miniofsandiego.com"
   },
   {
-    "name": "MINI of Madison",
-    "url": "www.miniofmadison.com",
-    "telephone": "6087296464",
-    "faxNumber": "6084419950",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Madison",
-      "streetAddress": "310 W Beltline Highway",
+      "addressRegion": "WI",
       "postalCode": "53713",
-      "addressRegion": "WI"
+      "streetAddress": "310 W Beltline Highway"
     },
+    "faxNumber": "6084419950",
     "geo": {
       "latitude": "43.0398",
       "longitude": "-89.382904"
     },
-    "id": "63766"
+    "id": "63766",
+    "name": "MINI of Madison",
+    "telephone": "6087296464",
+    "url": "www.miniofmadison.com"
   },
   {
-    "name": "East Bay MINI",
-    "url": "www.eastbaymini.com",
-    "telephone": "8665495589",
-    "faxNumber": "9254631601",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Pleasanton",
-      "streetAddress": "4340 Rosewood Dr",
+      "addressRegion": "CA",
       "postalCode": "94588",
-      "addressRegion": "CA"
+      "streetAddress": "4340 Rosewood Dr"
     },
+    "faxNumber": "9254631601",
     "geo": {
       "latitude": "37.699953",
       "longitude": "-121.876036"
     },
-    "id": "10731"
+    "id": "10731",
+    "name": "East Bay MINI",
+    "telephone": "8665495589",
+    "url": "www.eastbaymini.com"
   },
   {
-    "name": "Flow MINI",
-    "url": "www.flowminiwinston.com",
-    "telephone": "8772707089",
-    "faxNumber": "3367857959",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Winston Salem",
-      "streetAddress": "2575 Peters Creek Pkwy",
+      "addressRegion": "NC",
       "postalCode": "27127",
-      "addressRegion": "NC"
+      "streetAddress": "2575 Peters Creek Pkwy"
     },
+    "faxNumber": "3367857959",
     "geo": {
       "latitude": "36.063084",
       "longitude": "-80.258319"
     },
-    "id": "15268"
+    "id": "15268",
+    "name": "Flow MINI",
+    "telephone": "8772707089",
+    "url": "www.flowminiwinston.com"
   },
   {
-    "name": "Motor City MINI",
-    "url": "www.motorcitymini.com",
-    "telephone": "2482044600",
-    "faxNumber": "2482044681",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Southfield",
-      "streetAddress": "29929 Telegraph Rd",
+      "addressRegion": "MI",
       "postalCode": "48034",
-      "addressRegion": "MI"
+      "streetAddress": "29929 Telegraph Rd"
     },
+    "faxNumber": "2482044681",
     "geo": {
       "latitude": "42.507696",
       "longitude": "-83.286337"
     },
-    "id": "40093"
+    "id": "40093",
+    "name": "Motor City MINI",
+    "telephone": "2482044600",
+    "url": "www.motorcitymini.com"
   },
   {
-    "name": "Sandia MINI",
-    "url": "www.sandiamini.com",
-    "telephone": "8885248220",
-    "faxNumber": "5053420088",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Albuquerque",
-      "streetAddress": "6001 Pan American West Fwy NE",
+      "addressRegion": "NM",
       "postalCode": "87109",
-      "addressRegion": "NM"
+      "streetAddress": "6001 Pan American West Fwy NE"
     },
+    "faxNumber": "5053420088",
     "geo": {
       "latitude": "35.1486701",
       "longitude": "-106.5904069"
     },
-    "id": "16450"
+    "id": "16450",
+    "name": "Sandia MINI",
+    "telephone": "8885248220",
+    "url": "www.sandiamini.com"
   },
   {
-    "name": "MINI of Westchester",
-    "url": "www.miniofwestchester.com",
-    "telephone": "9147616666",
-    "faxNumber": "9143475415",
     "address": {
       "addressCountry": "US",
       "addressLocality": "White Plains",
-      "streetAddress": "543 Tarrytown Road",
+      "addressRegion": "NY",
       "postalCode": "10607",
-      "addressRegion": "NY"
+      "streetAddress": "543 Tarrytown Road"
     },
+    "faxNumber": "9143475415",
     "geo": {
       "latitude": "41.044463",
       "longitude": "-73.803203"
     },
-    "id": "33326"
+    "id": "33326",
+    "name": "MINI of Westchester",
+    "telephone": "9147616666",
+    "url": "www.miniofwestchester.com"
   },
   {
-    "name": "MINI of Morristown",
-    "url": "www.morristownmini.com",
-    "telephone": "8772466128",
-    "faxNumber": "9734510884",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Morristown",
-      "streetAddress": "198 Madison Ave",
+      "addressRegion": "NJ",
       "postalCode": "07960",
-      "addressRegion": "NJ"
+      "streetAddress": "198 Madison Ave"
     },
+    "faxNumber": "9734510884",
     "geo": {
       "latitude": "40.787018",
       "longitude": "-74.45451"
     },
-    "id": "30253"
+    "id": "30253",
+    "name": "MINI of Morristown",
+    "telephone": "8772466128",
+    "url": "www.morristownmini.com"
   },
   {
-    "name": "MINI of Escondido",
-    "url": "www.miniofescondido.com",
-    "telephone": "8772642470",
-    "faxNumber": "7607452180",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Escondido",
-      "streetAddress": "1555 Auto Park Way",
+      "addressRegion": "CA",
       "postalCode": "92029",
-      "addressRegion": "CA"
+      "streetAddress": "1555 Auto Park Way"
     },
+    "faxNumber": "7607452180",
     "geo": {
       "latitude": "33.11681",
       "longitude": "-117.10807"
     },
-    "id": "16483"
+    "id": "16483",
+    "name": "MINI of Escondido",
+    "telephone": "8772642470",
+    "url": "www.miniofescondido.com"
   },
   {
-    "name": "New Country MINI",
-    "url": "www.newcountrymini.com",
-    "telephone": "8773835983",
-    "faxNumber": "8605220016",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Hartford",
-      "streetAddress": "236 Reverend Moody Overpass",
+      "addressRegion": "CT",
       "postalCode": "06120",
-      "addressRegion": "CT"
+      "streetAddress": "236 Reverend Moody Overpass"
     },
+    "faxNumber": "8605220016",
     "geo": {
       "latitude": "41.781806",
       "longitude": "-72.666085"
     },
-    "id": "20173"
+    "id": "20173",
+    "name": "New Country MINI",
+    "telephone": "8773835983",
+    "url": "www.newcountrymini.com"
   },
   {
-    "name": "International MINI",
-    "url": "www.internationalmini.com",
-    "telephone": "8772696470",
-    "faxNumber": "4146046023",
     "address": {
       "addressCountry": "US",
       "addressLocality": "West Allis",
-      "streetAddress": "2400 S 108th St",
+      "addressRegion": "WI",
       "postalCode": "53227",
-      "addressRegion": "WI"
+      "streetAddress": "2400 S 108th St"
     },
+    "faxNumber": "4146046023",
     "geo": {
       "latitude": "43.0001",
       "longitude": "-88.0467"
     },
-    "id": "20133"
+    "id": "20133",
+    "name": "International MINI",
+    "telephone": "8772696470",
+    "url": "www.internationalmini.com"
   },
   {
-    "name": "MINI of Pensacola",
-    "url": "www.miniofpensacola.com",
-    "telephone": "8504976464",
-    "faxNumber": "8504976123",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Pensacola",
-      "streetAddress": "186A W Airport Blvd",
+      "addressRegion": "FL",
       "postalCode": "32505",
-      "addressRegion": "FL"
+      "streetAddress": "186A W Airport Blvd"
     },
+    "faxNumber": "8504976123",
     "geo": {
       "latitude": "30.473357",
       "longitude": "-87.251154"
     },
-    "id": "10698"
+    "id": "10698",
+    "name": "MINI of Pensacola",
+    "telephone": "8504976464",
+    "url": "www.miniofpensacola.com"
   },
   {
-    "name": "Seattle MINI",
-    "url": "www.seattlemini.com",
-    "telephone": "2065884250",
-    "faxNumber": "8775696464",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Seattle",
-      "streetAddress": "11550 Lake City Way NE",
+      "addressRegion": "WA",
       "postalCode": "98125",
-      "addressRegion": "WA"
+      "streetAddress": "11550 Lake City Way NE"
     },
+    "faxNumber": "8775696464",
     "geo": {
       "latitude": "47.7137428",
       "longitude": "-122.2983187"
     },
-    "id": "33864"
+    "id": "33864",
+    "name": "Seattle MINI",
+    "telephone": "2065884250",
+    "url": "www.seattlemini.com"
   },
   {
-    "name": "MINI of Birmingham",
-    "url": "www.birminghammini.com",
-    "telephone": "8005450142",
-    "faxNumber": "2057454701",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Irondale",
-      "streetAddress": "2001 Tom Williams Way",
+      "addressRegion": "AL",
       "postalCode": "35210",
-      "addressRegion": "AL"
+      "streetAddress": "2001 Tom Williams Way"
     },
+    "faxNumber": "2057454701",
     "geo": {
       "latitude": "33.52195",
       "longitude": "-86.66425"
     },
-    "id": "21851"
+    "id": "21851",
+    "name": "MINI of Birmingham",
+    "telephone": "8005450142",
+    "url": "www.birminghammini.com"
   },
   {
-    "name": "MINI of Alexandria",
-    "url": "www.miniofalexandria.com",
-    "telephone": "8889844873",
-    "faxNumber": "7034614632",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Alexandria",
-      "streetAddress": "5990 Duke Street",
+      "addressRegion": "VA",
       "postalCode": "22304",
-      "addressRegion": "VA"
+      "streetAddress": "5990 Duke Street"
     },
+    "faxNumber": "7034614632",
     "geo": {
       "latitude": "38.813663",
       "longitude": "-77.133814"
     },
-    "id": "33784"
+    "id": "33784",
+    "name": "MINI of Alexandria",
+    "telephone": "8889844873",
+    "url": "www.miniofalexandria.com"
   },
   {
-    "name": "MINI of Warwick",
-    "url": "www.warwickmini.com",
-    "telephone": "8773613416",
-    "faxNumber": "4018242355",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Warwick",
-      "streetAddress": "1515A Bald Hill Rd",
+      "addressRegion": "RI",
       "postalCode": "02886",
-      "addressRegion": "RI"
+      "streetAddress": "1515A Bald Hill Rd"
     },
+    "faxNumber": "4018242355",
     "geo": {
       "latitude": "41.699479",
       "longitude": "-71.496321"
     },
-    "id": "26703"
+    "id": "26703",
+    "name": "MINI of Warwick",
+    "telephone": "8773613416",
+    "url": "www.warwickmini.com"
   },
   {
-    "name": "MINI of Grand Rapids",
-    "url": "www.miniofgrandrapids.com",
-    "telephone": "8772077464",
-    "faxNumber": "6164521101",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Grand Rapids",
-      "streetAddress": "1010 28th St SE",
+      "addressRegion": "MI",
       "postalCode": "49508",
-      "addressRegion": "MI"
+      "streetAddress": "1010 28th St SE"
     },
+    "faxNumber": "6164521101",
     "geo": {
       "latitude": "42.9124",
       "longitude": "-85.6404"
     },
-    "id": "86862"
+    "id": "86862",
+    "name": "MINI of Grand Rapids",
+    "telephone": "8772077464",
+    "url": "www.miniofgrandrapids.com"
   },
   {
-    "name": "Baron MINI",
-    "url": "www.baronmini.com",
-    "telephone": "8886505901",
-    "faxNumber": "9137225191",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Merriam",
-      "streetAddress": "9000 Shawnee Mission Pkwy",
+      "addressRegion": "KS",
       "postalCode": "66202",
-      "addressRegion": "KS"
+      "streetAddress": "9000 Shawnee Mission Pkwy"
     },
+    "faxNumber": "9137225191",
     "geo": {
       "latitude": "39.014989",
       "longitude": "-94.689587"
     },
-    "id": "31015"
+    "id": "31015",
+    "name": "Baron MINI",
+    "telephone": "8886505901",
+    "url": "www.baronmini.com"
   },
   {
-    "name": "MINI of Omaha",
-    "url": "www.miniofomaha.com",
-    "telephone": "8772129351",
-    "faxNumber": "4022553403",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Omaha",
-      "streetAddress": "716 N 102nd St",
+      "addressRegion": "NE",
       "postalCode": "68114",
-      "addressRegion": "NE"
+      "streetAddress": "716 N 102nd St"
     },
+    "faxNumber": "4022553403",
     "geo": {
       "latitude": "41.266039",
       "longitude": "-96.071763"
     },
-    "id": "61100"
+    "id": "61100",
+    "name": "MINI of Omaha",
+    "telephone": "8772129351",
+    "url": "www.miniofomaha.com"
   },
   {
-    "name": "MINI of Ontario",
-    "url": "www.miniofontario.com",
-    "telephone": "8889645970",
-    "faxNumber": "9093908468",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Ontario",
-      "streetAddress": "1251 Auto Center Drive",
+      "addressRegion": "CA",
       "postalCode": "91761",
-      "addressRegion": "CA"
+      "streetAddress": "1251 Auto Center Drive"
     },
+    "faxNumber": "9093908468",
     "geo": {
       "latitude": "34.050517",
       "longitude": "-117.544374"
     },
-    "id": "34821"
+    "id": "34821",
+    "name": "MINI of Ontario",
+    "telephone": "8889645970",
+    "url": "www.miniofontario.com"
   },
   {
-    "name": "MINI of Fort Myers",
-    "url": "www.miniofftmyers.com",
-    "telephone": "8007989237",
-    "faxNumber": "2392102841",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Fort Myers",
-      "streetAddress": "13880 S Tamiami Trail",
+      "addressRegion": "FL",
       "postalCode": "33912",
-      "addressRegion": "FL"
+      "streetAddress": "13880 S Tamiami Trail"
     },
+    "faxNumber": "2392102841",
     "geo": {
       "latitude": "26.540676",
       "longitude": "-81.87215"
     },
-    "id": "22081"
+    "id": "22081",
+    "name": "MINI of Fort Myers",
+    "telephone": "8007989237",
+    "url": "www.miniofftmyers.com"
   },
   {
-    "name": "South Shore MINI",
-    "url": "www.southshoremini.com",
-    "telephone": "8447606464",
-    "faxNumber": "          ",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Rockland",
-      "streetAddress": "1040 Hingham Street",
+      "addressRegion": "MA",
       "postalCode": "02370",
-      "addressRegion": "MA"
+      "streetAddress": "1040 Hingham Street"
     },
+    "faxNumber": "          ",
     "geo": {
       "latitude": "42.165221",
       "longitude": "-70.895914"
     },
-    "id": "41272"
+    "id": "41272",
+    "name": "South Shore MINI",
+    "telephone": "8447606464",
+    "url": "www.southshoremini.com"
   },
   {
-    "name": "MINI of Freeport",
-    "url": "www.minioffreeport.com",
-    "telephone": "8772120285",
-    "faxNumber": "5163796093",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Freeport",
-      "streetAddress": "280 W Sunrise Hwy",
+      "addressRegion": "NY",
       "postalCode": "11520",
-      "addressRegion": "NY"
+      "streetAddress": "280 W Sunrise Hwy"
     },
+    "faxNumber": "5163796093",
     "geo": {
       "latitude": "40.655955",
       "longitude": "-73.593878"
     },
-    "id": "41518"
+    "id": "41518",
+    "name": "MINI of Freeport",
+    "telephone": "8772120285",
+    "url": "www.minioffreeport.com"
   },
   {
-    "name": "Ralph Schomp MINI",
-    "url": "www.ralphschompmini.com",
-    "telephone": "8773319182",
-    "faxNumber": "3037974041",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Littleton",
-      "streetAddress": "5700 S Broadway",
+      "addressRegion": "CO",
       "postalCode": "80121",
-      "addressRegion": "CO"
+      "streetAddress": "5700 S Broadway"
     },
+    "faxNumber": "3037974041",
     "geo": {
       "latitude": "39.6128",
       "longitude": "-104.9873"
     },
-    "id": "05042"
+    "id": "05042",
+    "name": "Ralph Schomp MINI",
+    "telephone": "8773319182",
+    "url": "www.ralphschompmini.com"
   },
   {
-    "name": "MINI of Peabody",
-    "url": "www.minipeabody.com",
-    "telephone": "8772129727",
-    "faxNumber": "9785360089",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Peabody",
-      "streetAddress": "209 Andover St",
+      "addressRegion": "MA",
       "postalCode": "01960",
-      "addressRegion": "MA"
+      "streetAddress": "209 Andover St"
     },
+    "faxNumber": "9785360089",
     "geo": {
       "latitude": "42.544765",
       "longitude": "-70.943382"
     },
-    "id": "10699"
+    "id": "10699",
+    "name": "MINI of Peabody",
+    "telephone": "8772129727",
+    "url": "www.minipeabody.com"
   },
   {
-    "name": "Bob Smith MINI",
-    "url": "www.bobsmithmini.com",
-    "telephone": "8772165721",
-    "faxNumber": "8184441674",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Calabasas",
-      "streetAddress": "24400 Calabasas Road",
+      "addressRegion": "CA",
       "postalCode": "91302",
-      "addressRegion": "CA"
+      "streetAddress": "24400 Calabasas Road"
     },
+    "faxNumber": "8184441674",
     "geo": {
       "latitude": "34.15028",
       "longitude": "-118.657928"
     },
-    "id": "04637"
+    "id": "04637",
+    "name": "Bob Smith MINI",
+    "telephone": "8772165721",
+    "url": "www.bobsmithmini.com"
   },
   {
-    "name": "Nick Alexander MINI",
-    "url": "www.alexandermini.com",
-    "telephone": "8008006425",
-    "faxNumber": "3235833080",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Los Angeles",
-      "streetAddress": "6201 S Alameda Street",
+      "addressRegion": "CA",
       "postalCode": "90001",
-      "addressRegion": "CA"
+      "streetAddress": "6201 S Alameda Street"
     },
+    "faxNumber": "3235833080",
     "geo": {
       "latitude": "33.98366",
       "longitude": "-118.236679"
     },
-    "id": "04942"
+    "id": "04942",
+    "name": "Nick Alexander MINI",
+    "telephone": "8008006425",
+    "url": "www.alexandermini.com"
   },
   {
-    "name": "Crevier MINI",
-    "url": "www.creviermini.com",
-    "telephone": "7145609525",
-    "faxNumber": "7145609526",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Santa Ana",
-      "streetAddress": "1455 Auto Mall Drive",
+      "addressRegion": "CA",
       "postalCode": "92705",
-      "addressRegion": "CA"
+      "streetAddress": "1455 Auto Mall Drive"
     },
+    "faxNumber": "7145609526",
     "geo": {
       "latitude": "33.729041",
       "longitude": "-117.83785"
     },
-    "id": "36721"
+    "id": "36721",
+    "name": "Crevier MINI",
+    "telephone": "7145609525",
+    "url": "www.creviermini.com"
   },
   {
-    "name": "Niello MINI",
-    "url": "www.niellomini.com",
-    "telephone": "8772703209",
-    "faxNumber": "9164835494",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Sacramento",
-      "streetAddress": "3210 Auburn Boulevard",
+      "addressRegion": "CA",
       "postalCode": "95821",
-      "addressRegion": "CA"
+      "streetAddress": "3210 Auburn Boulevard"
     },
+    "faxNumber": "9164835494",
     "geo": {
       "latitude": "38.634033",
       "longitude": "-121.38887"
     },
-    "id": "04618"
+    "id": "04618",
+    "name": "Niello MINI",
+    "telephone": "8772703209",
+    "url": "www.niellomini.com"
   },
   {
-    "name": "MINI of San Francisco",
-    "url": "www.minisf.com",
-    "telephone": "8772099322",
-    "faxNumber": "4158639958",
     "address": {
       "addressCountry": "US",
       "addressLocality": "San Francisco",
-      "streetAddress": "1675 Howard St",
+      "addressRegion": "CA",
       "postalCode": "94103",
-      "addressRegion": "CA"
+      "streetAddress": "1675 Howard St"
     },
+    "faxNumber": "4158639958",
     "geo": {
       "latitude": "37.771016",
       "longitude": "-122.417329"
     },
-    "id": "04247"
+    "id": "04247",
+    "name": "MINI of San Francisco",
+    "telephone": "8772099322",
+    "url": "www.minisf.com"
   },
   {
-    "name": "MINI of Concord",
-    "url": "www.miniofconcord.com",
-    "telephone": "8663296464",
-    "faxNumber": "9256762206",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Concord",
-      "streetAddress": "1967 Market St",
+      "addressRegion": "CA",
       "postalCode": "94520",
-      "addressRegion": "CA"
+      "streetAddress": "1967 Market St"
     },
+    "faxNumber": "9256762206",
     "geo": {
       "latitude": "37.975403",
       "longitude": "-122.0438415"
     },
-    "id": "04497"
+    "id": "04497",
+    "name": "MINI of Concord",
+    "telephone": "8663296464",
+    "url": "www.miniofconcord.com"
   },
   {
-    "name": "Long Beach MINI",
-    "url": "www.longbeachmini.com",
-    "telephone": "8772426574",
-    "faxNumber": "5624273854",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Signal Hill",
-      "streetAddress": "2998 Cherry Ave Ste A",
+      "addressRegion": "CA",
       "postalCode": "90755",
-      "addressRegion": "CA"
+      "streetAddress": "2998 Cherry Ave Ste A"
     },
+    "faxNumber": "5624273854",
     "geo": {
       "latitude": "33.811416",
       "longitude": "-118.16748"
     },
-    "id": "31643"
+    "id": "31643",
+    "name": "Long Beach MINI",
+    "telephone": "8772426574",
+    "url": "www.longbeachmini.com"
   },
   {
-    "name": "Cincinnati MINI",
-    "url": "www.cincinnatimini.com",
-    "telephone": "8772139751",
-    "faxNumber": "5132713587",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Cincinnati",
-      "streetAddress": "6131 Stewart Ave",
+      "addressRegion": "OH",
       "postalCode": "45227",
-      "addressRegion": "OH"
+      "streetAddress": "6131 Stewart Ave"
     },
+    "faxNumber": "5132713587",
     "geo": {
       "latitude": "39.1791",
       "longitude": "-84.3962"
     },
-    "id": "96717"
+    "id": "96717",
+    "name": "Cincinnati MINI",
+    "telephone": "8772139751",
+    "url": "www.cincinnatimini.com"
   },
   {
-    "name": "South Motors MINI",
-    "url": "www.southmini.com",
-    "telephone": "3052562200",
-    "faxNumber": "3052323536",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Miami",
-      "streetAddress": "16215 S Dixie Hwy",
+      "addressRegion": "FL",
       "postalCode": "33157",
-      "addressRegion": "FL"
+      "streetAddress": "16215 S Dixie Hwy"
     },
+    "faxNumber": "3052323536",
     "geo": {
       "latitude": "25.6195",
       "longitude": "-80.3453"
     },
-    "id": "96603"
+    "id": "96603",
+    "name": "South Motors MINI",
+    "telephone": "3052562200",
+    "url": "www.southmini.com"
   },
   {
-    "name": "MINI of Southampton",
-    "url": "www.southamptonmini.com",
-    "telephone": "8772246713",
-    "faxNumber": "6312830551",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Southampton",
-      "streetAddress": "759 County Rd 39A",
+      "addressRegion": "NY",
       "postalCode": "11968",
-      "addressRegion": "NY"
+      "streetAddress": "759 County Rd 39A"
     },
+    "faxNumber": "6312830551",
     "geo": {
       "latitude": "40.8988876",
       "longitude": "-72.3729095"
     },
-    "id": "34521"
+    "id": "34521",
+    "name": "MINI of Southampton",
+    "telephone": "8772246713",
+    "url": "www.southamptonmini.com"
   },
   {
-    "name": "MINI of Hawaii",
-    "url": "www.miniofhawaii.com",
-    "telephone": "8088774269",
-    "faxNumber": "8088772696",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Kahului",
-      "streetAddress": "410 Koloa St",
+      "addressRegion": "HI",
       "postalCode": "96732",
-      "addressRegion": "HI"
+      "streetAddress": "410 Koloa St"
     },
+    "faxNumber": "8088772696",
     "geo": {
       "latitude": "20.88719",
       "longitude": "-156.45506"
     },
-    "id": "76731"
+    "id": "76731",
+    "name": "MINI of Hawaii",
+    "telephone": "8088774269",
+    "url": "www.miniofhawaii.com"
   },
   {
-    "name": "Brian Harris MINI",
-    "url": "www.brianharrismini.com",
-    "telephone": "8663812555",
-    "faxNumber": "2257515351",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Baton Rouge",
-      "streetAddress": "12336 Airline Hwy",
+      "addressRegion": "LA",
       "postalCode": "70817",
-      "addressRegion": "LA"
+      "streetAddress": "12336 Airline Hwy"
     },
+    "faxNumber": "2257515351",
     "geo": {
       "latitude": "30.3870132",
       "longitude": "-91.0436904"
     },
-    "id": "76504"
+    "id": "76504",
+    "name": "Brian Harris MINI",
+    "telephone": "8663812555",
+    "url": "www.brianharrismini.com"
   },
   {
-    "name": "Lauderdale MINI",
-    "url": "www.lauderdalemini.com",
-    "telephone": "9543356464",
-    "faxNumber": "9545273818",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Fort Lauderdale",
-      "streetAddress": "1812 S Andrews Ave",
+      "addressRegion": "FL",
       "postalCode": "33316",
-      "addressRegion": "FL"
+      "streetAddress": "1812 S Andrews Ave"
     },
+    "faxNumber": "9545273818",
     "geo": {
       "latitude": "26.099029",
       "longitude": "-80.141688"
     },
-    "id": "75784"
+    "id": "75784",
+    "name": "Lauderdale MINI",
+    "telephone": "9543356464",
+    "url": "www.lauderdalemini.com"
   },
   {
-    "name": "Classic MINI",
-    "url": "www.driveclassicmini.com",
-    "telephone": "8776872707",
-    "faxNumber": "4403479720",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Willoughby Hills",
-      "streetAddress": "2571 SOM Center Road",
+      "addressRegion": "OH",
       "postalCode": "44094",
-      "addressRegion": "OH"
+      "streetAddress": "2571 SOM Center Road"
     },
+    "faxNumber": "4403479720",
     "geo": {
       "latitude": "41.597634",
       "longitude": "-81.440582"
     },
-    "id": "96499"
+    "id": "96499",
+    "name": "Classic MINI",
+    "telephone": "8776872707",
+    "url": "www.driveclassicmini.com"
   },
   {
-    "name": "Orlando MINI",
-    "url": "www.iwantamini.com",
-    "telephone": "8772413290",
-    "faxNumber": "4078358115",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Orlando",
-      "streetAddress": "350 S Lake Destiny Rd",
+      "addressRegion": "FL",
       "postalCode": "32810",
-      "addressRegion": "FL"
+      "streetAddress": "350 S Lake Destiny Rd"
     },
+    "faxNumber": "4078358115",
     "geo": {
       "latitude": "28.6149475",
       "longitude": "-81.3873893"
     },
-    "id": "96255"
+    "id": "96255",
+    "name": "Orlando MINI",
+    "telephone": "8772413290",
+    "url": "www.iwantamini.com"
   },
   {
-    "name": "Patrick MINI",
-    "url": "www.patrickmini.com",
-    "telephone": "8667947575",
-    "faxNumber": "8473104333",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Schaumburg",
-      "streetAddress": "690 E Golf Rd",
+      "addressRegion": "IL",
       "postalCode": "60173",
-      "addressRegion": "IL"
+      "streetAddress": "690 E Golf Rd"
     },
+    "faxNumber": "8473104333",
     "geo": {
       "latitude": "42.0501013",
       "longitude": "-88.0628604"
     },
-    "id": "86716"
+    "id": "86716",
+    "name": "Patrick MINI",
+    "telephone": "8667947575",
+    "url": "www.patrickmini.com"
   },
   {
-    "name": "Princeton MINI",
-    "url": "www.princetonmini.com",
-    "telephone": "8772396119",
-    "faxNumber": "6094527496",
     "address": {
       "addressCountry": "US",
       "addressLocality": "Princeton",
-      "streetAddress": "3466 US Highway 1",
+      "addressRegion": "NJ",
       "postalCode": "08540",
-      "addressRegion": "NJ"
+      "streetAddress": "3466 US Highway 1"
     },
+    "faxNumber": "6094527496",
     "geo": {
       "latitude": "40.305297",
       "longitude": "-74.66923"
     },
-    "id": "31866"
+    "id": "31866",
+    "name": "Princeton MINI",
+    "telephone": "8772396119",
+    "url": "www.princetonmini.com"
   }
 ]
