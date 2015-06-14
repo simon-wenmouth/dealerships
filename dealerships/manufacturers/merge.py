@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import os
 import glob
@@ -16,9 +16,10 @@ dealers = {}
 
 for input_name in input_names:
     with open(input_name, 'r') as fd:
+        print (input_name)
         items = json.load(fd)
         for item in items:
-            if 'url' in item:
+            if 'url' in item and item['url'] is not None:
                 url = item['url'].replace('http://', '').lower()
                 if not url in dealers:
                     dealers[url] = item
@@ -28,5 +29,5 @@ for input_name in input_names:
                     dealers[name] = item
 
 with open(output_name, 'w') as fd:
-    json.dump(list(dealers.values()), fd)
+    json.dump(list(dealers.values()), fd, sort_keys=True, indent=2)
 
